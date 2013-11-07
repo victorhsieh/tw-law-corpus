@@ -1,0 +1,114 @@
+{
+  "1964.04.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@533306;0074;0074",
+      "desc": "53卷33期號6冊 74~74頁",
+      "progress": "一讀",
+      "committee": "內政 交通"
+    }
+  ],
+  "1965.01.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@543413;0008;0038",
+      "desc": "54卷34期號13冊 8~38頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@543412;0095;0109",
+      "desc": "54卷34期號12冊 95~109頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@543412;0109;0118",
+      "desc": "54卷34期號12冊 109~118頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 交通"
+    }
+  ],
+  "1965.01.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@543412;0140;0158",
+      "desc": "54卷34期號12冊 140~158頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 交通"
+    }
+  ],
+  "1965.01.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@543413;0053;0061",
+      "desc": "54卷34期號13冊 53~61頁",
+      "progress": "三讀",
+      "committee": "內政 交通"
+    }
+  ],
+  "2002.04.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912101;0008;0008",
+      "desc": "91卷21期3217號上冊 8~8頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "539-589",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcacfcfc5caccc6d2cac7c6"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912101;0100;0101",
+      "desc": "91卷21期3217號上冊 100~101頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912101;0103;0106",
+      "desc": "91卷21期3217號上冊 103~106頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912101;0126;0127",
+      "desc": "91卷21期3217號上冊 126~127頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2003.03.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@921300;0002;0002",
+      "desc": "92卷13期3287號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "170-177",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccfcccfcec5cec8cfd2cec8c8"
+      }
+    }
+  ],
+  "2003.04.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@922401;0001;0026",
+      "desc": "92卷24期3298號上冊 1~26頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2003.12.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@926001;0345;0357",
+      "desc": "92卷60期3334號一冊 345~357頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政",
+      "misc": {
+        "content": "430-441",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcecacfcec5cbcccfd2cbcbce"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@926001;0357;0358",
+      "desc": "92卷60期3334號一冊 357~358頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ]
+}

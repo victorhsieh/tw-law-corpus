@@ -1,0 +1,86 @@
+{
+  "1953.12.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421109;0147;0147",
+      "desc": "42卷11期號9冊 147~147頁",
+      "progress": "一讀",
+      "committee": "財政 內政"
+    }
+  ],
+  "1953.06.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421110;0065;0070",
+      "desc": "42卷11期號10冊 65~70頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421110;0089;0092",
+      "desc": "42卷11期號10冊 89~92頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421110;0092;0093",
+      "desc": "42卷11期號10冊 92~93頁",
+      "progress": "三讀",
+      "committee": "財政 內政"
+    }
+  ],
+  "1954.02.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431301;0056;0056",
+      "desc": "43卷13期號1冊 56~56頁",
+      "progress": "一讀",
+      "committee": "財政 內政"
+    }
+  ],
+  "1954.04.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431303;0024;0026",
+      "desc": "43卷13期號3冊 24~26頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431303;0172;0173",
+      "desc": "43卷13期號3冊 172~173頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431303;0173;0173",
+      "desc": "43卷13期號3冊 173~173頁",
+      "progress": "三讀",
+      "committee": "財政 內政"
+    }
+  ],
+  "1980.11.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69669500;0002;0002",
+      "desc": "69卷95期1371號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政 內政",
+      "misc": {
+        "content": "682-686",
+        "link": "/lgcgi/lgmeetimage?cfcec9c9cfcccfcfc5c9c7cdd2c9c7c9"
+      }
+    }
+  ],
+  "1980.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70661300;0002;0005",
+      "desc": "70卷13期1394號 2~5頁",
+      "progress": "委員會審查",
+      "committee": "財政 內政"
+    }
+  ],
+  "1980.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@696610400;0055;0056",
+      "desc": "69卷104期1380號 55~56頁",
+      "progress": "三讀",
+      "committee": "財政 內政"
+    }
+  ]
+}

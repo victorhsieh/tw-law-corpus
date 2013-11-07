@@ -1,0 +1,54 @@
+{
+  "1973.03.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251190001;0002;0002",
+      "desc": "62卷19期575號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 邊政"
+    }
+  ],
+  "1973.04.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251390002;0022;0026",
+      "desc": "62卷39期595號 22~26頁",
+      "progress": "委員會審查",
+      "committee": "法制 邊政"
+    }
+  ],
+  "1973.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251380001;0025;0031",
+      "desc": "62卷38期594號 25~31頁",
+      "progress": "三讀",
+      "committee": "法制 邊政"
+    }
+  ],
+  "1992.02.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8101701;0003;0003",
+      "desc": "81卷17期2545號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "242-245",
+        "link": "/lgcgi/lgmeetimage?cfcec7c6cfcdcfcec5cdcbcdd2cdcbca"
+      }
+    }
+  ],
+  "1994.03.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@832203;0059;0063",
+      "desc": "83卷22期2696號下冊 59~63頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "1994.11.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@837300;0040;0046",
+      "desc": "83卷73期2747號 40~46頁",
+      "progress": "三讀",
+      "committee": "法制 內政"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "2002.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913301;0011;0012",
+      "desc": "91卷33期3229號上冊 11~12頁",
+      "progress": "一讀",
+      "committee": "外交",
+      "misc": {
+        "content": "1-342",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2cccbcd"
+      }
+    }
+  ],
+  "2002.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@915003;0115;0142",
+      "desc": "91卷50期3246號下冊 115~142頁",
+      "progress": "委員會審查",
+      "committee": "外交"
+    }
+  ],
+  "2002.06.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@915401;0003;0013",
+      "desc": "91卷54期3250號上冊 3~13頁",
+      "progress": "委員會審查",
+      "committee": "外交"
+    }
+  ],
+  "2002.11.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@917001;0165;0182",
+      "desc": "91卷70期3266號上冊 165~182頁",
+      "progress": "三讀",
+      "committee": "外交",
+      "misc": {
+        "content": "224-239",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcecfcfccc5cdcdcbd2cdccc6"
+      }
+    }
+  ]
+}

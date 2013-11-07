@@ -1,0 +1,104 @@
+{
+  "1965.10.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@54360300;0006;0006",
+      "desc": "54卷36期號3冊 6~6頁",
+      "progress": "一讀",
+      "committee": "外交 國防 司法"
+    }
+  ],
+  "1966.01.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55360900;0021;0026",
+      "desc": "55卷36期號9冊 21~26頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "外交 國防 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55360900;0110;0113",
+      "desc": "55卷36期號9冊 110~113頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交 國防 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55360900;0114;0116",
+      "desc": "55卷36期號9冊 114~116頁",
+      "progress": "三讀",
+      "committee": "外交 國防 司法"
+    }
+  ],
+  "1966.01.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55360900;0036;0040",
+      "desc": "55卷36期號9冊 36~40頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "外交 國防 司法"
+    }
+  ],
+  "1966.01.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55360900;0054;0058",
+      "desc": "55卷36期號9冊 54~58頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "外交 國防 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55360900;0058;0078",
+      "desc": "55卷36期號9冊 58~78頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交 國防 司法"
+    }
+  ],
+  "1967.10.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400210;1564;1564",
+      "desc": "56卷2期號10冊 1564~1564頁",
+      "progress": "一讀",
+      "committee": "司法 法制"
+    }
+  ],
+  "1967.10.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400311;1967;1969",
+      "desc": "56卷3期號11冊 1967~1969頁",
+      "progress": "委員會審查",
+      "committee": "司法 法制"
+    }
+  ],
+  "1967.12.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400712;2699;2703",
+      "desc": "56卷7期號12冊 2699~2703頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400712;2703;2704",
+      "desc": "56卷7期號12冊 2703~2704頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 法制"
+    }
+  ],
+  "1967.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400812;2746;2747",
+      "desc": "56卷8期號12冊 2746~2747頁",
+      "progress": "三讀",
+      "committee": "司法 法制"
+    }
+  ],
+  "1968.03.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57411700;0899;0900",
+      "desc": "57卷17期號 899~900頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57411700;0900;0900",
+      "desc": "57卷17期號 900~900頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

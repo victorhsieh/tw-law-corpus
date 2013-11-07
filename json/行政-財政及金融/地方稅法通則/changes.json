@@ -1,0 +1,61 @@
+{
+  "2002.04.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912801;0010;0010",
+      "desc": "91卷28期3224號上冊 10~10頁",
+      "progress": "一讀",
+      "committee": "財政 內攻",
+      "misc": {
+        "content": "665-673",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc7cfcfc5c9c9cad2c9c8cc"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912801;0001;0002",
+      "desc": "91卷28期3224號上冊 1~2頁",
+      "progress": "一讀",
+      "committee": "財政 內攻",
+      "misc": {
+        "content": "168-176",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc7cfcfc5cec9c7d2cec8c9"
+      }
+    }
+  ],
+  "2002.05.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913401;0003;0003",
+      "desc": "91卷34期3230號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "財政 內攻",
+      "misc": {
+        "content": "82-86",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececdcfcfc5c7cdd2c7c9"
+      }
+    }
+  ],
+  "2002.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914901;0381;0404",
+      "desc": "91卷49期3245號上冊 381~404頁",
+      "progress": "委員會審查",
+      "committee": "財政 內攻"
+    }
+  ],
+  "2002.11.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913901;0175;0209",
+      "desc": "91卷39期3235號上冊 175~209頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 內攻",
+      "misc": {
+        "content": "122-156",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececbcfcbc5cecdcdd2cecac9"
+      }
+    }
+  ],
+  "unknown": [
+    {
+      "error": "..."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "unknown": [
+    {
+      "error": "...",
+      "misc": {
+        "content": "515-544",
+        "link": "/lgcgi/lgmeetimage?cfcec7c6cdcccfcdc5cacecad2cacbcb"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    }
+  ],
+  "2008.05.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@972900;0003;0004",
+      "desc": "97卷029期3640號 3~4頁",
+      "progress": "一讀",
+      "committee": "司法",
+      "misc": {
+        "content": "119-122",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcececec8cdc5cecec6d2cecdcd"
+      }
+    }
+  ],
+  "2008.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@973600;0442;0448",
+      "desc": "97卷036期3647號 442~448頁",
+      "progress": "委員會審查",
+      "committee": "司法"
+    }
+  ],
+  "2008.06.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@973901;0092;0095",
+      "desc": "97卷039期3650號一冊 92~95頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@973901;0095;0095",
+      "desc": "97卷039期3650號一冊 95~95頁",
+      "progress": "三讀",
+      "committee": "司法"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "2009.11.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@986800;0003;0003",
+      "desc": "98卷68期3754號 3~3頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "57-62",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcecfc8cdc5cac8d2c9cd"
+      }
+    }
+  ],
+  "2009.11.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@987000;0005;0005",
+      "desc": "98卷70期3756號 5~5頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "89-93",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcfc6c8cdc5c7c6d2c6cc"
+      }
+    }
+  ],
+  "2009.12.28": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09900401;0311;0344",
+      "desc": "99卷4期3769號 311~344頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2010.01.05": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09900301;0197;0217",
+      "desc": "99卷3期3768號一冊 197~217頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09900301;0217;0218",
+      "desc": "99卷3期3768號一冊 217~218頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ]
+}

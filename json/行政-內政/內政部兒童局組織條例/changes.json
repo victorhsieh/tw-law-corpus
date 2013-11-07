@@ -1,0 +1,64 @@
+{
+  "1999.04.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@882100;0022;0022",
+      "desc": "88卷21期3021號 22~22頁",
+      "progress": "一讀",
+      "committee": "法制 衛生 內政",
+      "misc": {
+        "content": "680-687",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcecfc6cfcdc5c9c7cfd2c9c7c8"
+      }
+    }
+  ],
+  "1999.05.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@882701;0010;0010",
+      "desc": "88卷27期3027號上冊 10~10頁",
+      "progress": "一讀",
+      "committee": "法制 衛生 內政",
+      "misc": {
+        "content": "355-358",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcececdcfcdc5cccacad2cccac7"
+      }
+    }
+  ],
+  "1999.05.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883001;0001;0001",
+      "desc": "88卷30期3030號上冊 1~1頁",
+      "progress": "一讀",
+      "committee": "法制 衛生 內政",
+      "misc": {
+        "content": "587-598",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcececccfcfc5cac7c8d2cac6c7"
+      }
+    }
+  ],
+  "1999.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883302;0271;0322",
+      "desc": "88卷33期3033號中冊 271~322頁",
+      "progress": "委員會審查",
+      "committee": "法制 衛生 內政"
+    }
+  ],
+  "1999.06.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883701;0301;0323",
+      "desc": "88卷37期3037號一冊 301~323頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 衛生 內政",
+      "misc": {
+        "content": "763-782",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcecec9cfcdc5c8c9ccd2c8c7cd"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883701;0323;0325",
+      "desc": "88卷37期3037號一冊 323~325頁",
+      "progress": "三讀",
+      "committee": "法制 衛生 內政"
+    }
+  ]
+}

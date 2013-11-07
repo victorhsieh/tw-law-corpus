@@ -1,0 +1,42 @@
+{
+  "2002.04.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912400;0006;0006",
+      "desc": "91卷24期3220號 6~6頁",
+      "progress": "一讀",
+      "committee": "科技 法制"
+    }
+  ],
+  "2002.05.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914601;0173;0218",
+      "desc": "91卷46期3242號上冊 173~218頁",
+      "progress": "委員會審查",
+      "committee": "科技 法制"
+    }
+  ],
+  "2002.05.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913701;0147;0150",
+      "desc": "91卷37期3233號上冊 147~150頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "科技 法制",
+      "misc": {
+        "content": "756-774",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececbcfcfc5c8cac9d2c8c8cb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913701;0162;0163",
+      "desc": "91卷37期3233號上冊 162~163頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "科技 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913701;0165;0167",
+      "desc": "91卷37期3233號上冊 165~167頁",
+      "progress": "三讀",
+      "committee": "科技 法制"
+    }
+  ]
+}

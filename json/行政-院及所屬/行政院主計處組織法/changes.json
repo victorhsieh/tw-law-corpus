@@ -1,0 +1,176 @@
+{
+  "1958.05.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@472111;0033;0033",
+      "desc": "47卷21期號11冊 33~33頁",
+      "progress": "一讀",
+      "committee": "法制 預算 財政"
+    }
+  ],
+  "1959.03.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482305;0002;0028",
+      "desc": "48卷23期號5冊 2~28頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 預算 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482305;0041;0047",
+      "desc": "48卷23期號5冊 41~47頁",
+      "progress": "三讀",
+      "committee": "法制 預算 財政"
+    }
+  ],
+  "1958.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482215;0033;0041",
+      "desc": "48卷22期號15冊 33~41頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 預算 財政"
+    }
+  ],
+  "1958.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482216;0065;0082",
+      "desc": "48卷22期號16冊 65~82頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 預算 財政"
+    }
+  ],
+  "1959.01.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482217;0073;0077",
+      "desc": "48卷22期號17冊 73~77頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 預算 財政"
+    }
+  ],
+  "1959.01.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482218;0016;0024",
+      "desc": "48卷22期號18冊 16~24頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 預算 財政"
+    }
+  ],
+  "1959.01.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482219;0030;0031",
+      "desc": "48卷22期號19冊 30~31頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 預算 財政"
+    }
+  ],
+  "1959.03.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482304;0027;0030",
+      "desc": "48卷23期號4冊 27~30頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 預算 財政"
+    }
+  ],
+  "1973.04.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251300001;0002;0002",
+      "desc": "62卷30期586號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 預算"
+    }
+  ],
+  "1973.06.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@62516800;0038;0046",
+      "desc": "62卷68期624號 38~46頁",
+      "progress": "委員會審查",
+      "committee": "法制 預算"
+    }
+  ],
+  "1973.06.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@62517000;0030;0043",
+      "desc": "62卷70期626號 30~43頁",
+      "progress": "委員會審查",
+      "committee": "法制 預算"
+    }
+  ],
+  "1973.10.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6252820001;0020;0045",
+      "desc": "62卷82期638號 20~45頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 預算"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6252820001;0045;0047",
+      "desc": "62卷82期638號 45~47頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 預算"
+    }
+  ],
+  "1973.10.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6252830001;0002;0008",
+      "desc": "62卷83期639號 2~8頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 預算"
+    }
+  ],
+  "1973.11.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6252840001;0002;0007",
+      "desc": "62卷84期640號 2~7頁",
+      "progress": "三讀",
+      "committee": "法制 預算"
+    }
+  ],
+  "1982.06.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71695000;0002;0002",
+      "desc": "71卷50期1535號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 預算",
+      "misc": {
+        "content": "663-678",
+        "link": "/lgcgi/lgmeetimage?cfcec9c6cfc7cfcfc5c9c9ccd2c9c8c7"
+      }
+    }
+  ],
+  "1982.11.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72701600;0080;0092",
+      "desc": "72卷16期1605號 80~92頁",
+      "progress": "委員會審查",
+      "committee": "法制 預算"
+    }
+  ],
+  "1982.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72714100;0148;0161",
+      "desc": "72卷41期1630號 148~161頁",
+      "progress": "委員會審查",
+      "committee": "法制 預算"
+    }
+  ],
+  "1983.04.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72713500;0020;0048",
+      "desc": "72卷35期1624號 20~48頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 預算"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72713500;0048;0052",
+      "desc": "72卷35期1624號 48~52頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 預算"
+    }
+  ],
+  "1983.05.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72713600;0009;0015",
+      "desc": "72卷36期1625號 9~15頁",
+      "progress": "三讀",
+      "committee": "法制 預算"
+    }
+  ]
+}

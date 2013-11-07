@@ -1,0 +1,40 @@
+{
+  "1995.10.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@845100;0003;0003",
+      "desc": "84卷51期2808號 3~3頁",
+      "progress": "一讀",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "151-158",
+        "link": "/lgcgi/lgmeetimage?cfcdcfc9cfcbcfcec5cecccad2ceccc9"
+      }
+    }
+  ],
+  "1995.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@846303;0103;0150",
+      "desc": "84卷63期2820號下冊 103~150頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "2000.03.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891201;0195;0210",
+      "desc": "89卷12期3071號上冊 195~210頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "800-806",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcecec9cfcdc5c8c7ccd2c8c7c9"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891201;0210;0210",
+      "desc": "89卷12期3071號上冊 210~210頁",
+      "progress": "三讀",
+      "committee": "法制 內政"
+    }
+  ]
+}

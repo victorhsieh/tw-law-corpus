@@ -1,0 +1,38 @@
+{
+  "1980.11.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69669000;0002;0002",
+      "desc": "69卷90期1366號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政 經濟",
+      "misc": {
+        "content": "206-213",
+        "link": "/lgcgi/lgmeetimage?cfcec9c9cfcccfcfc5cdcfc9d2cdcecc"
+      }
+    }
+  ],
+  "1980.11.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70661200;0032;0038",
+      "desc": "70卷12期1393號 32~38頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1980.11.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70660800;0002;0004",
+      "desc": "70卷8期1389號 2~4頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1980.12.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69669800;0010;0020",
+      "desc": "69卷98期1374號 10~20頁",
+      "progress": "三讀",
+      "committee": "財政 經濟"
+    }
+  ]
+}

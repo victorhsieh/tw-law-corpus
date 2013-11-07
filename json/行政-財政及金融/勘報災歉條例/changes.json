@@ -1,0 +1,78 @@
+{
+  "1975.02.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455160001;0002;0002",
+      "desc": "64卷16期770號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1975.03.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455230002;0001;0006",
+      "desc": "64卷23期777號 1~6頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1975.04.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455270001;0006;0013",
+      "desc": "64卷27期781號 6~13頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455270001;0013;0024",
+      "desc": "64卷27期781號 13~24頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    }
+  ],
+  "1975.04.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455300001;0014;0028",
+      "desc": "64卷30期784號 14~28頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    }
+  ],
+  "1975.04.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455310001;0003;0004",
+      "desc": "64卷31期785號 3~4頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ],
+  "2002.04.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912101;0008;0008",
+      "desc": "91卷21期3217號上冊 8~8頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "539-589",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcacfcfc5caccc6d2cac7c6"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912101;0100;0101",
+      "desc": "91卷21期3217號上冊 100~101頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912101;0123;0125",
+      "desc": "91卷21期3217號上冊 123~125頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912101;0135;0135",
+      "desc": "91卷21期3217號上冊 135~135頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

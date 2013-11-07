@@ -1,0 +1,80 @@
+{
+  "1972.10.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6150790001;0002;0002",
+      "desc": "61卷79期532號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1972.10.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@61501000002;0024;0031",
+      "desc": "61卷100期553號 24~31頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1972.11.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@61501010002;0009;0014",
+      "desc": "61卷101期554號 9~14頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1972.12.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6150990001;0033;0044",
+      "desc": "61卷99期552號 33~44頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6150990001;0044;0045",
+      "desc": "61卷99期552號 44~45頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 經濟"
+    }
+  ],
+  "2522.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@61501000001;0012;0014",
+      "desc": "61卷100期553號 12~14頁",
+      "progress": "三讀",
+      "committee": "法制 經濟"
+    }
+  ],
+  "2002.04.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912600;0009;0009",
+      "desc": "91卷26期3222號 9~9頁",
+      "progress": "一讀",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "352-355",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc8cfcdc5cccacdd2cccaca"
+      }
+    }
+  ],
+  "2002.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@915003;0239;0260",
+      "desc": "91卷50期3246號下冊 239~260頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "2002.06.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914201;0179;0183",
+      "desc": "91卷42期3238號上冊 179~183頁",
+      "progress": "三讀",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "589-601",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecec9cfcdc5cac7c6d2c9cfce"
+      }
+    }
+  ]
+}

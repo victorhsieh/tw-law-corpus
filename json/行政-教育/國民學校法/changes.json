@@ -1,0 +1,22 @@
+{
+  "1978.10.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67628300;0003;0003",
+      "desc": "67卷83期1151號 3~3頁",
+      "progress": "一讀",
+      "committee": "教育 法制 財政",
+      "misc": {
+        "content": "500-516",
+        "link": "/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5cacfcfd2cacec9"
+      }
+    }
+  ],
+  "1979.05.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68633700;0002;0007",
+      "desc": "68卷37期1209號 2~7頁",
+      "progress": "三讀",
+      "committee": "教育 法制 財政"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "1999.05.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883001;0006;0006",
+      "desc": "88卷30期3030號上冊 6~6頁",
+      "progress": "一讀",
+      "committee": "交通",
+      "misc": {
+        "content": "127-130",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcececccfcdc5cecdc8d2cecccf"
+      }
+    }
+  ],
+  "1999.06.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883900;0233;0248",
+      "desc": "88卷39期3039號 233~248頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "2000.03.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891201;0156;0164",
+      "desc": "89卷12期3071號上冊 156~164頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "交通",
+      "misc": {
+        "content": "604-613",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcdc5c9cfcbd2c9cecc"
+      }
+    }
+  ],
+  "2000.03.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891400;0037;0039",
+      "desc": "89卷14期3073號 37~39頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891400;0039;0039",
+      "desc": "89卷14期3073號 39~39頁",
+      "progress": "三讀",
+      "committee": "交通"
+    }
+  ]
+}

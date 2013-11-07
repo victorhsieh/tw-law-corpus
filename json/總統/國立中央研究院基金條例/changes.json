@@ -1,0 +1,30 @@
+{
+  "2009.05.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982800;0007;0007",
+      "desc": "98卷28期3714號 7~7頁",
+      "progress": "一讀",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "165-166",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccecdc8cdc5cec9cad2cec9c9"
+      }
+    }
+  ],
+  "2009.06.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984402;0245;0294",
+      "desc": "98卷44期3730號二冊 245~294頁",
+      "progress": "委員會審查",
+      "committee": "教育及文化"
+    }
+  ],
+  "2009.10.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@985500;0207;0209",
+      "desc": "98卷55期3741號 207~209頁",
+      "progress": "三讀",
+      "committee": "教育及文化"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "1980.05.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69653700;0004;0004",
+      "desc": "69卷37期1313號 4~4頁",
+      "progress": "一讀",
+      "committee": "財政 司法"
+    }
+  ],
+  "1980.05.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69657000;0032;0037",
+      "desc": "69卷70期1346號 32~37頁",
+      "progress": "委員會審查",
+      "committee": "財政 司法"
+    }
+  ],
+  "1980.05.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69657200;0023;0029",
+      "desc": "69卷72期1348號 23~29頁",
+      "progress": "委員會審查",
+      "committee": "財政 司法"
+    }
+  ],
+  "1980.05.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69657300;0024;0035",
+      "desc": "69卷73期1349號 24~35頁",
+      "progress": "委員會審查",
+      "committee": "財政 司法"
+    }
+  ],
+  "1980.05.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69654200;0013;0034",
+      "desc": "69卷42期1318號 13~34頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69654200;0034;0039",
+      "desc": "69卷42期1318號 34~39頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 司法"
+    }
+  ],
+  "1980.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69654300;0026;0028",
+      "desc": "69卷43期1319號 26~28頁",
+      "progress": "三讀",
+      "committee": "財政 司法"
+    }
+  ],
+  "1991.04.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8003300;0002;0002",
+      "desc": "80卷33期2457號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "49-51",
+        "link": "/lgcgi/lgmeetimage?cfcec7c8cec9cfcfc5cbc6d2cace"
+      }
+    }
+  ],
+  "1991.11.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8009400;0241;0263",
+      "desc": "80卷94期2518號 241~263頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1992.03.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8102400;0066;0070",
+      "desc": "81卷24期2552號 66~70頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8102400;0070;0070",
+      "desc": "81卷24期2552號 70~70頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ],
+  "1993.03.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@821500;0069;0071",
+      "desc": "82卷15期2614號 69~71頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1993.04.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@822203;0180;0202",
+      "desc": "82卷22期2621號下冊 180~202頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1993.07.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824603;0056;0081",
+      "desc": "82卷46期2645號下冊 56~81頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ],
+  "2002.04.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912801;0427;0432",
+      "desc": "91卷28期3224號上冊 427~432頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "475-538",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcacfcfc5cbc8cad2caccc7"
+      }
+    }
+  ],
+  "2002.04.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912801;0441;0441",
+      "desc": "91卷28期3224號上冊 441~441頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912801;0441;0441",
+      "desc": "91卷28期3224號上冊 441~441頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2005.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944001;0006;0006",
+      "desc": "94卷40期3422號一冊 6~6頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "316-319",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcececbcfcec5cccec9d2cccec6"
+      }
+    }
+  ],
+  "2006.03.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@951401;0002;0002",
+      "desc": "95卷14期3475號一冊 2~2頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "125-128",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcccfc8cfcec5cecdcad2cecdc7"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@951401;0002;0002",
+      "desc": "95卷14期3475號一冊 2~2頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "53-55",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcccfcdcfcec5caccd2caca"
+      }
+    }
+  ],
+  "2006.05.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@953400;0013;0035",
+      "desc": "95卷34期3495號 13~35頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "2007.05.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@963800;0180;0189",
+      "desc": "96卷38期3561號 180~189頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@963800;0190;0190",
+      "desc": "96卷38期3561號 190~190頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@963800;0190;0190",
+      "desc": "96卷38期3561號 190~190頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ]
+}

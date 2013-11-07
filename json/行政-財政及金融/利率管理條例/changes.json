@@ -1,0 +1,38 @@
+{
+  "1985.09.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7407800;0002;0002",
+      "desc": "74卷78期1876號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "40-42",
+        "link": "/lgcgi/lgmeetimage?cfcec8c9cfcdcfcfc5cbcfd2cbcd"
+      }
+    }
+  ],
+  "1985.10.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7500900;0006;0010",
+      "desc": "75卷9期1911號 6~10頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1985.11.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7409200;0005;0008",
+      "desc": "74卷92期1890號 5~8頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政"
+    }
+  ],
+  "1985.11.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7409400;0005;0006",
+      "desc": "74卷94期1892號 5~6頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "1975.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455410001;0002;0002",
+      "desc": "64卷41期795號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政 國防"
+    }
+  ],
+  "1975.05.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455470002;0001;0020",
+      "desc": "64卷47期801號 1~20頁",
+      "progress": "委員會審查",
+      "committee": "內政 國防"
+    }
+  ],
+  "1975.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455490002;0006;0024",
+      "desc": "64卷49期803號 6~24頁",
+      "progress": "委員會審查",
+      "committee": "內政 國防"
+    }
+  ],
+  "1975.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455430001;0042;0092",
+      "desc": "64卷43期797號 42~92頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455430001;0092;0095",
+      "desc": "64卷43期797號 92~95頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 國防"
+    }
+  ],
+  "1975.05.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455440001;0003;0014",
+      "desc": "64卷44期798號 3~14頁",
+      "progress": "三讀",
+      "committee": "內政 國防"
+    }
+  ]
+}

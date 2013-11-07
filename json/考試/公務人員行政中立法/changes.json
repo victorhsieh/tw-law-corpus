@@ -1,0 +1,68 @@
+{
+  "2009.01.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980501;0004;0004",
+      "desc": "98卷5期3691號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "司法及法制",
+      "misc": {
+        "content": "209-223",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcec8cfcec5cdcfc6d2cdcdcc"
+      }
+    }
+  ],
+  "2009.03.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@981402;0276;0315",
+      "desc": "98卷14期3700號二冊 276~315頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制"
+    }
+  ],
+  "2009.04.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@981901;0336;0357",
+      "desc": "98卷19期3705號一冊 336~357頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制"
+    }
+  ],
+  "2009.04.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982200;0042;0042",
+      "desc": "98卷22期3708號 42~42頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制"
+    }
+  ],
+  "2009.04.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982400;0071;0071",
+      "desc": "98卷24期3710號 71~71頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制"
+    }
+  ],
+  "2009.05.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983200;0467;0468",
+      "desc": "98卷32期3718號 467~468頁",
+      "progress": "黨團協商",
+      "committee": "司法及法制"
+    }
+  ],
+  "2009.05.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983100;0138;0142",
+      "desc": "98卷31期3717號 138~142頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983100;0142;0143",
+      "desc": "98卷31期3717號 142~143頁",
+      "progress": "三讀",
+      "committee": "司法及法制"
+    }
+  ]
+}

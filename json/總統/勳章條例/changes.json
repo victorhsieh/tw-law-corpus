@@ -1,0 +1,108 @@
+{
+  "1979.02.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68631700;0002;0002",
+      "desc": "68卷17期1189號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "603-612",
+        "link": "/lgcgi/lgmeetimage?cfcec9cccfcecfcfc5c9cfccd2c9cecd"
+      }
+    }
+  ],
+  "1979.03.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68634700;0071;0077",
+      "desc": "68卷47期1219號 71~77頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1979.03.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68635600;0076;0084",
+      "desc": "68卷56期1228號 76~84頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1979.07.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69640100;0053;0055",
+      "desc": "69卷1期1277號 53~55頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1979.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@686410000;0015;0042",
+      "desc": "68卷100期1272號 15~42頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制",
+      "misc": {
+        "content": "672-700",
+        "link": "/lgcgi/lgmeetimage?cfcec9cbcfcdcfcfc5c9c8cdd2c8cfcf"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@686410000;0042;0044",
+      "desc": "68卷100期1272號 42~44頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    }
+  ],
+  "1979.12.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@686410400;0005;0022",
+      "desc": "68卷104期1276號 5~22頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ],
+  "1981.06.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70675100;0002;0002",
+      "desc": "70卷51期1432號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "10-15",
+        "link": "/lgcgi/lgmeetimage?cfcec9c8cfc8cfcfc5cecfd2ceca"
+      }
+    }
+  ],
+  "1981.11.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71692800;0130;0134",
+      "desc": "71卷28期1513號 130~134頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1981.11.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70689300;0003;0009",
+      "desc": "70卷93期1474號 3~9頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制",
+      "misc": {
+        "content": "583-587",
+        "link": "/lgcgi/lgmeetimage?cfcec9c7cfcacfcfc5cac7ccd2cac7c8"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70689300;0007;0010",
+      "desc": "70卷93期1474號 7~10頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70689300;0010;0010",
+      "desc": "70卷93期1474號 10~10頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

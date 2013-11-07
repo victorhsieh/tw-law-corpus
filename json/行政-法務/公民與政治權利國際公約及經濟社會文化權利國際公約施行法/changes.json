@@ -1,0 +1,34 @@
+{
+  "2008.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980301;0007;0007",
+      "desc": "98卷3期3689號一冊 7~7頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "137-140",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcecac8cdc5ceccc8d2cecbcf"
+      }
+    }
+  ],
+  "2009.03.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@981401;0518;0526",
+      "desc": "98卷14期3700號一冊 518~526頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@981401;0526;0527",
+      "desc": "98卷14期3700號一冊 526~527頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@981401;0527;0527",
+      "desc": "98卷14期3700號一冊 527~527頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

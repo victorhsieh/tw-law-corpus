@@ -1,0 +1,62 @@
+{
+  "1953.11.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421205;0060;0060",
+      "desc": "42卷12期號5冊 60~60頁",
+      "progress": "一讀",
+      "committee": "民刑商法"
+    }
+  ],
+  "1953.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431207;0004;0005",
+      "desc": "43卷12期號7冊 4~5頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431207;0017;0017",
+      "desc": "43卷12期號7冊 17~17頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431207;0017;0018",
+      "desc": "43卷12期號7冊 17~18頁",
+      "progress": "三讀",
+      "committee": "民刑商法"
+    }
+  ],
+  "2003.09.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@924001;0005;0005",
+      "desc": "92卷40期3314號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "國防",
+      "misc": {
+        "content": "602-606",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcfcccfcfc5c9cfcdd2c9cfc9"
+      }
+    }
+  ],
+  "2003.10.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@924903;0179;0199",
+      "desc": "92卷49期3323號下冊 179~199頁",
+      "progress": "委員會審查",
+      "committee": "國防"
+    }
+  ],
+  "2003.12.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@925901;0167;0178",
+      "desc": "92卷59期3333號上冊 167~178頁",
+      "progress": "三讀",
+      "committee": "國防",
+      "misc": {
+        "content": "515-538",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececbcfcec5cacecad2caccc7"
+      }
+    }
+  ]
+}

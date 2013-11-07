@@ -1,0 +1,60 @@
+{
+  "1998.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@874700;0003;0003",
+      "desc": "87卷47期2996號 3~3頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "576-690",
+        "link": "/lgcgi/lgmeetimage?cfcccfc9cfc6cfcdc5cac8c9d2c9c6cf"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@874700;0003;0003",
+      "desc": "87卷47期2996號 3~3頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "576-690",
+        "link": "/lgcgi/lgmeetimage?cfcccfc9cfc6cfcdc5cac8c9d2c9c6cf"
+      }
+    }
+  ],
+  "1998.12.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880400;0067;0067",
+      "desc": "88卷4期3004號 67~67頁",
+      "progress": "委員會審查",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880400;0067;0067",
+      "desc": "88卷4期3004號 67~67頁",
+      "progress": "委員會審查",
+      "committee": "N/A"
+    }
+  ],
+  "1999.03.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@881301;0065;0077",
+      "desc": "88卷13期3013號上冊 65~77頁",
+      "progress": "三讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "48-164",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcecfcacfcec5cbc7d2cec9cb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@881301;0065;0077",
+      "desc": "88卷13期3013號上冊 65~77頁",
+      "progress": "三讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "48-164",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcecfcacfcec5cbc7d2cec9cb"
+      }
+    }
+  ]
+}

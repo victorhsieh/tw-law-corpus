@@ -1,0 +1,54 @@
+{
+  "1994.09.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@836100;0331;0331",
+      "desc": "83卷61期2735號 331~331頁",
+      "progress": "一讀",
+      "committee": "法制"
+    }
+  ],
+  "1994.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@838303;0123;0157",
+      "desc": "83卷83期2757號下冊 123~157頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1995.03.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@841803;0123;0155",
+      "desc": "84卷18期2775號下冊 123~155頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1995.05.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@842903;0256;0263",
+      "desc": "84卷29期2786號下冊 256~263頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1995.12.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@846301;0060;0073",
+      "desc": "84卷63期2820號上冊 60~73頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@846301;0074;0098",
+      "desc": "84卷63期2820號上冊 74~98頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@846301;0098;0098",
+      "desc": "84卷63期2820號上冊 98~98頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

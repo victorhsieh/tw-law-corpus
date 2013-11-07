@@ -1,0 +1,30 @@
+{
+  "1992.09.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8106000;0004;0004",
+      "desc": "81卷60期2588號 4~4頁",
+      "progress": "一讀",
+      "committee": "國防 交通",
+      "misc": {
+        "content": "98-100",
+        "link": "/lgcgi/lgmeetimage?cfcec6cfcfcdcfcec5c6c7d2cecfcf"
+      }
+    }
+  ],
+  "1994.10.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@837200;0323;0326",
+      "desc": "83卷72期2746號 323~326頁",
+      "progress": "委員會審查",
+      "committee": "國防 交通"
+    }
+  ],
+  "1995.01.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@840501;0028;0030",
+      "desc": "84卷5期2762號上冊 28~30頁",
+      "progress": "三讀",
+      "committee": "國防 交通"
+    }
+  ]
+}

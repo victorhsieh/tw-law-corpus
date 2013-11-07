@@ -1,0 +1,40 @@
+{
+  "1996.12.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@857001;0003;0003",
+      "desc": "85卷70期2892號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "法制 司法"
+    }
+  ],
+  "1997.03.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@860803;0053;0080",
+      "desc": "86卷8期2900號下冊 53~80頁",
+      "progress": "委員會審查",
+      "committee": "法制 司法"
+    }
+  ],
+  "1998.01.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@870201;0048;0064",
+      "desc": "87卷2期2951號上冊 48~64頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 司法"
+    }
+  ],
+  "1998.04.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@872101;0064;0067",
+      "desc": "87卷21期2970號上冊 64~67頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@872101;0067;0067",
+      "desc": "87卷21期2970號上冊 67~67頁",
+      "progress": "三讀",
+      "committee": "法制 司法"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "1967.01.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56381400;0004;0004",
+      "desc": "56卷14期0號 4~4頁",
+      "progress": "一讀",
+      "committee": "預算 法制 司法"
+    }
+  ],
+  "1967.03.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6048840002;0008;0017",
+      "desc": "60卷84期437號 8~17頁",
+      "progress": "委員會審查",
+      "committee": "預算 法制 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6048860002;0024;0030",
+      "desc": "60卷86期439號 24~30頁",
+      "progress": "委員會審查",
+      "committee": "預算 法制 司法"
+    }
+  ],
+  "1967.06.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6048850002;0008;0027",
+      "desc": "60卷85期438號 8~27頁",
+      "progress": "委員會審查",
+      "committee": "預算 法制 司法"
+    }
+  ],
+  "1971.10.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@60488700;0013;0026",
+      "desc": "60卷87期440號 13~26頁",
+      "progress": "委員會審查",
+      "committee": "預算 法制 司法"
+    }
+  ],
+  "1972.03.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149250001;0021;0041",
+      "desc": "61卷25期478號 21~41頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "預算 法制 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149250001;0041;0050",
+      "desc": "61卷25期478號 41~50頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "預算 法制 司法"
+    }
+  ],
+  "1972.03.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149260001;0028;0030",
+      "desc": "61卷26期479號 28~30頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "預算 法制 司法"
+    }
+  ],
+  "1972.04.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149270001;0002;0006",
+      "desc": "61卷27期480號 2~6頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "預算 法制 司法"
+    }
+  ],
+  "1972.05.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149380001;0003;0011",
+      "desc": "61卷38期491號 3~11頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "預算 法制 司法"
+    }
+  ],
+  "1972.05.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149390001;0002;0005",
+      "desc": "61卷39期492號 2~5頁",
+      "progress": "三讀",
+      "committee": "預算 法制 司法"
+    }
+  ]
+}

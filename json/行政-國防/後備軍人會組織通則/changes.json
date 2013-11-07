@@ -1,0 +1,60 @@
+{
+  "1955.04.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441502;0038;0039",
+      "desc": "44卷15期號2冊 38~39頁",
+      "progress": "一讀",
+      "committee": "國防 內政 法制"
+    }
+  ],
+  "1955.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451610;0089;0102",
+      "desc": "45卷16期號10冊 89~102頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 內政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451610;0134;0137",
+      "desc": "45卷16期號10冊 134~137頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 內政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451610;0142;0143",
+      "desc": "45卷16期號10冊 142~143頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 內政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451610;0143;0146",
+      "desc": "45卷16期號10冊 143~146頁",
+      "progress": "三讀",
+      "committee": "國防 內政 法制"
+    }
+  ],
+  "2000.05.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@892800;0004;0004",
+      "desc": "89卷28期3087號 4~4頁",
+      "progress": "一讀",
+      "committee": "國防 衛生 法制"
+    }
+  ],
+  "2000.11.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896803;0013;0021",
+      "desc": "89卷68期3127號下冊 13~21頁",
+      "progress": "委員會審查",
+      "committee": "國防 衛生 法制"
+    }
+  ],
+  "2000.12.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896801;0035;0039",
+      "desc": "89卷68期3127號上冊 35~39頁",
+      "progress": "三讀",
+      "committee": "國防 衛生 法制"
+    }
+  ]
+}

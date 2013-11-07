@@ -1,0 +1,40 @@
+{
+  "1972.04.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149280001;0002;0002",
+      "desc": "61卷28期481號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1972.04.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149480002;0003;0007",
+      "desc": "61卷48期501號 3~7頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1972.05.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149410001;0003;0011",
+      "desc": "61卷41期494號 3~11頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ],
+  "1974.01.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@63520600;0111;0112",
+      "desc": "63卷6期662號 111~112頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@63520600;0111;0112",
+      "desc": "63卷6期662號 111~112頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

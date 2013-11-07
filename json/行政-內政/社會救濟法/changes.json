@@ -1,0 +1,22 @@
+{
+  "1979.10.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68648200;0003;0003",
+      "desc": "68卷82期1254號 3~3頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "240-255",
+        "link": "/lgcgi/lgmeetimage?cfcec9cbcfcdcfcfc5cdcbcfd2cdcaca"
+      }
+    }
+  ],
+  "1980.05.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69654400;0005;0008",
+      "desc": "69卷44期1320號 5~8頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "1971.04.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047260001;0002;0002",
+      "desc": "60卷26期380號 2~2頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    }
+  ],
+  "1971.05.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047390001;0003;0003",
+      "desc": "60卷39期393號 3~3頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "1979.10.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68648300;0002;0002",
+      "desc": "68卷83期1255號 2~2頁",
+      "progress": "一讀",
+      "committee": "預算 財政 法制",
+      "misc": {
+        "content": "234-237",
+        "link": "/lgcgi/lgmeetimage?cfcec9cbcfcdcfcfc5cdcccbd2cdccc8"
+      }
+    }
+  ],
+  "1979.11.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@686410400;0071;0075",
+      "desc": "68卷104期1276號 71~75頁",
+      "progress": "委員會審查",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1979.11.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68649200;0002;0003",
+      "desc": "68卷92期1264號 2~3頁",
+      "progress": "三讀",
+      "committee": "預算 財政 法制"
+    }
+  ]
+}

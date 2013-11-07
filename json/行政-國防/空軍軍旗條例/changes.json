@@ -1,0 +1,86 @@
+{
+  "1954.03.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431302;0001;0001",
+      "desc": "43卷13期號2冊 1~1頁",
+      "progress": "一讀",
+      "committee": "國防 法制"
+    }
+  ],
+  "1954.04.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431304;0007;0008",
+      "desc": "43卷13期號4冊 7~8頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431304;0063;0063",
+      "desc": "43卷13期號4冊 63~63頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431304;0063;0063",
+      "desc": "43卷13期號4冊 63~63頁",
+      "progress": "三讀",
+      "committee": "國防 法制"
+    }
+  ],
+  "1985.09.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7407800;0002;0002",
+      "desc": "74卷78期1876號 2~2頁",
+      "progress": "一讀",
+      "committee": "國防 法制",
+      "misc": {
+        "content": "44-158",
+        "link": "/lgcgi/lgmeetimage?cfcec8c9cfcdcfcfc5cbcbd2cecac7"
+      }
+    }
+  ],
+  "1985.11.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7409900;0120;0127",
+      "desc": "74卷99期1897號 120~127頁",
+      "progress": "委員會審查",
+      "committee": "國防 法制"
+    }
+  ],
+  "1985.11.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7500800;0013;0018",
+      "desc": "75卷8期1910號 13~18頁",
+      "progress": "委員會審查",
+      "committee": "國防 法制"
+    }
+  ],
+  "1985.11.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7501100;0002;0007",
+      "desc": "75卷11期1913號 2~7頁",
+      "progress": "委員會審查",
+      "committee": "國防 法制"
+    }
+  ],
+  "1985.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7410000;0014;0058",
+      "desc": "74卷100期1898號 14~58頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 法制"
+    }
+  ],
+  "1985.12.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7410100;0006;0024",
+      "desc": "74卷101期1899號 6~24頁",
+      "progress": "三讀",
+      "committee": "國防 法制",
+      "misc": {
+        "content": "699-718",
+        "link": "/lgcgi/lgmeetimage?cfcec8c9cfc8cfcfc5c9c6c6d2c8cec7"
+      }
+    }
+  ]
+}

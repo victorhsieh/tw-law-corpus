@@ -1,0 +1,264 @@
+{
+  "1973.03.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251220001;0006;0006",
+      "desc": "62卷22期578號 6~6頁",
+      "progress": "一讀",
+      "committee": "司法 法制"
+    }
+  ],
+  "1975.10.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456870001;0014;0018",
+      "desc": "64卷87期841號 14~18頁",
+      "progress": "一讀",
+      "committee": "司法 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456870001;0018;0072",
+      "desc": "64卷87期841號 18~72頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 法制"
+    }
+  ],
+  "1975.05.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@64557400;0039;0045",
+      "desc": "64卷74期828號 39~45頁",
+      "progress": "委員會審查",
+      "committee": "司法 法制"
+    }
+  ],
+  "1975.05.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@64557500;0041;0047",
+      "desc": "64卷75期829號 41~47頁",
+      "progress": "委員會審查",
+      "committee": "司法 法制"
+    }
+  ],
+  "1975.05.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456810002;0001;0007",
+      "desc": "64卷81期835號 1~7頁",
+      "progress": "委員會審查",
+      "committee": "司法 法制"
+    }
+  ],
+  "1975.11.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456890001;0003;0025",
+      "desc": "64卷89期843號 3~25頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 法制"
+    }
+  ],
+  "1975.11.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456900001;0014;0016",
+      "desc": "64卷90期844號 14~16頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 法制"
+    }
+  ],
+  "1975.11.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456960001;0006;0007",
+      "desc": "64卷96期850號 6~7頁",
+      "progress": "三讀",
+      "committee": "司法 法制"
+    }
+  ],
+  "1994.10.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@836901;0042;0042",
+      "desc": "83卷69期2743號上冊 42~42頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@836901;0042;0042",
+      "desc": "83卷69期2743號上冊 42~42頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@836901;0042;0042",
+      "desc": "83卷69期2743號上冊 42~42頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "1989.03.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7802300;0002;0002",
+      "desc": "78卷23期2239號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 司法",
+      "misc": {
+        "content": "41-74",
+        "link": "/lgcgi/lgmeetimage?cfcec7cccfc8cfcfc5cbced2c8cb"
+      }
+    }
+  ],
+  "1990.11.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7909100;0002;0002",
+      "desc": "79卷91期2411號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 司法",
+      "misc": {
+        "content": "288-332",
+        "link": "/lgcgi/lgmeetimage?cfcec7c9cecccfcfc5cdc7c7d2cccccd"
+      }
+    }
+  ],
+  "1993.04.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@822601;0009;0009",
+      "desc": "82卷26期2625號上冊 9~9頁",
+      "progress": "一讀",
+      "committee": "法制 司法"
+    }
+  ],
+  "1996.09.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@854501;0003;0003",
+      "desc": "85卷45期2867號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "法制 司法"
+    }
+  ],
+  "1996.10.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@855200;0003;0044",
+      "desc": "85卷52期2874號 3~44頁",
+      "progress": "委員會審查",
+      "committee": "法制 司法"
+    }
+  ],
+  "1996.11.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@855803;0264;0293",
+      "desc": "85卷58期2880號下冊 264~293頁",
+      "progress": "委員會審查",
+      "committee": "法制 司法"
+    }
+  ],
+  "1999.01.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880603;1187;1257",
+      "desc": "88卷6期3006號三冊 1187~1257頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880603;1257;1258",
+      "desc": "88卷6期3006號三冊 1257~1258頁",
+      "progress": "三讀",
+      "committee": "法制 司法"
+    }
+  ],
+  "2001.03.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@901401;0003;0004",
+      "desc": "90卷14期3148號上冊 3~4頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "170-176",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacfcccfcfc5cec8cfd2cec8c9"
+      }
+    }
+  ],
+  "2001.05.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@902401;0090;0096",
+      "desc": "90卷24期3158號上冊 90~96頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2006.05.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@902401;0096;0098",
+      "desc": "90卷24期3158號上冊 96~98頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2010.03.05": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09901101;0004;0004",
+      "desc": "099卷011期3776號 4~4頁",
+      "progress": "一讀",
+      "committee": "司法及法制",
+      "misc": {
+        "content": "159-169",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacfcccfcec5cecac6d2cec9c6"
+      }
+    }
+  ],
+  "2010.09.24": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09905101;0007;0007",
+      "desc": "099卷051期3816號一冊 7~7頁",
+      "progress": "一讀",
+      "committee": "司法及法制",
+      "misc": {
+        "content": "274-276",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc9cfcecfcdc5cdc8cbd2cdc8c9"
+      }
+    }
+  ],
+  "2011.03.14": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10001901;0391;0432",
+      "desc": "100卷019期3871號 391~432頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制"
+    }
+  ],
+  "2011.03.16": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10001901;0433;0449",
+      "desc": "100卷019期3871號 433~449頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制"
+    }
+  ],
+  "2011.05.04": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10006601;0313;0325",
+      "desc": "100卷066期3918號 313~325頁",
+      "progress": "黨團協商",
+      "committee": "司法及法制"
+    }
+  ],
+  "2011.06.13": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004903;1063;1081",
+      "desc": "100卷049期3901號三冊 1063~1081頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制",
+      "misc": {
+        "content": "426-429",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc8cfc7cfcbc5cbcdc9d2cbcdc6"
+      }
+    }
+  ],
+  "2011.11.01": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10006601;0076;0081",
+      "desc": "100卷066期3918號 76~81頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10006601;0081;0082",
+      "desc": "100卷066期3918號 81~82頁",
+      "progress": "三讀",
+      "committee": "司法及法制"
+    }
+  ]
+}

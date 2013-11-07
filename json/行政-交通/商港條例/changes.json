@@ -1,0 +1,60 @@
+{
+  "1971.06.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047410001;0004;0004",
+      "desc": "60卷41期395號 4~4頁",
+      "progress": "一讀",
+      "committee": "交通"
+    }
+  ],
+  "1971.07.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047610002;0001;0003",
+      "desc": "60卷61期415號 1~3頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "1971.10.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6048800001;0015;0017",
+      "desc": "60卷80期433號 15~17頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6048800001;0017;0017",
+      "desc": "60卷80期433號 17~17頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通"
+    }
+  ],
+  "1971.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6048810001;0002;0003",
+      "desc": "60卷81期434號 2~3頁",
+      "progress": "三讀",
+      "committee": "交通"
+    }
+  ],
+  "1979.03.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68632200;0002;0002",
+      "desc": "68卷22期1194號 2~2頁",
+      "progress": "一讀",
+      "committee": "交通 司法",
+      "misc": {
+        "content": "312-333",
+        "link": "/lgcgi/lgmeetimage?cfcec9cccfcdcfcfc5cccecdd2cccccc"
+      }
+    }
+  ],
+  "1980.04.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69653100;0003;0011",
+      "desc": "69卷31期1307號 3~11頁",
+      "progress": "三讀",
+      "committee": "交通 司法"
+    }
+  ]
+}

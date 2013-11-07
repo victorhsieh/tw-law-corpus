@@ -1,0 +1,72 @@
+{
+  "1998.12.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@874601;0003;0003",
+      "desc": "87卷46期2995號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "外交",
+      "misc": {
+        "content": "259-270",
+        "link": "/lgcgi/lgmeetimage?cfcccfc9cfc6cfcfc5cdcac6d2cdc8cf"
+      }
+    }
+  ],
+  "1998.12.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880200;0251;0274",
+      "desc": "88卷2期3002號 251~274頁",
+      "progress": "委員會審查",
+      "committee": "外交"
+    }
+  ],
+  "1999.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@882501;0095;0108",
+      "desc": "88卷25期3025號一冊 95~108頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交",
+      "misc": {
+        "content": "103-115",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcecfc7cfcdc5cecfccd2cececa"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@882501;0108;0108",
+      "desc": "88卷25期3025號一冊 108~108頁",
+      "progress": "三讀",
+      "committee": "外交"
+    }
+  ],
+  "2002.11.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@917501;0004;0004",
+      "desc": "91卷75期3271號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "外交",
+      "misc": {
+        "content": "413-421",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcfc7cfcec5cbceccd2cbcdce"
+      }
+    }
+  ],
+  "2002.12.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920401;0307;0344",
+      "desc": "92卷4期3278號上冊 307~344頁",
+      "progress": "委員會審查",
+      "committee": "外交"
+    }
+  ],
+  "2002.12.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920301;0189;0204",
+      "desc": "92卷3期3277號一冊 189~204頁",
+      "progress": "三讀",
+      "committee": "外交",
+      "misc": {
+        "content": "485-500",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcecacfcdc5cbc7cad2cacfcf"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "2009.06.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983900;0005;0005",
+      "desc": "98卷39期3725號 5~5頁",
+      "progress": "一讀",
+      "committee": "司法及法制 教育及文化",
+      "misc": {
+        "content": "84-94",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcececccfcec5c7cbd2c6cb"
+      }
+    }
+  ],
+  "2009.09.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984601;0003;0003",
+      "desc": "98卷46期3732號一冊 3~3頁",
+      "progress": "一讀",
+      "committee": "司法及法制 教育及文化",
+      "misc": {
+        "content": "235-237",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcfcecfcec5cdcccad2cdccc8"
+      }
+    }
+  ],
+  "2009.12.24": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09900401;0246;0303",
+      "desc": "99卷4期3769號 246~303頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2010.01.04": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09900701;0234;0244",
+      "desc": "99卷7期3772號 234~244頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2010.04.27": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902902;0008;0057",
+      "desc": "99卷29期3794號二冊 8~57頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2010.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903401;0109;0109",
+      "desc": "99卷34期3799號 109~109頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2010.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09906601;0427;0428",
+      "desc": "99卷66期3831號 427~428頁",
+      "progress": "黨團協商",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2010.11.16": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09906601;0168;0170",
+      "desc": "99卷66期3831號 168~170頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制 教育及文化"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09906601;0170;0170",
+      "desc": "99卷66期3831號 170~170頁",
+      "progress": "三讀",
+      "committee": "司法及法制 教育及文化"
+    }
+  ]
+}

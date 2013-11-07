@@ -1,0 +1,30 @@
+{
+  "1982.07.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71695900;0002;0002",
+      "desc": "71卷59期1544號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 財政",
+      "misc": {
+        "content": "953-956",
+        "link": "/lgcgi/lgmeetimage?cfcec9c6cfc6cfcfc5c6caccd2c6cac9"
+      }
+    }
+  ],
+  "1982.10.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@717010400;0135;0136",
+      "desc": "71卷104期1589號 135~136頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1982.11.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71709000;0007;0008",
+      "desc": "71卷90期1575號 7~8頁",
+      "progress": "三讀",
+      "committee": "法制 財政"
+    }
+  ]
+}

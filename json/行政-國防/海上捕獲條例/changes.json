@@ -1,0 +1,32 @@
+{
+  "1954.02.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431301;0009;0009",
+      "desc": "43卷13期號1冊 9~9頁",
+      "progress": "一讀",
+      "committee": "國防 外交 交通 財政 經濟 民刑商法"
+    }
+  ],
+  "1955.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441505;0020;0091",
+      "desc": "44卷15期號5冊 20~91頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 外交 交通 財政 經濟 民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441505;0144;0152",
+      "desc": "44卷15期號5冊 144~152頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 外交 交通 財政 經濟 民刑商法"
+    }
+  ],
+  "1955.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441505;0162;0168",
+      "desc": "44卷15期號5冊 162~168頁",
+      "progress": "三讀",
+      "committee": "國防 外交 交通 財政 經濟 民刑商法"
+    }
+  ]
+}

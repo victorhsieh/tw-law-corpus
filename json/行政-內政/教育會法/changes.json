@@ -1,0 +1,136 @@
+{
+  "1983.07.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72715300;0002;0002",
+      "desc": "72卷53期1642號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政 教育",
+      "misc": {
+        "content": "692-713",
+        "link": "/lgcgi/lgmeetimage?cfcec8cecfc7cfcfc5c9c6cdd2c8cecc"
+      }
+    }
+  ],
+  "1984.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7307500;0052;0061",
+      "desc": "73卷75期1769號 52~61頁",
+      "progress": "委員會審查",
+      "committee": "內政 教育"
+    }
+  ],
+  "1984.11.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7400700;0011;0019",
+      "desc": "74卷7期1805號 11~19頁",
+      "progress": "委員會審查",
+      "committee": "內政 教育"
+    }
+  ],
+  "1984.11.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7401200;0029;0039",
+      "desc": "74卷12期1810號 29~39頁",
+      "progress": "委員會審查",
+      "committee": "內政 教育"
+    }
+  ],
+  "1984.11.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7401400;0007;0017",
+      "desc": "74卷14期1812號 7~17頁",
+      "progress": "委員會審查",
+      "committee": "內政 教育"
+    }
+  ],
+  "1984.11.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7401500;0002;0009",
+      "desc": "74卷15期1813號 2~9頁",
+      "progress": "委員會審查",
+      "committee": "內政 教育"
+    }
+  ],
+  "1985.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7404000;0028;0063",
+      "desc": "74卷40期1838號 28~63頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7404000;0063;0069",
+      "desc": "74卷40期1838號 63~69頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 教育"
+    }
+  ],
+  "1985.05.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7404100;0014;0020",
+      "desc": "74卷41期1839號 14~20頁",
+      "progress": "三讀",
+      "committee": "內政 教育"
+    }
+  ],
+  "2002.04.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912101;0008;0008",
+      "desc": "91卷21期3217號上冊 8~8頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912101;0100;0101",
+      "desc": "91卷21期3217號上冊 100~101頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912101;0108;0109",
+      "desc": "91卷21期3217號上冊 108~109頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912101;0128;0129",
+      "desc": "91卷21期3217號上冊 128~129頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2009.03.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@981401;0004;0005",
+      "desc": "98卷14期3700號一冊 4~5頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "57-181",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccfcdc8cdc5cac8d2cec7ce"
+      }
+    }
+  ],
+  "2009.04.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982700;0254;0276",
+      "desc": "98卷27期3713號 254~276頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2009.05.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982800;0136;0139",
+      "desc": "98卷28期3714號 136~139頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982800;0139;0139",
+      "desc": "98卷28期3714號 139~139頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ]
+}

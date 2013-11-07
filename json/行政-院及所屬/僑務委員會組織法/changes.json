@@ -1,0 +1,382 @@
+{
+  "1971.06.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047410001;0004;0004",
+      "desc": "60卷41期395號 4~4頁",
+      "progress": "一讀",
+      "committee": "法制 僑政"
+    }
+  ],
+  "1971.10.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@60481000002;0038;0044",
+      "desc": "60卷100期453號 38~44頁",
+      "progress": "委員會審查",
+      "committee": "法制 僑政"
+    }
+  ],
+  "1971.10.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6148020002;0006;0011",
+      "desc": "61卷2期455號 6~11頁",
+      "progress": "委員會審查",
+      "committee": "法制 僑政"
+    }
+  ],
+  "1972.03.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149450002;0030;0038",
+      "desc": "61卷45期498號 30~38頁",
+      "progress": "委員會審查",
+      "committee": "法制 僑政"
+    }
+  ],
+  "1972.03.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149460002;0035;0045",
+      "desc": "61卷46期499號 35~45頁",
+      "progress": "委員會審查",
+      "committee": "法制 僑政"
+    }
+  ],
+  "1972.03.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149480002;0007;0015",
+      "desc": "61卷48期501號 7~15頁",
+      "progress": "委員會審查",
+      "committee": "法制 僑政"
+    }
+  ],
+  "1972.05.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149410001;0016;0039",
+      "desc": "61卷41期494號 16~39頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 僑政"
+    }
+  ],
+  "1972.06.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149440001;0006;0021",
+      "desc": "61卷44期497號 6~21頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 僑政"
+    }
+  ],
+  "1972.07.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149550001;0003;0004",
+      "desc": "61卷55期508號 3~4頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 僑政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149550001;0006;0024",
+      "desc": "61卷55期508號 6~24頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 僑政"
+    }
+  ],
+  "1972.07.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149560001;0019;0030",
+      "desc": "61卷56期509號 19~30頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 僑政"
+    }
+  ],
+  "1972.07.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149600001;0003;0023",
+      "desc": "61卷60期513號 3~23頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 僑政"
+    }
+  ],
+  "1972.08.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149610001;0002;0003",
+      "desc": "61卷61期514號 2~3頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 僑政"
+    }
+  ],
+  "1972.08.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149620001;0002;0013",
+      "desc": "61卷62期515號 2~13頁",
+      "progress": "三讀",
+      "committee": "法制 僑政"
+    }
+  ],
+  "1981.10.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70688300;0002;0002",
+      "desc": "70卷83期1464號 2~2頁",
+      "progress": "一讀",
+      "committee": "僑政 法制",
+      "misc": {
+        "content": "10-20",
+        "link": "/lgcgi/lgmeetimage?cfcec9c7cfcbcfcfc5cecfd2cdcf"
+      }
+    }
+  ],
+  "1981.10.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71681700;0147;0157",
+      "desc": "71卷17期1502號 147~157頁",
+      "progress": "委員會審查",
+      "committee": "僑政 法制"
+    }
+  ],
+  "1981.11.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71681800;0136;0148",
+      "desc": "71卷18期1503號 136~148頁",
+      "progress": "委員會審查",
+      "committee": "僑政 法制"
+    }
+  ],
+  "1981.11.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71691900;0133;0140",
+      "desc": "71卷19期1504號 133~140頁",
+      "progress": "委員會審查",
+      "committee": "僑政 法制"
+    }
+  ],
+  "1981.11.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70689400;0005;0026",
+      "desc": "70卷94期1475號 5~26頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "僑政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70689400;0026;0044",
+      "desc": "70卷94期1475號 26~44頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "僑政 法制"
+    }
+  ],
+  "1981.11.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70689500;0005;0026",
+      "desc": "70卷95期1476號 5~26頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "僑政 法制"
+    }
+  ],
+  "1981.12.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70689600;0004;0006",
+      "desc": "70卷96期1477號 4~6頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "僑政 法制"
+    }
+  ],
+  "1981.12.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70689700;0014;0021",
+      "desc": "70卷97期1478號 14~21頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "僑政 法制"
+    }
+  ],
+  "1981.12.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70689800;0005;0005",
+      "desc": "70卷98期1479號 5~5頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "僑政 法制"
+    }
+  ],
+  "1981.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70689900;0005;0008",
+      "desc": "70卷99期1480號 5~8頁",
+      "progress": "三讀",
+      "committee": "僑政 法制"
+    }
+  ],
+  "1992.06.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8105301;0002;0002",
+      "desc": "81卷53期2581號上冊 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 外交",
+      "misc": {
+        "content": "52-63",
+        "link": "/lgcgi/lgmeetimage?cfcec7c6cccecfcfc5cacdd2c9cc"
+      }
+    }
+  ],
+  "1993.07.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824500;0003;0004",
+      "desc": "82卷45期2644號 3~4頁",
+      "progress": "一讀",
+      "committee": "法制 外交",
+      "misc": {
+        "content": "79-81",
+        "link": "/lgcgi/lgmeetimage?cfcdcfcecccccfcec5c8c6d2c7ce"
+      }
+    }
+  ],
+  "1997.04.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@861501;0004;0004",
+      "desc": "86卷15期2907號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "法制 外交"
+    }
+  ],
+  "1997.09.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@863500;0007;0007",
+      "desc": "86卷35期2927號 7~7頁",
+      "progress": "一讀",
+      "committee": "法制 外交"
+    }
+  ],
+  "1997.12.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@865703;0019;0033",
+      "desc": "86卷57期2949號下冊 19~33頁",
+      "progress": "委員會審查",
+      "committee": "法制 外交"
+    }
+  ],
+  "1997.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@870101;0034;0049",
+      "desc": "87卷1期2950號上冊 34~49頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 外交"
+    }
+  ],
+  "1998.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@870401;0116;0129",
+      "desc": "87卷4期2953號上冊 116~129頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@870401;0129;0176",
+      "desc": "87卷4期2953號上冊 129~176頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 外交"
+    }
+  ],
+  "1992.01.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@870401;0176;0177",
+      "desc": "87卷4期2953號上冊 176~177頁",
+      "progress": "三讀",
+      "committee": "法制 外交"
+    }
+  ],
+  "2005.03.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@941200;0006;0006",
+      "desc": "94卷12期3394號 6~6頁",
+      "progress": "一讀",
+      "committee": "法制 外交",
+      "misc": {
+        "content": "380-406",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5ccc7cfd2cbcfc9"
+      }
+    }
+  ],
+  "2005.05.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944300;0053;0056",
+      "desc": "94卷43期3425號 53~56頁",
+      "progress": "委員會審查",
+      "committee": "法制 外交"
+    }
+  ],
+  "2005.11.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@946300;0211;0250",
+      "desc": "94卷63期3445號 211~250頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 外交",
+      "misc": {
+        "content": "589-634",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcfcccfcdc5cac7c6d2c9cccb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@946300;0258;0258",
+      "desc": "94卷63期3445號 258~258頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@946300;0258;0259",
+      "desc": "94卷63期3445號 258~259頁",
+      "progress": "三讀",
+      "committee": "法制 外交"
+    }
+  ],
+  "2010.12.10": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09908001;0005;0005",
+      "desc": "99卷80期3845號一冊 5~5頁",
+      "progress": "一讀",
+      "committee": "司法及法制 外交及國防",
+      "misc": {
+        "content": "292-300",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc9cececfcec5cdc6cdd2cccfcf"
+      }
+    }
+  ],
+  "2011.04.18": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003301;0102;0177",
+      "desc": "100卷33期3885號 102~177頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制 外交及國防"
+    }
+  ],
+  "2011.05.06": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003701;0145;0157",
+      "desc": "100卷37期3889號一冊 145~157頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制 外交及國防"
+    }
+  ],
+  "2011.06.13": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004903;1383;1383",
+      "desc": "100卷49期3901號三冊 1383~1383頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制 外交及國防"
+    }
+  ],
+  "2011.06.14": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004905;2238;2243",
+      "desc": "100卷49期3901號五冊 2238~2243頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制 外交及國防"
+    }
+  ],
+  "2011.10.28": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10006601;0052;0053",
+      "desc": "100卷66期3918號 52~53頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制 外交及國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10006601;0053;0053",
+      "desc": "100卷66期3918號 53~53頁",
+      "progress": "三讀",
+      "committee": "司法及法制 外交及國防"
+    }
+  ]
+}

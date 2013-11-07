@@ -1,0 +1,64 @@
+{
+  "1954.03.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431302;0059;0059",
+      "desc": "43卷13期號2冊 59~59頁",
+      "progress": "一讀",
+      "committee": "內政 法制"
+    }
+  ],
+  "1954.10.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431401;0009;0021",
+      "desc": "43卷14期號1冊 9~21頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431401;0045;0046",
+      "desc": "43卷14期號1冊 45~46頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431401;0047;0051",
+      "desc": "43卷14期號1冊 47~51頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431401;0051;0054",
+      "desc": "43卷14期號1冊 51~54頁",
+      "progress": "三讀",
+      "committee": "內政 法制"
+    }
+  ],
+  "1999.10.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884601;0004;0004",
+      "desc": "88卷46期3046號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "282-286",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc9cfcec5cdc7cdd2cdc7c9"
+      }
+    }
+  ],
+  "2000.03.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891400;0037;0037",
+      "desc": "89卷14期3073號 37~37頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2000.04.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891500;0045;0048",
+      "desc": "89卷15期3074號 45~48頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

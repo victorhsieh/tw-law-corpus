@@ -1,0 +1,91 @@
+{
+  "unknown": [
+    {
+      "error": "...",
+      "misc": {
+        "content": "4-9",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc6cfcec5cbd2c6"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "255-291",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececccfcdc5cdcacad2cdc6ce"
+      }
+    }
+  ],
+  "2008.05.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@972900;0009;0009",
+      "desc": "97卷29期3640號 9~9頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "242-251",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecececfcec5cdcbcdd2cdcace"
+      }
+    }
+  ],
+  "2008.06.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@974500;0002;0002",
+      "desc": "97卷45期3656號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "75-88",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecec8cfcec5c8cad2c7c7"
+      }
+    }
+  ],
+  "2009.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980302;0006;0006",
+      "desc": "98卷3期3689號二冊 6~6頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "148-158",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcec9cfcec5cecbc7d2cecac7"
+      }
+    }
+  ],
+  "2009.03.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@981200;0002;0002",
+      "desc": "98卷12期3698號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "29-30",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccfcac8cdc5cdc6d2cccf"
+      }
+    }
+  ],
+  "2009.04.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982300;0004;0058",
+      "desc": "98卷23期3709號 4~58頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "2009.04.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982400;0175;0229",
+      "desc": "98卷24期3710號 175~229頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982400;0229;0229",
+      "desc": "98卷24期3710號 229~229頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ]
+}

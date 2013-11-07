@@ -1,0 +1,34 @@
+{
+  "1984.07.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7305800;0029;0029",
+      "desc": "73卷58期1752號 29~29頁",
+      "progress": "一讀",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "844-848",
+        "link": "/lgcgi/lgmeetimage?cfcec8cccfc7cfcfc5c7cbcbd2c7cbc7"
+      }
+    }
+  ],
+  "1985.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7407900;0129;0131",
+      "desc": "74卷79期1877號 129~131頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "1985.10.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7408100;0006;0008",
+      "desc": "74卷81期1879號 6~8頁",
+      "progress": "三讀",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "202-208",
+        "link": "/lgcgi/lgmeetimage?cfcec8c9cfcccfcfc5cdcfcdd2cdcfc7"
+      }
+    }
+  ]
+}

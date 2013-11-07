@@ -1,0 +1,60 @@
+{
+  "2000.05.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@892400;0003;0003",
+      "desc": "89卷24期3083號 3~3頁",
+      "progress": "一讀",
+      "committee": "內政 衛生 法制",
+      "misc": {
+        "content": "513-522",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccecbcfcfc5caceccd2cacdcd"
+      }
+    }
+  ],
+  "2001.04.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@901501;0005;0005",
+      "desc": "90卷15期3149號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "內政 衛生 法制",
+      "misc": {
+        "content": "484-492",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacfcbcfcfc5cbc7cbd2cbc6cd"
+      }
+    }
+  ],
+  "2000.06.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@893602;0099;0126",
+      "desc": "89卷36期3095號中冊 99~126頁",
+      "progress": "委員會審查",
+      "committee": "內政 衛生 法制"
+    }
+  ],
+  "2001.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@902602;0189;0219",
+      "desc": "90卷26期3160號二冊 189~219頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 衛生 法制",
+      "misc": {
+        "content": "686-724",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacfc9cfcdc5c9c7c9d2c8cdcb"
+      }
+    }
+  ],
+  "2001.10.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904703;0833;0836",
+      "desc": "90卷47期3181號下冊 833~836頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 衛生 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904703;0836;0838",
+      "desc": "90卷47期3181號下冊 836~838頁",
+      "progress": "三讀",
+      "committee": "內政 衛生 法制"
+    }
+  ]
+}

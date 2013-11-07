@@ -1,0 +1,84 @@
+{
+  "unknown": [
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    }
+  ],
+  "2000.12.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896901;0004;0004",
+      "desc": "89卷69期3128號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "189-192",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcbcececfcec5cec7c6d2cec6cd"
+      }
+    }
+  ],
+  "2001.01.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@900501;0004;0004",
+      "desc": "90卷5期3139號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "214-216",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcbcec7cfcfc5cdcecbd2cdcec9"
+      }
+    }
+  ],
+  "2001.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@906000;0005;0005",
+      "desc": "90卷60期3194號 5~5頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "517-525",
+        "link": "/lgcgi/lgmeetimage?cfcbcfc9cfc6cfcec5cacec8d2cacdca"
+      }
+    }
+  ],
+  "2001.12.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@910900;0125;0129",
+      "desc": "91卷9期3205號 125~129頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "2002.01.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@910503;0629;0653",
+      "desc": "91卷5期3201號下冊 629~653頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制",
+      "misc": {
+        "content": "137-159",
+        "link": "/lgcgi/lgmeetimage?cfcbcfc9cecdcfccc5ceccc8d2cecac6"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@910503;0653;0653",
+      "desc": "91卷5期3201號下冊 653~653頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

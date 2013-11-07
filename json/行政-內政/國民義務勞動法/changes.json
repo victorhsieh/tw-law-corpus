@@ -1,0 +1,30 @@
+{
+  "1979.05.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68633900;0002;0002",
+      "desc": "68卷39期1211號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "648-653",
+        "link": "/lgcgi/lgmeetimage?cfcec9cccfcccfcfc5c9cbc7d2c9cacc"
+      }
+    }
+  ],
+  "1979.06.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68637100;0004;0005",
+      "desc": "68卷71期1243號 4~5頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "1979.11.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68649000;0003;0005",
+      "desc": "68卷90期1262號 3~5頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ]
+}

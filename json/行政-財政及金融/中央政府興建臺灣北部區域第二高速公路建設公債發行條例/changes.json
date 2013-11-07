@@ -1,0 +1,46 @@
+{
+  "1986.11.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7509600;0002;0002",
+      "desc": "75卷96期1998號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "1015-1019",
+        "link": "/lgcgi/lgmeetimage?cfcec8c7cfc9cfcfc5cecfcecad2cecfcec6"
+      }
+    }
+  ],
+  "1986.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7602100;0119;0122",
+      "desc": "76卷21期2028號 119~122頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1987.01.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7600300;0012;0023",
+      "desc": "76卷3期2010號 12~23頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    }
+  ],
+  "1987.01.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7600400;0004;0012",
+      "desc": "76卷4期2011號 4~12頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    }
+  ],
+  "1987.01.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7600400;0091;0092",
+      "desc": "76卷4期2011號 91~92頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ]
+}

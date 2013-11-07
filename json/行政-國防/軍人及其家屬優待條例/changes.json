@@ -1,0 +1,194 @@
+{
+  "1958.07.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@472117;0042;0043",
+      "desc": "47卷21期號17冊 42~43頁",
+      "progress": "一讀",
+      "committee": "內政 國防"
+    }
+  ],
+  "1958.12.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@472213;0028;0043",
+      "desc": "48卷22期號13冊 28~43頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 國防"
+    }
+  ],
+  "1958.12.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482214;0006;0026",
+      "desc": "48卷22期號14冊 6~26頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 國防"
+    }
+  ],
+  "1958.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482214;0029;0055",
+      "desc": "48卷22期號14冊 29~55頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 國防"
+    }
+  ],
+  "1958.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482215;0021;0022",
+      "desc": "48卷22期號15冊 21~22頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 國防"
+    }
+  ],
+  "1959.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482217;0040;0058",
+      "desc": "48卷22期號17冊 40~58頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 國防"
+    }
+  ],
+  "1959.01.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482217;0003;0025",
+      "desc": "48卷22期號17冊 3~25頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482217;0072;0073",
+      "desc": "48卷22期號17冊 72~73頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 國防"
+    }
+  ],
+  "1960.12.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@492608;0087;0105",
+      "desc": "50卷26期號8冊 87~105頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@492608;0105;0107",
+      "desc": "50卷26期號8冊 105~107頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 國防"
+    }
+  ],
+  "1960.12.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@492609;0012;0034",
+      "desc": "50卷26期號9冊 12~34頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@492609;0042;0065",
+      "desc": "50卷26期號9冊 42~65頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 國防"
+    }
+  ],
+  "1960.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@492610;0008;0032",
+      "desc": "50卷26期號10冊 8~32頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 國防"
+    }
+  ],
+  "1960.12.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@492610;0033;0043",
+      "desc": "50卷26期號10冊 33~43頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 國防"
+    }
+  ],
+  "1960.12.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@502611;0004;0028",
+      "desc": "50卷26期號11冊 4~28頁",
+      "progress": "三讀",
+      "committee": "內政 國防"
+    }
+  ],
+  "2000.03.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891201;0006;0007",
+      "desc": "89卷12期3071號上冊 6~7頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "678-735",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccfcdcfcec5c9c8c7d2c8ccca"
+      }
+    }
+  ],
+  "2000.06.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@893903;0173;0202",
+      "desc": "89卷39期3098號下冊 173~202頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2000.10.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@895701;0099;0104",
+      "desc": "89卷57期3116號上冊 99~104頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政",
+      "misc": {
+        "content": "431-436",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccdc8cfcfc5cbccced2cbccc9"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@895701;0104;0104",
+      "desc": "89卷57期3116號上冊 104~104頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@895701;0104;0104",
+      "desc": "89卷57期3116號上冊 104~104頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ],
+  "2008.05.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@972500;0004;0004",
+      "desc": "97卷025期3636號 4~4頁",
+      "progress": "一讀",
+      "committee": "外交",
+      "misc": {
+        "content": "111-112",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcececfc8cdc5cececed2cececd"
+      }
+    }
+  ],
+  "2008.06.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@974400;0300;0306",
+      "desc": "97卷044期3655號 300~306頁",
+      "progress": "委員會審查",
+      "committee": "外交"
+    }
+  ],
+  "2008.07.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@974700;0149;0153",
+      "desc": "97卷047期3658號 149~153頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@974700;0153;0153",
+      "desc": "97卷047期3658號 153~153頁",
+      "progress": "三讀",
+      "committee": "外交"
+    }
+  ]
+}

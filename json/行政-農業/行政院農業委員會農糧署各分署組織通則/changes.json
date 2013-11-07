@@ -1,0 +1,48 @@
+{
+  "2002.12.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920101;0007;0008",
+      "desc": "92卷1期3275號一冊 7~8頁",
+      "progress": "一讀",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "429-542",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcecbcfcec5cbcdc6d2cacbcd"
+      }
+    }
+  ],
+  "2003.12.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@930301;0021;0044",
+      "desc": "93卷3期3337號上冊 21~44頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "2003.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@930201;0030;0047",
+      "desc": "93卷2期3336號上冊 30~47頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "554-573",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcec9cfcfc5cacacbd2cac8cc"
+      }
+    }
+  ],
+  "2004.01.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@930401;0049;0054",
+      "desc": "93卷4期3338號上冊 49~54頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@930401;0054;0054",
+      "desc": "93卷4期3338號上冊 54~54頁",
+      "progress": "三讀",
+      "committee": "法制 經濟"
+    }
+  ]
+}

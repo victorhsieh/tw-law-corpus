@@ -1,0 +1,84 @@
+{
+  "1982.11.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71709400;0002;0002",
+      "desc": "71卷94期1579號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "29-35",
+        "link": "/lgcgi/lgmeetimage?cfcec8cfcfcbcfcfc5cdc6d2ccca"
+      }
+    }
+  ],
+  "1983.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72716300;0036;0052",
+      "desc": "72卷63期1652號 36~52頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1983.05.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72716600;0028;0028",
+      "desc": "72卷66期1655號 28~28頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1983.11.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7305000;0097;0102",
+      "desc": "73卷50期1744號 97~102頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1984.04.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7306700;0024;0026",
+      "desc": "73卷67期1761號 24~26頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1984.05.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7303500;0010;0042",
+      "desc": "73卷35期1729號 10~42頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1984.05.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7303700;0004;0008",
+      "desc": "73卷37期1731號 4~8頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7303700;0008;0028",
+      "desc": "73卷37期1731號 8~28頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1984.11.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7309100;0016;0022",
+      "desc": "73卷91期1785號 16~22頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1984.11.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7309200;0007;0008",
+      "desc": "73卷92期1786號 7~8頁",
+      "progress": "三讀",
+      "committee": "法制 經濟"
+    }
+  ]
+}

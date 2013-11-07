@@ -1,0 +1,70 @@
+{
+  "1995.04.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@842100;0001;0002",
+      "desc": "84卷21期2778號 1~2頁",
+      "progress": "一讀",
+      "committee": "教育 預算 財政"
+    }
+  ],
+  "1995.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@846303;0001;0022",
+      "desc": "84卷63期2820號下冊 1~22頁",
+      "progress": "委員會審查",
+      "committee": "教育 預算 財政"
+    }
+  ],
+  "1999.01.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880601;0166;0175",
+      "desc": "88卷6期3006號一冊 166~175頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育 預算 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880601;0175;0176",
+      "desc": "88卷6期3006號一冊 175~176頁",
+      "progress": "三讀",
+      "committee": "教育 預算 財政"
+    }
+  ],
+  "2001.04.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@902101;0007;0007",
+      "desc": "90卷21期3155號上冊 7~7頁",
+      "progress": "一讀",
+      "committee": "教育",
+      "misc": {
+        "content": "345-349",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacfcbcfcbc5cccbcad2cccbc6"
+      }
+    }
+  ],
+  "2001.05.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@903700;0046;0063",
+      "desc": "90卷37期3171號 46~63頁",
+      "progress": "委員會審查",
+      "committee": "教育"
+    }
+  ],
+  "2001.12.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905801;0132;0139",
+      "desc": "90卷58期3192號一冊 132~139頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育",
+      "misc": {
+        "content": "740-749",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacecdcfcec5c8cbcfd2c8cbc6"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905801;0139;0142",
+      "desc": "90卷58期3192號一冊 139~142頁",
+      "progress": "三讀",
+      "committee": "教育"
+    }
+  ]
+}

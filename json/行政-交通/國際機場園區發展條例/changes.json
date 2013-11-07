@@ -1,0 +1,104 @@
+{
+  "2008.02.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@970200;0002;0002",
+      "desc": "97卷2期3613號 2~2頁",
+      "progress": "一讀",
+      "committee": "交通 內政",
+      "misc": {
+        "content": "53-80",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecfcdcfcec5caccd2c7cf"
+      }
+    }
+  ],
+  "2008.11.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976700;0043;0044",
+      "desc": "97卷67期3678號 43~44頁",
+      "progress": "一讀",
+      "committee": "交通 內政",
+      "misc": {
+        "content": "115-130",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcfc6c8cdc5cececad2cecccf"
+      }
+    }
+  ],
+  "2008.04.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@972000;0031;0111",
+      "desc": "97卷20期3631號 31~111頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政"
+    }
+  ],
+  "2008.04.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@972000;0112;0126",
+      "desc": "97卷20期3631號 112~126頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政"
+    }
+  ],
+  "2008.05.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@973200;0143;0144",
+      "desc": "97卷32期3643號 143~144頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政"
+    }
+  ],
+  "2008.12.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@977400;0235;0308",
+      "desc": "97卷74期3685號 235~308頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政"
+    }
+  ],
+  "2008.12.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@977500;0177;0189",
+      "desc": "97卷75期3686號 177~189頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "交通 內政"
+    }
+  ],
+  "2008.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980301;0144;0145",
+      "desc": "98卷3期3689號一冊 144~145頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "交通 內政"
+    }
+  ],
+  "2009.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980302;0227;0227",
+      "desc": "98卷3期3689號二冊 227~227頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "交通 內政"
+    }
+  ],
+  "2009.01.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980501;0198;0198",
+      "desc": "98卷5期3691號一冊 198~198頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "交通 內政"
+    }
+  ],
+  "2009.01.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980502;0162;0172",
+      "desc": "98卷5期3691號二冊 162~172頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980502;0172;0173",
+      "desc": "98卷5期3691號二冊 172~173頁",
+      "progress": "三讀",
+      "committee": "交通 內政"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "2000.05.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@893000;0005;0006",
+      "desc": "89卷30期3089號 5~6頁",
+      "progress": "一讀",
+      "committee": "科技 司法",
+      "misc": {
+        "content": "261-294",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccdcfcfcfc5cdc9ced2cdc6cb"
+      }
+    }
+  ],
+  "2000.11.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896803;0057;0089",
+      "desc": "89卷68期3127號下冊 57~89頁",
+      "progress": "委員會審查",
+      "committee": "科技 司法"
+    }
+  ],
+  "2000.11.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896803;0090;0107",
+      "desc": "89卷68期3127號下冊 90~107頁",
+      "progress": "委員會審查",
+      "committee": "科技 司法"
+    }
+  ],
+  "2000.11.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896803;0108;0136",
+      "desc": "89卷68期3127號下冊 108~136頁",
+      "progress": "委員會審查",
+      "committee": "科技 司法"
+    }
+  ],
+  "2001.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@902602;0235;0235",
+      "desc": "90卷26期3160號二冊 235~235頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "科技 司法",
+      "misc": {
+        "content": "742-794",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacfc9cfcdc5c8cbcdd2c8c6cb"
+      }
+    }
+  ],
+  "2001.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@902801;0138;0189",
+      "desc": "90卷28期3162號上冊 138~189頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "科技 司法"
+    }
+  ],
+  "2001.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@903001;0321;0321",
+      "desc": "90卷30期3164號一冊 321~321頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "科技 司法"
+    }
+  ],
+  "2002.01.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@910501;0147;0206",
+      "desc": "91卷5期3201號上冊 147~206頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "科技 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@910501;0206;0206",
+      "desc": "91卷5期3201號上冊 206~206頁",
+      "progress": "三讀",
+      "committee": "科技 司法"
+    }
+  ]
+}

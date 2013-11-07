@@ -1,0 +1,42 @@
+{
+  "1970.12.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5946900001;0002;0002",
+      "desc": "59卷90期號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1970.12.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047230002;0007;0025",
+      "desc": "60卷23期377號 7~25頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1970.12.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047240002;0013;0019",
+      "desc": "60卷24期378號 13~19頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1970.12.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047250002;0007;0024",
+      "desc": "60卷25期379號 7~24頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1970.12.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5946970001;0003;0013",
+      "desc": "59卷97期號 3~13頁",
+      "progress": "三讀",
+      "committee": "財政 經濟"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "1994.01.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@830300;0057;0062",
+      "desc": "83卷3期2677號 57~62頁",
+      "progress": "一讀",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@830300;0059;0062",
+      "desc": "83卷3期2677號 59~62頁",
+      "progress": "一讀",
+      "committee": "法制"
+    }
+  ],
+  "1994.06.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@834503;0363;0378",
+      "desc": "83卷45期2719號下冊 363~378頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1995.12.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@846400;0028;0040",
+      "desc": "84卷64期2821號 28~40頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@846400;0040;0042",
+      "desc": "84卷64期2821號 40~42頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@846400;0042;0042",
+      "desc": "84卷64期2821號 42~42頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ],
+  "1995.04.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@842401;0002;0002",
+      "desc": "84卷24期2781號上冊 2~2頁",
+      "progress": "一讀",
+      "committee": "法制"
+    }
+  ],
+  "1996.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@855300;0005;0005",
+      "desc": "85卷53期2875號 5~5頁",
+      "progress": "一讀",
+      "committee": "法制"
+    }
+  ],
+  "1996.10.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@855401;0006;0006",
+      "desc": "85卷54期2876號上冊 6~6頁",
+      "progress": "一讀",
+      "committee": "法制"
+    }
+  ],
+  "1996.11.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@856303;0121;0162",
+      "desc": "85卷63期2885號下冊 121~162頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "2000.06.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@893901;0208;0219",
+      "desc": "89卷39期3098號上冊 208~219頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@893901;0219;0224",
+      "desc": "89卷39期3098號上冊 219~224頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "1972.12.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6150970001;0002;0002",
+      "desc": "61卷97期550號 2~2頁",
+      "progress": "一讀",
+      "committee": "交通"
+    }
+  ],
+  "1972.12.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6250030002;0013;0016",
+      "desc": "62卷3期559號 13~16頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "1973.03.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251180001;0003;0005",
+      "desc": "62卷18期574號 3~5頁",
+      "progress": "三讀",
+      "committee": "交通"
+    }
+  ]
+}

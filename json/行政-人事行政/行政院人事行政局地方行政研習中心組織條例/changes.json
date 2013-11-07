@@ -1,0 +1,26 @@
+{
+  "2002.06.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914001;0229;0234",
+      "desc": "91卷40期3236號一冊 229~234頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "676-687",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececacfcec5c9c8c9d2c9c7c8"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914001;0235;0236",
+      "desc": "91卷40期3236號一冊 235~236頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914001;0236;0236",
+      "desc": "91卷40期3236號一冊 236~236頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

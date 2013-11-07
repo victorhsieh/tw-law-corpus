@@ -1,0 +1,62 @@
+{
+  "2010.01.07": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09900501;0003;0003",
+      "desc": "99卷5期3770號一冊 3~3頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "79-84",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcec8c8cdc5c8c6d2c7cb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09900501;0004;0004",
+      "desc": "99卷5期3770號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "107-113",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcec8c8cdc5cecfc8d2cececc"
+      }
+    }
+  ],
+  "2010.02.23": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09900901;0002;0002",
+      "desc": "99卷9期3774號一冊 2~2頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "37-42",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacfcec8cdc5ccc8d2cbcd"
+      }
+    }
+  ],
+  "2010.02.26": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09901001;0002;0003",
+      "desc": "99卷10期3775號 2~3頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "35-40",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacfcdc8cdc5cccad2cbcf"
+      }
+    }
+  ],
+  "2010.04.20": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902602;0251;0258",
+      "desc": "99卷26期3791號二冊 251~258頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902602;0258;0259",
+      "desc": "99卷26期3791號二冊 258~259頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "1985.06.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7404600;0002;0002",
+      "desc": "74卷46期1844號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政 經濟",
+      "misc": {
+        "content": "222-226",
+        "link": "/lgcgi/lgmeetimage?cfcec8cacfc9cfcfc5cdcdcdd2cdcdc9"
+      }
+    }
+  ],
+  "1985.06.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7407200;0002;0010",
+      "desc": "74卷72期1870號 2~10頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1985.06.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7407500;0026;0029",
+      "desc": "74卷75期1873號 26~29頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1985.06.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7405100;0005;0017",
+      "desc": "74卷51期1849號 5~17頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7405100;0017;0017",
+      "desc": "74卷51期1849號 17~17頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7405100;0017;0017",
+      "desc": "74卷51期1849號 17~17頁",
+      "progress": "三讀",
+      "committee": "財政 經濟"
+    }
+  ],
+  "2002.04.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913001;0013;0013",
+      "desc": "91卷30期3226號上冊 13~13頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "128-130",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc6cfcec5cecdc7d2cecccf"
+      }
+    }
+  ],
+  "2002.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@933405;0139;0148",
+      "desc": "93卷34期3368號五冊 139~148頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1994.06.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@933401;0208;0213",
+      "desc": "93卷34期3368號一冊 208~213頁",
+      "progress": "三讀",
+      "committee": "財政",
+      "misc": {
+        "content": "500-506",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacecbcfcec5cacfcfd2cacfc9"
+      }
+    }
+  ]
+}

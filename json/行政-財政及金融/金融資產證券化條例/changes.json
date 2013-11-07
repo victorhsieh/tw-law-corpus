@@ -1,0 +1,60 @@
+{
+  "2002.03.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912000;0007;0007",
+      "desc": "91卷20期3216號 7~7頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "491-532",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcbcfcec5cbc6ced2cacccd"
+      }
+    }
+  ],
+  "2002.05.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913701;0004;0004",
+      "desc": "91卷37期3233號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "157-201",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececbcfcfc5cecac8d2cdcfce"
+      }
+    }
+  ],
+  "2002.04.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913703;0163;0207",
+      "desc": "91卷37期3233號下冊 163~207頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "2002.05.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914803;0197;0258",
+      "desc": "91卷48期3244號下冊 197~258頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "2002.06.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914502;0409;0590",
+      "desc": "91卷45期3241號二冊 409~590頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政",
+      "misc": {
+        "content": "80-255",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecec8cfcdc5c7cfd2cdcaca"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914502;0590;0613",
+      "desc": "91卷45期3241號二冊 590~613頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ]
+}

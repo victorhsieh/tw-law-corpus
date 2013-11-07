@@ -1,0 +1,128 @@
+{
+  "1999.12.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885601;0003;0004",
+      "desc": "88卷56期3056號一冊 3~4頁",
+      "progress": "一讀",
+      "committee": "科技 經濟 司法",
+      "misc": {
+        "content": "617-633",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc6cfccc5c9cec8d2c9cccc"
+      }
+    }
+  ],
+  "2000.03.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891300;0019;0019",
+      "desc": "89卷13期3072號 19~19頁",
+      "progress": "一讀",
+      "committee": "科技 經濟 司法",
+      "misc": {
+        "content": "577-588",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcecbcfcfc5cac8c8d2cac7c7"
+      }
+    }
+  ],
+  "2000.06.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@893901;0004;0004",
+      "desc": "89卷39期3098號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "科技 經濟 司法",
+      "misc": {
+        "content": "212-222",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccdc7cfcec5cdcecdd2cdcdcd"
+      }
+    }
+  ],
+  "2000.07.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@894301;0003;0003",
+      "desc": "89卷43期3102號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "科技 經濟 司法",
+      "misc": {
+        "content": "100-109",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccccfcfcec5cecfcfd2cecfc6"
+      }
+    }
+  ],
+  "2000.07.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@894501;0003;0003",
+      "desc": "89卷45期3104號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "科技 經濟 司法",
+      "misc": {
+        "content": "132-150",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccccecfcec5cecccdd2cecacf"
+      }
+    }
+  ],
+  "2001.03.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@901401;0007;0007",
+      "desc": "90卷14期3148號上冊 7~7頁",
+      "progress": "一讀",
+      "committee": "科技 經濟 司法",
+      "misc": {
+        "content": "276-296",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacfcdcfcdc5cdc8c9d2cdc6c9"
+      }
+    }
+  ],
+  "2001.05.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@903001;0004;0004",
+      "desc": "90卷30期3164號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "科技 經濟 司法",
+      "misc": {
+        "content": "434-453",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacecfcfcfc5cbcccbd2cbcacc"
+      }
+    }
+  ],
+  "2001.05.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@903800;0173;0191",
+      "desc": "90卷38期3172號 173~191頁",
+      "progress": "委員會審查",
+      "committee": "科技 經濟 司法"
+    }
+  ],
+  "2001.10.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904701;0047;0167",
+      "desc": "90卷47期3181號上冊 47~167頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "科技 經濟 司法",
+      "misc": {
+        "content": "442-559",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacecdcfcdc5cbcbcdd2cacac6"
+      }
+    }
+  ],
+  "2001.10.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905101;0120;0121",
+      "desc": "90卷51期3185號上冊 120~121頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "科技 經濟 司法"
+    }
+  ],
+  "2001.10.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905301;0164;0164",
+      "desc": "90卷53期3187號一冊 164~164頁",
+      "progress": "三讀",
+      "committee": "科技 經濟 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905301;0178;0184",
+      "desc": "90卷53期3187號一冊 178~184頁",
+      "progress": "三讀",
+      "committee": "科技 經濟 司法"
+    }
+  ]
+}

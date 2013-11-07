@@ -1,0 +1,82 @@
+{
+  "2006.02.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950703;0003;0003",
+      "desc": "95卷7期3468號三冊 3~3頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "101-117",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcccfcdcfcec5cecfced2cecec8"
+      }
+    }
+  ],
+  "2006.05.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@953201;0002;0002",
+      "desc": "95卷32期3493號一冊 2~2頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "109-133",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcccecacfcec5cecfc6d2cecccc"
+      }
+    }
+  ],
+  "2006.09.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@953701;0003;0003",
+      "desc": "95卷37期3498號一冊 3~3頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "337-365",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcbcfcecfcec5ccccc8d2ccc9ca"
+      }
+    }
+  ],
+  "2007.01.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@961400;0125;0201",
+      "desc": "96卷14期3537號 125~201頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2007.03.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@962001;0215;0302",
+      "desc": "96卷20期3543號一冊 215~302頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@962001;0302;0314",
+      "desc": "96卷20期3543號一冊 302~314頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@962001;0314;0314",
+      "desc": "96卷20期3543號一冊 314~314頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ],
+  "2007.03.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@962100;0263;0263",
+      "desc": "96卷21期3544號 263~263頁",
+      "progress": "復議",
+      "committee": "內政"
+    }
+  ],
+  "2007.11.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968000;0288;0289",
+      "desc": "96卷80期3603號 288~289頁",
+      "progress": "復議",
+      "committee": "內政"
+    }
+  ]
+}

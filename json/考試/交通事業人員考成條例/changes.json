@@ -1,0 +1,34 @@
+{
+  "2002.05.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913101;0003;0003",
+      "desc": "91卷31期3227號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "法制 交通",
+      "misc": {
+        "content": "135-146",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececfcfcec5cecccad2cecbc9"
+      }
+    }
+  ],
+  "2002.05.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914700;0021;0042",
+      "desc": "91卷47期3243號 21~42頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "2002.06.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914002;0711;0733",
+      "desc": "91卷40期3236號二冊 711~733頁",
+      "progress": "三讀",
+      "committee": "法制 交通",
+      "misc": {
+        "content": "214-234",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececbcfcbc5cdcecbd2cdcccb"
+      }
+    }
+  ]
+}

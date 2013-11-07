@@ -1,0 +1,30 @@
+{
+  "1979.04.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68633100;0002;0002",
+      "desc": "68卷31期1203號 2~2頁",
+      "progress": "一讀",
+      "committee": "教育 法制",
+      "misc": {
+        "content": "8-21",
+        "link": "/lgcgi/lgmeetimage?cfcec9cccfcccfcfc5c7d2cdce"
+      }
+    }
+  ],
+  "1979.10.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68648400;0002;0029",
+      "desc": "68卷84期1256號 2~29頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "教育 法制"
+    }
+  ],
+  "1979.11.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68648900;0011;0011",
+      "desc": "68卷89期1261號 11~11頁",
+      "progress": "三讀",
+      "committee": "教育 法制"
+    }
+  ]
+}

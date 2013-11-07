@@ -1,0 +1,60 @@
+{
+  "1954.10.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431401;0089;0089",
+      "desc": "43卷14期號1冊 89~89頁",
+      "progress": "一讀",
+      "committee": "法制 教育"
+    }
+  ],
+  "1954.12.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441407;0026;0031",
+      "desc": "44卷14期號7冊 26~31頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441407;0138;0139",
+      "desc": "44卷14期號7冊 138~139頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ],
+  "1954.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441406;0188;0190",
+      "desc": "44卷14期號6冊 188~190頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    }
+  ],
+  "2009.09.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984601;0006;0006",
+      "desc": "98卷46期3732號一冊 6~6頁",
+      "progress": "一讀",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "323-324",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcfcec8cdc5cccdccd2cccdcb"
+      }
+    }
+  ],
+  "2009.11.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@987101;0278;0315",
+      "desc": "98卷71期3757號一冊 278~315頁",
+      "progress": "委員會審查",
+      "committee": "教育及文化"
+    }
+  ],
+  "2009.12.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@987502;0206;0208",
+      "desc": "98卷75期3761號二冊 206~208頁",
+      "progress": "三讀",
+      "committee": "教育及文化"
+    }
+  ]
+}

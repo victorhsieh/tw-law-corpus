@@ -1,0 +1,106 @@
+{
+  "1954.07.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431306;0100;0100",
+      "desc": "43卷13期號6冊 100~100頁",
+      "progress": "一讀",
+      "committee": "財政 內政 民刑商法"
+    }
+  ],
+  "1954.12.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441407;0133;0134",
+      "desc": "44卷14期號7冊 133~134頁",
+      "progress": "一讀",
+      "committee": "財政 內政 民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441407;0144;0150",
+      "desc": "44卷14期號7冊 144~150頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 內政 民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441407;0150;0152",
+      "desc": "44卷14期號7冊 150~152頁",
+      "progress": "三讀",
+      "committee": "財政 內政 民刑商法"
+    }
+  ],
+  "1954.12.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441407;0034;0054",
+      "desc": "44卷14期號7冊 34~54頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 內政 民刑商法"
+    }
+  ],
+  "1964.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@533410;0143;0144",
+      "desc": "53卷34期號10冊 143~144頁",
+      "progress": "一讀",
+      "committee": "財政 內政 司法"
+    }
+  ],
+  "1966.04.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55370500;0042;0044",
+      "desc": "55卷37期號5冊 42~44頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 內政 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55370500;0044;0076",
+      "desc": "55卷37期號5冊 44~76頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 內政 司法"
+    }
+  ],
+  "1966.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55370500;0008;0008",
+      "desc": "55卷37期號5冊 8~8頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 內政 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55370500;0079;0087",
+      "desc": "55卷37期號5冊 79~87頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 內政 司法"
+    }
+  ],
+  "1966.04.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55370600;0008;0008",
+      "desc": "55卷37期號6冊 8~8頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 內政 司法"
+    }
+  ],
+  "1966.04.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55370600;0057;0064",
+      "desc": "55卷37期號6冊 57~64頁",
+      "progress": "三讀",
+      "committee": "財政 內政 司法"
+    }
+  ],
+  "1976.06.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6557440001;0002;0002",
+      "desc": "65卷44期903號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政 內政 司法"
+    }
+  ],
+  "1977.07.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@66595300;0003;0015",
+      "desc": "66卷53期1016號 3~15頁",
+      "progress": "三讀",
+      "committee": "財政 內政 司法"
+    }
+  ]
+}

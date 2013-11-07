@@ -1,0 +1,30 @@
+{
+  "1990.11.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7909200;0003;0003",
+      "desc": "79卷92期2412號 3~3頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "48-51",
+        "link": "/lgcgi/lgmeetimage?cfcec7c9cecbcfcfc5cbc7d2cace"
+      }
+    }
+  ],
+  "1991.11.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8009500;0531;0542",
+      "desc": "80卷95期2519號 531~542頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1993.07.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824603;0036;0038",
+      "desc": "82卷46期2645號下冊 36~38頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

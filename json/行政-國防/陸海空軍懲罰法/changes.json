@@ -1,0 +1,74 @@
+{
+  "1965.10.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@54360100;0153;0153",
+      "desc": "54卷36期號1冊 153~153頁",
+      "progress": "一讀",
+      "committee": "國防 司法"
+    }
+  ],
+  "1967.06.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56390606;0448;0450",
+      "desc": "56卷6期號6冊 448~450頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56390606;0450;0454",
+      "desc": "56卷6期號6冊 450~454頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 司法"
+    }
+  ],
+  "1967.06.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56390607;0462;0469",
+      "desc": "56卷7期號6冊 462~469頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 司法"
+    }
+  ],
+  "1967.06.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56390608;0534;0538",
+      "desc": "56卷8期號6冊 534~538頁",
+      "progress": "三讀",
+      "committee": "國防 司法"
+    }
+  ],
+  "2008.12.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@977100;0007;0007",
+      "desc": "97卷71期3682號 7~7頁",
+      "progress": "一讀",
+      "committee": "外交",
+      "misc": {
+        "content": "141-146",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcecdc8cdc5cecbced2cecbc9"
+      }
+    }
+  ],
+  "2008.12.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980200;0210;0222",
+      "desc": "98卷2期3688號 210~222頁",
+      "progress": "委員會審查",
+      "committee": "外交"
+    }
+  ],
+  "2008.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980301;0126;0137",
+      "desc": "98卷3期3689號一冊 126~137頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980301;0137;0137",
+      "desc": "98卷3期3689號一冊 137~137頁",
+      "progress": "三讀",
+      "committee": "外交"
+    }
+  ]
+}

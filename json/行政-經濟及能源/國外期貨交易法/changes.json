@@ -1,0 +1,90 @@
+{
+  "1990.03.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7902000;0003;0003",
+      "desc": "79卷20期2340號 3~3頁",
+      "progress": "一讀",
+      "committee": "經濟 財政 司法",
+      "misc": {
+        "content": "497-516",
+        "link": "/lgcgi/lgmeetimage?cfcec7cacfcccfcfc5cbc6c8d2cacec9"
+      }
+    }
+  ],
+  "1990.05.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7910000;0273;0287",
+      "desc": "79卷100期2420號 273~287頁",
+      "progress": "委員會審查",
+      "committee": "經濟 財政 司法"
+    }
+  ],
+  "1990.12.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8005900;0086;0101",
+      "desc": "80卷59期2483號 86~101頁",
+      "progress": "委員會審查",
+      "committee": "經濟 財政 司法"
+    }
+  ],
+  "1992.06.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8104800;0069;0103",
+      "desc": "81卷48期2576號 69~103頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟 財政 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8104800;0103;0106",
+      "desc": "81卷48期2576號 103~106頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 財政 司法"
+    }
+  ],
+  "1992.06.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8104901;0045;0082",
+      "desc": "81卷49期2577號上冊 45~82頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 財政 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8105000;0047;0056",
+      "desc": "81卷50期2578號 47~56頁",
+      "progress": "三讀",
+      "committee": "經濟 財政 司法"
+    }
+  ],
+  "1997.09.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@863500;0006;0006",
+      "desc": "86卷35期2927號 6~6頁",
+      "progress": "一讀",
+      "committee": "經濟 財政 司法",
+      "misc": {
+        "content": "503-511",
+        "link": "/lgcgi/lgmeetimage?cfcccfcbcfcdcfcdc5cacfccd2cacece"
+      }
+    }
+  ],
+  "1997.12.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@865400;0371;0374",
+      "desc": "86卷54期2946號 371~374頁",
+      "progress": "委員會審查",
+      "committee": "經濟 財政 司法"
+    }
+  ],
+  "1999.04.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@881901;0080;0086",
+      "desc": "88卷19期3019號上冊 80~86頁",
+      "progress": "三讀",
+      "committee": "經濟 財政 司法",
+      "misc": {
+        "content": "71-81",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcecfc7cfcdc5c8ced2c7ce"
+      }
+    }
+  ]
+}

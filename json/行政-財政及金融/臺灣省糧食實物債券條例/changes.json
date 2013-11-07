@@ -1,0 +1,92 @@
+{
+  "1968.01.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57400500;0234;0234",
+      "desc": "57卷5期號 234~234頁",
+      "progress": "一讀",
+      "committee": "財政 內政"
+    }
+  ],
+  "1968.03.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57412900;2654;2660",
+      "desc": "57卷29期號 2654~2660頁",
+      "progress": "委員會審查",
+      "committee": "財政 內政"
+    }
+  ],
+  "1968.06.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5741570002;0005;0008",
+      "desc": "57卷57期號 5~8頁",
+      "progress": "委員會審查",
+      "committee": "財政 內政"
+    }
+  ],
+  "1968.06.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5741570002;0008;0013",
+      "desc": "57卷57期號 8~13頁",
+      "progress": "委員會審查",
+      "committee": "財政 內政"
+    }
+  ],
+  "1968.07.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5741550001;0023;0043",
+      "desc": "57卷55期號 23~43頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 內政"
+    }
+  ],
+  "1968.07.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5741560001;0003;0007",
+      "desc": "57卷56期號 3~7頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 內政"
+    }
+  ],
+  "1968.08.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57415900;0007;0010",
+      "desc": "57卷59期號 7~10頁",
+      "progress": "三讀",
+      "committee": "財政 內政"
+    }
+  ],
+  "1985.06.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7405200;0002;0002",
+      "desc": "74卷52期1850號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政 內政",
+      "misc": {
+        "content": "14-17",
+        "link": "/lgcgi/lgmeetimage?cfcec8cacfc8cfcfc5cecbd2cec8"
+      }
+    }
+  ],
+  "1985.11.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7501200;0010;0011",
+      "desc": "75卷12期1914號 10~11頁",
+      "progress": "委員會審查",
+      "committee": "財政 內政"
+    }
+  ],
+  "1985.11.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7409300;0014;0018",
+      "desc": "74卷93期1891號 14~18頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7409300;0018;0018",
+      "desc": "74卷93期1891號 18~18頁",
+      "progress": "三讀",
+      "committee": "財政 內政"
+    }
+  ]
+}

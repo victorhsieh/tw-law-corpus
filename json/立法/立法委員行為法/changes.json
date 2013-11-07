@@ -1,0 +1,48 @@
+{
+  "1999.01.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880501;0153;0153",
+      "desc": "88卷5期3005號上冊 153~153頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880501;0153;0165",
+      "desc": "88卷5期3005號上冊 153~165頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880501;0165;0165",
+      "desc": "88卷5期3005號上冊 165~165頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2002.01.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911001;0002;0002",
+      "desc": "91卷10期3206號上冊 2~2頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "264-280",
+        "link": "/lgcgi/lgmeetimage?cfcbcfc9cecccfcfc5cdc9cbd2cdc7cf"
+      }
+    }
+  ],
+  "2002.01.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911001;0232;0250",
+      "desc": "91卷10期3206號上冊 232~250頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911001;0250;0250",
+      "desc": "91卷10期3206號上冊 250~250頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

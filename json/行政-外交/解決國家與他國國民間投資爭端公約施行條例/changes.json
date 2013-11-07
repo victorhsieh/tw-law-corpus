@@ -1,0 +1,76 @@
+{
+  "1968.03.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57411800;0948;0948",
+      "desc": "57卷18期號 948~948頁",
+      "progress": "一讀",
+      "committee": "外交 財政 經濟"
+    }
+  ],
+  "1968.10.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5742750001;0002;0002",
+      "desc": "57卷75期號 2~2頁",
+      "progress": "一讀",
+      "committee": "外交 財政 經濟"
+    }
+  ],
+  "1968.06.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5741570002;0013;0017",
+      "desc": "57卷57期號 13~17頁",
+      "progress": "委員會審查",
+      "committee": "外交 財政 經濟"
+    }
+  ],
+  "1968.12.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5742900001;0022;0029",
+      "desc": "57卷90期號 22~29頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "外交 財政 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5742900001;0029;0031",
+      "desc": "57卷90期號 29~31頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交 財政 經濟"
+    }
+  ],
+  "1968.12.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5742910001;0004;0007",
+      "desc": "57卷91期號 4~7頁",
+      "progress": "三讀",
+      "committee": "外交 財政 經濟"
+    }
+  ],
+  "1991.11.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8009700;0004;0004",
+      "desc": "80卷97期2521號 4~4頁",
+      "progress": "一讀",
+      "committee": "經濟 外交 財政",
+      "misc": {
+        "content": "42-46",
+        "link": "/lgcgi/lgmeetimage?cfcec7c7cec9cfcfc5cbcdd2cbc9"
+      }
+    }
+  ],
+  "1992.06.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8104903;0003;0010",
+      "desc": "81卷49期2577號下冊 3~10頁",
+      "progress": "委員會審查",
+      "committee": "經濟 外交 財政"
+    }
+  ],
+  "1993.07.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824603;0053;0056",
+      "desc": "82卷46期2645號下冊 53~56頁",
+      "progress": "三讀",
+      "committee": "經濟 外交 財政"
+    }
+  ]
+}

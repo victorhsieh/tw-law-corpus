@@ -1,0 +1,116 @@
+{
+  "1999.10.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884201;0007;0008",
+      "desc": "88卷42期3042號上冊 7~8頁",
+      "progress": "一讀",
+      "committee": "法制 內政 國防 財政",
+      "misc": {
+        "content": "673-712",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5c9c8ccd2c8cecd"
+      }
+    }
+  ],
+  "1999.11.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885301;0087;0116",
+      "desc": "88卷53期3053號上冊 87~116頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 國防 財政"
+    }
+  ],
+  "1999.12.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885901;0079;0121",
+      "desc": "88卷59期3059號上冊 79~121頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 國防 財政"
+    }
+  ],
+  "1999.12.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885901;0122;0178",
+      "desc": "88卷59期3059號上冊 122~178頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 國防 財政"
+    }
+  ],
+  "2000.11.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890902;0247;0311",
+      "desc": "89卷9期3068號二冊 247~311頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政 國防 財政",
+      "misc": {
+        "content": "681-734",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcecdcfcdc5c9c7ced2c8cccb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890902;0324;0327",
+      "desc": "89卷9期3068號二冊 324~327頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政 國防 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890902;0327;0327",
+      "desc": "89卷9期3068號二冊 327~327頁",
+      "progress": "三讀",
+      "committee": "法制 內政 國防 財政"
+    }
+  ],
+  "2007.06.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@964801;0004;0004",
+      "desc": "96卷48期3571號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "159-163",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcacecacfcec5cecac6d2cec9cc"
+      }
+    }
+  ],
+  "2007.09.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@966300;0108;0108",
+      "desc": "96卷63期3586號 108~108頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "73-84",
+        "link": "/lgcgi/lgmeetimage?cfc9cfc9cfcbc8cdc5c8ccd2c7cb"
+      }
+    }
+  ],
+  "2007.12.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968304;1145;1152",
+      "desc": "96卷83期3606號四冊 1145~1152頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2007.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968500;0150;0151",
+      "desc": "96卷85期3608號 150~151頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2007.12.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968602;0378;0380",
+      "desc": "96卷86期3609號二冊 378~380頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968602;0380;0380",
+      "desc": "96卷86期3609號二冊 380~380頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

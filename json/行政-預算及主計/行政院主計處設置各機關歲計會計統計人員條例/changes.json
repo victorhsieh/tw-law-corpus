@@ -1,0 +1,58 @@
+{
+  "1954.12.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441407;0161;0165",
+      "desc": "44卷14期號7冊 161~165頁",
+      "progress": "一讀",
+      "committee": "法制 預算"
+    }
+  ],
+  "1959.03.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482305;0028;0033",
+      "desc": "48卷23期號5冊 28~33頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 預算"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482304;0045;0046",
+      "desc": "48卷23期號4冊 45~46頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 預算"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482305;0047;0049",
+      "desc": "48卷23期號5冊 47~49頁",
+      "progress": "三讀",
+      "committee": "法制 預算"
+    }
+  ],
+  "1959.01.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482219;0053;0054",
+      "desc": "48卷22期號19冊 53~54頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 預算"
+    }
+  ],
+  "1981.04.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70672700;0002;0002",
+      "desc": "70卷27期1408號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 預算",
+      "misc": {
+        "content": "296-322",
+        "link": "/lgcgi/lgmeetimage?cfcec9c8cfcccfcfc5cdc6c9d2cccdcd"
+      }
+    }
+  ],
+  "1981.12.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@706810000;0013;0013",
+      "desc": "70卷100期1481號 13~13頁",
+      "progress": "三讀",
+      "committee": "法制 預算"
+    }
+  ]
+}

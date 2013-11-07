@@ -1,0 +1,128 @@
+{
+  "1971.08.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047600001;0002;0002",
+      "desc": "60卷60期414號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 交通"
+    }
+  ],
+  "1971.10.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6048940002;0043;0051",
+      "desc": "60卷94期447號 43~51頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "1971.11.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@60481000002;0034;0037",
+      "desc": "60卷100期453號 34~37頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "1971.11.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6148010002;0014;0021",
+      "desc": "61卷1期454號 14~21頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "1971.12.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6048990001;0019;0041",
+      "desc": "60卷99期452號 19~41頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 交通"
+    }
+  ],
+  "1971.12.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6148010001;0009;0010",
+      "desc": "61卷1期454號 9~10頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6148010001;0010;0015",
+      "desc": "61卷1期454號 10~15頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6148010001;0015;0016",
+      "desc": "61卷1期454號 15~16頁",
+      "progress": "三讀",
+      "committee": "法制 交通"
+    }
+  ],
+  "1993.03.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@820801;0017;0017",
+      "desc": "82卷8期2607號上冊 17~17頁",
+      "progress": "一讀",
+      "committee": "法制 交通",
+      "misc": {
+        "content": "338-353",
+        "link": "/lgcgi/lgmeetimage?cfcdcfcecfcecfcec5ccccc7d2cccacc"
+      }
+    }
+  ],
+  "1994.12.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@837800;0006;0006",
+      "desc": "83卷78期2752號 6~6頁",
+      "progress": "一讀",
+      "committee": "法制 交通"
+    }
+  ],
+  "1994.10.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@837800;0361;0366",
+      "desc": "83卷78期2742號 361~366頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "1994.12.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@840303;0219;0258",
+      "desc": "84卷3期2760號下冊 219~258頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "1997.05.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@862800;0297;0316",
+      "desc": "86卷28期2920號 297~316頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "1997.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@865501;0025;0078",
+      "desc": "86卷55期2947號上冊 25~78頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "1998.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@873102;0332;0372",
+      "desc": "87卷31期2980號中冊 332~372頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@873102;0372;0372",
+      "desc": "87卷31期2980號中冊 372~372頁",
+      "progress": "三讀",
+      "committee": "法制 交通"
+    }
+  ]
+}

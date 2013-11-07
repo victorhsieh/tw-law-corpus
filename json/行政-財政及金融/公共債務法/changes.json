@@ -1,0 +1,214 @@
+{
+  "1994.12.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@837800;0003;0004",
+      "desc": "83卷78期2752號 3~4頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1994.12.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@840200;0001;0001",
+      "desc": "84卷2期2759號 1~1頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1995.03.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@841401;0003;0003",
+      "desc": "84卷14期2771號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1995.01.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@840700;0351;0385",
+      "desc": "84卷7期2764號 351~385頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1995.03.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@841603;0383;0430",
+      "desc": "84卷16期2773號下冊 383~430頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1995.10.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@845000;0027;0067",
+      "desc": "84卷50期2807號 27~67頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@845000;0067;0071",
+      "desc": "84卷50期2807號 67~71頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    }
+  ],
+  "1995.10.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@845200;0017;0018",
+      "desc": "84卷52期2809號 17~18頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    }
+  ],
+  "1995.12.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@846000;0141;0149",
+      "desc": "84卷60期2817號 141~149頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    }
+  ],
+  "1995.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@846301;0101;0104",
+      "desc": "84卷63期2820號上冊 101~104頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@846301;0104;0104",
+      "desc": "84卷63期2820號上冊 104~104頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ],
+  "1995.12.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@850200;0012;0023",
+      "desc": "85卷2期2824號 12~23頁",
+      "progress": "復議",
+      "committee": "財政"
+    }
+  ],
+  "1997.03.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@860901;0006;0006",
+      "desc": "86卷9期2901號上冊 6~6頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "284-287",
+        "link": "/lgcgi/lgmeetimage?cfcccfcccfcacfcfc5cdc7cbd2cdc7c8"
+      }
+    }
+  ],
+  "1997.12.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@865301;0005;0005",
+      "desc": "86卷53期2945號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "364-366",
+        "link": "/lgcgi/lgmeetimage?cfcccfcbcec8cfcfc5ccc9cbd2ccc9c9"
+      }
+    }
+  ],
+  "1998.03.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@870803;0187;0200",
+      "desc": "87卷8期2957號下冊 187~200頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1998.05.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@872601;0045;0051",
+      "desc": "87卷26期2975號上冊 45~51頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政",
+      "misc": {
+        "content": "636-641",
+        "link": "/lgcgi/lgmeetimage?cfcccfcacfc6cfcec5c9ccc9d2c9cbce"
+      }
+    }
+  ],
+  "1998.05.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@872700;0039;0044",
+      "desc": "87卷27期2976號 39~44頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@872700;0044;0044",
+      "desc": "87卷27期2976號 44~44頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ],
+  "1999.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884501;0013;0013",
+      "desc": "88卷45期3045號上冊 13~13頁",
+      "progress": "一讀",
+      "committee": "財政 預算",
+      "misc": {
+        "content": "272-281",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcecec9cfcdc5cdc8cdd2cdc7ce"
+      }
+    }
+  ],
+  "2000.03.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891201;0005;0005",
+      "desc": "89卷12期3071號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "財政 預算",
+      "misc": {
+        "content": "428-443",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccfcecfcdc5cbcdc7d2cbcbcc"
+      }
+    }
+  ],
+  "2000.06.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@893801;0004;0004",
+      "desc": "89卷38期3097號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "財政 預算",
+      "misc": {
+        "content": "141-148",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccdc8cfcfc5cecbced2cecbc7"
+      }
+    }
+  ],
+  "2000.06.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@893603;0063;0098",
+      "desc": "89卷36期3095號下冊 63~98頁",
+      "progress": "委員會審查",
+      "committee": "財政 預算"
+    }
+  ],
+  "2002.01.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911002;0682;0723",
+      "desc": "91卷10期3206號中冊 682~723頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 預算",
+      "misc": {
+        "content": "32-68",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcbcec7cfcec5cccdd2c9c7"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911002;0723;0723",
+      "desc": "91卷10期3206號中冊 723~723頁",
+      "progress": "三讀",
+      "committee": "財政 預算"
+    }
+  ]
+}

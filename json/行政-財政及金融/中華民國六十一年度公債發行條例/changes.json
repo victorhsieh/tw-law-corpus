@@ -1,0 +1,32 @@
+{
+  "1971.04.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047230001;0002;0002",
+      "desc": "60卷23期377號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1971.06.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047400001;0019;0031",
+      "desc": "60卷40期394號 19~31頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ],
+  "1974.01.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@63520600;0111;0112",
+      "desc": "63卷6期662號 111~112頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@63520600;0111;0112",
+      "desc": "63卷6期662號 111~112頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

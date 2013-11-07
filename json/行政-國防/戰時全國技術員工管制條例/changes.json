@@ -1,0 +1,32 @@
+{
+  "1971.06.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047410001;0004;0004",
+      "desc": "60卷41期395號 4~4頁",
+      "progress": "一讀",
+      "committee": "內政"
+    }
+  ],
+  "1971.12.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149160002;0007;0011",
+      "desc": "61卷16期469號 7~11頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "1972.03.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149190001;0037;0038",
+      "desc": "61卷19期472號 37~38頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149190001;0038;0038",
+      "desc": "61卷19期472號 38~38頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ]
+}

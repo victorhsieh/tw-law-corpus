@@ -1,0 +1,26 @@
+{
+  "1970.03.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@59451900;0002;0002",
+      "desc": "59卷19期0號 2~2頁",
+      "progress": "一讀",
+      "committee": "交通"
+    }
+  ],
+  "1970.04.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5945370002;0003;0003",
+      "desc": "59卷37期0號 3~3頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "1970.04.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5945370001;0007;0022",
+      "desc": "59卷37期0號 7~22頁",
+      "progress": "三讀",
+      "committee": "交通"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "1955.12.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431208;0035;0037",
+      "desc": "43卷12期號8冊 35~37頁",
+      "progress": "一讀",
+      "committee": "法制 內政"
+    }
+  ],
+  "1955.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441505;0097;0105",
+      "desc": "44卷15期號5冊 97~105頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441505;0174;0175",
+      "desc": "44卷15期號5冊 174~175頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政"
+    }
+  ],
+  "1955.05.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441505;0180;0185",
+      "desc": "44卷15期號5冊 180~185頁",
+      "progress": "三讀",
+      "committee": "法制 內政"
+    }
+  ],
+  "1973.03.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251150001;0002;0002",
+      "desc": "62卷15期571號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 內政"
+    }
+  ],
+  "1973.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251380001;0023;0025",
+      "desc": "62卷38期594號 23~25頁",
+      "progress": "三讀",
+      "committee": "法制 內政"
+    }
+  ]
+}

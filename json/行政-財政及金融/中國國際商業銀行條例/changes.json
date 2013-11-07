@@ -1,0 +1,56 @@
+{
+  "1971.12.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6048950001;0002;0002",
+      "desc": "60卷95期448號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政 預算"
+    }
+  ],
+  "1971.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6048960001;0004;0004",
+      "desc": "60卷96期449號 4~4頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 預算"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6048960001;0004;0004",
+      "desc": "60卷96期449號 4~4頁",
+      "progress": "三讀",
+      "committee": "財政 預算"
+    }
+  ],
+  "2005.04.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@942200;0004;0004",
+      "desc": "94卷22期3404號 4~4頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "118-119",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcecfc7cfcec5cecec7d2cecec6"
+      }
+    }
+  ],
+  "2005.11.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@946700;0027;0086",
+      "desc": "94卷67期3449號 27~86頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "2005.12.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@947501;0048;0057",
+      "desc": "94卷75期3457號一冊 48~57頁",
+      "progress": "三讀",
+      "committee": "財政",
+      "misc": {
+        "content": "401-411",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcececfcdc5cbcfced2cbcece"
+      }
+    }
+  ]
+}

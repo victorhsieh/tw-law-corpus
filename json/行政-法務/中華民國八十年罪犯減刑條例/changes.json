@@ -1,0 +1,98 @@
+{
+  "1990.12.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7909700;0003;0003",
+      "desc": "79卷97期2417號 3~3頁",
+      "progress": "一讀",
+      "committee": "司法 國防",
+      "misc": {
+        "content": "55-76",
+        "link": "/lgcgi/lgmeetimage?cfcec7c9cdcfcfcfc5cacad2c8c9"
+      }
+    }
+  ],
+  "1990.12.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7909800;0257;0262",
+      "desc": "79卷98期2418號 257~262頁",
+      "progress": "一讀",
+      "committee": "司法 國防"
+    }
+  ],
+  "1990.12.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8004500;0143;0173",
+      "desc": "80卷45期2469號 143~173頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1990.12.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8005200;0384;0393",
+      "desc": "80卷52期2476號 384~393頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1990.12.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8005300;0260;0272",
+      "desc": "80卷53期2477號 260~272頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1990.12.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8005600;0350;0368",
+      "desc": "80卷56期2480號 350~368頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1990.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8005800;0045;0054",
+      "desc": "80卷58期2482號 45~54頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1990.12.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8005900;0076;0086",
+      "desc": "80卷59期2483號 76~86頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1990.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8006100;0057;0075",
+      "desc": "80卷61期2485號 57~75頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1990.12.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7910400;0325;0384",
+      "desc": "79卷104期2424號 325~384頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7910400;0384;0384",
+      "desc": "79卷104期2424號 384~384頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7910400;0384;0384",
+      "desc": "79卷104期2424號 384~384頁",
+      "progress": "三讀",
+      "committee": "司法 國防"
+    }
+  ]
+}

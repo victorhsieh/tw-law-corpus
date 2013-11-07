@@ -1,0 +1,64 @@
+{
+  "2011.02.22": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10001201;0007;0007",
+      "desc": "100卷012期3864號一冊 7~7頁",
+      "progress": "一讀",
+      "committee": "司法及法制 外交及國防",
+      "misc": {
+        "content": "115-128",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc8cfcecfcdc5cececad2cecdc7"
+      }
+    }
+  ],
+  "2011.04.18": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003301;0102;0177",
+      "desc": "100卷033期3885號 102~177頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制 外交及國防"
+    }
+  ],
+  "2011.05.06": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003701;0120;0138",
+      "desc": "100卷037期3889號一冊 120~138頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制 外交及國防",
+      "misc": {
+        "content": "219-238",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc8cecdcfccc5cdcec6d2cdccc7"
+      }
+    }
+  ],
+  "2011.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10006601;0335;0337",
+      "desc": "100卷066期3918號 335~337頁",
+      "progress": "黨團協商",
+      "committee": "司法及法制 外交及國防"
+    }
+  ],
+  "2011.06.13": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004903;1384;1384",
+      "desc": "100卷049期3901號三冊 1384~1384頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制 外交及國防"
+    }
+  ],
+  "2011.10.28": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10006601;0043;0048",
+      "desc": "100卷066期3918號 43~48頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制 外交及國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10006601;0048;0048",
+      "desc": "100卷066期3918號 48~48頁",
+      "progress": "三讀",
+      "committee": "司法及法制 外交及國防"
+    }
+  ]
+}

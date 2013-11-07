@@ -1,0 +1,108 @@
+{
+  "2008.10.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@975301;0011;0011",
+      "desc": "097卷053期3664號一冊 11~11頁",
+      "progress": "一讀",
+      "committee": "外交及國防",
+      "misc": {
+        "content": "249-260",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcfcbcfcec5cdcbc6d2cdc9cf"
+      }
+    }
+  ],
+  "2011.04.01": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10002301;0003;0003",
+      "desc": "100卷023期3875號 3~3頁",
+      "progress": "一讀",
+      "committee": "外交及國防",
+      "misc": {
+        "content": "83-91",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc9cecdcfcec5c7ccd2c6ce"
+      }
+    }
+  ],
+  "2009.04.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982500;0116;0137",
+      "desc": "098卷025期3711號 116~137頁",
+      "progress": "委員會審查",
+      "committee": "外交及國防"
+    }
+  ],
+  "2009.04.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982700;0420;0457",
+      "desc": "098卷027期3713號 420~457頁",
+      "progress": "委員會審查",
+      "committee": "外交及國防"
+    }
+  ],
+  "2009.06.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984000;0261;0295",
+      "desc": "098卷040期3726號 261~295頁",
+      "progress": "委員會審查",
+      "committee": "外交及國防"
+    }
+  ],
+  "2010.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903801;0126;0158",
+      "desc": "099卷038期3803號 126~158頁",
+      "progress": "委員會審查",
+      "committee": "外交及國防"
+    }
+  ],
+  "2011.10.24": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10007101;0002;0044",
+      "desc": "100卷071期3923號 2~44頁",
+      "progress": "委員會審查",
+      "committee": "外交及國防"
+    }
+  ],
+  "2011.11.14": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10008805;2083;2083",
+      "desc": "100卷088期3940號五冊 2083~2083頁",
+      "progress": "黨團協商",
+      "committee": "外交及國防"
+    }
+  ],
+  "2011.11.24": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10008805;2085;2090",
+      "desc": "100卷088期3940號五冊 2085~2090頁",
+      "progress": "黨團協商",
+      "committee": "外交及國防"
+    }
+  ],
+  "2011.12.09": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10008601;0043;0087",
+      "desc": "100卷086期3938號 43~87頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "外交及國防",
+      "misc": {
+        "content": "353-398",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc7cfc7c8c8c5cccaccd2ccc6c7"
+      }
+    }
+  ],
+  "2011.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10008803;0997;1005",
+      "desc": "100卷088期3940號三冊 997~1005頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交及國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10008803;1005;1006",
+      "desc": "100卷088期3940號三冊 1005~1006頁",
+      "progress": "三讀",
+      "committee": "外交及國防"
+    }
+  ]
+}

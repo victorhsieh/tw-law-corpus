@@ -1,0 +1,56 @@
+{
+  "2011.03.11": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10001501;0003;0003",
+      "desc": "100卷15期3867號 3~3頁",
+      "progress": "一讀",
+      "committee": "交通 司法及法制",
+      "misc": {
+        "content": "73-82",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc8cfcbcfcec5c8ccd2c7cd"
+      }
+    }
+  ],
+  "2011.05.04": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004001;0211;0289",
+      "desc": "100卷40期3892號 211~289頁",
+      "progress": "委員會審查",
+      "committee": "交通 司法及法制"
+    }
+  ],
+  "2011.06.10": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10006301;0421;0422",
+      "desc": "100卷63期3915號 421~422頁",
+      "progress": "黨團協商",
+      "committee": "交通 司法及法制"
+    }
+  ],
+  "2011.06.13": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004904;1838;1855",
+      "desc": "100卷49期3901號四冊 1838~1855頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "交通 司法及法制",
+      "misc": {
+        "content": "678-696",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc8cec9cfcdc5c9c8c7d2c9c6c9"
+      }
+    }
+  ],
+  "2011.10.25": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10006301;0119;0126",
+      "desc": "100卷63期3915號 119~126頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通 司法及法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10006301;0126;0126",
+      "desc": "100卷63期3915號 126~126頁",
+      "progress": "三讀",
+      "committee": "交通 司法及法制"
+    }
+  ]
+}

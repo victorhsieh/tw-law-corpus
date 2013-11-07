@@ -1,0 +1,30 @@
+{
+  "1978.11.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67629500;0002;0002",
+      "desc": "67卷95期1163號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政 經濟",
+      "misc": {
+        "content": "356-363",
+        "link": "/lgcgi/lgmeetimage?cfcec9cdcfcccfcfc5cccac9d2ccc9cc"
+      }
+    }
+  ],
+  "1978.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68621400;0002;0006",
+      "desc": "68卷14期1186號 2~6頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1978.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@676210300;0004;0021",
+      "desc": "67卷103期1171號 4~21頁",
+      "progress": "三讀",
+      "committee": "財政 經濟"
+    }
+  ]
+}

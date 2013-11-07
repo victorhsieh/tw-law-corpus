@@ -1,0 +1,36 @@
+{
+  "2008.07.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@974801;0009;0009",
+      "desc": "97卷48期3659號一冊 9~9頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "298-301",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecec6cfcec5cdc6c7d2cccfce"
+      }
+    }
+  ],
+  "2008.10.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@975202;0377;0429",
+      "desc": "97卷52期3663號二冊 377~429頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "2008.11.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976300;0091;0101",
+      "desc": "97卷63期3674號 91~101頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976300;0101;0101",
+      "desc": "97卷63期3674號 101~101頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ]
+}

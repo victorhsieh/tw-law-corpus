@@ -1,0 +1,60 @@
+{
+  "1979.03.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68632300;0010;0011",
+      "desc": "68卷23期1195號 10~11頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "360-361",
+        "link": "/lgcgi/lgmeetimage?cfcec9cccfcdcfcfc5ccc9cfd2ccc9ce"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68632300;0011;0011",
+      "desc": "68卷23期1195號 11~11頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    }
+  ],
+  "1979.03.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68632400;0005;0005",
+      "desc": "68卷24期1196號 5~5頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2000.03.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891201;0005;0005",
+      "desc": "89卷12期3071號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "法制 衛生",
+      "misc": {
+        "content": "444-451",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccfcecfcdc5cbcbcbd2cbcace"
+      }
+    }
+  ],
+  "2000.10.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896203;0125;0133",
+      "desc": "89卷62期3121號下冊 125~133頁",
+      "progress": "委員會審查",
+      "committee": "法制 衛生"
+    }
+  ],
+  "2000.12.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896801;0021;0029",
+      "desc": "89卷68期3127號上冊 21~29頁",
+      "progress": "三讀",
+      "committee": "法制 衛生",
+      "misc": {
+        "content": "462-478",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcbcecfcfcdc5cbc9cdd2cbc8c7"
+      }
+    }
+  ]
+}

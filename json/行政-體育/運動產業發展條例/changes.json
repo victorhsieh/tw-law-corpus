@@ -1,0 +1,82 @@
+{
+  "2010.03.19": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09901401;0002;0002",
+      "desc": "099卷014期3779號 2~2頁",
+      "progress": "一讀",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "135-145",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacfcacfcec5cecccad2cecbca"
+      }
+    }
+  ],
+  "2010.12.31": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10000401;0005;0005",
+      "desc": "100卷004期3856號 5~5頁",
+      "progress": "一讀",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "201-206",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc9cecbcfcec5cdcfced2cdcfc9"
+      }
+    }
+  ],
+  "2011.01.07": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10000801;0001;0001",
+      "desc": "100卷008期3860號一冊 1~1頁",
+      "progress": "一讀",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "132-140",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc9cecacfcec5cecccdd2cecbcf"
+      }
+    }
+  ],
+  "2011.03.30": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10002701;0056;0142",
+      "desc": "100卷027期3879號 56~142頁",
+      "progress": "委員會審查",
+      "committee": "教育及文化"
+    }
+  ],
+  "2011.04.19": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10002801;0089;0149",
+      "desc": "100卷028期3880號 89~149頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "教育及文化"
+    }
+  ],
+  "2011.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004906;2549;2550",
+      "desc": "100卷049期3901號六冊 2549~2550頁",
+      "progress": "黨團協商",
+      "committee": "教育及文化"
+    }
+  ],
+  "2011.06.13": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004903;1061;1062",
+      "desc": "100卷049期3901號三冊 1061~1062頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "教育及文化"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004905;2122;2129",
+      "desc": "100卷049期3901號五冊 2122~2129頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育及文化"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004905;2129;2130",
+      "desc": "100卷049期3901號五冊 2129~2130頁",
+      "progress": "三讀",
+      "committee": "教育及文化"
+    }
+  ]
+}

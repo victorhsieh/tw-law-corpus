@@ -1,0 +1,40 @@
+{
+  "2002.03.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911600;0006;0006",
+      "desc": "91卷16期3212號 6~6頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "141-145",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcdcfcdc5cecbced2cecbca"
+      }
+    }
+  ],
+  "2002.04.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914004;0301;0301",
+      "desc": "91卷40期3236號四冊 301~301頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2002.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913301;0070;0072",
+      "desc": "91卷33期3229號上冊 70~72頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政",
+      "misc": {
+        "content": "458-462",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecececfcdc5cbcac7d2cbc9cd"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913301;0072;0072",
+      "desc": "91卷33期3229號上冊 72~72頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ]
+}

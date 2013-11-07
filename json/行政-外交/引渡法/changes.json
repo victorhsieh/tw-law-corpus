@@ -1,0 +1,86 @@
+{
+  "1953.09.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421201;0049;0049",
+      "desc": "42卷12期號1冊 49~49頁",
+      "progress": "一讀",
+      "committee": "外交 民刑商法 法制"
+    }
+  ],
+  "1954.03.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431303;0006;0012",
+      "desc": "43卷13期號3冊 6~12頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "外交 民刑商法 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431303;0069;0071",
+      "desc": "43卷13期號3冊 69~71頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "外交 民刑商法 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431303;0071;0082",
+      "desc": "43卷13期號3冊 71~82頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交 民刑商法 法制"
+    }
+  ],
+  "1954.03.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431303;0102;0105",
+      "desc": "43卷13期號3冊 102~105頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交 民刑商法 法制"
+    }
+  ],
+  "1954.04.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431303;0133;0140",
+      "desc": "43卷13期號3冊 133~140頁",
+      "progress": "三讀",
+      "committee": "外交 民刑商法 法制"
+    }
+  ],
+  "1980.05.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69654100;0127;0127",
+      "desc": "69卷41期1317號 127~127頁",
+      "progress": "一讀",
+      "committee": "司法 法制 外交",
+      "misc": {
+        "content": "305-310",
+        "link": "/lgcgi/lgmeetimage?cfcec9cacfcbcfcfc5cccfcad2cccecf"
+      }
+    }
+  ],
+  "1980.06.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69656600;0003;0007",
+      "desc": "69卷66期1342號 3~7頁",
+      "progress": "委員會審查",
+      "committee": "司法 法制 外交"
+    }
+  ],
+  "1980.06.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655000;0038;0045",
+      "desc": "69卷50期1326號 38~45頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法 法制 外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655000;0045;0046",
+      "desc": "69卷50期1326號 45~46頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 法制 外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655000;0046;0046",
+      "desc": "69卷50期1326號 46~46頁",
+      "progress": "三讀",
+      "committee": "司法 法制 外交"
+    }
+  ]
+}

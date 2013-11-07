@@ -1,0 +1,30 @@
+{
+  "1991.09.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8007900;0027;0027",
+      "desc": "80卷79期2503號 27~27頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "45-51",
+        "link": "/lgcgi/lgmeetimage?cfcec7c7cfcdcfcfc5cbcad2cace"
+      }
+    }
+  ],
+  "1991.11.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8009600;0261;0275",
+      "desc": "80卷96期2520號 261~275頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1993.07.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824603;0045;0049",
+      "desc": "82卷46期2645號下冊 45~49頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ]
+}

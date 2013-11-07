@@ -1,0 +1,34 @@
+{
+  "2003.12.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@925701;0003;0003",
+      "desc": "92卷57期3331號一冊 3~3頁",
+      "progress": "一讀",
+      "committee": "教育",
+      "misc": {
+        "content": "126-133",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcecbcfcec5cecdc9d2cecccc"
+      }
+    }
+  ],
+  "2003.12.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@930604;0387;0389",
+      "desc": "93卷6期3340號四冊 387~389頁",
+      "progress": "委員會審查",
+      "committee": "教育"
+    }
+  ],
+  "2004.01.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@930601;0215;0220",
+      "desc": "93卷6期3340號一冊 215~220頁",
+      "progress": "三讀",
+      "committee": "教育",
+      "misc": {
+        "content": "485-494",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcec8cfcec5cbc7cad2cbc6cb"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "1978.05.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67614200;0002;0002",
+      "desc": "67卷42期1110號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1978.06.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67617300;0024;0030",
+      "desc": "67卷73期1141號 24~30頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1978.06.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67617500;0019;0024",
+      "desc": "67卷75期1143號 19~24頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1978.06.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67628100;0013;0016",
+      "desc": "67卷81期1149號 13~16頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1978.06.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67628600;0014;0023",
+      "desc": "67卷86期1154號 14~23頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1978.07.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67628700;0019;0027",
+      "desc": "67卷87期1155號 19~27頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1978.07.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67615400;0026;0042",
+      "desc": "67卷54期1122號 26~42頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67615400;0042;0049",
+      "desc": "67卷54期1122號 42~49頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    }
+  ],
+  "1978.07.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67615500;0007;0010",
+      "desc": "67卷55期1123號 7~10頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ],
+  "1984.02.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7301700;0002;0002",
+      "desc": "73卷17期1711號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "395-400",
+        "link": "/lgcgi/lgmeetimage?cfcec8cccfcecfcfc5ccc6cad2cbcfcf"
+      }
+    }
+  ],
+  "1984.03.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7305000;0088;0097",
+      "desc": "73卷50期1744號 88~97頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1984.04.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7302700;0004;0012",
+      "desc": "73卷27期1721號 4~12頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7302700;0012;0013",
+      "desc": "73卷27期1721號 12~13頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    }
+  ],
+  "1984.04.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7302800;0006;0007",
+      "desc": "73卷28期1722號 6~7頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "1970.03.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5944150001;0054;0054",
+      "desc": "59卷15期0號 54~54頁",
+      "progress": "一讀",
+      "committee": "財政 內政"
+    }
+  ],
+  "1970.04.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5945480002;0070;0081",
+      "desc": "59卷48期0號 70~81頁",
+      "progress": "委員會審查",
+      "committee": "財政 內政"
+    }
+  ],
+  "1970.08.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5945630001;0020;0029",
+      "desc": "59卷63期0號 20~29頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5945630001;0030;0031",
+      "desc": "59卷63期0號 30~31頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 內政"
+    }
+  ],
+  "1970.08.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5945640001;0014;0016",
+      "desc": "59卷64期0號 14~16頁",
+      "progress": "三讀",
+      "committee": "財政 內政"
+    }
+  ],
+  "1979.10.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68648100;0002;0002",
+      "desc": "68卷81期1253號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政 財政",
+      "misc": {
+        "content": "20-23",
+        "link": "/lgcgi/lgmeetimage?cfcec9cbcfcdcfcfc5cdcfd2cdcc"
+      }
+    }
+  ],
+  "1979.10.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69640900;0050;0053",
+      "desc": "69卷9期1285號 50~53頁",
+      "progress": "委員會審查",
+      "committee": "內政 財政"
+    }
+  ],
+  "1979.11.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68649400;0019;0025",
+      "desc": "68卷94期1266號 19~25頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68649400;0025;0028",
+      "desc": "68卷94期1266號 25~28頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68649400;0028;0028",
+      "desc": "68卷94期1266號 28~28頁",
+      "progress": "三讀",
+      "committee": "內政 財政"
+    }
+  ],
+  "1983.01.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72700400;0002;0002",
+      "desc": "72卷4期1593號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政 財政",
+      "misc": {
+        "content": "646-649",
+        "link": "/lgcgi/lgmeetimage?cfcec8cfcfc9cfcfc5c9cbc9d2c9cbc6"
+      }
+    }
+  ],
+  "1983.03.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72713900;0095;0102",
+      "desc": "72卷39期1628號 95~102頁",
+      "progress": "委員會審查",
+      "committee": "內政 財政"
+    }
+  ],
+  "1983.04.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72714500;0113;0115",
+      "desc": "72卷45期1634號 113~115頁",
+      "progress": "委員會審查",
+      "committee": "內政 財政"
+    }
+  ],
+  "1983.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72714000;0027;0034",
+      "desc": "72卷40期1629號 27~34頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72714000;0034;0036",
+      "desc": "72卷40期1629號 34~36頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 財政"
+    }
+  ],
+  "1983.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72714100;0007;0008",
+      "desc": "72卷41期1630號 7~8頁",
+      "progress": "三讀",
+      "committee": "內政 財政"
+    }
+  ],
+  "2002.04.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912101;0008;0008",
+      "desc": "91卷21期3217號上冊 8~8頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    }
+  ],
+  "2002.04.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912801;0010;0010",
+      "desc": "91卷28期3224號上冊 10~10頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    }
+  ],
+  "2002.04.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912801;0437;0438",
+      "desc": "91卷28期3224號上冊 437~438頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "475-538",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcacfcfc5cbc8cad2caccc7"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912801;0444;0444",
+      "desc": "91卷28期3224號上冊 444~444頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

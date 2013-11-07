@@ -1,0 +1,40 @@
+{
+  "2003.09.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@924001;0005;0005",
+      "desc": "92卷40期3314號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "科技 教育 交通",
+      "misc": {
+        "content": "566-600",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcfcccfcfc5cac9c9d2c9cfcf"
+      }
+    }
+  ],
+  "2003.10.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@924803;0233;0270",
+      "desc": "92卷48期3322號下冊 233~270頁",
+      "progress": "委員會審查",
+      "committee": "科技 教育 交通"
+    }
+  ],
+  "2003.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@930201;0048;0074",
+      "desc": "93卷2期3336號上冊 48~74頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "科技 教育 交通",
+      "misc": {
+        "content": "589-617",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcecacfccc5cac7c6d2c9cec8"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@930201;0074;0074",
+      "desc": "93卷2期3336號上冊 74~74頁",
+      "progress": "三讀",
+      "committee": "科技 教育 交通"
+    }
+  ]
+}

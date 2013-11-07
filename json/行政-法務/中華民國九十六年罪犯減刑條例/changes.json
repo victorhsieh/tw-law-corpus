@@ -1,0 +1,42 @@
+{
+  "2007.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@964100;0012;0012",
+      "desc": "96卷41期3564號 12~12頁",
+      "progress": "一讀",
+      "committee": "司法",
+      "misc": {
+        "content": "155-164",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcacecdc8cdc5cecacad2cec9cb"
+      }
+    }
+  ],
+  "2007.05.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@964900;0121;0160",
+      "desc": "96卷49期3572號 121~160頁",
+      "progress": "委員會審查",
+      "committee": "司法"
+    }
+  ],
+  "2007.06.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@965601;0318;0351",
+      "desc": "96卷56期3579號一冊 318~351頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@965601;0351;0360",
+      "desc": "96卷56期3579號一冊 351~360頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@965601;0360;0360",
+      "desc": "96卷56期3579號一冊 360~360頁",
+      "progress": "三讀",
+      "committee": "司法"
+    }
+  ]
+}

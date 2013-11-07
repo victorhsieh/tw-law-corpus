@@ -1,0 +1,42 @@
+{
+  "2008.11.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976900;0008;0008",
+      "desc": "97卷69期3680號 8~8頁",
+      "progress": "一讀",
+      "committee": "經濟 財政 內政",
+      "misc": {
+        "content": "171-174",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcecec8cdc5cec8ced2cec8cb"
+      }
+    }
+  ],
+  "2008.12.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@977201;0215;0327",
+      "desc": "97卷72期3683號一冊 215~327頁",
+      "progress": "委員會審查",
+      "committee": "經濟 財政 內政"
+    }
+  ],
+  "2008.12.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@977100;0032;0046",
+      "desc": "97卷71期3682號 32~46頁",
+      "progress": "黨團協商",
+      "committee": "經濟 財政 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@977100;0046;0051",
+      "desc": "97卷71期3682號 46~51頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 財政 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@977100;0051;0054",
+      "desc": "97卷71期3682號 51~54頁",
+      "progress": "三讀",
+      "committee": "經濟 財政 內政"
+    }
+  ]
+}

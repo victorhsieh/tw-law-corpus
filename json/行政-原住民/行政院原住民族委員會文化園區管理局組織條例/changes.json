@@ -1,0 +1,40 @@
+{
+  "2001.03.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@901401;0015;0015",
+      "desc": "90卷14期3148號上冊 15~15頁",
+      "progress": "一讀",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "362-372",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcbcfc8cfcec5ccc9cdd2ccc8cd"
+      }
+    }
+  ],
+  "2001.05.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904100;0263;0315",
+      "desc": "90卷41期3175號 263~315頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "2002.01.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@910501;0206;0291",
+      "desc": "91卷5期3201號上冊 206~291頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "560-635",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacecdcfcdc5cac9cfd2c9ccca"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@910501;0291;0292",
+      "desc": "91卷5期3201號上冊 291~292頁",
+      "progress": "三讀",
+      "committee": "法制 內政"
+    }
+  ]
+}

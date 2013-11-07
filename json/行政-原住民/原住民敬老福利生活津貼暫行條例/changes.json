@@ -1,0 +1,88 @@
+{
+  "2002.04.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912801;0001;0001",
+      "desc": "91卷28期3224號上冊 1~1頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "150-157",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc7cfcfc5cecacfd2cecac8"
+      }
+    }
+  ],
+  "2002.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913301;0052;0056",
+      "desc": "91卷33期3229號上冊 52~56頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2003.10.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@924100;0006;0006",
+      "desc": "92卷41期3315號 6~6頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "355-359",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcfcbcfcec5cccacad2cccac6"
+      }
+    }
+  ],
+  "2003.11.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@925103;0107;0139",
+      "desc": "92卷51期3325號下冊 107~139頁",
+      "progress": "委員會審查",
+      "committee": "衛生"
+    }
+  ],
+  "2003.12.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@925701;0096;0101",
+      "desc": "92卷57期3331號一冊 96~101頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "衛生",
+      "misc": {
+        "content": "85-91",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcecdcfcdc5c7cad2c6ce"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@925701;0101;0102",
+      "desc": "92卷57期3331號一冊 101~102頁",
+      "progress": "三讀",
+      "committee": "衛生"
+    }
+  ],
+  "2008.11.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976700;0043;0043",
+      "desc": "97卷67期3678號 43~43頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "109-112",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcfc8c8cdc5cecfc6d2cececd"
+      }
+    }
+  ],
+  "2009.03.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@981800;0195;0205",
+      "desc": "98卷18期3704號 195~205頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2009.04.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@981901;0260;0263",
+      "desc": "98卷19期3705號一冊 260~263頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ]
+}

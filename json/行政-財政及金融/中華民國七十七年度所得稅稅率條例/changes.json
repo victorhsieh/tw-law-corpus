@@ -1,0 +1,62 @@
+{
+  "1987.12.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7609600;0002;0002",
+      "desc": "76卷96期2103號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政 經濟",
+      "misc": {
+        "content": "344-354",
+        "link": "/lgcgi/lgmeetimage?cfcec7cfcecdcfcfc5cccbcbd2cccacb"
+      }
+    }
+  ],
+  "1987.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7703900;0127;0139",
+      "desc": "77卷39期2150號 127~139頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1987.12.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7704000;0149;0161",
+      "desc": "77卷40期2151號 149~161頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1987.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7704100;0149;0159",
+      "desc": "77卷41期2152號 149~159頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1987.12.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7610300;0025;0054",
+      "desc": "76卷103期2110號 25~54頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1987.12.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7610400;0022;0036",
+      "desc": "76卷104期2111號 22~36頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1987.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7610400;0120;0127",
+      "desc": "76卷104期2111號 120~127頁",
+      "progress": "三讀",
+      "committee": "財政 經濟"
+    }
+  ]
+}

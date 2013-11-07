@@ -1,0 +1,36 @@
+{
+  "2006.09.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@953701;0006;0006",
+      "desc": "95卷37期3498號一冊 6~6頁",
+      "progress": "一讀",
+      "committee": "國防 法制",
+      "misc": {
+        "content": "597-604",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcbcfcecfcec5cac6c8d2c9cfcb"
+      }
+    }
+  ],
+  "2006.12.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@960800;0029;0060",
+      "desc": "96卷8期3531號 29~60頁",
+      "progress": "委員會審查",
+      "committee": "國防 法制"
+    }
+  ],
+  "2007.12.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968602;0716;0734",
+      "desc": "96卷86期3609號二冊 716~734頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968602;0734;0734",
+      "desc": "96卷86期3609號二冊 734~734頁",
+      "progress": "三讀",
+      "committee": "國防 法制"
+    }
+  ]
+}

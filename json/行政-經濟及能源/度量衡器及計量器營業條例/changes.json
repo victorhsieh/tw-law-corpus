@@ -1,0 +1,124 @@
+{
+  "1953.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421108;0190;0196",
+      "desc": "42卷11期號8冊 190~196頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟 法制"
+    }
+  ],
+  "1953.05.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421109;0114;0116",
+      "desc": "42卷11期號9冊 114~116頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 法制"
+    }
+  ],
+  "1953.11.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421205;0026;0041",
+      "desc": "42卷12期號5冊 26~41頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 法制"
+    }
+  ],
+  "1953.11.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421205;0043;0055",
+      "desc": "42卷12期號5冊 43~55頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 法制"
+    }
+  ],
+  "1953.11.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421205;0068;0068",
+      "desc": "42卷12期號5冊 68~68頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 法制"
+    }
+  ],
+  "1953.12.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421206;0009;0010",
+      "desc": "42卷12期號6冊 9~10頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 法制"
+    }
+  ],
+  "1953.12.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421206;0012;0012",
+      "desc": "42卷12期號6冊 12~12頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 法制"
+    }
+  ],
+  "1953.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431207;0026;0026",
+      "desc": "43卷12期號7冊 26~26頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 法制"
+    }
+  ],
+  "1953.12.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431207;0032;0034",
+      "desc": "43卷12期號7冊 32~34頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 法制"
+    }
+  ],
+  "1953.12.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431208;0058;0059",
+      "desc": "43卷12期號8冊 58~59頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 法制"
+    }
+  ],
+  "1954.03.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431302;0005;0019",
+      "desc": "43卷13期號2冊 5~19頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431302;0039;0047",
+      "desc": "43卷13期號2冊 39~47頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 法制"
+    }
+  ],
+  "1954.03.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431302;0064;0065",
+      "desc": "43卷13期號2冊 64~65頁",
+      "progress": "三讀",
+      "committee": "經濟 法制"
+    }
+  ],
+  "1983.11.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72728800;0002;0002",
+      "desc": "72卷88期1677號 2~2頁",
+      "progress": "一讀",
+      "committee": "經濟 法制",
+      "misc": {
+        "content": "190-212",
+        "link": "/lgcgi/lgmeetimage?cfcec8cdcfcbcfcfc5cec6cfd2cdcecd"
+      }
+    }
+  ],
+  "1984.04.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7302800;0015;0015",
+      "desc": "73卷28期1722號 15~15頁",
+      "progress": "三讀",
+      "committee": "經濟 法制"
+    }
+  ]
+}

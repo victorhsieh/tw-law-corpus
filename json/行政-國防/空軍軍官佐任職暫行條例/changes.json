@@ -1,0 +1,50 @@
+{
+  "1980.09.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69657900;0002;0002",
+      "desc": "69卷79期1355號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 國防",
+      "misc": {
+        "content": "59-63",
+        "link": "/lgcgi/lgmeetimage?cfcec9c9cfcdcfcfc5cbcbd2cbca"
+      }
+    }
+  ],
+  "1980.11.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70673200;0089;0102",
+      "desc": "70卷32期1413號 89~102頁",
+      "progress": "委員會審查",
+      "committee": "法制 國防"
+    }
+  ],
+  "1980.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70673500;0055;0057",
+      "desc": "70卷35期1416號 55~57頁",
+      "progress": "委員會審查",
+      "committee": "法制 國防"
+    }
+  ],
+  "1980.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@696610500;0006;0023",
+      "desc": "69卷105期1381號 6~23頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 國防"
+    }
+  ],
+  "1981.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70660200;0003;0006",
+      "desc": "70卷2期1383號 3~6頁",
+      "progress": "三讀",
+      "committee": "法制 國防",
+      "misc": {
+        "content": "291-296",
+        "link": "/lgcgi/lgmeetimage?cfcec9c9cfcacfcfc5cdc6ced2cdc6c9"
+      }
+    }
+  ]
+}

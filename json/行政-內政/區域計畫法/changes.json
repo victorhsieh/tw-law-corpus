@@ -1,0 +1,72 @@
+{
+  "1999.11.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885201;0012;0012",
+      "desc": "88卷52期3052號上冊 12~12頁",
+      "progress": "一讀",
+      "committee": "內政 經濟 司法",
+      "misc": {
+        "content": "470-645",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc6cfcfc5cbc8cfd2c9cbca"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885201;0012;0012",
+      "desc": "88卷52期3052號上冊 12~12頁",
+      "progress": "一讀",
+      "committee": "內政 經濟 司法",
+      "misc": {
+        "content": "470-645",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc6cfcfc5cbc8cfd2c9cbca"
+      }
+    }
+  ],
+  "1999.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890100;0241;0280",
+      "desc": "89卷1期3060號 241~280頁",
+      "progress": "委員會審查",
+      "committee": "內政 經濟 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890100;0241;0280",
+      "desc": "89卷1期3060號 241~280頁",
+      "progress": "委員會審查",
+      "committee": "內政 經濟 司法"
+    }
+  ],
+  "2000.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890402;0145;0164",
+      "desc": "89卷4期3063號二冊 145~164頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 經濟 司法",
+      "misc": {
+        "content": "576-592",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcecdcfcdc5cac8c9d2cac6cd"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890402;0164;0165",
+      "desc": "89卷4期3063號二冊 164~165頁",
+      "progress": "三讀",
+      "committee": "內政 經濟 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890402;0145;0164",
+      "desc": "89卷4期3063號二冊 145~164頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 經濟 司法",
+      "misc": {
+        "content": "576-592",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcecdcfcdc5cac8c9d2cac6cd"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890402;0164;0165",
+      "desc": "89卷4期3063號二冊 164~165頁",
+      "progress": "三讀",
+      "committee": "內政 經濟 司法"
+    }
+  ]
+}

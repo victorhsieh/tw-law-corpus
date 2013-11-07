@@ -1,0 +1,100 @@
+{
+  "1959.07.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482322;0118;0118",
+      "desc": "48卷23期號22冊 118~118頁",
+      "progress": "一讀",
+      "committee": "法制 預算"
+    }
+  ],
+  "1966.05.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@502707;0004;0016",
+      "desc": "50卷27期號7冊 4~16頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 預算"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@502707;0028;0030",
+      "desc": "50卷27期號7冊 28~30頁",
+      "progress": "三讀",
+      "committee": "法制 預算"
+    }
+  ],
+  "1966.05.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@502706;0052;0055",
+      "desc": "50卷27期號6冊 52~55頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 預算"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@502706;0069;0071",
+      "desc": "50卷27期號6冊 69~71頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 預算"
+    }
+  ],
+  "1973.12.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6252980001;0002;0002",
+      "desc": "62卷98期654號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 預算"
+    }
+  ],
+  "1974.01.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6353210002;0001;0009",
+      "desc": "63卷21期677號 1~9頁",
+      "progress": "委員會審查",
+      "committee": "法制 預算"
+    }
+  ],
+  "1974.11.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455280002;0021;0026",
+      "desc": "64卷28期782號 21~26頁",
+      "progress": "委員會審查",
+      "committee": "法制 預算"
+    }
+  ],
+  "1975.04.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@64556400;0040;0045",
+      "desc": "64卷64期818號 40~45頁",
+      "progress": "委員會審查",
+      "committee": "法制 預算"
+    }
+  ],
+  "1975.04.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@64556700;0043;0046",
+      "desc": "64卷67期821號 43~46頁",
+      "progress": "委員會審查",
+      "committee": "法制 預算"
+    }
+  ],
+  "1975.04.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455310001;0034;0049",
+      "desc": "64卷31期785號 34~49頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 預算"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455310001;0049;0050",
+      "desc": "64卷31期785號 49~50頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 預算"
+    }
+  ],
+  "1975.04.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455320001;0006;0008",
+      "desc": "64卷32期786號 6~8頁",
+      "progress": "三讀",
+      "committee": "法制 預算"
+    }
+  ]
+}

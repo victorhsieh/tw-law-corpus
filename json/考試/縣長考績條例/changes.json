@@ -1,0 +1,40 @@
+{
+  "1979.07.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68635400;0002;0002",
+      "desc": "68卷54期1226號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "438-443",
+        "link": "/lgcgi/lgmeetimage?cfcec9cccfcbcfcfc5cbccc7d2cbcbcc"
+      }
+    }
+  ],
+  "1979.10.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69640400;0053;0058",
+      "desc": "69卷4期1280號 53~58頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "1979.11.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68649000;0005;0006",
+      "desc": "68卷90期1262號 5~6頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "193-194",
+        "link": "/lgcgi/lgmeetimage?cfcec9cbcfcccfcfc5cec6ccd2cec6cb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68649000;0006;0006",
+      "desc": "68卷90期1262號 6~6頁",
+      "progress": "三讀",
+      "committee": "法制 內政"
+    }
+  ]
+}

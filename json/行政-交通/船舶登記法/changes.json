@@ -1,0 +1,64 @@
+{
+  "1975.04.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455310001;0002;0002",
+      "desc": "64卷31期785號 2~2頁",
+      "progress": "一讀",
+      "committee": "交通"
+    }
+  ],
+  "1975.04.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455380002;0001;0011",
+      "desc": "64卷38期792號 1~11頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "1975.05.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455400002;0001;0009",
+      "desc": "64卷40期794號 1~9頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "1975.05.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@64556200;0002;0008",
+      "desc": "64卷62期816號 2~8頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "1975.05.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455400001;0037;0078",
+      "desc": "64卷40期794號 37~78頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455400001;0078;0086",
+      "desc": "64卷40期794號 78~86頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通"
+    }
+  ],
+  "1975.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455410001;0008;0014",
+      "desc": "64卷41期795號 8~14頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通"
+    }
+  ],
+  "1975.05.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455420001;0003;0009",
+      "desc": "64卷42期796號 3~9頁",
+      "progress": "三讀",
+      "committee": "交通"
+    }
+  ]
+}

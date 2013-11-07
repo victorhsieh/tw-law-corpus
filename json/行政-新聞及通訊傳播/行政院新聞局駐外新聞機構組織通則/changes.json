@@ -1,0 +1,98 @@
+{
+  "1971.01.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6046060001;0002;0002",
+      "desc": "60卷6期0號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 內政 外交"
+    }
+  ],
+  "1971.03.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047260002;0008;0025",
+      "desc": "60卷26期380號 8~25頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 外交"
+    }
+  ],
+  "1972.05.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149390001;0013;0029",
+      "desc": "61卷39期492號 13~29頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政 外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149390001;0029;0035",
+      "desc": "61卷39期492號 29~35頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政 外交"
+    }
+  ],
+  "1972.05.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149400001;0003;0011",
+      "desc": "61卷40期493號 3~11頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政 外交"
+    }
+  ],
+  "1972.07.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149550001;0002;0006",
+      "desc": "61卷55期508號 2~6頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政 外交"
+    }
+  ],
+  "1972.07.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149560001;0002;0005",
+      "desc": "61卷56期509號 2~5頁",
+      "progress": "三讀",
+      "committee": "法制 內政 外交"
+    }
+  ],
+  "1980.12.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69669700;0002;0002",
+      "desc": "69卷97期1373號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 內政 外交",
+      "misc": {
+        "content": "122-127",
+        "link": "/lgcgi/lgmeetimage?cfcec9c9cfcbcfcfc5cecfcbd2cecfca"
+      }
+    }
+  ],
+  "1981.01.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70676200;0073;0076",
+      "desc": "70卷62期1443號 73~76頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 外交"
+    }
+  ],
+  "1981.01.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70660500;0041;0052",
+      "desc": "70卷5期1386號 41~52頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政 外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70660500;0052;0054",
+      "desc": "70卷5期1386號 52~54頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政 外交"
+    }
+  ],
+  "1981.01.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70660600;0005;0008",
+      "desc": "70卷6期1387號 5~8頁",
+      "progress": "三讀",
+      "committee": "法制 內政 外交"
+    }
+  ]
+}

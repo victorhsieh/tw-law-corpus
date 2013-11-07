@@ -1,0 +1,97 @@
+{
+  "unknown": [
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    }
+  ],
+  "1999.04.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@881700;0002;0002",
+      "desc": "88卷17期3017號 2~2頁",
+      "progress": "一讀",
+      "committee": "司法 國防",
+      "misc": {
+        "content": "319-492",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcecfc8cfcfc5cccec6d2cbc6cd"
+      }
+    }
+  ],
+  "1999.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883104;0127;0178",
+      "desc": "88卷31期3031號四冊 127~178頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1999.05.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883302;0003;0054",
+      "desc": "88卷33期3033號中冊 3~54頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1999.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883302;0393;0445",
+      "desc": "88卷33期3033號中冊 393~445頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1999.06.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883403;0107;0154",
+      "desc": "88卷34期3034號下冊 107~154頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1999.06.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883500;0247;0309",
+      "desc": "88卷35期3035號 247~309頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1999.06.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883600;0355;0404",
+      "desc": "88卷36期3036號 355~404頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1999.10.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884201;0034;0265",
+      "desc": "88卷42期3042號上冊 34~265頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 國防",
+      "misc": {
+        "content": "406-602",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcdc5cbcfc9d2c9cfcd"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884201;0265;0265",
+      "desc": "88卷42期3042號上冊 265~265頁",
+      "progress": "三讀",
+      "committee": "司法 國防"
+    }
+  ]
+}

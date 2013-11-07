@@ -1,0 +1,204 @@
+{
+  "unknown": [
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "6-9",
+        "link": "/lgcgi/lgmeetimage?cfcec9c9cfcccfcfc5c9d2c6"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "96-99",
+        "link": "/lgcgi/lgmeetimage?cfcccfcccfc7cfcfc5c6c9d2c6c6"
+      }
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "402-405",
+        "link": "/lgcgi/lgmeetimage?cfcccfcccecbcfcfc5cbcfcdd2cbcfca"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "374-377",
+        "link": "/lgcgi/lgmeetimage?cfcccfcbcec7cfcfc5ccc8cbd2ccc8c8"
+      }
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "143-146",
+        "link": "/lgcgi/lgmeetimage?cfcccfcacec9cfcec5cecbccd2cecbc9"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "663-670",
+        "link": "/lgcgi/lgmeetimage?cfcccfc9cfc9cfcec5c9c9ccd2c9c8cf"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "105-108",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcecfcdcfcec5cecfcad2cecfc7"
+      }
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "114-117",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcececfcfcdc5cececbd2cecec8"
+      }
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "388-391",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcbcfcdc5ccc7c7d2ccc6ce"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "62-70",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcecccfcdc5c9cdd2c8cf"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "146-149",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcbcfcec5cecbc9d2cecbc6"
+      }
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "221-226",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececacfcec5cdcdced2cdcdc9"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "4-19",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcececfcdc5cbd2cec6"
+      }
+    }
+  ],
+  "2009.11.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@985900;0004;0004",
+      "desc": "98卷59期3745號 4~4頁",
+      "progress": "一讀",
+      "committee": "外交及國防",
+      "misc": {
+        "content": "166-168",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcfc8cfcfc5cec9c9d2cec9c7"
+      }
+    }
+  ],
+  "2010.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09905501;0002;0003",
+      "desc": "99卷55期3820號 2~3頁",
+      "progress": "一讀",
+      "committee": "外交及國防",
+      "misc": {
+        "content": "91-92",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc9cfcac8cdc5c6ced2c6cd"
+      }
+    }
+  ],
+  "2010.12.23": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10000601;0370;0375",
+      "desc": "100卷6期3858號 370~375頁",
+      "progress": "委員會審查",
+      "committee": "外交及國防"
+    }
+  ],
+  "2011.01.10": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10000801;0217;0221",
+      "desc": "100卷8期3860號一冊 217~221頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交及國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10000801;0221;0221",
+      "desc": "100卷8期3860號一冊 221~221頁",
+      "progress": "三讀",
+      "committee": "外交及國防"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "1983.06.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72714700;0002;0002",
+      "desc": "72卷47期1636號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 財政",
+      "misc": {
+        "content": "491-495",
+        "link": "/lgcgi/lgmeetimage?cfcec8cecfc8cfcfc5cbc6ced2cbc6ca"
+      }
+    }
+  ],
+  "1983.11.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7302200;0092;0098",
+      "desc": "73卷22期1716號 92~98頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1983.11.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7302800;0144;0146",
+      "desc": "73卷28期1722號 144~146頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1983.12.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72729800;0007;0015",
+      "desc": "72卷98期1687號 7~15頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 財政"
+    }
+  ],
+  "1983.12.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72729900;0009;0010",
+      "desc": "72卷99期1688號 9~10頁",
+      "progress": "三讀",
+      "committee": "法制 財政"
+    }
+  ]
+}

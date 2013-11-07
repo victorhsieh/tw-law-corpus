@@ -1,0 +1,92 @@
+{
+  "1980.09.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69657900;0002;0002",
+      "desc": "69卷79期1355號 2~2頁",
+      "progress": "一讀",
+      "committee": "經濟 財政 預算",
+      "misc": {
+        "content": "10-15",
+        "link": "/lgcgi/lgmeetimage?cfcec9c9cfcdcfcfc5cecfd2ceca"
+      }
+    }
+  ],
+  "1980.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70660400;0058;0063",
+      "desc": "70卷4期1385號 58~63頁",
+      "progress": "委員會審查",
+      "committee": "經濟 財政 預算"
+    }
+  ],
+  "1980.11.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70661000;0028;0033",
+      "desc": "70卷10期1391號 28~33頁",
+      "progress": "委員會審查",
+      "committee": "經濟 財政 預算"
+    }
+  ],
+  "1980.11.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70661300;0013;0020",
+      "desc": "70卷13期1394號 13~20頁",
+      "progress": "委員會審查",
+      "committee": "經濟 財政 預算"
+    }
+  ],
+  "1980.11.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70672900;0049;0055",
+      "desc": "70卷29期1410號 49~55頁",
+      "progress": "委員會審查",
+      "committee": "經濟 財政 預算"
+    }
+  ],
+  "1980.12.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70673300;0075;0075",
+      "desc": "70卷33期1414號 75~75頁",
+      "progress": "委員會審查",
+      "committee": "經濟 財政 預算"
+    }
+  ],
+  "1980.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@696610400;0032;0046",
+      "desc": "69卷104期1380號 32~46頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟 財政 預算"
+    }
+  ],
+  "1981.01.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70660400;0024;0035",
+      "desc": "70卷4期1385號 24~35頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 財政 預算"
+    }
+  ],
+  "1981.01.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70660600;0004;0004",
+      "desc": "70卷6期1387號 4~4頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 財政 預算"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70660600;0040;0042",
+      "desc": "70卷6期1387號 40~42頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 財政 預算"
+    }
+  ],
+  "1981.01.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70660700;0004;0005",
+      "desc": "70卷7期1388號 4~5頁",
+      "progress": "三讀",
+      "committee": "經濟 財政 預算"
+    }
+  ]
+}

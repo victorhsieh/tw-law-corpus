@@ -1,0 +1,58 @@
+{
+  "1955.09.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441604;0007;0007",
+      "desc": "44卷16期號4冊 7~7頁",
+      "progress": "一讀",
+      "committee": "內政 民刑商法"
+    }
+  ],
+  "1955.12.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451609;0077;0102",
+      "desc": "45卷16期號9冊 77~102頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451609;0180;0187",
+      "desc": "45卷16期號9冊 180~187頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451609;0187;0192",
+      "desc": "45卷16期號9冊 187~192頁",
+      "progress": "三讀",
+      "committee": "內政 民刑商法"
+    }
+  ],
+  "1982.07.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71695300;0002;0002",
+      "desc": "71卷53期1538號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政 司法",
+      "misc": {
+        "content": "1202-1209",
+        "link": "/lgcgi/lgmeetimage?cfcec9c6cfc7cfcfc5cecdcfcdd2cecdcfc6"
+      }
+    }
+  ],
+  "1983.01.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72713100;0083;0083",
+      "desc": "72卷31期1620號 83~83頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    }
+  ],
+  "1983.04.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72712900;0006;0008",
+      "desc": "72卷29期1618號 6~8頁",
+      "progress": "三讀",
+      "committee": "內政 司法"
+    }
+  ]
+}

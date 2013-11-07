@@ -1,0 +1,46 @@
+{
+  "1984.11.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7309500;0002;0002",
+      "desc": "73卷95期1789號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政 經濟",
+      "misc": {
+        "content": "317-325",
+        "link": "/lgcgi/lgmeetimage?cfcec8cbcfcacfcfc5cccec8d2cccdca"
+      }
+    }
+  ],
+  "1984.12.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7403100;0145;0162",
+      "desc": "74卷31期1829號 145~162頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1984.12.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7310200;0013;0048",
+      "desc": "73卷102期1796號 13~48頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1984.12.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7310300;0011;0031",
+      "desc": "73卷103期1797號 11~31頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1984.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7310400;0014;0022",
+      "desc": "73卷104期1798號 14~22頁",
+      "progress": "三讀",
+      "committee": "財政 經濟"
+    }
+  ]
+}

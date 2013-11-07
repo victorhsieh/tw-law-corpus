@@ -1,0 +1,80 @@
+{
+  "1957.02.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461901;0076;0076",
+      "desc": "46卷19期號1冊 76~76頁",
+      "progress": "一讀",
+      "committee": "內政"
+    }
+  ],
+  "1957.05.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461908;0010;0014",
+      "desc": "46卷19期號8冊 10~14頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461908;0034;0035",
+      "desc": "46卷19期號8冊 34~35頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461908;0035;0038",
+      "desc": "46卷19期號8冊 35~38頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461908;0038;0039",
+      "desc": "46卷19期號8冊 38~39頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ],
+  "2000.03.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891300;0020;0020",
+      "desc": "89卷13期3072號 20~20頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "454-458",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcecccfcfc5cbcacbd2cbcac7"
+      }
+    }
+  ],
+  "2000.06.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@893903;0173;0202",
+      "desc": "89卷39期3098號下冊 173~202頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2000.10.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@895701;0072;0077",
+      "desc": "89卷57期3116號上冊 72~77頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政",
+      "misc": {
+        "content": "415-420",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccdc8cfcfc5cbcecad2cbcdcf"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@895701;0077;0077",
+      "desc": "89卷57期3116號上冊 77~77頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@895701;0077;0077",
+      "desc": "89卷57期3116號上冊 77~77頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "1999.10.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884401;0005;0005",
+      "desc": "88卷44期3044號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "財政 預算 法制",
+      "misc": {
+        "content": "841-859",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5c7cbced2c7cac6"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884401;0018;0018",
+      "desc": "88卷44期3044號上冊 18~18頁",
+      "progress": "一讀",
+      "committee": "財政 預算 法制",
+      "misc": {
+        "content": "228-238",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcbcfcec5cdcdc7d2cdccc7"
+      }
+    }
+  ],
+  "1999.11.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884801;0007;0007",
+      "desc": "88卷48期3048號上冊 7~7頁",
+      "progress": "一讀",
+      "committee": "財政 預算 法制",
+      "misc": {
+        "content": "575-583",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc8cfcfc5cac8cad2cac7cc"
+      }
+    }
+  ],
+  "1999.12.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885401;0004;0005",
+      "desc": "88卷54期3054號上冊 4~5頁",
+      "progress": "一讀",
+      "committee": "財政 預算 法制",
+      "misc": {
+        "content": "821-830",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc6cfccc5c7cdced2c7cccf"
+      }
+    }
+  ],
+  "1999.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890100;0361;0420",
+      "desc": "89卷1期3060號 361~420頁",
+      "progress": "委員會審查",
+      "committee": "財政 預算 法制"
+    }
+  ],
+  "1999.12.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890302;0177;0194",
+      "desc": "89卷3期3062號中冊 177~194頁",
+      "progress": "委員會審查",
+      "committee": "財政 預算 法制"
+    }
+  ],
+  "2000.01.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890800;0063;0068",
+      "desc": "89卷8期3067號 63~68頁",
+      "progress": "委員會審查",
+      "committee": "財政 預算 法制"
+    }
+  ],
+  "2000.01.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890903;0216;0276",
+      "desc": "89卷9期3068號三冊 216~276頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 預算 法制",
+      "misc": {
+        "content": "703-744",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcecbcfcfc5c8cfccd2c8cbcb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890903;0276;0278",
+      "desc": "89卷9期3068號三冊 276~278頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 預算 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890903;0278;0278",
+      "desc": "89卷9期3068號三冊 278~278頁",
+      "progress": "三讀",
+      "committee": "財政 預算 法制"
+    }
+  ]
+}

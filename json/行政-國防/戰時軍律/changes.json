@@ -1,0 +1,40 @@
+{
+  "2002.10.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@916301;0006;0006",
+      "desc": "91卷63期3259號上冊 6~6頁",
+      "progress": "一讀",
+      "committee": "國防",
+      "misc": {
+        "content": "313-317",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcfc9cfcec5ccceccd2cccec8"
+      }
+    }
+  ],
+  "2002.11.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@917704;0085;0092",
+      "desc": "91卷77期3273號四冊 85~92頁",
+      "progress": "委員會審查",
+      "committee": "國防"
+    }
+  ],
+  "2002.12.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@917502;0160;0163",
+      "desc": "91卷75期3271號二冊 160~163頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@917502;0160;0163",
+      "desc": "91卷75期3271號二冊 160~163頁",
+      "progress": "三讀",
+      "committee": "國防",
+      "misc": {
+        "content": "416-420",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcecdcfcdc5cbcec9d2cbcdcf"
+      }
+    }
+  ]
+}

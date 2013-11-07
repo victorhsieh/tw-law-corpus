@@ -1,0 +1,158 @@
+{
+  "1956.10.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451803;0007;0007",
+      "desc": "45卷18期號3冊 7~7頁",
+      "progress": "一讀",
+      "committee": "國防 財政"
+    }
+  ],
+  "1956.12.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461805;0092;0096",
+      "desc": "46卷18期號5冊 92~96頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461805;0097;0100",
+      "desc": "46卷18期號5冊 97~100頁",
+      "progress": "三讀",
+      "committee": "國防 財政"
+    }
+  ],
+  "1969.12.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5844890001;0002;0002",
+      "desc": "58卷89期0號 2~2頁",
+      "progress": "一讀",
+      "committee": "國防 財政"
+    }
+  ],
+  "1970.01.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5944050001;0011;0036",
+      "desc": "59卷5期0號 11~36頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 財政"
+    }
+  ],
+  "1970.01.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5944070001;0011;0012",
+      "desc": "59卷7期0號 11~12頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5944070001;0012;0025",
+      "desc": "59卷7期0號 12~25頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 財政"
+    }
+  ],
+  "1970.01.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5944080001;0003;0016",
+      "desc": "59卷8期0號 3~16頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5944080001;0016;0022",
+      "desc": "59卷8期0號 16~22頁",
+      "progress": "三讀",
+      "committee": "國防 財政"
+    }
+  ],
+  "2004.05.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@932601;0003;0003",
+      "desc": "93卷26期3360號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "國防",
+      "misc": {
+        "content": "138-142",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacececfcdc5ceccc7d2cecbcd"
+      }
+    }
+  ],
+  "2004.10.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@934403;0355;0364",
+      "desc": "93卷44期3378號下冊 355~364頁",
+      "progress": "委員會審查",
+      "committee": "國防"
+    }
+  ],
+  "2004.12.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@940101;0022;0026",
+      "desc": "94卷1期3383號上冊 22~26頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防",
+      "misc": {
+        "content": "3-9",
+        "link": "/lgcgi/lgmeetimage?cfcacfc9cfc6cfcdc5ccd2c6"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@940101;0026;0026",
+      "desc": "94卷1期3383號上冊 26~26頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@940101;0027;0027",
+      "desc": "94卷1期3383號上冊 27~27頁",
+      "progress": "三讀",
+      "committee": "國防"
+    }
+  ],
+  "2009.12.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@987300;0001;0001",
+      "desc": "98卷73期3759號 1~1頁",
+      "progress": "一讀",
+      "committee": "外交及國防",
+      "misc": {
+        "content": "33-36",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcecdc8cdc5ccccd2ccc9"
+      }
+    }
+  ],
+  "2010.03.05": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09901101;0003;0003",
+      "desc": "99卷11期3776號 3~3頁",
+      "progress": "一讀",
+      "committee": "外交及國防",
+      "misc": {
+        "content": "57-62",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacfccc8cdc5cac8d2c9cd"
+      }
+    }
+  ],
+  "2010.03.29": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902301;0250;0295",
+      "desc": "99卷23期3788號 250~295頁",
+      "progress": "委員會審查",
+      "committee": "外交及國防"
+    }
+  ],
+  "2010.04.20": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902603;0036;0048",
+      "desc": "99卷26期3791號三冊 36~48頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交及國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902603;0049;0049",
+      "desc": "99卷26期3791號三冊 49~49頁",
+      "progress": "三讀",
+      "committee": "外交及國防"
+    }
+  ]
+}

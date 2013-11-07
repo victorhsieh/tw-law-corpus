@@ -1,0 +1,36 @@
+{
+  "2007.09.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@966300;0109;0109",
+      "desc": "96卷63期3586號 109~109頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "153-168",
+        "link": "/lgcgi/lgmeetimage?cfc9cfc9cfcbc8cdc5cecaccd2cec9c7"
+      }
+    }
+  ],
+  "2007.12.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968400;0269;0312",
+      "desc": "96卷84期3607號 269~312頁",
+      "progress": "委員會審查",
+      "committee": "衛生"
+    }
+  ],
+  "2007.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968601;0232;0258",
+      "desc": "96卷86期3609號一冊 232~258頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "衛生"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968601;0258;0258",
+      "desc": "96卷86期3609號一冊 258~258頁",
+      "progress": "三讀",
+      "committee": "衛生"
+    }
+  ]
+}

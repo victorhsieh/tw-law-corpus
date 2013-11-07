@@ -1,0 +1,120 @@
+{
+  "1956.04.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451704;0056;0057",
+      "desc": "45卷17期號4冊 56~57頁",
+      "progress": "一讀",
+      "committee": "法制"
+    }
+  ],
+  "1956.04.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451705;0009;0010",
+      "desc": "45卷17期號5冊 9~10頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451705;0109;0110",
+      "desc": "45卷17期號5冊 109~110頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451705;0111;0111",
+      "desc": "45卷17期號5冊 111~111頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ],
+  "1999.11.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884801;0008;0009",
+      "desc": "88卷48期3048號上冊 8~9頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "707-716",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc8cfcfc5c8cfc8d2c8cec9"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884801;0012;0013",
+      "desc": "88卷48期3048號上冊 12~13頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "264-266",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcccfcdc5cdc9cbd2cdc9c9"
+      }
+    }
+  ],
+  "2000.03.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891400;0004;0004",
+      "desc": "89卷14期3073號 4~4頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "219-231",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccfcbcfcec5cdcec6d2cdccce"
+      }
+    }
+  ],
+  "2000.05.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@893000;0004;0004",
+      "desc": "89卷30期3089號 4~4頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "179-182",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccdcfcfcfc5cec8c6d2cec7cd"
+      }
+    }
+  ],
+  "2001.03.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@901401;0011;0011",
+      "desc": "90卷14期3148號上冊 11~11頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "134-143",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacfcccfcdc5cecccbd2cecbcc"
+      }
+    }
+  ],
+  "2001.04.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@903103;0213;0233",
+      "desc": "90卷31期3165號下冊 213~233頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "2001.10.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904603;0410;0454",
+      "desc": "90卷46期3180號下冊 410~454頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "544-587",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacecdcfcec5cacbcbd2cac7c8"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904603;0454;0456",
+      "desc": "90卷46期3180號下冊 454~456頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904603;0456;0456",
+      "desc": "90卷46期3180號下冊 456~456頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ]
+}

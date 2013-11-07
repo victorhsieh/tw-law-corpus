@@ -1,0 +1,164 @@
+{
+  "1971.06.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047410001;0004;0004",
+      "desc": "60卷41期395號 4~4頁",
+      "progress": "一讀",
+      "committee": "經濟"
+    }
+  ],
+  "1971.11.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6150900001;0012;0020",
+      "desc": "61卷90期543號 12~20頁",
+      "progress": "一讀",
+      "committee": "經濟"
+    }
+  ],
+  "1971.12.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6148050002;0001;0006",
+      "desc": "61卷5期458號 1~6頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "1972.11.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6150900001;0021;0032",
+      "desc": "61卷90期543號 21~32頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6150900001;0033;0036",
+      "desc": "61卷90期543號 33~36頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    }
+  ],
+  "1972.11.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6150910001;0006;0007",
+      "desc": "61卷91期544號 6~7頁",
+      "progress": "三讀",
+      "committee": "經濟"
+    }
+  ],
+  "1985.12.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7409800;0002;0002",
+      "desc": "74卷98期1896號 2~2頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "518-523",
+        "link": "/lgcgi/lgmeetimage?cfcec8c9cfc9cfcfc5cacec7d2cacdcc"
+      }
+    }
+  ],
+  "1985.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7503000;0096;0098",
+      "desc": "75卷30期1932號 96~98頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "1985.12.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7410300;0030;0033",
+      "desc": "74卷103期1901號 30~33頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7410300;0034;0034",
+      "desc": "74卷103期1901號 34~34頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7410300;0034;0034",
+      "desc": "74卷103期1901號 34~34頁",
+      "progress": "三讀",
+      "committee": "經濟"
+    }
+  ],
+  "2000.03.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891201;0006;0006",
+      "desc": "89卷12期3071號上冊 6~6頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "596-665",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccfcdcfcec5cac6c9d2c9c9ca"
+      }
+    }
+  ],
+  "2000.04.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891700;0181;0210",
+      "desc": "89卷17期3076號 181~210頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2000.04.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@892100;0068;0146",
+      "desc": "89卷21期3080號 68~146頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟",
+      "misc": {
+        "content": "596-671",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccfc7cfcfc5cac6c9d2c9c8ce"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@892100;0146;0146",
+      "desc": "89卷21期3080號 146~146頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@892100;0146;0147",
+      "desc": "89卷21期3080號 146~147頁",
+      "progress": "三讀",
+      "committee": "經濟"
+    }
+  ],
+  "2000.05.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@892600;0003;0003",
+      "desc": "89卷26期3085號 3~3頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "172-181",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccec9cfcfc5cec8cdd2cec7ce"
+      }
+    }
+  ],
+  "2000.06.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@894103;0153;0166",
+      "desc": "89卷41期3100號下冊 153~166頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2000.10.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@895401;0072;0076",
+      "desc": "89卷54期3113號上冊 72~76頁",
+      "progress": "三讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "556-566",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcbcfcdcfcec5cacac9d2cac9c9"
+      }
+    }
+  ]
+}

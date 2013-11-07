@@ -1,0 +1,48 @@
+{
+  "2005.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944001;0007;0007",
+      "desc": "94卷40期3422號一冊 7~7頁",
+      "progress": "一讀",
+      "committee": "教育",
+      "misc": {
+        "content": "394-401",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcececbcfcec5ccc6cbd2cbcfce"
+      }
+    }
+  ],
+  "2005.10.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@945700;0059;0106",
+      "desc": "94卷57期3439號 59~106頁",
+      "progress": "委員會審查",
+      "committee": "教育"
+    }
+  ],
+  "2005.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950201;0068;0077",
+      "desc": "95卷2期3463號一冊 68~77頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育",
+      "misc": {
+        "content": "159-169",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcec9cfcdc5cecac6d2cec9c6"
+      }
+    }
+  ],
+  "2006.01.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950201;0285;0296",
+      "desc": "95卷2期3463號一冊 285~296頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950201;0296;0298",
+      "desc": "95卷2期3463號一冊 296~298頁",
+      "progress": "三讀",
+      "committee": "教育"
+    }
+  ]
+}

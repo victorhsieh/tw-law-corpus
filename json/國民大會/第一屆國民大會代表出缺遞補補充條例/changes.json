@@ -1,0 +1,52 @@
+{
+  "1953.09.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421201;0003;0003",
+      "desc": "42卷12期號1冊 3~3頁",
+      "progress": "一讀",
+      "committee": "內政 法制 民刑商法"
+    }
+  ],
+  "1953.09.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421202;0007;0010",
+      "desc": "42卷12期號2冊 7~10頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 法制 民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421202;0015;0023",
+      "desc": "42卷12期號2冊 15~23頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 法制 民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421202;0023;0032",
+      "desc": "42卷12期號2冊 23~32頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 法制 民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421202;0033;0034",
+      "desc": "42卷12期號2冊 33~34頁",
+      "progress": "三讀",
+      "committee": "內政 法制 民刑商法"
+    }
+  ],
+  "1988.02.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7701700;0002;0002",
+      "desc": "77卷17期2128號 2~2頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    }
+  ],
+  "1988.03.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7702000;0143;0154",
+      "desc": "77卷20期2131號 143~154頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "1979.11.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68649100;0002;0002",
+      "desc": "68卷91期1263號 2~2頁",
+      "progress": "一讀",
+      "committee": "國防 法制",
+      "misc": {
+        "content": "212-217",
+        "link": "/lgcgi/lgmeetimage?cfcec9cbcfcccfcfc5cdcecdd2cdcec8"
+      }
+    }
+  ],
+  "1979.11.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@686410200;0015;0020",
+      "desc": "68卷102期1274號 15~20頁",
+      "progress": "委員會審查",
+      "committee": "國防 法制"
+    }
+  ],
+  "1979.11.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69641000;0002;0007",
+      "desc": "69卷10期1286號 2~7頁",
+      "progress": "委員會審查",
+      "committee": "國防 法制"
+    }
+  ],
+  "1979.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@686410000;0006;0013",
+      "desc": "68卷100期1272號 6~13頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@686410000;0013;0014",
+      "desc": "68卷100期1272號 13~14頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@686410000;0014;0015",
+      "desc": "68卷100期1272號 14~15頁",
+      "progress": "三讀",
+      "committee": "國防 法制"
+    }
+  ],
+  "2000.04.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891700;0004;0004",
+      "desc": "89卷17期3076號 4~4頁",
+      "progress": "一讀",
+      "committee": "國防 法制",
+      "misc": {
+        "content": "106-111",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccfc8cfcfc5cecfc9d2cecece"
+      }
+    }
+  ],
+  "2000.11.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896803;0001;0011",
+      "desc": "89卷68期3127號下冊 1~11頁",
+      "progress": "委員會審查",
+      "committee": "國防 法制"
+    }
+  ],
+  "2000.11.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896601;0117;0123",
+      "desc": "89卷66期3125號上冊 117~123頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896601;0123;0123",
+      "desc": "89卷66期3125號上冊 123~123頁",
+      "progress": "三讀",
+      "committee": "國防 法制"
+    }
+  ],
+  "2000.11.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896601;0123;0123",
+      "desc": "89卷66期3125號上冊 123~123頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 法制"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "1999.10.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884201;0007;0008",
+      "desc": "88卷42期3042號上冊 7~8頁",
+      "progress": "一讀",
+      "committee": "內政 國防 財政 法制",
+      "misc": {
+        "content": "673-712",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5c9c8ccd2c8cecd"
+      }
+    }
+  ],
+  "1999.11.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885201;0004;0005",
+      "desc": "88卷52期3052號上冊 4~5頁",
+      "progress": "一讀",
+      "committee": "內政 國防 財政 法制",
+      "misc": {
+        "content": "45-55",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc6cfccc5cbcad2caca"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885201;0005;0005",
+      "desc": "88卷52期3052號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "內政 國防 財政 法制",
+      "misc": {
+        "content": "433-441",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc6cfcfc5cbccccd2cbcbce"
+      }
+    }
+  ],
+  "1999.11.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884903;0477;0534",
+      "desc": "88卷49期3049號下冊 477~534頁",
+      "progress": "委員會審查",
+      "committee": "內政 國防 財政 法制"
+    }
+  ],
+  "1999.11.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885303;0491;0546",
+      "desc": "88卷53期3053號下冊 491~546頁",
+      "progress": "委員會審查",
+      "committee": "內政 國防 財政 法制"
+    }
+  ],
+  "2000.01.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890902;0173;0246",
+      "desc": "89卷9期3068號二冊 173~246頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 國防 財政 法制",
+      "misc": {
+        "content": "380-397",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc6cfcbc5ccc7cfd2ccc6c8"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890902;0246;0247",
+      "desc": "89卷9期3068號二冊 246~247頁",
+      "progress": "三讀",
+      "committee": "內政 國防 財政 法制"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "1978.11.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67628800;0004;0004",
+      "desc": "67卷88期1156號 4~4頁",
+      "progress": "一讀",
+      "committee": "教育 法制",
+      "misc": {
+        "content": "643-656",
+        "link": "/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5c9cbccd2c9cac9"
+      }
+    }
+  ],
+  "1979.04.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68633200;0004;0007",
+      "desc": "68卷32期1204號 4~7頁",
+      "progress": "三讀",
+      "committee": "教育 法制"
+    }
+  ]
+}

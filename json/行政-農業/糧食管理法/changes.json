@@ -1,0 +1,195 @@
+{
+  "unknown": [
+    {
+      "error": "...",
+      "misc": {
+        "content": "30-39",
+        "link": "/lgcgi/lgmeetimage?cfcec7cecec6cfcfc5cccfd2ccc6"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "596-665",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccfcdcfcec5cac6c9d2c9c9ca"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "596-671",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccfc7cfcfc5cac6c9d2c9c8ce"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "225-235",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcbcfcdcfcec5cdcdcad2cdccca"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "281-295",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcbcececfcdc5cdc7ced2cdc6ca"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "356-370",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc8cfcdc5cccac9d2ccc8cf"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "738-754",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececbcfcfc5c8ccc7d2c8cacb"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "297-301",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcecdcfcec5cdc6c8d2cccfce"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "330-337",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcecacfcfc5cccccfd2ccccc8"
+      }
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "232-236",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcececbcfcec5cdcccdd2cdccc9"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "9-19",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcccecdcfcdc5c6d2cec6"
+      }
+    },
+    {
+      "error": "..."
+    }
+  ],
+  "2009.09.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984601;0004;0004",
+      "desc": "98卷46期3732號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "259-265",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcfcecfcec5cdcac6d2cdc9ca"
+      }
+    }
+  ],
+  "2010.03.29": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902401;0319;0358",
+      "desc": "99卷24期3789號 319~358頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2010.05.13": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903902;0300;0325",
+      "desc": "99卷39期3804號二冊 300~325頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2010.11.05": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09906101;0063;0076",
+      "desc": "99卷61期3826號 63~76頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09906101;0076;0076",
+      "desc": "99卷61期3826號 76~76頁",
+      "progress": "三讀",
+      "committee": "經濟"
+    }
+  ]
+}

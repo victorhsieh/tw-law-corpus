@@ -1,0 +1,58 @@
+{
+  "1980.01.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69640600;0002;0002",
+      "desc": "69卷6期1282號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 財政",
+      "misc": {
+        "content": "695-704",
+        "link": "/lgcgi/lgmeetimage?cfcec9cbcfcbcfcfc5c9c6cad2c8cfcb"
+      }
+    }
+  ],
+  "1980.12.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70673800;0027;0031",
+      "desc": "70卷38期1419號 27~31頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1980.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@696610400;0056;0058",
+      "desc": "69卷104期1380號 56~58頁",
+      "progress": "三讀",
+      "committee": "法制 財政"
+    }
+  ],
+  "2008.03.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@970300;0004;0004",
+      "desc": "97卷003期3614號 4~4頁",
+      "progress": "一讀",
+      "committee": "司法 財政",
+      "misc": {
+        "content": "151-152",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecfccc8cdc5cecaced2cecacd"
+      }
+    }
+  ],
+  "2008.04.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@971500;0079;0080",
+      "desc": "97卷015期3626號 79~80頁",
+      "progress": "委員會審查",
+      "committee": "司法 財政"
+    }
+  ],
+  "2008.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@971600;0054;0059",
+      "desc": "97卷016期3627號 54~59頁",
+      "progress": "三讀",
+      "committee": "司法 財政"
+    }
+  ]
+}

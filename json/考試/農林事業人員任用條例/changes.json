@@ -1,0 +1,34 @@
+{
+  "1999.10.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884201;0005;0005",
+      "desc": "88卷42期3042號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "451-456",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5cbcaced2cbcac9"
+      }
+    }
+  ],
+  "1999.11.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884703;0001;0036",
+      "desc": "88卷47期3047號下冊 1~36頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1999.11.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885201;0117;0120",
+      "desc": "88卷52期3052號上冊 117~120頁",
+      "progress": "三讀",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "789-798",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc7cfcdc5c8c7c6d2c8c6c7"
+      }
+    }
+  ]
+}

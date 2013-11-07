@@ -1,0 +1,72 @@
+{
+  "2008.11.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976700;0041;0041",
+      "desc": "97卷67期3678號 41~41頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "177-190",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcecfc8cdc5cec8c8d2cec6cf"
+      }
+    }
+  ],
+  "2008.12.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@977100;0004;0004",
+      "desc": "97卷71期3682號 4~4頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "294-314",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcecdcfcbc5cdc6cbd2cccecb"
+      }
+    }
+  ],
+  "2008.12.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980304;0078;0111",
+      "desc": "98卷3期3689號四冊 78~111頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2008.12.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980402;0472;0494",
+      "desc": "98卷4期3690號二冊 472~494頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2009.01.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980403;0245;0279",
+      "desc": "98卷4期3690號三冊 245~279頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2009.01.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980404;0178;0219",
+      "desc": "98卷4期3690號四冊 178~219頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2009.01.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980502;0013;0095",
+      "desc": "98卷5期3691號二冊 13~95頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980502;0095;0095",
+      "desc": "98卷5期3691號二冊 95~95頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ]
+}

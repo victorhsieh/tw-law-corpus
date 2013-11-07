@@ -1,0 +1,46 @@
+{
+  "1999.10.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884201;0004;0004",
+      "desc": "88卷42期3042號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "300-319",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5cccfcfd2cccec6"
+      }
+    }
+  ],
+  "1999.11.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884703;0001;0036",
+      "desc": "88卷47期3047號下冊 1~36頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "2000.01.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890901;0299;0322",
+      "desc": "89卷9期3068號一冊 299~322頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "354-379",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc6cfcbc5cccacbd2ccc8c6"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890901;0323;0324",
+      "desc": "89卷9期3068號一冊 323~324頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890901;0324;0324",
+      "desc": "89卷9期3068號一冊 324~324頁",
+      "progress": "三讀",
+      "committee": "法制 經濟"
+    }
+  ]
+}

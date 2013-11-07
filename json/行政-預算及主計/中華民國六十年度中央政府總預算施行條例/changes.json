@@ -1,0 +1,42 @@
+{
+  "1970.04.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5945260001;0002;0002",
+      "desc": "59卷26期號 2~2頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    }
+  ],
+  "1970.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5945400001;0002;0002",
+      "desc": "59卷40期號 2~2頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "1976.12.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@65581020001;0002;0002",
+      "desc": "65卷102期961號 2~2頁",
+      "progress": "一讀",
+      "committee": "預算"
+    }
+  ],
+  "1977.03.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@66593200;0043;0044",
+      "desc": "66卷32期995號 43~44頁",
+      "progress": "委員會審查",
+      "committee": "預算"
+    }
+  ],
+  "1977.03.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@66592500;0022;0024",
+      "desc": "66卷25期988號 22~24頁",
+      "progress": "三讀",
+      "committee": "預算"
+    }
+  ]
+}

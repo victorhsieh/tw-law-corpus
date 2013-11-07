@@ -1,0 +1,136 @@
+{
+  "1961.02.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@502701;0052;0052",
+      "desc": "50卷27期號1冊 52~52頁",
+      "progress": "一讀",
+      "committee": "經濟"
+    }
+  ],
+  "1962.07.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@512917;0005;0013",
+      "desc": "51卷29期號17冊 5~13頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@512917;0014;0018",
+      "desc": "51卷29期號17冊 14~18頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    }
+  ],
+  "1962.07.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@512916;0200;0205",
+      "desc": "51卷29期號16冊 200~205頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@512916;0205;0215",
+      "desc": "51卷29期號16冊 205~215頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    }
+  ],
+  "1962.07.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@512917;0058;0060",
+      "desc": "51卷29期號17冊 58~60頁",
+      "progress": "三讀",
+      "committee": "經濟"
+    }
+  ],
+  "1963.08.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@523119;0054;0054",
+      "desc": "52卷31期號19冊 54~54頁",
+      "progress": "一讀",
+      "committee": "經濟"
+    }
+  ],
+  "1964.05.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@533310;0008;0024",
+      "desc": "53卷33期號10冊 8~24頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@533310;0038;0041",
+      "desc": "53卷33期號10冊 38~41頁",
+      "progress": "三讀",
+      "committee": "經濟"
+    }
+  ],
+  "1964.04.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@533307;0061;0073",
+      "desc": "53卷33期號7冊 61~73頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟"
+    }
+  ],
+  "1964.05.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@533308;0037;0056",
+      "desc": "53卷33期號8冊 37~56頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@533308;0074;0089",
+      "desc": "53卷33期號8冊 74~89頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟"
+    }
+  ],
+  "1964.05.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@533308;0089;0091",
+      "desc": "53卷33期號8冊 89~91頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    }
+  ],
+  "1964.05.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@533309;0071;0080",
+      "desc": "53卷33期號9冊 71~80頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@533309;0117;0118",
+      "desc": "53卷33期號9冊 117~118頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    }
+  ],
+  "1995.03.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@841900;0001;0001",
+      "desc": "84卷19期2776號 1~1頁",
+      "progress": "一讀",
+      "committee": "經濟 財政"
+    }
+  ],
+  "1995.07.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@844604;0213;0215",
+      "desc": "84卷46期2803號四冊 213~215頁",
+      "progress": "委員會審查",
+      "committee": "經濟 財政"
+    }
+  ],
+  "1995.07.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@844601;0255;0259",
+      "desc": "84卷46期2803號一冊 255~259頁",
+      "progress": "三讀",
+      "committee": "經濟 財政"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "1986.05.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7504400;0002;0002",
+      "desc": "75卷44期1946號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "22-40",
+        "link": "/lgcgi/lgmeetimage?cfcec8c8cececfcfc5cdcdd2cbcf"
+      }
+    }
+  ],
+  "1986.10.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7600800;0058;0066",
+      "desc": "76卷8期2015號 58~66頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1986.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7600900;0002;0005",
+      "desc": "76卷9期2016號 2~5頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1986.11.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7509200;0008;0023",
+      "desc": "75卷92期1994號 8~23頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制",
+      "misc": {
+        "content": "696-708",
+        "link": "/lgcgi/lgmeetimage?cfcec8c7cfcacfcfc5c9c6c9d2c8cfc7"
+      }
+    }
+  ],
+  "1986.11.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7509300;0006;0006",
+      "desc": "75卷93期1995號 6~6頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

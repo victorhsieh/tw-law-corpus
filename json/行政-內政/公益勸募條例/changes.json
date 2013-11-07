@@ -1,0 +1,64 @@
+{
+  "2005.09.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944403;0003;0003",
+      "desc": "94卷44期3426號三冊 3~3頁",
+      "progress": "一讀",
+      "committee": "衛生 內政",
+      "misc": {
+        "content": "198-206",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcfcdcfcec5cec6c7d2cdcfc9"
+      }
+    }
+  ],
+  "2005.10.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944900;0004;0004",
+      "desc": "94卷49期3431號 4~4頁",
+      "progress": "一讀",
+      "committee": "衛生 內政",
+      "misc": {
+        "content": "179-189",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcfcacfcec5cec8c6d2cec7c6"
+      }
+    }
+  ],
+  "2005.12.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@947701;0003;0003",
+      "desc": "94卷77期3459號一冊 3~3頁",
+      "progress": "一讀",
+      "committee": "衛生 內政",
+      "misc": {
+        "content": "795-802",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcecacfccc5c8c6cad2c7cfcd"
+      }
+    }
+  ],
+  "2006.01.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950602;0117;0152",
+      "desc": "95卷6期3467號二冊 117~152頁",
+      "progress": "委員會審查",
+      "committee": "衛生 內政"
+    }
+  ],
+  "2006.04.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@952000;0197;0247",
+      "desc": "95卷20期3481號 197~247頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "衛生 內政",
+      "misc": {
+        "content": "241-286",
+        "link": "/lgcgi/lgmeetimage?cfcccfcccfc7cfcdc5cdcbced2cdc7c9"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@952000;0247;0248",
+      "desc": "95卷20期3481號 247~248頁",
+      "progress": "三讀",
+      "committee": "衛生 內政"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "2003.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@930201;0003;0003",
+      "desc": "93卷2期3336號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "105-118",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcec9cfcfc5cecfcad2cecec7"
+      }
+    }
+  ],
+  "2004.01.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@930703;0394;0400",
+      "desc": "93卷7期3341號下冊 394~400頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2004.03.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@931801;0149;0167",
+      "desc": "93卷18期3352號上冊 149~167頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟",
+      "misc": {
+        "content": "375-395",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacfc8cfcdc5ccc8cad2ccc6ca"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@931801;0167;0171",
+      "desc": "93卷18期3352號上冊 167~171頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@931801;0171;0172",
+      "desc": "93卷18期3352號上冊 171~172頁",
+      "progress": "三讀",
+      "committee": "經濟"
+    }
+  ]
+}

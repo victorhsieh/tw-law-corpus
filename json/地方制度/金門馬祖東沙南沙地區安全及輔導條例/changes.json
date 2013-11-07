@@ -1,0 +1,142 @@
+{
+  "1991.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8004400;0270;0273",
+      "desc": "80卷44期2468號 270~273頁",
+      "progress": "一讀",
+      "committee": "國防 內政",
+      "misc": {
+        "content": "374-377",
+        "link": "/lgcgi/lgmeetimage?cfcec7c8cdc7cfcfc5ccc8cbd2ccc8c8"
+      }
+    }
+  ],
+  "1991.09.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8007900;0028;0028",
+      "desc": "80卷79期2503號 28~28頁",
+      "progress": "一讀",
+      "committee": "國防 內政",
+      "misc": {
+        "content": "91-98",
+        "link": "/lgcgi/lgmeetimage?cfcec7c7cfcdcfcfc5c6ced2c6c7"
+      }
+    }
+  ],
+  "1991.11.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8009400;0161;0177",
+      "desc": "80卷94期2518號 161~177頁",
+      "progress": "委員會審查",
+      "committee": "國防 內政"
+    }
+  ],
+  "1991.11.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8009500;0426;0454",
+      "desc": "80卷95期2519號 426~454頁",
+      "progress": "委員會審查",
+      "committee": "國防 內政"
+    }
+  ],
+  "1991.11.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8009700;0428;0453",
+      "desc": "80卷97期2521號 428~453頁",
+      "progress": "委員會審查",
+      "committee": "國防 內政"
+    }
+  ],
+  "1992.07.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8105801;0285;0314",
+      "desc": "81卷58期2586號上冊 285~314頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 內政",
+      "misc": {
+        "content": "278-300",
+        "link": "/lgcgi/lgmeetimage?cfcec7c7cdcacfcfc5cdc8c7d2cccfcf"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8105801;0314;0325",
+      "desc": "81卷58期2586號上冊 314~325頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8105801;0325;0325",
+      "desc": "81卷58期2586號上冊 325~325頁",
+      "progress": "三讀",
+      "committee": "國防 內政"
+    }
+  ],
+  "1994.01.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@830300;0031;0035",
+      "desc": "83卷3期2677號 31~35頁",
+      "progress": "一讀",
+      "committee": "國防 內政"
+    }
+  ],
+  "1994.01.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@830800;0508;0543",
+      "desc": "83卷8期2682號 508~543頁",
+      "progress": "委員會審查",
+      "committee": "國防 內政"
+    }
+  ],
+  "1994.04.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@832901;0030;0044",
+      "desc": "83卷29期2703號上冊 30~44頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@832901;0044;0067",
+      "desc": "83卷29期2703號上冊 44~67頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@832901;0067;0067",
+      "desc": "83卷29期2703號上冊 67~67頁",
+      "progress": "三讀",
+      "committee": "國防 內政"
+    }
+  ],
+  "1997.05.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@862501;0003;0004",
+      "desc": "86卷25期2917號上冊 3~4頁",
+      "progress": "一讀",
+      "committee": "國防 內政",
+      "misc": {
+        "content": "87-90",
+        "link": "/lgcgi/lgmeetimage?cfcccfcccdcecfcfc5c7c8d2c6cf"
+      }
+    }
+  ],
+  "1998.03.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@871303;0241;0246",
+      "desc": "87卷13期2962號下冊 241~246頁",
+      "progress": "委員會審查",
+      "committee": "國防 內政"
+    }
+  ],
+  "1998.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@873102;0058;0075",
+      "desc": "87卷31期2980號中冊 58~75頁",
+      "progress": "三讀",
+      "committee": "國防 內政",
+      "misc": {
+        "content": "651-657",
+        "link": "/lgcgi/lgmeetimage?cfcccfcacec8cfcfc5c9caced2c9cac8"
+      }
+    }
+  ]
+}

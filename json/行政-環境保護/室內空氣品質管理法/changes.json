@@ -1,0 +1,62 @@
+{
+  "2008.10.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@975600;0009;0009",
+      "desc": "097卷056期3667號 9~9頁",
+      "progress": "一讀",
+      "committee": "衛生環境及勞工",
+      "misc": {
+        "content": "185-193",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcfc9cfcec5cec7cad2cec6cc"
+      }
+    }
+  ],
+  "2008.12.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980402;0281;0291",
+      "desc": "098卷004期3690號二冊 281~291頁",
+      "progress": "委員會審查",
+      "committee": "衛生環境及勞工"
+    }
+  ],
+  "2009.04.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982100;0421;0443",
+      "desc": "098卷021期3707號 421~443頁",
+      "progress": "委員會審查",
+      "committee": "衛生環境及勞工"
+    }
+  ],
+  "2011.10.24": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10007101;0170;0176",
+      "desc": "100卷071期3923號 170~176頁",
+      "progress": "委員會審查",
+      "committee": "衛生環境及勞工"
+    }
+  ],
+  "2011.11.08": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10007001;0066;0079",
+      "desc": "100卷070期3922號 66~79頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "衛生環境及勞工",
+      "misc": {
+        "content": "1-12",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc7cfc7c8c8c5ced2cecd"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10007001;0079;0084",
+      "desc": "100卷070期3922號 79~84頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "衛生環境及勞工"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10007001;0084;0084",
+      "desc": "100卷070期3922號 84~84頁",
+      "progress": "三讀",
+      "committee": "衛生環境及勞工"
+    }
+  ]
+}

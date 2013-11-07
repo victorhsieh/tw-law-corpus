@@ -1,0 +1,36 @@
+{
+  "2010.05.28": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09904101;0005;0005",
+      "desc": "99卷41期3806號 5~5頁",
+      "progress": "一讀",
+      "committee": "外交及國防 社福及衛環",
+      "misc": {
+        "content": "174-177",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacecacfcec5cec8cbd2cec8c8"
+      }
+    }
+  ],
+  "2011.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004301;0089;0141",
+      "desc": "100卷43期3895號 89~141頁",
+      "progress": "委員會審查",
+      "committee": "外交及國防 社福及衛環"
+    }
+  ],
+  "2011.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004201;0051;0060",
+      "desc": "100卷42期3894號 51~60頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交及國防 社福及衛環"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004201;0060;0061",
+      "desc": "100卷42期3894號 60~61頁",
+      "progress": "三讀",
+      "committee": "外交及國防 社福及衛環"
+    }
+  ]
+}

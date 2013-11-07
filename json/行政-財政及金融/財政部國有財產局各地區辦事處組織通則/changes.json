@@ -1,0 +1,32 @@
+{
+  "1993.10.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@825500;0013;0013",
+      "desc": "82卷55期2654號 13~13頁",
+      "progress": "一讀",
+      "committee": "法制 財政"
+    }
+  ],
+  "1995.03.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@842000;0185;0222",
+      "desc": "84卷20期2777號 185~222頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1997.03.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@861001;0055;0070",
+      "desc": "86卷10期2902號上冊 55~70頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@861001;0070;0071",
+      "desc": "86卷10期2902號上冊 70~71頁",
+      "progress": "三讀",
+      "committee": "法制 財政"
+    }
+  ]
+}

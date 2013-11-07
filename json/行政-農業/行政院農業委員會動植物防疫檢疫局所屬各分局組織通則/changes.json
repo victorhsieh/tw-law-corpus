@@ -1,0 +1,86 @@
+{
+  "1997.09.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@863500;0008;0008",
+      "desc": "86卷35期2927號 8~8頁",
+      "progress": "一讀",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "122-170",
+        "link": "/lgcgi/lgmeetimage?cfcccfcbcfcdcfccc5cecdcdd2cec8cf"
+      }
+    }
+  ],
+  "1997.10.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@864603;0201;0248",
+      "desc": "86卷46期2938號下冊 201~248頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1998.03.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@871003;0529;0570",
+      "desc": "87卷10期2959號下冊 529~570頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1998.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@873102;0145;0213",
+      "desc": "87卷31期2980號中冊 145~213頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "858-909",
+        "link": "/lgcgi/lgmeetimage?cfcccfcacfc6cfcdc5c7cac7d2c6cfc6"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@873102;0213;0213",
+      "desc": "87卷31期2980號中冊 213~213頁",
+      "progress": "三讀",
+      "committee": "法制 經濟"
+    }
+  ],
+  "2000.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@897301;0004;0005",
+      "desc": "89卷73期3132號上冊 4~5頁",
+      "progress": "一讀",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "173-187",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcbcecbcfcfc5cec8ccd2cec7c8"
+      }
+    }
+  ],
+  "2000.12.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@900505;0249;0260",
+      "desc": "90卷5期3139號五冊 249~260頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "2001.01.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@900502;0466;0487",
+      "desc": "90卷5期3139號二冊 466~487頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "78-96",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcbcec7cfcec5c8c7d2c6c9"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@900502;0487;0487",
+      "desc": "90卷5期3139號二冊 487~487頁",
+      "progress": "三讀",
+      "committee": "法制 經濟"
+    }
+  ]
+}

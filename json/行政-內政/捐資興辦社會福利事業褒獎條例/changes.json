@@ -1,0 +1,22 @@
+{
+  "1986.05.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7504400;0002;0002",
+      "desc": "75卷44期1946號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "22-40",
+        "link": "/lgcgi/lgmeetimage?cfcec8c8cececfcfc5cdcdd2cbcf"
+      }
+    }
+  ],
+  "1986.11.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7509300;0006;0006",
+      "desc": "75卷93期1995號 6~6頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

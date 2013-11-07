@@ -1,0 +1,34 @@
+{
+  "1980.06.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69654500;0002;0002",
+      "desc": "69卷45期1321號 2~2頁",
+      "progress": "一讀",
+      "committee": "國防 法制",
+      "misc": {
+        "content": "816-833",
+        "link": "/lgcgi/lgmeetimage?cfcec9cacfcbcfcfc5c7cec9d2c7cccc"
+      }
+    }
+  ],
+  "1980.06.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655000;0012;0024",
+      "desc": "69卷50期1326號 12~24頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655000;0024;0029",
+      "desc": "69卷50期1326號 24~29頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655000;0029;0034",
+      "desc": "69卷50期1326號 29~34頁",
+      "progress": "三讀",
+      "committee": "國防 法制"
+    }
+  ]
+}

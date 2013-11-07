@@ -1,0 +1,96 @@
+{
+  "1999.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884501;0004;0004",
+      "desc": "88卷45期3045號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "財政 經濟",
+      "misc": {
+        "content": "356-414",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcacfcec5cccac9d2cbcecb"
+      }
+    }
+  ],
+  "1999.11.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885001;0005;0005",
+      "desc": "88卷50期3050號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "財政 經濟",
+      "misc": {
+        "content": "493-499",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc8cfcfc5cbc6ccd2cbc6c6"
+      }
+    }
+  ],
+  "2000.03.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891300;0005;0006",
+      "desc": "89卷13期3072號 5~6頁",
+      "progress": "一讀",
+      "committee": "財政 經濟",
+      "misc": {
+        "content": "369-376",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcecacfcfc5ccc9c6d2ccc8c9"
+      }
+    }
+  ],
+  "1999.11.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885103;0309;0343",
+      "desc": "88卷51期3051號下冊 309~343頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1999.11.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885501;0125;0174",
+      "desc": "88卷55期3055號上冊 125~174頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1999.12.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890301;0159;0179",
+      "desc": "89卷3期3062號上冊 159~179頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "2000.06.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@894201;0113;0130",
+      "desc": "89卷42期3101號上冊 113~130頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "2000.11.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896501;0038;0114",
+      "desc": "89卷65期3124號上冊 38~114頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 經濟",
+      "misc": {
+        "content": "545-612",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccdc7cfcec5cacbcad2c9cecd"
+      }
+    }
+  ],
+  "2000.11.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896601;0022;0034",
+      "desc": "89卷66期3125號上冊 22~34頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896601;0034;0037",
+      "desc": "89卷66期3125號上冊 34~37頁",
+      "progress": "三讀",
+      "committee": "財政 經濟"
+    }
+  ]
+}

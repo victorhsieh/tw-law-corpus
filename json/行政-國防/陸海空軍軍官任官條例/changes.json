@@ -1,0 +1,74 @@
+{
+  "1953.11.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421204;0044;0045",
+      "desc": "42卷12期號4冊 44~45頁",
+      "progress": "一讀",
+      "committee": "國防 法制"
+    }
+  ],
+  "1955.09.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441604;0002;0002",
+      "desc": "44卷16期號4冊 2~2頁",
+      "progress": "一讀",
+      "committee": "國防 法制"
+    }
+  ],
+  "1956.04.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451704;0008;0020",
+      "desc": "45卷17期號4冊 8~20頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451704;0051;0056",
+      "desc": "45卷17期號4冊 51~56頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 法制"
+    }
+  ],
+  "1956.03.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451704;0034;0039",
+      "desc": "45卷17期號4冊 34~39頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451704;0040;0043",
+      "desc": "45卷17期號4冊 40~43頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 法制"
+    }
+  ],
+  "1956.04.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451704;0058;0062",
+      "desc": "45卷17期號4冊 58~62頁",
+      "progress": "三讀",
+      "committee": "國防 法制"
+    }
+  ],
+  "1980.06.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69654500;0002;0002",
+      "desc": "69卷45期1321號 2~2頁",
+      "progress": "一讀",
+      "committee": "國防 法制",
+      "misc": {
+        "content": "829-833",
+        "link": "/lgcgi/lgmeetimage?cfcec9cacfcbcfcfc5c7cec9d2cfc7cec8df"
+      }
+    }
+  ],
+  "1980.06.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655000;0012;0034",
+      "desc": "69卷50期1326號 12~34頁",
+      "progress": "三讀",
+      "committee": "國防 法制"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "1954.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431402;0067;0067",
+      "desc": "43卷14期號2冊 67~67頁",
+      "progress": "一讀",
+      "committee": "財政 內政 預算 民刑商法"
+    }
+  ],
+  "1955.01.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441408;0036;0047",
+      "desc": "44卷14期號8冊 36~47頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 內政 預算 民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441408;0108;0111",
+      "desc": "44卷14期號8冊 108~111頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 內政 預算 民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441408;0111;0112",
+      "desc": "44卷14期號8冊 111~112頁",
+      "progress": "三讀",
+      "committee": "財政 內政 預算 民刑商法"
+    }
+  ],
+  "2002.03.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911600;0007;0007",
+      "desc": "91卷16期3212號 7~7頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "227-235",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcdcfcdc5cdcdc8d2cdccca"
+      }
+    }
+  ],
+  "2002.04.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913803;0101;0117",
+      "desc": "91卷38期3234號下冊 101~117頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "2002.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913301;0072;0077",
+      "desc": "91卷33期3229號上冊 72~77頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政",
+      "misc": {
+        "content": "464-475",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecececfcdc5cbc9cbd2cbc8ca"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913301;0077;0077",
+      "desc": "91卷33期3229號上冊 77~77頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ]
+}

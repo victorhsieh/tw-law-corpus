@@ -1,0 +1,30 @@
+{
+  "1986.11.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7509500;0002;0002",
+      "desc": "75卷95期1997號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政 經濟",
+      "misc": {
+        "content": "826-836",
+        "link": "/lgcgi/lgmeetimage?cfcec8c7cfc9cfcfc5c7cdc9d2c7ccc9"
+      }
+    }
+  ],
+  "1986.12.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7601400;0016;0023",
+      "desc": "76卷14期2021號 16~23頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1986.12.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7509900;0005;0013",
+      "desc": "75卷99期2001號 5~13頁",
+      "progress": "三讀",
+      "committee": "財政 經濟"
+    }
+  ]
+}

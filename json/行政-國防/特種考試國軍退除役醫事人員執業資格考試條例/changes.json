@@ -1,0 +1,177 @@
+{
+  "1960.02.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@492501;0007;0007",
+      "desc": "49卷25期號01冊 7~7頁",
+      "progress": "一讀",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "1962.06.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@512912;0036;0042",
+      "desc": "51卷29期號12冊 36~42頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@512912;0053;0063",
+      "desc": "51卷29期號12冊 53~63頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@512912;0063;0065",
+      "desc": "51卷29期號12冊 63~65頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "1962.06.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@512912;0101;0103",
+      "desc": "51卷29期號12冊 101~103頁",
+      "progress": "三讀",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "1965.03.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@54350400;0006;0006",
+      "desc": "54卷35期號04冊 6~6頁",
+      "progress": "一讀",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "unknown": [
+    {
+      "error": "..."
+    }
+  ],
+  "1967.12.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57400200;0126;0128",
+      "desc": "57卷2期號 126~128頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "1971.03.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047250002;0039;0048",
+      "desc": "60卷25期279號 39~48頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "1971.03.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047330002;0043;0051",
+      "desc": "60卷33期387號 43~51頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "1971.04.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047340002;0008;0017",
+      "desc": "60卷34期388號 8~17頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "1971.04.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047390002;0013;0027",
+      "desc": "60卷39期393號 13~27頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "1971.04.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047390002;0027;0034",
+      "desc": "60卷39期393號 27~34頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "1971.05.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047460002;0009;0019",
+      "desc": "60卷46期400號 9~19頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "1971.01.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6048990002;0016;0022",
+      "desc": "60卷99期452號 16~22頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "1972.07.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6150860002;0002;0008",
+      "desc": "61卷86期539號 2~8頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "1972.08.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6150870002;0013;0023",
+      "desc": "61卷87期540號 13~23頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "1972.08.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@61496400;0026;0061",
+      "desc": "61卷64期517號 26~61頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "1972.08.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149650001;0009;0024",
+      "desc": "61卷65期518號 9~24頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "1972.08.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149670001;0003;0023",
+      "desc": "61卷67期520號 3~23頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "1972.08.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@61496800;0027;0028",
+      "desc": "61卷68期521號 27~28頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@61496800;0078;0082",
+      "desc": "61卷68期521號 78~82頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政 國防"
+    }
+  ],
+  "1972.08.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@61496900;0004;0009",
+      "desc": "61卷69期522號 4~9頁",
+      "progress": "三讀",
+      "committee": "法制 內政 國防"
+    }
+  ]
+}

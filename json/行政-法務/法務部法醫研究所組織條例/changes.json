@@ -1,0 +1,32 @@
+{
+  "1994.03.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@831701;0009;0009",
+      "desc": "83卷17期2691號上冊 9~9頁",
+      "progress": "一讀",
+      "committee": "法制 司法"
+    }
+  ],
+  "1995.06.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@844203;0001;0018",
+      "desc": "84卷42期2799號下冊 1~18頁",
+      "progress": "委員會審查",
+      "committee": "法制 司法"
+    }
+  ],
+  "1997.04.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@861501;0184;0210",
+      "desc": "86卷15期2907號上冊 184~210頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@861501;0210;0210",
+      "desc": "86卷15期2907號上冊 210~210頁",
+      "progress": "三讀",
+      "committee": "法制 司法"
+    }
+  ]
+}

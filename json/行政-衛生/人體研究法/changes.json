@@ -1,0 +1,58 @@
+{
+  "2010.09.24": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09905101;0005;0005",
+      "desc": "099卷051期3816號一冊 5~5頁",
+      "progress": "一讀",
+      "committee": "社福利及衛環",
+      "misc": {
+        "content": "28-34",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc9cfcecfcdc5cdc7d2cccb"
+      }
+    }
+  ],
+  "2011.09.30": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10005501;0003;0003",
+      "desc": "100卷055期3907號 3~3頁",
+      "progress": "一讀",
+      "committee": "社福利及衛環",
+      "misc": {
+        "content": "53-70",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc7cfccc8cdc5caccd2c8cf"
+      }
+    }
+  ],
+  "2011.11.24": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10008301;0364;0432",
+      "desc": "100卷083期3935號 364~432頁",
+      "progress": "委員會審查",
+      "committee": "社福利及衛環"
+    }
+  ],
+  "2011.12.09": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10008601;0105;0154",
+      "desc": "100卷086期3938號 105~154頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "社福利及衛環",
+      "misc": {
+        "content": "135-184",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc7cecdc8c9c5cecccad2cec7cb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10008601;0154;0160",
+      "desc": "100卷086期3938號 154~160頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "社福利及衛環"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10008601;0160;0161",
+      "desc": "100卷086期3938號 160~161頁",
+      "progress": "三讀",
+      "committee": "社福利及衛環"
+    }
+  ]
+}

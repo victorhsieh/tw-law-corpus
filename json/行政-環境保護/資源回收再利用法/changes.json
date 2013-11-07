@@ -1,0 +1,126 @@
+{
+  "2002.03.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911800;0006;0006",
+      "desc": "91卷18期3214號 6~6頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "441-454",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcccfcec5cbcbced2cbcacb"
+      }
+    }
+  ],
+  "2002.02.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911401;0003;0003",
+      "desc": "91卷14期3210號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "589-608",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcecfccc5cac7c6d2c9cfc7"
+      }
+    }
+  ],
+  "2002.03.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911600;0006;0006",
+      "desc": "91卷16期3212號 6~6頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "91-104",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcdcfcdc5c6ced2cecfcb"
+      }
+    }
+  ],
+  "2002.04.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913001;0005;0005",
+      "desc": "91卷30期3226號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "342-355",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc6cfccc5cccbcdd2cccaca"
+      }
+    }
+  ],
+  "2002.05.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914505;0045;0094",
+      "desc": "91卷45期3241號五冊 45~94頁",
+      "progress": "委員會審查",
+      "committee": "衛生"
+    }
+  ],
+  "2002.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914903;0327;0382",
+      "desc": "91卷49期3245號下冊 327~382頁",
+      "progress": "委員會審查",
+      "committee": "衛生"
+    }
+  ],
+  "2002.06.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914001;0339;0420",
+      "desc": "91卷40期3236號一冊 339~420頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "衛生",
+      "misc": {
+        "content": "113-192",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececacfcdc5cececcd2cec6cd"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914001;0420;0426",
+      "desc": "91卷40期3236號一冊 420~426頁",
+      "progress": "三讀",
+      "committee": "衛生"
+    }
+  ],
+  "2008.06.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@974200;0001;0002",
+      "desc": "97卷42期3653號 1~2頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "112-114",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecec9cfcec5cececdd2cececb"
+      }
+    }
+  ],
+  "2008.07.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@974700;0435;0451",
+      "desc": "97卷47期3658號 435~451頁",
+      "progress": "委員會審查",
+      "committee": "衛生"
+    }
+  ],
+  "2008.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980100;0367;0379",
+      "desc": "98卷1期3687號 367~379頁",
+      "progress": "委員會審查",
+      "committee": "衛生"
+    }
+  ],
+  "2008.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980301;0121;0126",
+      "desc": "98卷3期3689號一冊 121~126頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "衛生"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980301;0126;0126",
+      "desc": "98卷3期3689號一冊 126~126頁",
+      "progress": "三讀",
+      "committee": "衛生"
+    }
+  ]
+}

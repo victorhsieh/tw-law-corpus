@@ -1,0 +1,88 @@
+{
+  "2008.02.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@970200;0012;0012",
+      "desc": "97卷002期3613號 12~12頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "149-157",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecfcdcfcbc5cecbc6d2cecac8"
+      }
+    }
+  ],
+  "2009.04.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982400;0001;0001",
+      "desc": "98卷24期3710號 1~1頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "99-106",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccecfcfcec5c6c6d2cecfc9"
+      }
+    }
+  ],
+  "2009.04.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982100;0279;0299",
+      "desc": "98卷021期3707號 279~299頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2010.03.31": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902401;0359;0394",
+      "desc": "99卷024期3789號 359~394頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2010.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903902;0215;0261",
+      "desc": "99卷039期3804號二冊 215~261頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2010.05.12": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903902;0288;0300",
+      "desc": "99卷039期3804號二冊 288~300頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2010.05.24": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09904501;0006;0036",
+      "desc": "99卷045期3810號 6~36頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2010.06.07": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09904601;0068;0069",
+      "desc": "99卷046期3811號一冊 68~69頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟"
+    }
+  ],
+  "2010.11.16": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09906601;0117;0155",
+      "desc": "99卷066期3831號 117~155頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09906601;0155;0157",
+      "desc": "99卷066期3831號 155~157頁",
+      "progress": "三讀",
+      "committee": "經濟"
+    }
+  ]
+}

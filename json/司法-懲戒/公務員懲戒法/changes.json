@@ -1,0 +1,76 @@
+{
+  "1984.11.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7309400;0002;0002",
+      "desc": "73卷94期1788號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 司法",
+      "misc": {
+        "content": "101-121",
+        "link": "/lgcgi/lgmeetimage?cfcec8cbcfcacfcfc5cecfced2cecdce"
+      }
+    }
+  ],
+  "1984.11.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7403300;0119;0130",
+      "desc": "74卷33期1831號 119~130頁",
+      "progress": "委員會審查",
+      "committee": "法制 司法"
+    }
+  ],
+  "1984.12.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7403600;0102;0111",
+      "desc": "74卷36期1834號 102~111頁",
+      "progress": "委員會審查",
+      "committee": "法制 司法"
+    }
+  ],
+  "1984.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7403700;0144;0154",
+      "desc": "74卷37期1835號 144~154頁",
+      "progress": "委員會審查",
+      "committee": "法制 司法"
+    }
+  ],
+  "1984.12.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7404000;0143;0152",
+      "desc": "74卷40期1838號 143~152頁",
+      "progress": "委員會審查",
+      "committee": "法制 司法"
+    }
+  ],
+  "1985.04.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7403100;0023;0065",
+      "desc": "74卷31期1829號 23~65頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7403100;0065;0070",
+      "desc": "74卷31期1829號 65~70頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 司法"
+    }
+  ],
+  "1985.04.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7403200;0015;0024",
+      "desc": "74卷32期1830號 15~24頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 司法"
+    }
+  ],
+  "1985.04.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7403300;0005;0010",
+      "desc": "74卷33期1831號 5~10頁",
+      "progress": "三讀",
+      "committee": "法制 司法"
+    }
+  ]
+}

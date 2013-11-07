@@ -1,0 +1,116 @@
+{
+  "2002.05.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913401;0004;0004",
+      "desc": "91卷34期3230號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "交通",
+      "misc": {
+        "content": "181-274",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececdcfcfc5cec7ced2cdc8cb"
+      }
+    }
+  ],
+  "2002.05.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@915201;0185;0212",
+      "desc": "91卷52期3248號上冊 185~212頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "2002.06.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914201;0183;0264",
+      "desc": "91卷42期3238號上冊 183~264頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "交通",
+      "misc": {
+        "content": "603-684",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecec9cfcdc5c9cfccd2c9c7cb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914201;0264;0272",
+      "desc": "91卷42期3238號上冊 264~272頁",
+      "progress": "三讀",
+      "committee": "交通"
+    }
+  ],
+  "2005.04.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@942001;0009;0009",
+      "desc": "94卷20期3402號一冊 9~9頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "298-308",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcecfc8cfcec5cdc6c7d2cccfc7"
+      }
+    }
+  ],
+  "2005.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@943702;0285;0307",
+      "desc": "94卷37期3419號二冊 285~307頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "2005.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@943701;0071;0091",
+      "desc": "94卷37期3419號一冊 71~91頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制",
+      "misc": {
+        "content": "331-347",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcececccfcdc5ccccced2cccbc8"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@943701;0091;0091",
+      "desc": "94卷37期3419號一冊 91~91頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ],
+  "2005.10.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@945900;0004;0004",
+      "desc": "94卷59期3441號 4~4頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "168-172",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcfc7cfcec5cec9c7d2cec8cd"
+      }
+    }
+  ],
+  "2006.03.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@951001;0303;0314",
+      "desc": "95卷10期3471號一冊 303~314頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "2006.04.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@952000;0157;0172",
+      "desc": "95卷20期3481號 157~172頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制",
+      "misc": {
+        "content": "225-239",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcccfc7cfcdc5cdcdcad2cdccc6"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@952000;0172;0172",
+      "desc": "95卷20期3481號 172~172頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "2001.10.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904701;0003;0003",
+      "desc": "90卷47期3181號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "法制 國防",
+      "misc": {
+        "content": "146-156",
+        "link": "/lgcgi/lgmeetimage?cfcbcfc9cfcacfcec5cecbc9d2cecac9"
+      }
+    }
+  ],
+  "2001.12.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@910900;0097;0123",
+      "desc": "91卷9期3205號 97~123頁",
+      "progress": "委員會審查",
+      "committee": "法制 國防"
+    }
+  ],
+  "2002.01.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911002;0521;0535",
+      "desc": "91卷10期3206號中冊 521~535頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 國防",
+      "misc": {
+        "content": "359-373",
+        "link": "/lgcgi/lgmeetimage?cfcbcfc9cecdcfccc5cccac6d2ccc8cc"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911002;0535;0535",
+      "desc": "91卷10期3206號中冊 535~535頁",
+      "progress": "三讀",
+      "committee": "法制 國防"
+    }
+  ]
+}

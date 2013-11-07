@@ -1,0 +1,114 @@
+{
+  "1998.10.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@873601;0004;0004",
+      "desc": "87卷36期2985號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "經濟 內政 交通 財政",
+      "misc": {
+        "content": "280-318",
+        "link": "/lgcgi/lgmeetimage?cfcccfc9cfcdcfcfc5cdc7cfd2cccec7"
+      }
+    }
+  ],
+  "1998.10.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@874003;0343;0395",
+      "desc": "87卷40期2989號下冊 343~395頁",
+      "progress": "委員會審查",
+      "committee": "經濟 內政 交通 財政"
+    }
+  ],
+  "1999.01.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880503;0221;0260",
+      "desc": "88卷5期3005號下冊 221~260頁",
+      "progress": "委員會審查",
+      "committee": "經濟 內政 交通 財政"
+    }
+  ],
+  "1999.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880604;0467;0517",
+      "desc": "88卷6期3006號四冊 467~517頁",
+      "progress": "委員會審查",
+      "committee": "經濟 內政 交通 財政"
+    }
+  ],
+  "2000.01.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890901;0176;0280",
+      "desc": "89卷9期3068號一冊 176~280頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟 內政 交通 財政",
+      "misc": {
+        "content": "745-804",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcecbcfcdc5c8cbcad2c7cfcb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890901;0280;0291",
+      "desc": "89卷9期3068號一冊 280~291頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 內政 交通 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890901;0291;0291",
+      "desc": "89卷9期3068號一冊 291~291頁",
+      "progress": "三讀",
+      "committee": "經濟 內政 交通 財政"
+    }
+  ],
+  "2001.04.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@902101;0003;0003",
+      "desc": "90卷21期3155號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "科技",
+      "misc": {
+        "content": "461-463",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacfcacfcdc5cbc9ced2cbc9cc"
+      }
+    }
+  ],
+  "2001.05.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@902801;0011;0011",
+      "desc": "90卷28期3162號上冊 11~11頁",
+      "progress": "一讀",
+      "committee": "科技",
+      "misc": {
+        "content": "589-592",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacfcbcfcdc5cac7c6d2cac6cd"
+      }
+    }
+  ],
+  "2001.05.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@903200;0139;0156",
+      "desc": "90卷32期3166號 139~156頁",
+      "progress": "委員會審查",
+      "committee": "科技"
+    }
+  ],
+  "2001.10.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904703;0906;0911",
+      "desc": "90卷47期3181號下冊 906~911頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "科技"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904703;0911;0912",
+      "desc": "90卷47期3181號下冊 911~912頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "科技"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904703;0912;0912",
+      "desc": "90卷47期3181號下冊 912~912頁",
+      "progress": "三讀",
+      "committee": "科技"
+    }
+  ]
+}

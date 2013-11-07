@@ -1,0 +1,52 @@
+{
+  "2009.05.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982800;0009;0009",
+      "desc": "98卷28期3714號 9~9頁",
+      "progress": "一讀",
+      "committee": "交通 司法及法制",
+      "misc": {
+        "content": "173-182",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccecfc8cdc5cec8ccd2cec7cd"
+      }
+    }
+  ],
+  "2009.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983600;0119;0194",
+      "desc": "98卷36期3722號 119~194頁",
+      "progress": "委員會審查",
+      "committee": "交通 司法及法制"
+    }
+  ],
+  "2009.05.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983600;0195;0201",
+      "desc": "98卷36期3722號 195~201頁",
+      "progress": "委員會審查",
+      "committee": "交通 司法及法制"
+    }
+  ],
+  "2009.06.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983900;0275;0290",
+      "desc": "98卷39期3725號 275~290頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "交通 司法及法制"
+    }
+  ],
+  "2009.06.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984201;0113;0118",
+      "desc": "98卷42期3728號一冊 113~118頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通 司法及法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984201;0118;0119",
+      "desc": "98卷42期3728號一冊 118~119頁",
+      "progress": "三讀",
+      "committee": "交通 司法及法制"
+    }
+  ]
+}

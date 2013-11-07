@@ -1,0 +1,34 @@
+{
+  "1973.02.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@62500700;0065;0065",
+      "desc": "62卷7期563號 65~65頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1973.03.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251250002;0022;0030",
+      "desc": "62卷25期581號 22~30頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1973.03.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251260002;0009;0020",
+      "desc": "62卷26期582號 9~20頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1973.03.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251230001;0004;0006",
+      "desc": "62卷23期579號 4~6頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ]
+}

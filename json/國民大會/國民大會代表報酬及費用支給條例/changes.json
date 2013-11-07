@@ -1,0 +1,126 @@
+{
+  "1992.05.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8103700;0003;0008",
+      "desc": "81卷37期2565號 3~8頁",
+      "progress": "一讀",
+      "committee": "法制 內政 財政 預算",
+      "misc": {
+        "content": "178-182",
+        "link": "/lgcgi/lgmeetimage?cfcec7c6cec6cfcdc5cec8c7d2cec7cd"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8103700;0046;0047",
+      "desc": "81卷37期2565號 46~47頁",
+      "progress": "一讀",
+      "committee": "法制 內政 財政 預算",
+      "misc": {
+        "content": "723",
+        "link": "/lgcgi/lgmeetimage?cfcec7c6cdcfcfcfc5c8cdcc"
+      }
+    }
+  ],
+  "1992.07.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8105802;0010;0012",
+      "desc": "81卷58期2586號中冊 10~12頁",
+      "progress": "一讀",
+      "committee": "法制 內政 財政 預算",
+      "misc": {
+        "content": "328-331",
+        "link": "/lgcgi/lgmeetimage?cfcec7c6ccc9cfcdc5cccdc7d2ccccce"
+      }
+    }
+  ],
+  "1992.06.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8105303;0068;0091",
+      "desc": "81卷53期2581號下冊 68~91頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 財政 預算"
+    }
+  ],
+  "1992.07.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8105503;0198;0221",
+      "desc": "81卷55期2583號下冊 198~221頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 財政 預算"
+    }
+  ],
+  "1998.07.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8105802;0095;0099",
+      "desc": "81卷58期2586號中冊 95~99頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政 財政 預算"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8105802;0099;0099",
+      "desc": "81卷58期2586號中冊 99~99頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政 財政 預算"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8105802;0099;0099",
+      "desc": "81卷58期2586號中冊 99~99頁",
+      "progress": "三讀",
+      "committee": "法制 內政 財政 預算"
+    }
+  ],
+  "1997.05.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@862401;0003;0003",
+      "desc": "86卷24期2916號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "法制"
+    }
+  ],
+  "1997.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@863101;0332;0341",
+      "desc": "86卷31期2923號上冊 332~341頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@863101;0341;0342",
+      "desc": "86卷31期2923號上冊 341~342頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ],
+  "2005.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@942501;0006;0006",
+      "desc": "94卷25期3407號一冊 6~6頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "205-207",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcecfc6cfcec5cdcfcad2cdcfc8"
+      }
+    }
+  ],
+  "2005.05.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@943900;0015;0020",
+      "desc": "94卷39期3421號 15~20頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "2005.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@943701;0051;0056",
+      "desc": "94卷37期3419號一冊 51~56頁",
+      "progress": "三讀",
+      "committee": "法制",
+      "misc": {
+        "content": "307-311",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcececccfcdc5cccfc8d2cccece"
+      }
+    }
+  ]
+}

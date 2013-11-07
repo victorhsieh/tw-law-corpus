@@ -1,0 +1,112 @@
+{
+  "1956.05.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451705;0120;0120",
+      "desc": "45卷17期號5冊 120~120頁",
+      "progress": "一讀",
+      "committee": "內政"
+    }
+  ],
+  "1956.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451706;0006;0009",
+      "desc": "45卷17期號6冊 6~9頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451706;0086;0087",
+      "desc": "45卷17期號6冊 86~87頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451706;0087;0089",
+      "desc": "45卷17期號6冊 87~89頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    }
+  ],
+  "1956.05.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451706;0097;0098",
+      "desc": "45卷17期號6冊 97~98頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ],
+  "1984.05.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7304300;0147;0147",
+      "desc": "73卷43期1737號 147~147頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "16-22",
+        "link": "/lgcgi/lgmeetimage?cfcec8cccfc9cfcfc5cec9d2cdcd"
+      }
+    }
+  ],
+  "1984.11.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7400600;0002;0004",
+      "desc": "74卷6期1804號 2~4頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "1984.11.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7309500;0007;0014",
+      "desc": "73卷95期1789號 7~14頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7309500;0014;0017",
+      "desc": "73卷95期1789號 14~17頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    }
+  ],
+  "1984.11.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7309600;0005;0006",
+      "desc": "73卷96期1790號 5~6頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ],
+  "1997.09.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@863601;0003;0003",
+      "desc": "86卷36期2928號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "交通",
+      "misc": {
+        "content": "44-47",
+        "link": "/lgcgi/lgmeetimage?cfcccfcbcfcccfcec5cbcbd2cbc8"
+      }
+    }
+  ],
+  "1998.05.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@873000;0227;0243",
+      "desc": "87卷30期2979號 227~243頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "1999.04.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@881901;0076;0079",
+      "desc": "88卷19期3019號上冊 76~79頁",
+      "progress": "三讀",
+      "committee": "交通",
+      "misc": {
+        "content": "65-70",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcecfc7cfcdc5c9cad2c8cf"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "1973.11.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6252920001;0002;0002",
+      "desc": "62卷92期648號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1973.12.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@63520800;0002;0005",
+      "desc": "63卷8期664號 2~5頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1974.01.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6352030001;0002;0008",
+      "desc": "63卷3期659號 2~8頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ],
+  "1975.09.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456780001;0002;0002",
+      "desc": "64卷78期832號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1975.11.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@65560800;0020;0021",
+      "desc": "65卷8期867號 20~21頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1975.11.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456950001;0004;0006",
+      "desc": "64卷95期849號 4~6頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456950001;0006;0006",
+      "desc": "64卷95期849號 6~6頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ]
+}

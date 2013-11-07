@@ -1,0 +1,242 @@
+{
+  "1954.10.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431401;0089;0089",
+      "desc": "43卷14期號1冊 89~89頁",
+      "progress": "一讀",
+      "committee": "法制 教育"
+    }
+  ],
+  "1954.12.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441407;0026;0031",
+      "desc": "44卷14期號7冊 26~31頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441407;0136;0138",
+      "desc": "44卷14期號7冊 136~138頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ],
+  "1954.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441406;0188;0190",
+      "desc": "44卷14期號6冊 188~190頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    }
+  ],
+  "1989.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7810000;0003;0003",
+      "desc": "78卷100期2316號 3~3頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "25-44",
+        "link": "/lgcgi/lgmeetimage?cfcec7cbcecacfcfc5cdcad2cbcb"
+      }
+    }
+  ],
+  "1989.12.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8004700;0386;0399",
+      "desc": "80卷47期2471號 386~399頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1989.12.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8005100;0305;0326",
+      "desc": "80卷51期2475號 305~326頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1990.01.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8006200;0110;0118",
+      "desc": "80卷62期2486號 110~118頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1990.01.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7900500;0009;0055",
+      "desc": "79卷5期2325號 9~55頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    }
+  ],
+  "1990.01.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7900600;0010;0017",
+      "desc": "79卷6期2326號 10~17頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ],
+  "2000.05.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@893000;0004;0004",
+      "desc": "89卷30期3089號 4~4頁",
+      "progress": "一讀",
+      "committee": "法制 科技",
+      "misc": {
+        "content": "191-201",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccdcfcfcfc5cec6ced2cdcfce"
+      }
+    }
+  ],
+  "2000.07.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@894501;0005;0005",
+      "desc": "89卷45期3104號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "法制 科技",
+      "misc": {
+        "content": "240-264",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccccecfcec5cdcbcfd2cdc9cb"
+      }
+    }
+  ],
+  "2001.05.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@902801;0002;0002",
+      "desc": "90卷28期3162號上冊 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 科技",
+      "misc": {
+        "content": "278-293",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacfc6cfcfc5cdc8c7d2cdc6cc"
+      }
+    }
+  ],
+  "2001.05.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@903001;0003;0004",
+      "desc": "90卷30期3164號一冊 3~4頁",
+      "progress": "一讀",
+      "committee": "法制 科技",
+      "misc": {
+        "content": "414-433",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacecfcfcfc5cbcecbd2cbcccc"
+      }
+    }
+  ],
+  "2001.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904200;0001;0024",
+      "desc": "90卷42期3176號 1~24頁",
+      "progress": "委員會審查",
+      "committee": "法制 科技"
+    }
+  ],
+  "2001.06.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@903401;0170;0232",
+      "desc": "90卷34期3168號上冊 170~232頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 科技",
+      "misc": {
+        "content": "486-543",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacecdcfcec5cbc7c9d2cacbcc"
+      }
+    }
+  ],
+  "2001.10.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904603;0405;0409",
+      "desc": "90卷46期3180號下冊 405~409頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 科技"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904603;0409;0410",
+      "desc": "90卷46期3180號下冊 409~410頁",
+      "progress": "三讀",
+      "committee": "法制 科技"
+    }
+  ],
+  "2002.03.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911600;0006;0006",
+      "desc": "91卷16期3212號 6~6頁",
+      "progress": "一讀",
+      "committee": "法制 科技",
+      "misc": {
+        "content": "105-106",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcdcfcdc5cecfcad2cecfc9"
+      }
+    }
+  ],
+  "2002.03.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913303;0209;0215",
+      "desc": "91卷33期3229號下冊 209~215頁",
+      "progress": "委員會審查",
+      "committee": "法制 科技"
+    }
+  ],
+  "2002.04.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912801;0316;0318",
+      "desc": "91卷28期3224號上冊 316~318頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 科技",
+      "misc": {
+        "content": "385-388",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc7cfcec5ccc7cad2ccc7c7"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912801;0318;0318",
+      "desc": "91卷28期3224號上冊 318~318頁",
+      "progress": "三讀",
+      "committee": "法制 科技"
+    }
+  ],
+  "2005.09.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944401;0021;0021",
+      "desc": "94卷44期3426號一冊 21~21頁",
+      "progress": "一讀",
+      "committee": "法制 科技",
+      "misc": {
+        "content": "109-114",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcfcecfcdc5cecfc6d2cececb"
+      }
+    }
+  ],
+  "2005.09.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944801;0001;0031",
+      "desc": "94卷48期3430號一冊 1~31頁",
+      "progress": "委員會審查",
+      "committee": "法制 科技"
+    }
+  ],
+  "2006.01.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950201;0274;0284",
+      "desc": "95卷2期3463號一冊 274~284頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 科技",
+      "misc": {
+        "content": "145-153",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcec8cfcdc5cecbcad2cecacc"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950201;0284;0285",
+      "desc": "95卷2期3463號一冊 284~285頁",
+      "progress": "三讀",
+      "committee": "法制 科技"
+    }
+  ]
+}

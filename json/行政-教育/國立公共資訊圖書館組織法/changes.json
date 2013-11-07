@@ -1,0 +1,76 @@
+{
+  "2011.02.22": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10001201;0006;0007",
+      "desc": "100卷012期3864號一冊 6~7頁",
+      "progress": "一讀",
+      "committee": "司法及法制、教育及文化",
+      "misc": {
+        "content": "3-34",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc8cfcecfcdc5ccd2cccb"
+      }
+    }
+  ],
+  "2011.03.25": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10002101;0005;0005",
+      "desc": "100卷021期3873號一冊 5~5頁",
+      "progress": "一讀",
+      "committee": "司法及法制、教育及文化",
+      "misc": {
+        "content": "272-275",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc8cfc9cfcec5cdc8cdd2cdc8ca"
+      }
+    }
+  ],
+  "2011.04.06": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003001;0001;0127",
+      "desc": "100卷030期3882號 1~127頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制、教育及文化"
+    }
+  ],
+  "2011.04.07": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003001;0128;0137",
+      "desc": "100卷030期3882號 128~137頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制、教育及文化"
+    }
+  ],
+  "2011.06.13": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004903;1304;1348",
+      "desc": "100卷049期3901號三冊 1304~1348頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制、教育及文化",
+      "misc": {
+        "content": "37-84",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc8cecacfccc5ccc8d2c7cb"
+      }
+    }
+  ],
+  "2011.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10008803;1018;1019",
+      "desc": "100卷088期3940號三冊 1018~1019頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制、教育及文化"
+    }
+  ],
+  "2012.01.20": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10100101;0085;0100",
+      "desc": "101卷001期3942號 85~100頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制、教育及文化"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10100101;0100;0100",
+      "desc": "101卷001期3942號 100~100頁",
+      "progress": "三讀",
+      "committee": "司法及法制、教育及文化"
+    }
+  ]
+}

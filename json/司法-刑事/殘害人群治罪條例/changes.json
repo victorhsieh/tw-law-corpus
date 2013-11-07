@@ -1,0 +1,36 @@
+{
+  "1953.05.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421107;0016;0030",
+      "desc": "42卷11期號7冊 16~30頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "民刑商法 外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421107;0033;0034",
+      "desc": "42卷11期號7冊 33~34頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "民刑商法 外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421107;0034;0043",
+      "desc": "42卷11期號7冊 34~43頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "民刑商法 外交"
+    }
+  ],
+  "1953.05.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421107;0053;0054",
+      "desc": "42卷11期號7冊 53~54頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "民刑商法 外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421107;0054;0056",
+      "desc": "42卷11期號7冊 54~56頁",
+      "progress": "三讀",
+      "committee": "民刑商法 外交"
+    }
+  ]
+}

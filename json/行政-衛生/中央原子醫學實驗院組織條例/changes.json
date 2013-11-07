@@ -1,0 +1,66 @@
+{
+  "1957.03.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461903;0007;0007",
+      "desc": "46卷19期號3冊 7~7頁",
+      "progress": "一讀",
+      "committee": "內政 法制 教育"
+    }
+  ],
+  "1957.04.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461905;0007;0012",
+      "desc": "46卷19期號5冊 7~12頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 法制 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461905;0080;0084",
+      "desc": "46卷19期號5冊 80~84頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 法制 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461905;0084;0086",
+      "desc": "46卷19期號5冊 84~86頁",
+      "progress": "三讀",
+      "committee": "內政 法制 教育"
+    }
+  ],
+  "1957.04.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461904;0113;0125",
+      "desc": "46卷19期號4冊 113~125頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 法制 教育"
+    }
+  ],
+  "1978.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@676210300;0002;0002",
+      "desc": "67卷103期1171號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 內政 教育",
+      "misc": {
+        "content": "94-97",
+        "link": "/lgcgi/lgmeetimage?cfcec9cdcfcbcfcfc5c6cbd2c6c8"
+      }
+    }
+  ],
+  "1979.01.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68633900;0053;0054",
+      "desc": "68卷39期1211號 53~54頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 教育"
+    }
+  ],
+  "1979.03.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68632500;0003;0004",
+      "desc": "68卷25期1197號 3~4頁",
+      "progress": "三讀",
+      "committee": "法制 內政 教育"
+    }
+  ]
+}

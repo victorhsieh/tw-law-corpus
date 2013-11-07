@@ -1,0 +1,46 @@
+{
+  "1996.12.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@856901;0003;0003",
+      "desc": "85卷69期2891號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "法制 交通"
+    }
+  ],
+  "1997.05.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@862800;0297;0318",
+      "desc": "86卷28期2920號 297~318頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "1997.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@865503;0025;0078",
+      "desc": "86卷55期2947號下冊 25~78頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "2000.01.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890902;0072;0077",
+      "desc": "89卷9期3068號二冊 72~77頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890902;0077;0078",
+      "desc": "89卷9期3068號二冊 77~78頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890902;0078;0078",
+      "desc": "89卷9期3068號二冊 78~78頁",
+      "progress": "三讀",
+      "committee": "法制 交通"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "2011.02.22": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10001201;0008;0009",
+      "desc": "100卷12期3864號一冊 8~9頁",
+      "progress": "一讀",
+      "committee": "司法及法制 教育及文化",
+      "misc": {
+        "content": "309-336",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc8cfcec8ccc5cccfc6d2ccccc9"
+      }
+    }
+  ],
+  "2011.05.18": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004601;0115;0195",
+      "desc": "100卷46期3898號 115~195頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2011.05.19": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004601;0196;0235",
+      "desc": "100卷46期3898號 196~235頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2011.06.07": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004906;2641;2648",
+      "desc": "100卷49期3901號六冊 2641~2648頁",
+      "progress": "黨團協商",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2011.06.13": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004904;1575;1621",
+      "desc": "100卷49期3901號四冊 1575~1621頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2011.06.14": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004905;2238;2243",
+      "desc": "100卷49期3901號五冊 2238~2243頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制 教育及文化"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004905;2266;2280",
+      "desc": "100卷49期3901號五冊 2266~2280頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制 教育及文化"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004905;2280;2280",
+      "desc": "100卷49期3901號五冊 2280~2280頁",
+      "progress": "三讀",
+      "committee": "司法及法制 教育及文化"
+    }
+  ]
+}

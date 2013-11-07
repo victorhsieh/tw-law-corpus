@@ -1,0 +1,82 @@
+{
+  "1967.11.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400811;2224;2224",
+      "desc": "56卷8期號11冊 2224~2224頁",
+      "progress": "一讀",
+      "committee": "法制 司法"
+    }
+  ],
+  "1967.11.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400212;2431;2437",
+      "desc": "56卷2期號12冊 2431~2437頁",
+      "progress": "委員會審查",
+      "committee": "法制 司法"
+    }
+  ],
+  "1967.12.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400712;2685;2690",
+      "desc": "56卷7期號12冊 2685~2690頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 司法"
+    }
+  ],
+  "1967.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400712;2690;2691",
+      "desc": "56卷7期號12冊 2690~2691頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400812;2744;2746",
+      "desc": "56卷8期號12冊 2744~2746頁",
+      "progress": "三讀",
+      "committee": "法制 司法"
+    }
+  ],
+  "1980.06.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655200;0002;0002",
+      "desc": "69卷52期1328號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 司法",
+      "misc": {
+        "content": "430-432",
+        "link": "/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5cbcccfd2cbcccd"
+      }
+    }
+  ],
+  "1980.07.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@696610000;0143;0150",
+      "desc": "69卷100期1376號 143~150頁",
+      "progress": "委員會審查",
+      "committee": "法制 司法"
+    }
+  ],
+  "1980.07.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655700;0036;0038",
+      "desc": "69卷57期1333號 36~38頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655700;0038;0039",
+      "desc": "69卷57期1333號 38~39頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 司法"
+    }
+  ],
+  "1980.07.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655800;0008;0008",
+      "desc": "69卷58期1334號 8~8頁",
+      "progress": "三讀",
+      "committee": "法制 司法"
+    }
+  ]
+}

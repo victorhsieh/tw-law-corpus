@@ -1,0 +1,154 @@
+{
+  "1987.04.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7602800;0002;0002",
+      "desc": "76卷28期2035號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政 司法",
+      "misc": {
+        "content": "247-250",
+        "link": "/lgcgi/lgmeetimage?cfcec8c6cfc9cfcfc5cdcbc8d2cdcacf"
+      }
+    }
+  ],
+  "1988.10.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7800500;0183;0187",
+      "desc": "78卷5期2221號 183~187頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    }
+  ],
+  "1989.12.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7810000;0027;0031",
+      "desc": "78卷100期2316號 27~31頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7810000;0032;0032",
+      "desc": "78卷100期2316號 32~32頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7810000;0146;0147",
+      "desc": "78卷100期2316號 146~147頁",
+      "progress": "三讀",
+      "committee": "內政 司法"
+    }
+  ],
+  "2000.03.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891300;0023;0023",
+      "desc": "89卷13期3072號 23~23頁",
+      "progress": "一讀",
+      "committee": "內政 司法",
+      "misc": {
+        "content": "419-427",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcecfcfcec5cbcec6d2cbcdc8"
+      }
+    }
+  ],
+  "2000.06.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@894001;0187;0226",
+      "desc": "89卷40期3099號上冊 187~226頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    }
+  ],
+  "2000.10.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@895801;0129;0140",
+      "desc": "89卷58期3117號上冊 129~140頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 司法",
+      "misc": {
+        "content": "288-299",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcbcfcbcfcdc5cdc7c7d2cdc6c6"
+      }
+    }
+  ],
+  "2000.12.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896801;0071;0073",
+      "desc": "89卷68期3127號上冊 71~73頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896801;0073;0074",
+      "desc": "89卷68期3127號上冊 73~74頁",
+      "progress": "三讀",
+      "committee": "內政 司法"
+    }
+  ],
+  "2002.04.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913001;0012;0012",
+      "desc": "91卷30期3226號上冊 12~12頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "42-45",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc6cfcec5cbcdd2cbca"
+      }
+    }
+  ],
+  "2002.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@915101;0123;0166",
+      "desc": "91卷51期3247號上冊 123~166頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2002.11.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@917001;0084;0087",
+      "desc": "91卷70期3266號上冊 84~87頁",
+      "progress": "三讀",
+      "committee": "內政",
+      "misc": {
+        "content": "136-139",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcecfcfccc5ceccc9d2ceccc6"
+      }
+    }
+  ],
+  "2010.12.03": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09907701;0005;0005",
+      "desc": "99卷77期3842號 5~5頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "363-368",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc9cecfcfc9c5ccc9ccd2ccc9c7"
+      }
+    }
+  ],
+  "2011.05.16": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004401;0173;0217",
+      "desc": "100卷44期3896號 173~217頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2011.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004501;0091;0099",
+      "desc": "100卷45期3897號一冊 91~99頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004501;0099;0099",
+      "desc": "100卷45期3897號一冊 99~99頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ]
+}

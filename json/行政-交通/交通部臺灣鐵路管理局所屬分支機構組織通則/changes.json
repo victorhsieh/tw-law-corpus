@@ -1,0 +1,68 @@
+{
+  "2003.09.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@923901;0004;0004",
+      "desc": "92卷39期3313號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "法制 交通",
+      "misc": {
+        "content": "35-39",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcfcdcfcec5cccad2ccc6"
+      }
+    }
+  ],
+  "2003.10.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@924501;0007;0007",
+      "desc": "92卷45期3319號上冊 7~7頁",
+      "progress": "一讀",
+      "committee": "法制 交通",
+      "misc": {
+        "content": "434-461",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacfcacfcdc5cbcccbd2cbc9ce"
+      }
+    }
+  ],
+  "2004.03.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@931600;0227;0250",
+      "desc": "93卷16期3350號 227~250頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "2004.04.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@931901;0072;0115",
+      "desc": "93卷19期3353號上冊 72~115頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 交通",
+      "misc": {
+        "content": "95-138",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacfc7cfccc5c6cad2ceccc7"
+      }
+    }
+  ],
+  "2004.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@932601;0333;0333",
+      "desc": "93卷26期3360號上冊 333~333頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 交通"
+    }
+  ],
+  "2004.05.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@932800;0034;0039",
+      "desc": "93卷28期3362號 34~39頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@932800;0039;0039",
+      "desc": "93卷28期3362號 39~39頁",
+      "progress": "三讀",
+      "committee": "法制 交通"
+    }
+  ]
+}

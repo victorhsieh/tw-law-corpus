@@ -1,0 +1,40 @@
+{
+  "1974.04.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6353220001;0002;0002",
+      "desc": "63卷22期678號 2~2頁",
+      "progress": "一讀",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1974.04.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6353320002;0031;0046",
+      "desc": "63卷32期688號 31~46頁",
+      "progress": "委員會審查",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1974.05.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6354820002;0020;0028",
+      "desc": "63卷82期738號 20~28頁",
+      "progress": "委員會審查",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1974.05.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6353370001;0004;0041",
+      "desc": "63卷37期693號 4~41頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "預算 財政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6353370001;0070;0072",
+      "desc": "63卷37期693號 70~72頁",
+      "progress": "三讀",
+      "committee": "預算 財政 法制"
+    }
+  ]
+}

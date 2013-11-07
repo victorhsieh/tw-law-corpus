@@ -1,0 +1,102 @@
+{
+  "1958.11.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@472210;0009;0009",
+      "desc": "47卷22期號10冊 9~9頁",
+      "progress": "一讀",
+      "committee": "國防 法制"
+    }
+  ],
+  "1959.03.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482304;0003;0026",
+      "desc": "48卷23期號4冊 3~26頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482304;0031;0044",
+      "desc": "48卷23期號4冊 31~44頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482304;0044;0045",
+      "desc": "48卷23期號4冊 44~45頁",
+      "progress": "三讀",
+      "committee": "國防 法制"
+    }
+  ],
+  "1959.01.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482219;0052;0053",
+      "desc": "48卷22期號19冊 52~53頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 法制"
+    }
+  ],
+  "2005.09.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944401;0021;0021",
+      "desc": "94卷44期3426號一冊 21~21頁",
+      "progress": "一讀",
+      "committee": "法制 國防",
+      "misc": {
+        "content": "125-173",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcfcecfcdc5cecdcad2cec8cc"
+      }
+    }
+  ],
+  "2005.09.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944802;0151;0166",
+      "desc": "94卷48期3430號二冊 151~166頁",
+      "progress": "委員會審查",
+      "committee": "法制 國防"
+    }
+  ],
+  "2005.12.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@947703;1069;1124",
+      "desc": "94卷77期3459號三冊 1069~1124頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 國防"
+    }
+  ],
+  "2006.01.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950201;0266;0268",
+      "desc": "95卷2期3463號一冊 266~268頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950201;0268;0269",
+      "desc": "95卷2期3463號一冊 268~269頁",
+      "progress": "三讀",
+      "committee": "法制 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950201;0300;0300",
+      "desc": "95卷2期3463號一冊 300~300頁",
+      "progress": "復議",
+      "committee": "法制 國防"
+    }
+  ],
+  "2006.01.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950501;0463;0463",
+      "desc": "95卷5期3466號一冊 463~463頁",
+      "progress": "復議",
+      "committee": "法制 國防"
+    }
+  ],
+  "2007.10.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@966900;0003;0003",
+      "desc": "96卷69期3592號 3~3頁",
+      "progress": "復議",
+      "committee": "法制 國防"
+    }
+  ]
+}

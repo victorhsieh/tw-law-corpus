@@ -1,0 +1,34 @@
+{
+  "2002.04.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912801;0008;0009",
+      "desc": "91卷28期3224號上冊 8~9頁",
+      "progress": "一讀",
+      "committee": "法制 科技",
+      "misc": {
+        "content": "465-475",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc7cfcfc5cbc9cad2cbc8ca"
+      }
+    }
+  ],
+  "2002.05.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914303;0351;0394",
+      "desc": "91卷43期3239號下冊 351~394頁",
+      "progress": "委員會審查",
+      "committee": "法制 科技"
+    }
+  ],
+  "2002.11.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@917001;0032;0048",
+      "desc": "91卷70期3266號上冊 32~48頁",
+      "progress": "三讀",
+      "committee": "法制 科技",
+      "misc": {
+        "content": "4-16",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecec8cfcdc5cbd2cec9"
+      }
+    }
+  ]
+}

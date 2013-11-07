@@ -1,0 +1,40 @@
+{
+  "1984.03.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7302300;0002;0002",
+      "desc": "73卷23期1717號 2~2頁",
+      "progress": "一讀",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1984.05.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7307500;0022;0025",
+      "desc": "73卷75期1769號 22~25頁",
+      "progress": "委員會審查",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1984.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7304300;0010;0016",
+      "desc": "73卷43期1737號 10~16頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "預算 財政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7304300;0050;0052",
+      "desc": "73卷43期1737號 50~52頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1984.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7304400;0015;0042",
+      "desc": "73卷44期1738號 15~42頁",
+      "progress": "三讀",
+      "committee": "預算 財政 法制"
+    }
+  ]
+}

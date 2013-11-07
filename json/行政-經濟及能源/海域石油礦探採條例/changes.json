@@ -1,0 +1,50 @@
+{
+  "1970.08.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5945640001;0020;0020",
+      "desc": "59卷64期0號 20~20頁",
+      "progress": "一讀",
+      "committee": "經濟 財政"
+    }
+  ],
+  "1970.08.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5945650001;0002;0002",
+      "desc": "59卷65期0號 2~2頁",
+      "progress": "三讀",
+      "committee": "經濟 財政"
+    }
+  ],
+  "2004.02.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@931000;0004;0004",
+      "desc": "93卷10期3344號 4~4頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "147-153",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacfcccfcec5cecbc8d2cecacc"
+      }
+    }
+  ],
+  "2004.04.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@932403;0067;0068",
+      "desc": "93卷24期3358號下冊 67~68頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2004.05.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@932501;0041;0044",
+      "desc": "93卷25期3359號上冊 41~44頁",
+      "progress": "三讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "20-25",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacececfcec5cdcfd2cdca"
+      }
+    }
+  ]
+}

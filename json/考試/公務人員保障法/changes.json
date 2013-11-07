@@ -1,0 +1,92 @@
+{
+  "1994.12.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@837701;0003;0003",
+      "desc": "83卷77期2751號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "法制"
+    }
+  ],
+  "1995.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@843600;0339;0368",
+      "desc": "84卷36期2793號 339~368頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1995.06.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@843700;0433;0443",
+      "desc": "84卷37期2794號 433~443頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1995.12.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@846200;0191;0225",
+      "desc": "84卷62期2819號 191~225頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1996.09.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@854301;0266;0294",
+      "desc": "85卷43期2865號上冊 266~294頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@854301;0294;0299",
+      "desc": "85卷43期2865號上冊 294~299頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@854301;0299;0299",
+      "desc": "85卷43期2865號上冊 299~299頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ],
+  "2002.04.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912600;0008;0008",
+      "desc": "91卷26期3222號 8~8頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "4-72",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc8cfcdc5cbd2c8cd"
+      }
+    }
+  ],
+  "2003.03.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@921504;0277;0324",
+      "desc": "92卷15期3289號四冊 277~324頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "2003.05.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@922502;0020;0120",
+      "desc": "92卷25期3299號二冊 20~120頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制",
+      "misc": {
+        "content": "620-707",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccecfcfcdc5c9cdcfd2c8cfc8"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@922502;0120;0120",
+      "desc": "92卷25期3299號二冊 120~120頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

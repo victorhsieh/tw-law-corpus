@@ -1,0 +1,50 @@
+{
+  "1990.01.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7900400;0105;0105",
+      "desc": "79卷4期2324號 105~105頁",
+      "progress": "一讀",
+      "committee": "法制 外交 經濟",
+      "misc": {
+        "content": "278-291",
+        "link": "/lgcgi/lgmeetimage?cfcec7cbcec6cfcfc5cdc8c7d2cdc6ce"
+      }
+    }
+  ],
+  "1990.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8004900;0324;0347",
+      "desc": "80卷49期2473號 324~347頁",
+      "progress": "委員會審查",
+      "committee": "法制 外交 經濟"
+    }
+  ],
+  "1990.07.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8006500;0171;0214",
+      "desc": "80卷65期2489號 171~214頁",
+      "progress": "委員會審查",
+      "committee": "法制 外交 經濟"
+    }
+  ],
+  "1992.01.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8100400;0063;0070",
+      "desc": "81卷4期2532號 63~70頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 外交 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8100400;0070;0084",
+      "desc": "81卷4期2532號 70~84頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 外交 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8100400;0084;0085",
+      "desc": "81卷4期2532號 84~85頁",
+      "progress": "三讀",
+      "committee": "法制 外交 經濟"
+    }
+  ]
+}

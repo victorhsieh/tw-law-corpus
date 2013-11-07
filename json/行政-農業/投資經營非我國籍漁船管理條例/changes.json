@@ -1,0 +1,58 @@
+{
+  "2008.02.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@970200;0011;0011",
+      "desc": "97卷2期3613號 11~11頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "363-371",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecfcdcfccc5ccc9ccd2ccc8ce"
+      }
+    }
+  ],
+  "2008.05.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@973000;0237;0256",
+      "desc": "97卷30期3641號 237~256頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2008.10.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@975301;0473;0485",
+      "desc": "97卷53期3664號一冊 473~485頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2008.11.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976700;0176;0189",
+      "desc": "97卷67期3678號 176~189頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟"
+    }
+  ],
+  "2008.12.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976900;0041;0041",
+      "desc": "97卷69期3680號 41~41頁",
+      "progress": "黨團協商",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976900;0041;0045",
+      "desc": "97卷69期3680號 41~45頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976900;0045;0045",
+      "desc": "97卷69期3680號 45~45頁",
+      "progress": "三讀",
+      "committee": "經濟"
+    }
+  ]
+}

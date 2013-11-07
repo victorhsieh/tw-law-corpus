@@ -1,0 +1,84 @@
+{
+  "1982.05.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71694300;0002;0002",
+      "desc": "71卷43期1528號 2~2頁",
+      "progress": "一讀",
+      "committee": "外交 司法",
+      "misc": {
+        "content": "4-11",
+        "link": "/lgcgi/lgmeetimage?cfcec9c6cecfcfcfc5cbd2cece"
+      }
+    }
+  ],
+  "unknown": [
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    }
+  ],
+  "1982.06.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7169510001;0002;0002",
+      "desc": "71卷51期1536號 2~2頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "外交 司法",
+      "misc": {
+        "content": "503-511",
+        "link": "/lgcgi/lgmeetimage?cfcec9c6cecfcfcfc5cacfccd2cacece"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7169510001;0002;0002",
+      "desc": "71卷51期1536號 2~2頁",
+      "progress": "三讀",
+      "committee": "外交 司法"
+    }
+  ],
+  "1996.12.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@856800;0004;0005",
+      "desc": "85卷68期2890號 4~5頁",
+      "progress": "一讀",
+      "committee": "外交 經濟",
+      "misc": {
+        "content": "249-253",
+        "link": "/lgcgi/lgmeetimage?cfcccfcdcdcdcfcfc5cdcbc6d2cdcacc"
+      }
+    }
+  ],
+  "1997.03.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@860603;0359;0384",
+      "desc": "86卷6期2898號下冊 359~384頁",
+      "progress": "委員會審查",
+      "committee": "外交 經濟"
+    }
+  ],
+  "1997.04.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@861701;0107;0113",
+      "desc": "86卷17期2909號上冊 107~113頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "外交 經濟",
+      "misc": {
+        "content": "334-339",
+        "link": "/lgcgi/lgmeetimage?cfcccfcccececfcfc5cccccbd2ccccc6"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@861701;0113;0113",
+      "desc": "86卷17期2909號上冊 113~113頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@861701;0113;0113",
+      "desc": "86卷17期2909號上冊 113~113頁",
+      "progress": "三讀",
+      "committee": "外交 經濟"
+    }
+  ]
+}

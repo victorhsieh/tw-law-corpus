@@ -1,0 +1,34 @@
+{
+  "1975.04.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455270001;0002;0002",
+      "desc": "64卷27期781號 2~2頁",
+      "progress": "一讀",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1975.05.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@64556900;0027;0029",
+      "desc": "64卷69期823號 27~29頁",
+      "progress": "委員會審查",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1975.05.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@64568200;0004;0014",
+      "desc": "64卷82期836號 4~14頁",
+      "progress": "委員會審查",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1975.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455430001;0004;0041",
+      "desc": "64卷43期797號 4~41頁",
+      "progress": "三讀",
+      "committee": "預算 財政 法制"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "1954.02.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431301;0009;0009",
+      "desc": "43卷13期號1冊 9~9頁",
+      "progress": "一讀",
+      "committee": "國防 外交 交通 財政 經濟 民刑商法"
+    }
+  ],
+  "1955.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441505;0020;0091",
+      "desc": "44卷15期號5冊 20~91頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 外交 交通 財政 經濟 民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441505;0144;0145",
+      "desc": "44卷15期號5冊 144~145頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 外交 交通 財政 經濟 民刑商法"
+    }
+  ],
+  "1955.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441505;0154;0159",
+      "desc": "44卷15期號5冊 154~159頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 外交 交通 財政 經濟 民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441505;0168;0172",
+      "desc": "44卷15期號5冊 168~172頁",
+      "progress": "三讀",
+      "committee": "國防 外交 交通 財政 經濟 民刑商法"
+    }
+  ],
+  "1980.05.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69653600;0002;0002",
+      "desc": "69卷36期1312號 2~2頁",
+      "progress": "一讀",
+      "committee": "司法 法制 國防",
+      "misc": {
+        "content": "717-720",
+        "link": "/lgcgi/lgmeetimage?cfcec9cacfcccfcfc5c8cec8d2c8cdcf"
+      }
+    }
+  ],
+  "1980.06.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69656800;0002;0002",
+      "desc": "69卷68期1344號 2~2頁",
+      "progress": "委員會審查",
+      "committee": "司法 法制 國防"
+    }
+  ],
+  "1980.06.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655000;0046;0048",
+      "desc": "69卷50期1326號 46~48頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法 法制 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655000;0048;0048",
+      "desc": "69卷50期1326號 48~48頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 法制 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655000;0048;0048",
+      "desc": "69卷50期1326號 48~48頁",
+      "progress": "三讀",
+      "committee": "司法 法制 國防"
+    }
+  ]
+}

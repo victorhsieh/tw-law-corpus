@@ -1,0 +1,96 @@
+{
+  "2010.02.23": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09900901;0003;0003",
+      "desc": "099卷009期3774號一冊 3~3頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "100-104",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacfcecfcec5cecfcfd2cecfcb"
+      }
+    }
+  ],
+  "2010.02.26": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09901001;0001;0001",
+      "desc": "099卷010期3775號 1~1頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "72-78",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacfcdcfcec5c8cdd2c8c7"
+      }
+    }
+  ],
+  "2010.05.07": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903401;0003;0004",
+      "desc": "099卷034期3799號 3~4頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "488-491",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacecdcfcdc5cbc7c7d2cbc6ce"
+      }
+    }
+  ],
+  "2010.04.27": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902902;0084;0091",
+      "desc": "099卷029期3794號二冊 84~91頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2010.05.04": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903101;0342;0342",
+      "desc": "099卷031期3796號一冊 342~342頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2010.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903401;0068;0068",
+      "desc": "099卷034期3799號 68~68頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2011.01.12": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10000803;0223;0224",
+      "desc": "100卷008期3860號三冊 223~224頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2011.06.13": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004905;2106;2106",
+      "desc": "100卷049期3901號五冊 2106~2106頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004905;2144;2150",
+      "desc": "100卷049期3901號五冊 2144~2150頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10005301;0513;0520",
+      "desc": "100卷053期3905號一冊 513~520頁",
+      "progress": "黨團協商",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004905;2150;2151",
+      "desc": "100卷049期3901號五冊 2150~2151頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "1980.12.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@696610100;0003;0003",
+      "desc": "69卷101期1377號 3~3頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "614-621",
+        "link": "/lgcgi/lgmeetimage?cfcec9c9cfcbcfcfc5c9cecbd2c9cdce"
+      }
+    }
+  ],
+  "1981.05.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70675300;0075;0086",
+      "desc": "70卷53期1434號 75~86頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1981.06.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70676900;0041;0054",
+      "desc": "70卷69期1450號 41~54頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1981.06.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70677000;0031;0042",
+      "desc": "70卷70期1451號 31~42頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1981.07.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70689200;0084;0094",
+      "desc": "70卷92期1473號 84~94頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1981.07.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70689400;0131;0149",
+      "desc": "70卷94期1475號 131~149頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1981.07.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70689600;0089;0093",
+      "desc": "70卷96期1477號 89~93頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1981.07.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70675700;0007;0021",
+      "desc": "70卷57期1438號 7~21頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70675700;0021;0027",
+      "desc": "70卷57期1438號 21~27頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    }
+  ],
+  "1981.07.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70675800;0004;0006",
+      "desc": "70卷58期1439號 4~6頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ],
+  "1992.06.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8105200;0099;0100",
+      "desc": "81卷52期2580號 99~100頁",
+      "progress": "一讀",
+      "committee": "法制 教育"
+    }
+  ],
+  "1993.07.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824901;0015;0015",
+      "desc": "82卷49期2648號上冊 15~15頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "64-71",
+        "link": "/lgcgi/lgmeetimage?cfcdcfceccc6cfcfc5c9cbd2c8ce"
+      }
+    }
+  ],
+  "1993.12.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@827303;0520;0548",
+      "desc": "82卷73期2672號下冊 520~548頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1994.01.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@830701;0113;0121",
+      "desc": "83卷7期2681號上冊 113~121頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@830701;0121;0122",
+      "desc": "83卷7期2681號上冊 121~122頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@830701;0122;0122",
+      "desc": "83卷7期2681號上冊 122~122頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ]
+}

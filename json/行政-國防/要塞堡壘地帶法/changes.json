@@ -1,0 +1,32 @@
+{
+  "2002.03.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912000;0008;0008",
+      "desc": "91卷20期3216號 8~8頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "693-715",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcbcfcec5c9c6ccd2c8ceca"
+      }
+    }
+  ],
+  "2002.04.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912101;0059;0079",
+      "desc": "91卷21期3217號上冊 59~79頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912101;0079;0080",
+      "desc": "91卷21期3217號上冊 79~80頁",
+      "progress": "三讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "365-387",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcacfcdc5ccc9cad2ccc7c8"
+      }
+    }
+  ]
+}

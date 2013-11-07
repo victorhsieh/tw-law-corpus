@@ -1,0 +1,104 @@
+{
+  "2002.12.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920101;0005;0005",
+      "desc": "92卷1期3275號一冊 5~5頁",
+      "progress": "一讀",
+      "committee": "科技",
+      "misc": {
+        "content": "223-241",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcecdcfcec5cdcdccd2cdcbce"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920101;0008;0008",
+      "desc": "92卷1期3275號一冊 8~8頁",
+      "progress": "一讀",
+      "committee": "科技",
+      "misc": {
+        "content": "346-363",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcfc8cfcec5cccbc9d2ccc9cc"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920101;0005;0005",
+      "desc": "92卷1期3275號一冊 5~5頁",
+      "progress": "一讀",
+      "committee": "科技",
+      "misc": {
+        "content": "232-250",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcecbcfcec5cdcccdd2cdcacf"
+      }
+    }
+  ],
+  "2003.01.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920801;0006;0006",
+      "desc": "92卷8期3282號一冊 6~6頁",
+      "progress": "一讀",
+      "committee": "科技",
+      "misc": {
+        "content": "316-334",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcec9cfcec5cccec9d2cccccb"
+      }
+    }
+  ],
+  "2002.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920703;0323;0366",
+      "desc": "92卷7期3281號下冊 323~366頁",
+      "progress": "委員會審查",
+      "committee": "科技"
+    }
+  ],
+  "2003.03.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@921904;0249;0283",
+      "desc": "92卷19期3293號四冊 249~283頁",
+      "progress": "委員會審查",
+      "committee": "科技"
+    }
+  ],
+  "2003.04.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@922003;0188;0214",
+      "desc": "92卷20期3294號下冊 188~214頁",
+      "progress": "委員會審查",
+      "committee": "科技"
+    }
+  ],
+  "2003.04.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@922103;0305;0320",
+      "desc": "92卷21期3295號下冊 305~320頁",
+      "progress": "委員會審查",
+      "committee": "科技"
+    }
+  ],
+  "2003.05.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@922701;0151;0152",
+      "desc": "92卷27期3301號上冊 151~152頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "科技",
+      "misc": {
+        "content": "504-653",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccececfcdc5cacfcbd2c9cacc"
+      }
+    }
+  ],
+  "2003.06.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@923302;0003;0141",
+      "desc": "92卷33期3307號二冊 3~141頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "科技"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@923302;0141;0142",
+      "desc": "92卷33期3307號二冊 141~142頁",
+      "progress": "三讀",
+      "committee": "科技"
+    }
+  ]
+}

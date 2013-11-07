@@ -1,0 +1,22 @@
+{
+  "1991.09.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8007801;0196;0197",
+      "desc": "80卷78期2502號上冊 196~197頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8007801;0197;0204",
+      "desc": "80卷78期2502號上冊 197~204頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8007801;0204;0204",
+      "desc": "80卷78期2502號上冊 204~204頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

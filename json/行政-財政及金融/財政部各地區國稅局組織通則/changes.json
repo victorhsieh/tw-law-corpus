@@ -1,0 +1,192 @@
+{
+  "1967.09.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400109;1382;1382",
+      "desc": "56卷1期號9冊 1382~1382頁",
+      "progress": "一讀",
+      "committee": "法制 財政"
+    }
+  ],
+  "1967.10.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56401104;2030;2037",
+      "desc": "56卷4期號11冊 2030~2037頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1967.10.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400611;2148;2154",
+      "desc": "56卷6期號11冊 2148~2154頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1967.11.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400911;2311;2315",
+      "desc": "56卷9期號11冊 2311~2315頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1967.11.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57400800;0476;0481",
+      "desc": "57卷8期號 476~481頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1967.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57411600;0882;0887",
+      "desc": "57卷16期號 882~887頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1968.04.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5741390002;0001;0012",
+      "desc": "57卷39期號 1~12頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1968.04.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57412900;2612;2625",
+      "desc": "57卷29期號 2612~2625頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57412900;2626;2627",
+      "desc": "57卷29期號 2626~2627頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57413000;2695;2701",
+      "desc": "57卷30期號 2695~2701頁",
+      "progress": "三讀",
+      "committee": "法制 財政"
+    }
+  ],
+  "1987.06.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7605000;0002;0002",
+      "desc": "76卷50期2057號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 財政",
+      "misc": {
+        "content": "21-53",
+        "link": "/lgcgi/lgmeetimage?cfcec8c6cecacfcfc5cdced2cacc"
+      }
+    }
+  ],
+  "1987.12.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7704800;0169;0178",
+      "desc": "77卷48期2159號 169~178頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1987.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7705200;0161;0163",
+      "desc": "77卷52期2163號 161~163頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1988.03.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7705800;0020;0034",
+      "desc": "77卷58期2169號 20~34頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1988.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7703300;0043;0065",
+      "desc": "77卷33期2144號 43~65頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7703300;0065;0069",
+      "desc": "77卷33期2144號 65~69頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 財政"
+    }
+  ],
+  "1988.04.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7703400;0014;0019",
+      "desc": "77卷34期2145號 14~19頁",
+      "progress": "三讀",
+      "committee": "法制 財政"
+    }
+  ],
+  "2011.02.22": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10001201;0006;0006",
+      "desc": "100卷12期3864號一冊 6~6頁",
+      "progress": "一讀",
+      "committee": "司法及法制 財政",
+      "misc": {
+        "content": "358-388",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc8cfcecfcec5cccac7d2ccc7c7"
+      }
+    }
+  ],
+  "2011.03.17": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10002201;0225;0277",
+      "desc": "100卷22期3874號 225~277頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制 財政"
+    }
+  ],
+  "2011.04.08": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10002501;0474;0510",
+      "desc": "100卷25期3877號一冊 474~510頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制 財政",
+      "misc": {
+        "content": "285-321",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc8cfc8cfcac5cdc7cad2cccdce"
+      }
+    }
+  ],
+  "2011.06.13": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004903;1304;1304",
+      "desc": "100卷49期3901號三冊 1304~1304頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制 財政"
+    }
+  ],
+  "2011.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10008803;1018;1018",
+      "desc": "100卷88期3940號三冊 1018~1018頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制 財政"
+    }
+  ],
+  "2012.01.20": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10100101;0074;0085",
+      "desc": "101卷1期3942號 74~85頁",
+      "progress": "三讀",
+      "committee": "司法及法制 財政"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "1980.03.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69652500;0002;0002",
+      "desc": "69卷25期1301號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "699-708",
+        "link": "/lgcgi/lgmeetimage?cfcec9cacfcdcfcfc5c9c6c6d2c8cfc7"
+      }
+    }
+  ],
+  "1980.05.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69657500;0042;0049",
+      "desc": "69卷75期1351號 42~49頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "1980.11.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70673100;0074;0078",
+      "desc": "70卷31期1412號 74~78頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "1980.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@696610500;0119;0128",
+      "desc": "69卷105期1381號 119~128頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@696610500;0128;0129",
+      "desc": "69卷105期1381號 128~129頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政"
+    }
+  ],
+  "1981.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70660200;0021;0022",
+      "desc": "70卷2期1383號 21~22頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政"
+    }
+  ],
+  "1981.01.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70660300;0003;0005",
+      "desc": "70卷3期1384號 3~5頁",
+      "progress": "三讀",
+      "committee": "法制 內政"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "1999.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890201;0283;0292",
+      "desc": "89卷2期3061號上冊 283~292頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "356-366",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcecfcfcec5cccac9d2ccc9c9"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890201;0396;0402",
+      "desc": "89卷2期3061號上冊 396~402頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890201;0402;0403",
+      "desc": "89卷2期3061號上冊 402~403頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890201;0403;0404",
+      "desc": "89卷2期3061號上冊 403~404頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

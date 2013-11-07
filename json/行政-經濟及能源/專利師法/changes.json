@@ -1,0 +1,76 @@
+{
+  "2006.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950401;0008;0008",
+      "desc": "95卷4期3465號一冊 8~8頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "361-372",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcec9cfcec5ccc9ced2ccc8cd"
+      }
+    }
+  ],
+  "2006.04.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@952200;0043;0075",
+      "desc": "95卷22期3483號 43~75頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2006.06.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@965401;0153;0174",
+      "desc": "96卷54期3577號一冊 153~174頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@965401;0174;0182",
+      "desc": "96卷54期3577號一冊 174~182頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@965401;0182;0182",
+      "desc": "96卷54期3577號一冊 182~182頁",
+      "progress": "三讀",
+      "committee": "經濟"
+    }
+  ],
+  "2009.03.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@981401;0004;0005",
+      "desc": "98卷14期3700號一冊 4~5頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "57-181",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccfcdc8cdc5cac8d2cec7ce"
+      }
+    }
+  ],
+  "2009.04.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982200;0413;0434",
+      "desc": "98卷22期3708號 413~434頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2009.05.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982600;0149;0166",
+      "desc": "98卷26期3712號 149~166頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982600;0166;0166",
+      "desc": "98卷26期3712號 166~166頁",
+      "progress": "三讀",
+      "committee": "經濟"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "1986.05.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7503600;0002;0002",
+      "desc": "75卷36期1938號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "504-508",
+        "link": "/lgcgi/lgmeetimage?cfcec8c8cfc7cfcfc5cacfcbd2cacfc7"
+      }
+    }
+  ],
+  "1986.10.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7601000;0057;0066",
+      "desc": "76卷10期2017號 57~66頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1986.12.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7601900;0140;0148",
+      "desc": "76卷19期2026號 140~148頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1986.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7510100;0014;0028",
+      "desc": "75卷101期2003號 14~28頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 教育"
+    }
+  ],
+  "1986.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7510100;0025;0025",
+      "desc": "75卷101期2003號 25~25頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7510200;0004;0005",
+      "desc": "75卷102期2004號 4~5頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ],
+  "2007.02.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@961901;0003;0003",
+      "desc": "96卷19期3542號一冊 3~3頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "63-68",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcacfcecfcec5c9ccd2c9c7"
+      }
+    }
+  ],
+  "2007.03.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@962601;0139;0175",
+      "desc": "96卷26期3549號一冊 139~175頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "2007.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968500;0200;0210",
+      "desc": "96卷85期3608號 200~210頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    }
+  ],
+  "2007.12.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968602;0383;0383",
+      "desc": "96卷86期3609號二冊 383~383頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    }
+  ],
+  "2007.12.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968802;0038;0039",
+      "desc": "96卷88期3611號二冊 38~39頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968802;0039;0040",
+      "desc": "96卷88期3611號二冊 39~40頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ]
+}

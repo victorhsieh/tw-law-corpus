@@ -1,0 +1,74 @@
+{
+  "2010.12.10": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09908001;0002;0002",
+      "desc": "099卷080期3845號一冊 2~2頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "152-165",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc9cececfcec5cecacdd2cec9ca"
+      }
+    }
+  ],
+  "2011.02.22": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10001201;0005;0005",
+      "desc": "100卷012期3864號一冊 5~5頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "179-196",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc8cfcec8cdc5cec8c6d2cec6c9"
+      }
+    }
+  ],
+  "2011.03.25": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10002101;0004;0004",
+      "desc": "100卷021期3873號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "97-112",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc8cfc9c8cdc5c6c8d2cececd"
+      }
+    }
+  ],
+  "2010.12.27": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10000901;0005;0060",
+      "desc": "100卷009期3861號 5~60頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "2011.05.26": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004702;0863;0880",
+      "desc": "100卷047期3899號二冊 863~880頁",
+      "progress": "黨團協商",
+      "committee": "財政"
+    }
+  ],
+  "2011.06.03": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004701;0030;0091",
+      "desc": "100卷047期3899號一冊 30~91頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004701;0091;0098",
+      "desc": "100卷047期3899號一冊 91~98頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004701;0098;0099",
+      "desc": "100卷047期3899號一冊 98~99頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ]
+}

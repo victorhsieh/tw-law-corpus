@@ -1,0 +1,76 @@
+{
+  "1971.06.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047410001;0004;0004",
+      "desc": "60卷41期395號 4~4頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "584-602",
+        "link": "/lgcgi/lgmeetimage?cfcec8c7cfc8cfcfc5cac7cbd2c9cfcd"
+      }
+    }
+  ],
+  "1972.11.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6150900001;0012;0021",
+      "desc": "61卷90期543號 12~21頁",
+      "progress": "一讀",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6150900001;0021;0032",
+      "desc": "61卷90期543號 21~32頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6150900001;0032;0033",
+      "desc": "61卷90期543號 32~33頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    }
+  ],
+  "1971.12.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6148050002;0001;0006",
+      "desc": "61卷5期458號 1~6頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "1972.11.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6150910001;0003;0011",
+      "desc": "61卷91期544號 3~11頁",
+      "progress": "三讀",
+      "committee": "經濟"
+    }
+  ],
+  "1986.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7510200;0002;0002",
+      "desc": "75卷102期2004號 2~2頁",
+      "progress": "一讀",
+      "committee": "經濟 司法",
+      "misc": {
+        "content": "584-602",
+        "link": "/lgcgi/lgmeetimage?cfcec8c7cfc8cfcfc5cac7cbd2c9cfcd"
+      }
+    }
+  ],
+  "1989.06.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7803500;0121;0122",
+      "desc": "78卷35期2251號 121~122頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7804600;0035;0036",
+      "desc": "78卷46期2262號 35~36頁",
+      "progress": "三讀",
+      "committee": "經濟 司法"
+    }
+  ]
+}

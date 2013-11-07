@@ -1,0 +1,233 @@
+{
+  "unknown": [
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "14-17",
+        "link": "/lgcgi/lgmeetimage?cfcec8cbcfc7cfcfc5cecbd2cec8"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "42-47",
+        "link": "/lgcgi/lgmeetimage?cfcec7c9cdcdcfcfc5cbcdd2cbc8"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "119-121",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcccfcec5cecec6d2cecdce"
+      }
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "461-467",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcccfcec5cbc9ced2cbc9c8"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "86-98",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececbcfcbc5c7c9d2c6c7"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "243-328",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcec6cfcec5cdcbccd2cccdc7"
+      }
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "107-192",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcccecdcfcdc5cecfc8d2cec6cd"
+      }
+    },
+    {
+      "error": "..."
+    }
+  ],
+  "2012.04.06": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10101701;0017;0017",
+      "desc": "101卷017期3958號一冊 17~17頁",
+      "progress": "一讀",
+      "committee": "司法及法制",
+      "misc": {
+        "content": "549-552",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcecfcdc8cbc5cacbc6d2cacacd"
+      }
+    }
+  ],
+  "2012.05.09": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10103401;0186;0246",
+      "desc": "101卷034期3975號 186~246頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10103401;0187;0246",
+      "desc": "101卷034期3975號 187~246頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制"
+    }
+  ],
+  "2012.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10103901;0281;0285",
+      "desc": "101卷039期3980號 281~285頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制",
+      "misc": {
+        "content": "375-378",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcececccfcbc5ccc8cad2ccc8c7"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10103901;0285;0285",
+      "desc": "101卷039期3980號 285~285頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10103901;0285;0285",
+      "desc": "101卷039期3980號 285~285頁",
+      "progress": "三讀",
+      "committee": "司法及法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10103901;0286;0292",
+      "desc": "101卷039期3980號 286~292頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制",
+      "misc": {
+        "content": "379-385",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcececccfcbc5ccc8c6d2ccc7ca"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10103901;0292;0292",
+      "desc": "101卷039期3980號 292~292頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10103901;0292;0292",
+      "desc": "101卷039期3980號 292~292頁",
+      "progress": "三讀",
+      "committee": "司法及法制"
+    }
+  ],
+  "2012.04.27": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10102501;0018;0018",
+      "desc": "101卷025期3966號 18~18頁",
+      "progress": "一讀",
+      "committee": "司法及法制",
+      "misc": {
+        "content": "643-648",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcecfc6c8ccc5c9cbccd2c9cbc7"
+      }
+    }
+  ]
+}

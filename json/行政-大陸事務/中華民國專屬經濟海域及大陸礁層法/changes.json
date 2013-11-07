@@ -1,0 +1,98 @@
+{
+  "1992.06.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8104800;0003;0003",
+      "desc": "81卷48期2576號 3~3頁",
+      "progress": "一讀",
+      "committee": "內政 外交 經濟",
+      "misc": {
+        "content": "54-92",
+        "link": "/lgcgi/lgmeetimage?cfcec7c6cdc9cfcfc5cacbd2c6cd"
+      }
+    }
+  ],
+  "1996.06.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@853601;0003;0003",
+      "desc": "85卷36期2858號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "內政 外交 經濟"
+    }
+  ],
+  "1996.10.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@855000;0008;0008",
+      "desc": "85卷50期2872號 8~8頁",
+      "progress": "一讀",
+      "committee": "內政 外交 經濟"
+    }
+  ],
+  "1996.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@855300;0004;0004",
+      "desc": "85卷53期2875號 4~4頁",
+      "progress": "一讀",
+      "committee": "內政 外交 經濟"
+    }
+  ],
+  "1996.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@852903;0177;0220",
+      "desc": "85卷29期2851號下冊 177~220頁",
+      "progress": "委員會審查",
+      "committee": "內政 外交 經濟"
+    }
+  ],
+  "1996.06.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@853700;0271;0287",
+      "desc": "85卷37期2859號 271~287頁",
+      "progress": "委員會審查",
+      "committee": "內政 外交 經濟"
+    }
+  ],
+  "1996.10.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@855000;0409;0415",
+      "desc": "85卷50期2872號 409~415頁",
+      "progress": "委員會審查",
+      "committee": "內政 外交 經濟"
+    }
+  ],
+  "1997.03.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@861100;0459;0481",
+      "desc": "86卷11期2903號 459~481頁",
+      "progress": "委員會審查",
+      "committee": "內政 外交 經濟"
+    }
+  ],
+  "1997.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@864403;0183;0222",
+      "desc": "86卷44期2936號下冊 183~222頁",
+      "progress": "委員會審查",
+      "committee": "內政 外交 經濟"
+    }
+  ],
+  "1997.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@870101;0049;0189",
+      "desc": "87卷1期2950號上冊 49~189頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 外交 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@870101;0194;0200",
+      "desc": "87卷1期2950號上冊 194~200頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 外交 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@870101;0200;0201",
+      "desc": "87卷1期2950號上冊 200~201頁",
+      "progress": "三讀",
+      "committee": "內政 外交 經濟"
+    }
+  ]
+}

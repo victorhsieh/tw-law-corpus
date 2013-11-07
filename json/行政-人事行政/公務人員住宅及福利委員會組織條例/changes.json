@@ -1,0 +1,32 @@
+{
+  "1994.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@833500;0012;0014",
+      "desc": "83卷35期2709號 12~14頁",
+      "progress": "一讀",
+      "committee": "法制"
+    }
+  ],
+  "1996.01.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@850700;0283;0299",
+      "desc": "85卷7期2829號 283~299頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1997.03.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@861001;0103;0117",
+      "desc": "86卷10期2902號上冊 103~117頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@861001;0117;0117",
+      "desc": "86卷10期2902號上冊 117~117頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

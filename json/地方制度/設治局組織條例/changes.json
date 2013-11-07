@@ -1,0 +1,66 @@
+{
+  "1971.12.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6048950001;0002;0002",
+      "desc": "60卷95期448號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 內政"
+    }
+  ],
+  "1971.12.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149210002;0018;0020",
+      "desc": "61卷21期474號 18~20頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "1972.01.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149310002;0017;0018",
+      "desc": "61卷31期484號 17~18頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "1972.03.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149190001;0040;0041",
+      "desc": "61卷19期472號 40~41頁",
+      "progress": "三讀",
+      "committee": "法制 內政"
+    }
+  ],
+  "2003.03.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@921501;0006;0006",
+      "desc": "92卷15期3289號一冊 6~6頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "356-562",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccfcacfcec5cccac9d2cac9cd"
+      }
+    }
+  ],
+  "2003.04.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@922403;0037;0042",
+      "desc": "92卷24期3298號下冊 37~42頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "2003.05.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@922701;0103;0117",
+      "desc": "92卷27期3301號上冊 103~117頁",
+      "progress": "三讀",
+      "committee": "法制",
+      "misc": {
+        "content": "436-459",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccececfcdc5cbccc9d2cbcac6"
+      }
+    }
+  ]
+}

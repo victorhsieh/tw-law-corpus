@@ -1,0 +1,62 @@
+{
+  "1993.04.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@822500;0082;0084",
+      "desc": "82卷25期2624號 82~84頁",
+      "progress": "一讀",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1993.03.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@821601;0003;0005",
+      "desc": "82卷16期2615號上冊 3~5頁",
+      "progress": "一讀",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1993.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@823203;0085;0115",
+      "desc": "82卷32期2631號下冊 85~115頁",
+      "progress": "委員會審查",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1993.06.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824001;0030;0065",
+      "desc": "82卷40期2639號上冊 30~65頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "預算 財政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824001;0065;0080",
+      "desc": "82卷40期2639號上冊 65~80頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1993.06.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824100;0047;0050",
+      "desc": "82卷41期2640號 47~50頁",
+      "progress": "三讀",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1993.10.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@825301;0174;0176",
+      "desc": "82卷53期2652號上冊 174~176頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@825301;0176;0177",
+      "desc": "82卷53期2652號上冊 176~177頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

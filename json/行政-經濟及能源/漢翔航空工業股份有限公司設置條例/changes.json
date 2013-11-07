@@ -1,0 +1,62 @@
+{
+  "1994.03.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@831701;0400;0400",
+      "desc": "83卷17期2691號上冊 400~400頁",
+      "progress": "一讀",
+      "committee": "國防 法制 經濟"
+    }
+  ],
+  "1994.05.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@833303;0173;0214",
+      "desc": "83卷33期2707號下冊 173~214頁",
+      "progress": "委員會審查",
+      "committee": "國防 法制 經濟"
+    }
+  ],
+  "1994.06.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@834400;0357;0358",
+      "desc": "83卷44期2718號 357~358頁",
+      "progress": "委員會審查",
+      "committee": "國防 法制 經濟"
+    }
+  ],
+  "1995.05.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@842800;0058;0075",
+      "desc": "84卷28期2785號 58~75頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 法制 經濟"
+    }
+  ],
+  "1995.05.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@842901;0022;0023",
+      "desc": "84卷29期2786號上冊 22~23頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 法制 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@842901;0023;0047",
+      "desc": "84卷29期2786號上冊 23~47頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 法制 經濟"
+    }
+  ],
+  "1995.05.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@843000;0032;0039",
+      "desc": "84卷30期2787號 32~39頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 法制 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@843000;0039;0040",
+      "desc": "84卷30期2787號 39~40頁",
+      "progress": "三讀",
+      "committee": "國防 法制 經濟"
+    }
+  ]
+}

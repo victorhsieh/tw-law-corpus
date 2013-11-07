@@ -1,0 +1,84 @@
+{
+  "1993.03.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@820801;0017;0017",
+      "desc": "82卷8期2607號上冊 17~17頁",
+      "progress": "一讀",
+      "committee": "教育 預算 財政 內政",
+      "misc": {
+        "content": "362-369",
+        "link": "/lgcgi/lgmeetimage?cfcdcfcecfcecfcec5ccc9cdd2ccc9c6"
+      }
+    }
+  ],
+  "1993.06.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@823900;0090;0095",
+      "desc": "82卷39期2638號 90~95頁",
+      "progress": "一讀",
+      "committee": "教育 預算 財政 內政"
+    }
+  ],
+  "1993.03.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@821603;0280;0299",
+      "desc": "82卷16期2615號下冊 280~299頁",
+      "progress": "委員會審查",
+      "committee": "教育 預算 財政 內政"
+    }
+  ],
+  "1993.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@827503;0001;0016",
+      "desc": "82卷75期2674號下冊 1~16頁",
+      "progress": "委員會審查",
+      "committee": "教育 預算 財政 內政"
+    }
+  ],
+  "1993.12.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@830203;0069;0084",
+      "desc": "83卷2期2676號下冊 69~84頁",
+      "progress": "委員會審查",
+      "committee": "教育 預算 財政 內政"
+    }
+  ],
+  "1994.01.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@830800;0022;0035",
+      "desc": "83卷8期2682號 22~35頁",
+      "progress": "委員會審查",
+      "committee": "教育 預算 財政 內政"
+    }
+  ],
+  "1994.07.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@834801;0080;0108",
+      "desc": "83卷48期2722號上冊 80~108頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "教育 預算 財政 內政"
+    }
+  ],
+  "1994.07.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@834901;0003;0005",
+      "desc": "83卷49期2723號上冊 3~5頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育 預算 財政 內政"
+    }
+  ],
+  "1994.09.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@836100;0034;0043",
+      "desc": "83卷61期2735號 34~43頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育 預算 財政 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@836100;0043;0043",
+      "desc": "83卷61期2735號 43~43頁",
+      "progress": "三讀",
+      "committee": "教育 預算 財政 內政"
+    }
+  ]
+}

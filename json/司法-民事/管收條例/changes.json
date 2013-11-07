@@ -1,0 +1,42 @@
+{
+  "1979.06.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68635100;0002;0002",
+      "desc": "68卷51期1327號 2~2頁",
+      "progress": "一讀",
+      "committee": "司法 法制",
+      "misc": {
+        "content": "319-322",
+        "link": "/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5cccec6d2cccdcd"
+      }
+    }
+  ],
+  "1980.07.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69657500;0002;0003",
+      "desc": "69卷75期1351號 2~3頁",
+      "progress": "委員會審查",
+      "committee": "司法 法制"
+    }
+  ],
+  "1980.07.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655600;0022;0028",
+      "desc": "69卷56期1332號 22~28頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655600;0028;0028",
+      "desc": "69卷56期1332號 28~28頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655600;0028;0028",
+      "desc": "69卷56期1332號 28~28頁",
+      "progress": "三讀",
+      "committee": "司法 法制"
+    }
+  ]
+}

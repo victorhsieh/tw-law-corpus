@@ -1,0 +1,122 @@
+{
+  "2002.04.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912400;0005;0005",
+      "desc": "91卷24期3220號 5~5頁",
+      "progress": "一讀",
+      "committee": "交通",
+      "misc": {
+        "content": "230-237",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc9cfcec5cdcccfd2cdccc8"
+      }
+    }
+  ],
+  "2002.05.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914505;0273;0302",
+      "desc": "91卷45期3241號五冊 273~302頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "2002.05.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913701;0054;0068",
+      "desc": "91卷37期3233號上冊 54~68頁",
+      "progress": "三讀",
+      "committee": "交通",
+      "misc": {
+        "content": "235-248",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececccfcdc5cdcccad2cdcbc7"
+      }
+    }
+  ],
+  "2005.03.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@941100;0002;0002",
+      "desc": "94卷11期3393號 2~2頁",
+      "progress": "一讀",
+      "committee": "交通",
+      "misc": {
+        "content": "117-118",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcecfcccfcec5cecec8d2cecec7"
+      }
+    }
+  ],
+  "2005.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@942501;0006;0006",
+      "desc": "94卷25期3407號一冊 6~6頁",
+      "progress": "一讀",
+      "committee": "交通",
+      "misc": {
+        "content": "235-237",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcecfc6cfcec5cdcccad2cdccc8"
+      }
+    }
+  ],
+  "2005.05.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944201;0089;0114",
+      "desc": "94卷42期3424號一冊 89~114頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "2005.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944001;0167;0172",
+      "desc": "94卷40期3422號一冊 167~172頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通",
+      "misc": {
+        "content": "295-299",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcececbcfcac5cdc6cad2cdc6c6"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944001;0172;0172",
+      "desc": "94卷40期3422號一冊 172~172頁",
+      "progress": "三讀",
+      "committee": "交通"
+    }
+  ],
+  "2005.09.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944401;0017;0017",
+      "desc": "94卷44期3426號一冊 17~17頁",
+      "progress": "一讀",
+      "committee": "交通",
+      "misc": {
+        "content": "353-355",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcfcecfcec5cccaccd2cccaca"
+      }
+    }
+  ],
+  "2005.09.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944802;0107;0136",
+      "desc": "94卷48期3430號二冊 107~136頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "2005.11.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@946300;0205;0209",
+      "desc": "94卷63期3445號 205~209頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通",
+      "misc": {
+        "content": "255-259",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcfc8cfcdc5cdcacad2cdcac6"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@946300;0209;0210",
+      "desc": "94卷63期3445號 209~210頁",
+      "progress": "三讀",
+      "committee": "交通"
+    }
+  ]
+}

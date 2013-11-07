@@ -1,0 +1,114 @@
+{
+  "1954.07.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431306;0117;0117",
+      "desc": "43卷13期號6冊 117~117頁",
+      "progress": "一讀",
+      "committee": "民刑商法 國防 內政 法制"
+    }
+  ],
+  "1954.08.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431309;0025;0038",
+      "desc": "43卷13期號9冊 25~38頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "民刑商法 國防 內政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431309;0101;0103",
+      "desc": "43卷13期號9冊 101~103頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "民刑商法 國防 內政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431309;0113;0125",
+      "desc": "43卷13期號9冊 113~125頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "民刑商法 國防 內政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431309;0125;0128",
+      "desc": "43卷13期號9冊 125~128頁",
+      "progress": "三讀",
+      "committee": "民刑商法 國防 內政 法制"
+    }
+  ],
+  "1980.12.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@696610100;0002;0002",
+      "desc": "69卷101期1377號 2~2頁",
+      "progress": "一讀",
+      "committee": "司法 法制 國防",
+      "misc": {
+        "content": "582-585",
+        "link": "/lgcgi/lgmeetimage?cfcec9c9cfcbcfcfc5cac7cdd2cac7ca"
+      }
+    }
+  ],
+  "1981.05.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70676100;0023;0026",
+      "desc": "70卷61期1442號 23~26頁",
+      "progress": "委員會審查",
+      "committee": "司法 法制 國防"
+    }
+  ],
+  "1981.10.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70688500;0031;0035",
+      "desc": "70卷85期1466號 31~35頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法 法制 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70688500;0035;0037",
+      "desc": "70卷85期1466號 35~37頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 法制 國防"
+    }
+  ],
+  "1981.10.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70688600;0004;0004",
+      "desc": "70卷86期1467號 4~4頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 法制 國防"
+    }
+  ],
+  "1981.10.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70688700;0005;0006",
+      "desc": "70卷87期1468號 5~6頁",
+      "progress": "三讀",
+      "committee": "司法 法制 國防"
+    }
+  ],
+  "1989.12.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7809800;0002;0002",
+      "desc": "78卷98期2314號 2~2頁",
+      "progress": "一讀",
+      "committee": "司法 法制 國防",
+      "misc": {
+        "content": "126-131",
+        "link": "/lgcgi/lgmeetimage?cfcec7cbcecccfcfc5cecdc9d2ceccce"
+      }
+    }
+  ],
+  "1989.12.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7903000;0179;0180",
+      "desc": "79卷30期2350號 179~180頁",
+      "progress": "委員會審查",
+      "committee": "司法 法制 國防"
+    }
+  ],
+  "1991.01.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8000500;0027;0027",
+      "desc": "80卷5期2429號 27~27頁",
+      "progress": "三讀",
+      "committee": "司法 法制 國防"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "1993.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@822401;0012;0012",
+      "desc": "82卷24期2623號上冊 12~12頁",
+      "progress": "一讀",
+      "committee": "司法",
+      "misc": {
+        "content": "62-69",
+        "link": "/lgcgi/lgmeetimage?cfcdcfcececacfcfc5c9cdd2c9c6"
+      }
+    }
+  ],
+  "1993.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@823203;0219;0230",
+      "desc": "82卷32期2631號下冊 219~230頁",
+      "progress": "委員會審查",
+      "committee": "司法"
+    }
+  ],
+  "1993.07.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824603;0083;0092",
+      "desc": "82卷46期2645號下冊 83~92頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824603;0092;0093",
+      "desc": "82卷46期2645號下冊 92~93頁",
+      "progress": "三讀",
+      "committee": "司法"
+    }
+  ]
+}

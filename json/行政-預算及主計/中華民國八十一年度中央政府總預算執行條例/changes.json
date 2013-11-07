@@ -1,0 +1,34 @@
+{
+  "1991.03.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8002100;0005;0006",
+      "desc": "80卷21期2445號 5~6頁",
+      "progress": "一讀",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1991.05.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8007000;0009;0022",
+      "desc": "80卷70期2494號 9~22頁",
+      "progress": "委員會審查",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1991.05.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8004400;0204;0210",
+      "desc": "80卷44期2468號 204~210頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1991.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8004400;0262;0266",
+      "desc": "80卷44期2468號 262~266頁",
+      "progress": "三讀",
+      "committee": "預算 財政 法制"
+    }
+  ]
+}

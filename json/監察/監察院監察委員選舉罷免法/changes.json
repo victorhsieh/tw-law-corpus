@@ -1,0 +1,42 @@
+{
+  "2003.03.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@921501;0006;0006",
+      "desc": "92卷15期3289號一冊 6~6頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "356-562",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccfcacfcec5cccac9d2cac9cd"
+      }
+    }
+  ],
+  "2003.04.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@922101;0013;0013",
+      "desc": "92卷21期3295號上冊 13~13頁",
+      "progress": "一讀",
+      "committee": "內政"
+    }
+  ],
+  "2003.05.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@923003;0003;0007",
+      "desc": "92卷30期3304號下冊 3~7頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2003.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@923102;0197;0374",
+      "desc": "92卷31期3305號二冊 197~374頁",
+      "progress": "三讀",
+      "committee": "內政",
+      "misc": {
+        "content": "409-584",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccecccfcdc5cbcfc6d2cac7cb"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "2010.12.10": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09908001;0005;0005",
+      "desc": "099卷080期3845號一冊 5~5頁",
+      "progress": "一讀",
+      "committee": "司法及法制、經濟",
+      "misc": {
+        "content": "310-315",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc9cececfcec5cccecfd2ccceca"
+      }
+    }
+  ],
+  "2011.04.13": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003201;0437;0483",
+      "desc": "100卷032期3884號 437~483頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制、經濟"
+    }
+  ],
+  "2011.04.14": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003201;0484;0502",
+      "desc": "100卷032期3884號 484~502頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制、經濟"
+    }
+  ],
+  "2011.05.03": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003401;0065;0074",
+      "desc": "100卷034期3886號 65~74頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制、經濟",
+      "misc": {
+        "content": "45-55",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc8cececfccc5cbcad2caca"
+      }
+    }
+  ],
+  "2011.05.24": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10006601;0331;0333",
+      "desc": "100卷066期3918號 331~333頁",
+      "progress": "黨團協商",
+      "committee": "司法及法制、經濟"
+    }
+  ],
+  "2011.06.13": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004903;1381;1382",
+      "desc": "100卷049期3901號三冊 1381~1382頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制、經濟"
+    }
+  ],
+  "2011.06.14": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004905;2156;2284",
+      "desc": "100卷049期3901號五冊 2156~2284頁",
+      "progress": "黨團協商",
+      "committee": "司法及法制、經濟"
+    }
+  ],
+  "2011.10.28": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10006601;0036;0040",
+      "desc": "100卷066期3918號 36~40頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制、經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10006601;0040;0040",
+      "desc": "100卷066期3918號 40~40頁",
+      "progress": "三讀",
+      "committee": "司法及法制、經濟"
+    }
+  ]
+}

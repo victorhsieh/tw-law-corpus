@@ -1,0 +1,54 @@
+{
+  "2000.05.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@892500;0003;0004",
+      "desc": "89卷25期3084號 3~4頁",
+      "progress": "一讀",
+      "committee": "衛生 司法",
+      "misc": {
+        "content": "121-137",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccecacfcfc5cecdced2ceccc8"
+      }
+    }
+  ],
+  "2000.06.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@894303;0469;0508",
+      "desc": "89卷43期3102號下冊 469~508頁",
+      "progress": "委員會審查",
+      "committee": "衛生 司法"
+    }
+  ],
+  "2000.07.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@894503;0041;0073",
+      "desc": "89卷45期3104號下冊 41~73頁",
+      "progress": "委員會審查",
+      "committee": "衛生 司法"
+    }
+  ],
+  "2000.10.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@895402;0218;0252",
+      "desc": "89卷54期3113號中冊 218~252頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "衛生 司法",
+      "misc": {
+        "content": "182-217",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcbcfcbcfcdc5cec7cdd2cdcec8"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@895402;0252;0261",
+      "desc": "89卷54期3113號中冊 252~261頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "衛生 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@895402;0261;0262",
+      "desc": "89卷54期3113號中冊 261~262頁",
+      "progress": "三讀",
+      "committee": "衛生 司法"
+    }
+  ]
+}

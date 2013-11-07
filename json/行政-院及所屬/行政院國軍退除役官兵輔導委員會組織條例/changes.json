@@ -1,0 +1,150 @@
+{
+  "1955.05.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441502;0086;0086",
+      "desc": "44卷15期號2冊 86~86頁",
+      "progress": "一讀",
+      "committee": "法制 國防 經濟 內政"
+    }
+  ],
+  "1955.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451609;0137;0146",
+      "desc": "45卷16期號9冊 137~146頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 國防 經濟 內政"
+    }
+  ],
+  "1955.12.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451609;0156;0158",
+      "desc": "45卷16期號9冊 156~158頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 國防 經濟 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451609;0158;0161",
+      "desc": "45卷16期號9冊 158~161頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 國防 經濟 內政"
+    }
+  ],
+  "1957.04.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461904;0097;0097",
+      "desc": "46卷19期號4冊 97~97頁",
+      "progress": "一讀",
+      "committee": "法制 國防 經濟 內政"
+    }
+  ],
+  "1957.07.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461909;0054;0064",
+      "desc": "46卷19期號9冊 54~64頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 國防 經濟 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461909;0160;0192",
+      "desc": "46卷19期號9冊 160~192頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 國防 經濟 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461909;0162;0166",
+      "desc": "46卷19期號9冊 162~166頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 國防 經濟 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461909;0166;0167",
+      "desc": "46卷19期號9冊 166~167頁",
+      "progress": "三讀",
+      "committee": "法制 國防 經濟 內政"
+    }
+  ],
+  "1966.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55370900;0068;0068",
+      "desc": "55卷37期號9冊 68~68頁",
+      "progress": "一讀",
+      "committee": "法制 國防 經濟 內政"
+    }
+  ],
+  "1966.08.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55371800;0010;0031",
+      "desc": "55卷37期號18冊 10~31頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 國防 經濟 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55371800;0058;0060",
+      "desc": "55卷37期號18冊 58~60頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 國防 經濟 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55371800;0060;0066",
+      "desc": "55卷37期號18冊 60~66頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 國防 經濟 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55371800;0080;0083",
+      "desc": "55卷37期號18冊 80~83頁",
+      "progress": "三讀",
+      "committee": "法制 國防 經濟 內政"
+    }
+  ],
+  "1980.11.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69669500;0002;0002",
+      "desc": "69卷95期1371號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 內政 國防 經濟",
+      "misc": {
+        "content": "672-681",
+        "link": "/lgcgi/lgmeetimage?cfcec9c9cfcccfcfc5c9c8cdd2c9c7ce"
+      }
+    }
+  ],
+  "1980.12.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70672500;0087;0094",
+      "desc": "70卷25期1406號 87~94頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 國防 經濟"
+    }
+  ],
+  "1980.12.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70672600;0069;0073",
+      "desc": "70卷26期1407號 69~73頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 國防 經濟"
+    }
+  ],
+  "1981.01.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70660400;0009;0022",
+      "desc": "70卷4期1385號 9~22頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政 國防 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70660400;0022;0024",
+      "desc": "70卷4期1385號 22~24頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政 國防 經濟"
+    }
+  ],
+  "1981.01.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70660500;0002;0005",
+      "desc": "70卷5期1386號 2~5頁",
+      "progress": "三讀",
+      "committee": "法制 內政 國防 經濟"
+    }
+  ]
+}

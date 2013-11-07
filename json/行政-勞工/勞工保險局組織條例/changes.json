@@ -1,0 +1,118 @@
+{
+  "1994.10.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@836501;0341;0341",
+      "desc": "83卷65期2739號上冊 341~341頁",
+      "progress": "一讀",
+      "committee": "法制 內政"
+    }
+  ],
+  "1995.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@843300;0163;0186",
+      "desc": "84卷33期2790號 163~186頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "1995.10.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@845200;0018;0034",
+      "desc": "84卷52期2809號 18~34頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@845200;0034;0040",
+      "desc": "84卷52期2809號 34~40頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@845200;0040;0040",
+      "desc": "84卷52期2809號 40~40頁",
+      "progress": "三讀",
+      "committee": "法制 內政"
+    }
+  ],
+  "2005.11.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@946300;0006;0007",
+      "desc": "94卷63期3445號 6~7頁",
+      "progress": "一讀",
+      "committee": "法制 衛生",
+      "misc": {
+        "content": "310-312",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcfc7cfcec5cccecfd2cccecd"
+      }
+    }
+  ],
+  "2005.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950101;0027;0043",
+      "desc": "95卷1期3462號一冊 27~43頁",
+      "progress": "委員會審查",
+      "committee": "法制 衛生"
+    }
+  ],
+  "2006.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950401;0359;0362",
+      "desc": "95卷4期3465號一冊 359~362頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 衛生",
+      "misc": {
+        "content": "311-314",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcec7cfcdc5ccceced2cccecb"
+      }
+    }
+  ],
+  "2006.01.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950501;0074;0075",
+      "desc": "95卷5期3466號一冊 74~75頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 衛生"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950501;0075;0075",
+      "desc": "95卷5期3466號一冊 75~75頁",
+      "progress": "三讀",
+      "committee": "法制 衛生"
+    }
+  ],
+  "2007.11.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@967600;0004;0005",
+      "desc": "96卷76期3599號 4~5頁",
+      "progress": "一讀",
+      "committee": "法制 衛生",
+      "misc": {
+        "content": "119-122",
+        "link": "/lgcgi/lgmeetimage?cfc9cfc9cfc6c8cdc5cecec6d2cecdcd"
+      }
+    }
+  ],
+  "2007.11.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968200;0487;0497",
+      "desc": "96卷82期3605號 487~497頁",
+      "progress": "委員會審查",
+      "committee": "法制 衛生"
+    }
+  ],
+  "2007.11.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968301;0036;0041",
+      "desc": "96卷83期3606號一冊 36~41頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 衛生"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968301;0041;0041",
+      "desc": "96卷83期3606號一冊 41~41頁",
+      "progress": "三讀",
+      "committee": "法制 衛生"
+    }
+  ]
+}

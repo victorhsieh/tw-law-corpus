@@ -1,0 +1,76 @@
+{
+  "2010.09.24": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09905101;0002;0002",
+      "desc": "099卷051期3816號一冊 2~2頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "227-252",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc9cfcecfcec5cdcdc8d2cdcacd"
+      }
+    }
+  ],
+  "2011.10.07": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10005601;0004;0004",
+      "desc": "100卷056期3908號 4~4頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "105-124",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc7cfcbc8cdc5cecfcad2cecdcb"
+      }
+    }
+  ],
+  "2011.11.11": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10007501;0024;0024",
+      "desc": "100卷075期3927號 24~24頁",
+      "progress": "一讀",
+      "committee": "內政"
+    }
+  ],
+  "2011.04.28": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003702;0282;0327",
+      "desc": "100卷037期3889號二冊 282~327頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2011.12.12": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10008801;0024;0025",
+      "desc": "100卷088期3940號一冊 24~25頁",
+      "progress": "黨團協商",
+      "committee": "內政"
+    }
+  ],
+  "2011.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10008802;0791;0843",
+      "desc": "100卷088期3940號二冊 791~843頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10008802;0843;0855",
+      "desc": "100卷088期3940號二冊 843~855頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10008802;0855;0856",
+      "desc": "100卷088期3940號二冊 855~856頁",
+      "progress": "三讀",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10101701;0469;0469",
+      "desc": "101卷17期3958號一冊 469~469頁",
+      "progress": "&nbsp;",
+      "committee": "內政"
+    }
+  ]
+}

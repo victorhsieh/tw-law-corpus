@@ -1,0 +1,38 @@
+{
+  "1982.03.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71692100;0002;0002",
+      "desc": "71卷21期1506號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 國防",
+      "misc": {
+        "content": "331-336",
+        "link": "/lgcgi/lgmeetimage?cfcec9c6cfcccfcfc5ccccced2ccccc9"
+      }
+    }
+  ],
+  "1982.04.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71695700;0093;0095",
+      "desc": "71卷57期1542號 93~95頁",
+      "progress": "委員會審查",
+      "committee": "法制 國防"
+    }
+  ],
+  "1982.12.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72701500;0026;0026",
+      "desc": "72卷15期1604號 26~26頁",
+      "progress": "委員會審查",
+      "committee": "法制 國防"
+    }
+  ],
+  "1982.12.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@717010200;0005;0006",
+      "desc": "71卷102期1587號 5~6頁",
+      "progress": "三讀",
+      "committee": "法制 國防"
+    }
+  ]
+}

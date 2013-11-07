@@ -1,0 +1,122 @@
+{
+  "1996.04.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@851400;0004;0004",
+      "desc": "85卷14期2836號 4~4頁",
+      "progress": "一讀",
+      "committee": "法制 內政"
+    }
+  ],
+  "1996.05.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@852503;0077;0100",
+      "desc": "85卷25期2847號下冊 77~100頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "1996.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@852903;0391;0414",
+      "desc": "85卷29期2851號下冊 391~414頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "1996.06.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@853301;0049;0062",
+      "desc": "85卷33期2855號上冊 49~62頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政"
+    }
+  ],
+  "1996.06.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@853400;0024;0031",
+      "desc": "85卷34期2856號 24~31頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@853400;0031;0045",
+      "desc": "85卷34期2856號 31~45頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政"
+    }
+  ],
+  "1996.06.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@853500;0028;0052",
+      "desc": "85卷35期2857號 28~52頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政"
+    }
+  ],
+  "1996.06.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@853601;0022;0023",
+      "desc": "85卷36期2858號上冊 22~23頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政"
+    }
+  ],
+  "1996.07.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@853801;0125;0144",
+      "desc": "85卷38期2860號上冊 125~144頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@853801;0144;0144",
+      "desc": "85卷38期2860號上冊 144~144頁",
+      "progress": "三讀",
+      "committee": "法制 內政"
+    }
+  ],
+  "2005.03.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@941200;0006;0006",
+      "desc": "94卷12期3394號 6~6頁",
+      "progress": "一讀",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "380-406",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5ccc7cfd2cbcfc9"
+      }
+    }
+  ],
+  "2005.05.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944202;0003;0031",
+      "desc": "94卷42期3424號二冊 3~31頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "2005.11.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@946300;0211;0246",
+      "desc": "94卷63期3445號 211~246頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "589-634",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcfcccfcdc5cac7c6d2c9cccb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@946300;0256;0256",
+      "desc": "94卷63期3445號 256~256頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@946300;0256;0257",
+      "desc": "94卷63期3445號 256~257頁",
+      "progress": "三讀",
+      "committee": "法制 內政"
+    }
+  ]
+}

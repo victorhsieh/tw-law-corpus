@@ -1,0 +1,40 @@
+{
+  "1978.04.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67612700;0002;0002",
+      "desc": "67卷27期990號 2~2頁",
+      "progress": "一讀",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1978.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67615900;0040;0042",
+      "desc": "67卷59期1127號 40~42頁",
+      "progress": "委員會審查",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1978.05.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67614300;0010;0026",
+      "desc": "67卷43期1111號 10~26頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "預算 財政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67614300;0239;0241",
+      "desc": "67卷43期1111號 239~241頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1978.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67614300;0256;0257",
+      "desc": "67卷43期1111號 256~257頁",
+      "progress": "三讀",
+      "committee": "預算 財政 法制"
+    }
+  ]
+}

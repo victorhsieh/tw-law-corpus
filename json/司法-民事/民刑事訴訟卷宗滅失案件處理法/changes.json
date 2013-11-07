@@ -1,0 +1,82 @@
+{
+  "1970.07.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5945570001;0002;0002",
+      "desc": "59卷57期0號 2~2頁",
+      "progress": "一讀",
+      "committee": "司法"
+    }
+  ],
+  "1970.10.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047210002;0016;0021",
+      "desc": "60卷21期375號 16~21頁",
+      "progress": "委員會審查",
+      "committee": "司法"
+    }
+  ],
+  "1971.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@61481100;0027;0029",
+      "desc": "61卷11期464號 27~29頁",
+      "progress": "委員會審查",
+      "committee": "司法"
+    }
+  ],
+  "1972.03.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149330002;0038;0049",
+      "desc": "61卷33期486號 38~49頁",
+      "progress": "委員會審查",
+      "committee": "司法"
+    }
+  ],
+  "1972.03.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149410002;0012;0022",
+      "desc": "61卷41期494號 12~22頁",
+      "progress": "委員會審查",
+      "committee": "司法"
+    }
+  ],
+  "1972.04.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149420002;0029;0037",
+      "desc": "61卷42期495號 29~37頁",
+      "progress": "委員會審查",
+      "committee": "司法"
+    }
+  ],
+  "1972.04.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149430002;0025;0029",
+      "desc": "61卷43期496號 25~29頁",
+      "progress": "委員會審查",
+      "committee": "司法"
+    }
+  ],
+  "1973.04.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251240001;0022;0036",
+      "desc": "62卷24期580號 22~36頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法"
+    }
+  ],
+  "1973.04.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251270001;0003;0007",
+      "desc": "62卷27期583號 3~7頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法"
+    }
+  ],
+  "1973.04.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251290001;0003;0005",
+      "desc": "62卷29期585號 3~5頁",
+      "progress": "三讀",
+      "committee": "司法"
+    }
+  ]
+}

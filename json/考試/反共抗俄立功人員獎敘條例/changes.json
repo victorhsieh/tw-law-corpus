@@ -1,0 +1,85 @@
+{
+  "unknown": [
+    {
+      "error": "..."
+    }
+  ],
+  "1953.11.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421205;0007;0009",
+      "desc": "42卷12期號5冊 7~9頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421204;0032;0033",
+      "desc": "42卷12期號4冊 32~33頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421204;0033;0037",
+      "desc": "42卷12期號4冊 33~37頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    }
+  ],
+  "1953.11.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421204;0046;0050",
+      "desc": "42卷12期號4冊 46~50頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    }
+  ],
+  "1953.11.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421205;0021;0025",
+      "desc": "42卷12期號5冊 21~25頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ],
+  "1953.11.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421205;0043;0043",
+      "desc": "42卷12期號5冊 43~43頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ],
+  "1992.01.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8100701;0015;0016",
+      "desc": "81卷7期2535號上冊 15~16頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "89-93",
+        "link": "/lgcgi/lgmeetimage?cfcec7c7cdc6cfcec5c7c6d2c6cc"
+      }
+    }
+  ],
+  "1992.06.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8105103;0099;0099",
+      "desc": "81卷51期2579號下冊 99~99頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1993.04.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@822001;0030;0040",
+      "desc": "82卷20期2619號上冊 30~40頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@822001;0040;0040",
+      "desc": "82卷20期2619號上冊 40~40頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

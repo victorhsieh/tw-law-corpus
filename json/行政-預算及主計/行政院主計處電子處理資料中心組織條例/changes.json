@@ -1,0 +1,72 @@
+{
+  "1975.04.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455340001;0002;0002",
+      "desc": "64卷34期788號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 預算"
+    }
+  ],
+  "1975.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456870002;0018;0027",
+      "desc": "64卷87期841號 18~27頁",
+      "progress": "委員會審查",
+      "committee": "法制 預算"
+    }
+  ],
+  "1975.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6556040002;0027;0029",
+      "desc": "65卷4期863號 27~29頁",
+      "progress": "委員會審查",
+      "committee": "法制 預算"
+    }
+  ],
+  "1978.12.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68633400;0030;0034",
+      "desc": "68卷34期1206號 30~34頁",
+      "progress": "委員會審查",
+      "committee": "法制 預算"
+    }
+  ],
+  "1978.12.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68633500;0066;0071",
+      "desc": "68卷35期1207號 66~71頁",
+      "progress": "委員會審查",
+      "committee": "法制 預算"
+    }
+  ],
+  "1979.03.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68632500;0010;0021",
+      "desc": "68卷25期1197號 10~21頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 預算"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68632500;0021;0026",
+      "desc": "68卷25期1197號 21~26頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 預算"
+    }
+  ],
+  "1979.03.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68632600;0002;0006",
+      "desc": "68卷26期1198號 2~6頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 預算"
+    }
+  ],
+  "1979.04.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68632700;0008;0010",
+      "desc": "68卷27期1199號 8~10頁",
+      "progress": "三讀",
+      "committee": "法制 預算"
+    }
+  ]
+}

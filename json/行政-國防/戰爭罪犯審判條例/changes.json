@@ -1,0 +1,32 @@
+{
+  "1978.02.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67611600;0002;0002",
+      "desc": "67卷16期1084號 2~2頁",
+      "progress": "一讀",
+      "committee": "國防 司法"
+    }
+  ],
+  "1978.04.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67614100;0011;0016",
+      "desc": "67卷41期1109號 11~16頁",
+      "progress": "委員會審查",
+      "committee": "國防 司法"
+    }
+  ],
+  "1978.05.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67613800;0034;0035",
+      "desc": "67卷38期1106號 34~35頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67613800;0035;0035",
+      "desc": "67卷38期1106號 35~35頁",
+      "progress": "三讀",
+      "committee": "國防 司法"
+    }
+  ]
+}

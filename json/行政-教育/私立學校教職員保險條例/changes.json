@@ -1,0 +1,106 @@
+{
+  "1980.07.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655300;0002;0002",
+      "desc": "69卷53期1329號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政 教育 法制 財政",
+      "misc": {
+        "content": "305-313",
+        "link": "/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5cccfcad2cccecc"
+      }
+    }
+  ],
+  "1980.07.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69669300;0041;0056",
+      "desc": "69卷93期1369號 41~56頁",
+      "progress": "委員會審查",
+      "committee": "內政 教育 法制 財政"
+    }
+  ],
+  "1980.07.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69669600;0051;0061",
+      "desc": "69卷96期1372號 51~61頁",
+      "progress": "委員會審查",
+      "committee": "內政 教育 法制 財政"
+    }
+  ],
+  "1980.07.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69669900;0023;0032",
+      "desc": "69卷99期1375號 23~32頁",
+      "progress": "委員會審查",
+      "committee": "內政 教育 法制 財政"
+    }
+  ],
+  "1980.07.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655700;0087;0098",
+      "desc": "69卷57期1333號 87~98頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 教育 法制 財政"
+    }
+  ],
+  "1980.07.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655800;0008;0013",
+      "desc": "69卷58期1334號 8~13頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 教育 法制 財政"
+    }
+  ],
+  "1980.07.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655900;0004;0006",
+      "desc": "69卷59期1335號 4~6頁",
+      "progress": "三讀",
+      "committee": "內政 教育 法制 財政"
+    }
+  ],
+  "1995.01.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@840601;0076;0076",
+      "desc": "84卷6期2763號上冊 76~76頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@840601;0077;0077",
+      "desc": "84卷6期2763號上冊 77~77頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@840601;0077;0077",
+      "desc": "84卷6期2763號上冊 77~77頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "1995.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@840301;0368;0368",
+      "desc": "84卷3期2760號上冊 368~368頁",
+      "progress": "一讀",
+      "committee": "內政 法制 教育 財政"
+    }
+  ],
+  "1999.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880604;0441;0466",
+      "desc": "88卷6期3006號四冊 441~466頁",
+      "progress": "委員會審查",
+      "committee": "內政 法制 教育 財政"
+    }
+  ],
+  "1999.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@882501;0206;0242",
+      "desc": "88卷25期3025號一冊 206~242頁",
+      "progress": "三讀",
+      "committee": "內政 法制 教育 財政"
+    }
+  ]
+}

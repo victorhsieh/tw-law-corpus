@@ -1,0 +1,44 @@
+{
+  "2011.03.18": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10001701;0004;0004",
+      "desc": "100卷17期3869號 4~4頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "101-110",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc8cfcac8cdc5cecfced2cececf"
+      }
+    }
+  ],
+  "2011.03.31": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10002502;0451;0488",
+      "desc": "100卷25期3877號二冊 451~488頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "2011.04.06": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10002901;0287;0372",
+      "desc": "100卷29期3881號 287~372頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "2011.04.15": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10002801;0037;0063",
+      "desc": "100卷28期3880號 37~63頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10002801;0063;0066",
+      "desc": "100卷28期3880號 63~66頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ]
+}

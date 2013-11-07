@@ -1,0 +1,110 @@
+{
+  "2002.04.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912400;0006;0006",
+      "desc": "91卷24期3220號 6~6頁",
+      "progress": "一讀",
+      "committee": "法制 司法 國防 外交",
+      "misc": {
+        "content": "322-344",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc9cfcec5cccdcdd2cccbcb"
+      }
+    }
+  ],
+  "2002.04.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912600;0007;0007",
+      "desc": "91卷26期3222號 7~7頁",
+      "progress": "一讀",
+      "committee": "法制 司法 國防 外交",
+      "misc": {
+        "content": "505-520",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc8cfccc5cacfcad2cacdcf"
+      }
+    }
+  ],
+  "2002.04.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913001;0004;0004",
+      "desc": "91卷30期3226號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "法制 司法 國防 外交",
+      "misc": {
+        "content": "262-265",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc6cfcfc5cdc9cdd2cdc9ca"
+      }
+    }
+  ],
+  "2002.05.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913401;0004;0004",
+      "desc": "91卷34期3230號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "法制 司法 國防 外交",
+      "misc": {
+        "content": "130-149",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececdcfcfc5cecccfd2cecbc6"
+      }
+    }
+  ],
+  "2002.06.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914001;0004;0004",
+      "desc": "91卷40期3236號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "法制 司法 國防 外交",
+      "misc": {
+        "content": "163-164",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececacfcec5cec9ccd2cec9cb"
+      }
+    }
+  ],
+  "2002.05.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914801;0003;0053",
+      "desc": "91卷48期3244號上冊 3~53頁",
+      "progress": "委員會審查",
+      "committee": "法制 司法 國防 外交"
+    }
+  ],
+  "2002.06.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@915203;0133;0157",
+      "desc": "91卷52期3248號下冊 133~157頁",
+      "progress": "委員會審查",
+      "committee": "法制 司法 國防 外交"
+    }
+  ],
+  "2002.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920504;0135;0170",
+      "desc": "92卷5期3279號四冊 135~170頁",
+      "progress": "委員會審查",
+      "committee": "法制 司法 國防 外交"
+    }
+  ],
+  "2003.01.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920805;1647;1802",
+      "desc": "92卷8期3282號五冊 1647~1802頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 司法 國防 外交",
+      "misc": {
+        "content": "437-602",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcec8cfcdc5cbccc8d2c9cfcd"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920805;1802;1818",
+      "desc": "92卷8期3282號五冊 1802~1818頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 司法 國防 外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920805;1818;1818",
+      "desc": "92卷8期3282號五冊 1818~1818頁",
+      "progress": "三讀",
+      "committee": "法制 司法 國防 外交"
+    }
+  ]
+}

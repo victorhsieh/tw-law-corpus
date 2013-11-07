@@ -1,0 +1,34 @@
+{
+  "2003.03.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@921501;0006;0006",
+      "desc": "92卷15期3289號一冊 6~6頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "356-562",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccfcacfcec5cccac9d2cac9cd"
+      }
+    }
+  ],
+  "2003.04.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@922403;0037;0042",
+      "desc": "92卷24期3298號下冊 37~42頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "2003.05.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@922701;0103;0117",
+      "desc": "92卷27期3301號上冊 103~117頁",
+      "progress": "三讀",
+      "committee": "法制",
+      "misc": {
+        "content": "436-459",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccececfcdc5cbccc9d2cbcac6"
+      }
+    }
+  ]
+}

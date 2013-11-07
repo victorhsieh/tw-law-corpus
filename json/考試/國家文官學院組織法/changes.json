@@ -1,0 +1,98 @@
+{
+  "1997.05.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@862501;0003;0003",
+      "desc": "86卷25期2917號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "法制"
+    }
+  ],
+  "1997.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@864403;0001;0018",
+      "desc": "86卷44期2936號下冊 1~18頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1997.12.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@870300;0233;0261",
+      "desc": "87卷3期2952號 233~261頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1998.10.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@874001;0137;0157",
+      "desc": "87卷40期2989號上冊 137~157頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    }
+  ],
+  "1998.10.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@874001;0157;0157",
+      "desc": "87卷40期2989號上冊 157~157頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    }
+  ],
+  "1998.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@874201;0154;0155",
+      "desc": "87卷42期2991號上冊 154~155頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@874201;0155;0156",
+      "desc": "87卷42期2991號上冊 155~156頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ],
+  "2009.04.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982200;0006;0006",
+      "desc": "98卷22期3708號 6~6頁",
+      "progress": "一讀",
+      "committee": "司法及法制",
+      "misc": {
+        "content": "341-356",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccfc6c8cdc5cccbced2cccac9"
+      }
+    }
+  ],
+  "2009.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983600;0304;0339",
+      "desc": "98卷36期3722號 304~339頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制"
+    }
+  ],
+  "2009.06.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984000;0221;0237",
+      "desc": "98卷40期3726號 221~237頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制"
+    }
+  ],
+  "2009.10.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@985500;0055;0056",
+      "desc": "98卷55期3741號 55~56頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@985500;0056;0057",
+      "desc": "98卷55期3741號 56~57頁",
+      "progress": "三讀",
+      "committee": "司法及法制"
+    }
+  ]
+}

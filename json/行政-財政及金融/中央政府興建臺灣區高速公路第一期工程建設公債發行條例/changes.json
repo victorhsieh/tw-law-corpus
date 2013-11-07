@@ -1,0 +1,64 @@
+{
+  "1970.07.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5945560001;0002;0002",
+      "desc": "59卷56期號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1971.01.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6046020001;0002;0002",
+      "desc": "60卷2期號 2~2頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    }
+  ],
+  "1971.01.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6046040001;0002;0002",
+      "desc": "60卷4期號 2~2頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ],
+  "1971.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6048810001;0002;0002",
+      "desc": "60卷81期434號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1971.11.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149400002;0024;0026",
+      "desc": "61卷40期493號 24~26頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1971.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6048960001;0042;0047",
+      "desc": "60卷96期449號 42~47頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ],
+  "1974.01.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@63520600;0111;0112",
+      "desc": "63卷6期662號 111~112頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@63520600;0111;0112",
+      "desc": "63卷6期662號 111~112頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

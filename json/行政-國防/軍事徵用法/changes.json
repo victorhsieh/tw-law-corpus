@@ -1,0 +1,34 @@
+{
+  "2003.09.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@924001;0004;0004",
+      "desc": "92卷40期3314號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "國防",
+      "misc": {
+        "content": "446-459",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcfcccfcfc5cbcbc9d2cbcac6"
+      }
+    }
+  ],
+  "2003.10.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@924903;0179;0199",
+      "desc": "92卷49期3323號下冊 179~199頁",
+      "progress": "委員會審查",
+      "committee": "國防"
+    }
+  ],
+  "2003.12.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@925901;0167;0178",
+      "desc": "92卷59期3333號上冊 167~178頁",
+      "progress": "三讀",
+      "committee": "國防",
+      "misc": {
+        "content": "515-538",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcecbcfcec5cacecad2caccc7"
+      }
+    }
+  ]
+}

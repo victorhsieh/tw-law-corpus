@@ -1,0 +1,88 @@
+{
+  "unknown": [
+    {
+      "error": "...",
+      "misc": {
+        "content": "1-342",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2cccbcd"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    }
+  ],
+  "2012.03.23": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10101001;0007;0007",
+      "desc": "101卷010期3951號 7~7頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "269-270",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcecfcacfcec5cdc9c6d2cdc8cf"
+      }
+    }
+  ],
+  "2012.04.30": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10102901;0240;0291",
+      "desc": "101卷029期3970號 240~291頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2012.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10103601;0055;0059",
+      "desc": "101卷036期3977號 55~59頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政",
+      "misc": {
+        "content": "344-348",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcececdcfcbc5cccbcbd2cccbc7"
+      }
+    }
+  ],
+  "2012.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10103901;0010;0301",
+      "desc": "101卷039期3980號 10~301頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政"
+    }
+  ],
+  "2012.11.21": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10200204;0307;0308",
+      "desc": "102卷002期4027號四冊 307~308頁",
+      "progress": "黨團協商",
+      "committee": "內政"
+    }
+  ],
+  "2012.12.28": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10200201;0188;0188",
+      "desc": "102卷002期4027號一冊 188~188頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10200201;0188;0189",
+      "desc": "102卷002期4027號一冊 188~189頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10200201;0189;0189",
+      "desc": "102卷002期4027號一冊 189~189頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ]
+}

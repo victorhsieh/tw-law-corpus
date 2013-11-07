@@ -1,0 +1,54 @@
+{
+  "1989.03.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7802100;0007;0007",
+      "desc": "78卷21期2237號 7~7頁",
+      "progress": "一讀",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "146-153",
+        "link": "/lgcgi/lgmeetimage?cfcec7cccfcbcfcec5cecbc9d2cecacc"
+      }
+    }
+  ],
+  "1989.05.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7905200;0312;0324",
+      "desc": "79卷52期2372號 312~324頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "1989.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7905703;0642;0653",
+      "desc": "79卷57期2377號下冊 642~653頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "1989.06.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7804400;0124;0138",
+      "desc": "78卷44期2260號 124~138頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政"
+    }
+  ],
+  "1989.06.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7804600;0036;0044",
+      "desc": "78卷46期2262號 36~44頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政"
+    }
+  ],
+  "1989.06.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7805000;0024;0028",
+      "desc": "78卷50期2266號 24~28頁",
+      "progress": "三讀",
+      "committee": "法制 內政"
+    }
+  ]
+}

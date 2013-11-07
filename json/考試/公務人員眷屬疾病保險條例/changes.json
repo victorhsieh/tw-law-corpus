@@ -1,0 +1,96 @@
+{
+  "1981.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70660200;0002;0002",
+      "desc": "70卷2期1383號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政 法制 財政",
+      "misc": {
+        "content": "267-272",
+        "link": "/lgcgi/lgmeetimage?cfcec9c9cfcacfcfc5cdc9c8d2cdc8cd"
+      }
+    }
+  ],
+  "1981.12.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@706810200;0002;0002",
+      "desc": "70卷102期1483號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政 法制 財政",
+      "misc": {
+        "content": "457-462",
+        "link": "/lgcgi/lgmeetimage?cfcec9c7cfc8cfcfc5cbcac8d2cbc9cd"
+      }
+    }
+  ],
+  "1981.10.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71692400;0086;0093",
+      "desc": "71卷24期1509號 86~93頁",
+      "progress": "委員會審查",
+      "committee": "內政 法制 財政"
+    }
+  ],
+  "1981.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71692800;0098;0119",
+      "desc": "71卷28期1513號 98~119頁",
+      "progress": "委員會審查",
+      "committee": "內政 法制 財政"
+    }
+  ],
+  "1981.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71692900;0083;0087",
+      "desc": "71卷29期1514號 83~87頁",
+      "progress": "委員會審查",
+      "committee": "內政 法制 財政"
+    }
+  ],
+  "1982.01.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71680400;0010;0021",
+      "desc": "71卷4期1489號 10~21頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 法制 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71680400;0021;0022",
+      "desc": "71卷4期1489號 21~22頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 法制 財政"
+    }
+  ],
+  "1982.01.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71680500;0006;0009",
+      "desc": "71卷5期1490號 6~9頁",
+      "progress": "三讀",
+      "committee": "內政 法制 財政"
+    }
+  ],
+  "1995.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@840301;0368;0368",
+      "desc": "84卷3期2760號上冊 368~368頁",
+      "progress": "一讀",
+      "committee": "內政 法制 教育 財政"
+    }
+  ],
+  "1999.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880604;0441;0466",
+      "desc": "88卷6期3006號四冊 441~466頁",
+      "progress": "委員會審查",
+      "committee": "內政 法制 教育 財政"
+    }
+  ],
+  "1999.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@882501;0206;0242",
+      "desc": "88卷25期3025號一冊 206~242頁",
+      "progress": "三讀",
+      "committee": "內政 法制 教育 財政"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "1997.09.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@863500;0003;0003",
+      "desc": "86卷35期2927號 3~3頁",
+      "progress": "一讀",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "382-423",
+        "link": "/lgcgi/lgmeetimage?cfcccfcbcfcdcfcec5ccc7cdd2cbcdcc"
+      }
+    }
+  ],
+  "1997.10.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@864203;0081;0118",
+      "desc": "86卷42期2934號下冊 81~118頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "1998.05.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@872601;0104;0130",
+      "desc": "87卷26期2975號上冊 104~130頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "604-625",
+        "link": "/lgcgi/lgmeetimage?cfcccfcbcecccfcec5c9cfcbd2c9cdca"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@872601;0130;0130",
+      "desc": "87卷26期2975號上冊 130~130頁",
+      "progress": "三讀",
+      "committee": "法制 內政"
+    }
+  ],
+  "2002.04.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912801;0009;0009",
+      "desc": "91卷28期3224號上冊 9~9頁",
+      "progress": "一讀",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "525-530",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc7cfcfc5cacdcad2cacccf"
+      }
+    }
+  ],
+  "2002.05.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914505;0003;0028",
+      "desc": "91卷45期3241號五冊 3~28頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "2002.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913501;0048;0054",
+      "desc": "91卷35期3231號上冊 48~54頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "27-49",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececdcfccc5cdc8d2cbc6"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913501;0057;0057",
+      "desc": "91卷35期3231號上冊 57~57頁",
+      "progress": "三讀",
+      "committee": "法制 內政"
+    }
+  ]
+}

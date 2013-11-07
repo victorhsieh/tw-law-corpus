@@ -1,0 +1,44 @@
+{
+  "2010.02.23": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09900901;0004;0004",
+      "desc": "99卷9期3774號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "外交及國防",
+      "misc": {
+        "content": "334-348",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacfcecfcdc5cccccbd2cccbc7"
+      }
+    }
+  ],
+  "2010.04.21": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903102;0310;0314",
+      "desc": "99卷31期3796號二冊 310~314頁",
+      "progress": "委員會審查",
+      "committee": "外交及國防"
+    }
+  ],
+  "2010.05.03": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903501;0094;0130",
+      "desc": "99卷35期3800號 94~130頁",
+      "progress": "委員會審查",
+      "committee": "外交及國防"
+    }
+  ],
+  "2010.05.18": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903601;0243;0274",
+      "desc": "99卷36期3801號 243~274頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交及國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903601;0274;0274",
+      "desc": "99卷36期3801號 274~274頁",
+      "progress": "三讀",
+      "committee": "外交及國防"
+    }
+  ]
+}

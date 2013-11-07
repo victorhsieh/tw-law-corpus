@@ -1,0 +1,86 @@
+{
+  "1978.09.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67627800;0002;0002",
+      "desc": "67卷78期1146號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "37-42",
+        "link": "/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5ccc8d2cbcd"
+      }
+    }
+  ],
+  "1978.11.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68620900;0036;0041",
+      "desc": "68卷9期1181號 36~41頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1978.11.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68621100;0010;0016",
+      "desc": "68卷11期1183號 10~16頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1979.01.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68633000;0048;0054",
+      "desc": "68卷30期1202號 48~54頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1979.01.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68620500;0046;0052",
+      "desc": "68卷5期1177號 46~52頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    }
+  ],
+  "1979.01.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68620500;0130;0131",
+      "desc": "68卷5期1177號 130~131頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ],
+  "2002.03.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912000;0007;0008",
+      "desc": "91卷20期3216號 7~8頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "655-666",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcbcfcec5c9cacad2c9c9c9"
+      }
+    }
+  ],
+  "2002.05.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914403;0283;0286",
+      "desc": "91卷44期3240號下冊 283~286頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "2002.05.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913401;0141;0147",
+      "desc": "91卷34期3230號上冊 141~147頁",
+      "progress": "三讀",
+      "committee": "財政",
+      "misc": {
+        "content": "421-436",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececdcfcec5cbcdced2cbccc9"
+      }
+    }
+  ]
+}

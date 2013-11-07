@@ -1,0 +1,24 @@
+{
+  "1973.08.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251610001;0002;0002",
+      "desc": "62卷61期617號 2~2頁",
+      "progress": "一讀",
+      "committee": "僑政"
+    }
+  ],
+  "1981.10.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70688400;0025;0027",
+      "desc": "70卷84期1465號 25~27頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "僑政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70688400;0027;0027",
+      "desc": "70卷84期1465號 27~27頁",
+      "progress": "三讀",
+      "committee": "僑政"
+    }
+  ]
+}

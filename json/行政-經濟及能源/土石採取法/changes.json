@@ -1,0 +1,102 @@
+{
+  "2002.05.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913401;0005;0005",
+      "desc": "91卷34期3230號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "1-533",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcacfcac5ced2cacccc"
+      }
+    }
+  ],
+  "2002.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913901;0005;0005",
+      "desc": "91卷39期3235號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "459-493",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececbcfcdc5cbcac6d2cbc6cc"
+      }
+    }
+  ],
+  "2002.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@915003;0293;0312",
+      "desc": "91卷50期3246號下冊 293~312頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2002.06.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@915301;0115;0128",
+      "desc": "91卷53期3249號上冊 115~128頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2002.12.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920601;0003;0030",
+      "desc": "92卷6期3280號上冊 3~30頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2003.01.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920802;0480;0547",
+      "desc": "92卷8期3282號二冊 480~547頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟",
+      "misc": {
+        "content": "689-755",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcec8cfcec5c9c7c6d2c8caca"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920802;0548;0556",
+      "desc": "92卷8期3282號二冊 548~556頁",
+      "progress": "三讀",
+      "committee": "經濟"
+    }
+  ],
+  "2007.09.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@966300;0109;0109",
+      "desc": "96卷63期3586號 109~109頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "131-140",
+        "link": "/lgcgi/lgmeetimage?cfc9cfc9cfcbc8cdc5ceccced2cecbcf"
+      }
+    }
+  ],
+  "2007.12.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968400;0183;0197",
+      "desc": "96卷84期3607號 183~197頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2007.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968601;0151;0165",
+      "desc": "96卷86期3609號一冊 151~165頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968601;0165;0165",
+      "desc": "96卷86期3609號一冊 165~165頁",
+      "progress": "三讀",
+      "committee": "經濟"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "2003.09.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@923901;0004;0005",
+      "desc": "92卷39期3313號一冊 4~5頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "89-101",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcfcdcfcec5c7c6d2cecfce"
+      }
+    }
+  ],
+  "2003.10.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@924501;0006;0006",
+      "desc": "92卷45期3319號上冊 6~6頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "253-268",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcfc8cfcfc5cdcaccd2cdc9c7"
+      }
+    }
+  ],
+  "2003.11.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@925301;0005;0005",
+      "desc": "92卷53期3327號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "251-260",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcececfcec5cdcaced2cdc9cf"
+      }
+    }
+  ],
+  "2004.08.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@933701;0040;0040",
+      "desc": "93卷37期3371號上冊 40~40頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A",
+      "misc": {
+        "content": "73-85",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacecbcfcbc5c8ccd2c7ca"
+      }
+    }
+  ],
+  "2004.08.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@933701;0194;0194",
+      "desc": "93卷37期3371號上冊 194~194頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2005.01.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@940702;0550;0553",
+      "desc": "94卷7期3389號中冊 550~553頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@940702;0553;0557",
+      "desc": "94卷7期3389號中冊 553~557頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@940702;0557;0559",
+      "desc": "94卷7期3389號中冊 557~559頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

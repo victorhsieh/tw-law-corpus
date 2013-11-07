@@ -1,0 +1,40 @@
+{
+  "1962.11.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@513007;0003;0003",
+      "desc": "51卷30期號7冊 3~3頁",
+      "progress": "一讀",
+      "committee": "司法 外交"
+    }
+  ],
+  "1963.03.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@523105;0041;0059",
+      "desc": "52卷31期號5冊 41~59頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法 外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@523104;0065;0066",
+      "desc": "52卷31期號4冊 65~66頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法 外交"
+    }
+  ],
+  "1963.04.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@523105;0099;0101",
+      "desc": "52卷31期號5冊 99~101頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 外交"
+    }
+  ],
+  "1963.04.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@523105;0132;0138",
+      "desc": "52卷31期號5冊 132~138頁",
+      "progress": "三讀",
+      "committee": "司法 外交"
+    }
+  ]
+}

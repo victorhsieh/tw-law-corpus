@@ -1,0 +1,82 @@
+{
+  "1985.04.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7403000;0002;0002",
+      "desc": "74卷30期1828號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "22-25",
+        "link": "/lgcgi/lgmeetimage?cfcec8cacfcbcfcfc5cdcdd2cdca"
+      }
+    }
+  ],
+  "1985.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7408000;0139;0147",
+      "desc": "74卷80期1878號 139~147頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1985.10.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7408100;0008;0013",
+      "desc": "74卷81期1879號 8~13頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 教育"
+    }
+  ],
+  "1985.10.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7408100;0013;0014",
+      "desc": "74卷81期1879號 13~14頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7408200;0010;0011",
+      "desc": "74卷82期1880號 10~11頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ],
+  "1999.04.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@881700;0001;0001",
+      "desc": "88卷17期3017號 1~1頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "263-266",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcecfc8cfcfc5cdc9ccd2cdc9c9"
+      }
+    }
+  ],
+  "1999.11.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885203;0061;0082",
+      "desc": "88卷52期3052號下冊 61~82頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1999.12.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885401;0182;0184",
+      "desc": "88卷54期3054號上冊 182~184頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "140-143",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc6cfcbc5cecbcfd2cecbcc"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885401;0184;0184",
+      "desc": "88卷54期3054號上冊 184~184頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ]
+}

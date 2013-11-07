@@ -1,0 +1,786 @@
+{
+  "2002.04.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912400;0004;0004",
+      "desc": "91卷24期3220號 4~4頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "131-198",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc9cfcec5ceccced2cec6c7"
+      }
+    }
+  ],
+  "2002.04.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912600;0004;0004",
+      "desc": "91卷26期3222號 4~4頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "342-382",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc8cfccc5cccbcdd2ccc7cd"
+      }
+    }
+  ],
+  "2002.04.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912801;0006;0006",
+      "desc": "91卷28期3224號上冊 6~6頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "449-496",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc8cfcec5cbcbc6d2cbc6c9"
+      }
+    }
+  ],
+  "2002.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913301;0003;0003",
+      "desc": "91卷33期3229號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "650-704",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececfcfccc5c9cacfd2c8cfcb"
+      }
+    }
+  ],
+  "2002.10.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@915900;0007;0008",
+      "desc": "91卷59期3255號 7~8頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "63-121",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcfcbcfcdc5c9ccd2cecdce"
+      }
+    }
+  ],
+  "2002.12.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920603;0169;0226",
+      "desc": "92卷6期3280號下冊 169~226頁",
+      "progress": "委員會審查",
+      "committee": "衛生"
+    }
+  ],
+  "2003.03.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@921703;0003;0092",
+      "desc": "92卷17期3291號下冊 3~92頁",
+      "progress": "委員會審查",
+      "committee": "衛生"
+    }
+  ],
+  "2003.04.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@922302;0003;0433",
+      "desc": "92卷23期3297號二冊 3~433頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "衛生",
+      "misc": {
+        "content": "1-414",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccfc6cfcbc5ced2cbcecb"
+      }
+    }
+  ],
+  "2003.05.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@922501;0093;0108",
+      "desc": "92卷25期3299號一冊 93~108頁",
+      "progress": "三讀",
+      "committee": "衛生"
+    }
+  ],
+  "2008.03.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@970300;0003;0003",
+      "desc": "97卷003期3614號 3~3頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "87-90",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecfccc8cdc5c7c8d2c6cf"
+      }
+    }
+  ],
+  "2008.04.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@971500;0100;0133",
+      "desc": "97卷015期3626號 100~133頁",
+      "progress": "委員會審查",
+      "committee": "N/A"
+    }
+  ],
+  "2008.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@971600;0075;0081",
+      "desc": "97卷016期3627號 75~81頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@971600;0081;0081",
+      "desc": "97卷016期3627號 81~81頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2008.07.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@974700;0002;0002",
+      "desc": "97卷047期3658號 2~2頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "33-34",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecec7c8cdc5ccccd2cccb"
+      }
+    }
+  ],
+  "2008.07.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@974802;0391;0396",
+      "desc": "97卷048期3659號二冊 391~396頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2008.07.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@974801;0111;0111",
+      "desc": "97卷048期3659號一冊 111~111頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2008.07.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@974801;0483;0485",
+      "desc": "97卷048期3659號一冊 483~485頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@974801;0485;0485",
+      "desc": "97卷048期3659號一冊 485~485頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@974801;0485;0485",
+      "desc": "97卷048期3659號一冊 485~485頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2010.04.09": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902301;0003;0003",
+      "desc": "99卷23期3788號 3~3頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "95-96",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacfc7c8cdc5c6cad2c6c9"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902301;0003;0003",
+      "desc": "99卷23期3788號 3~3頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "97-100",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacfc7c8cdc5c6c8d2cecfcf"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902301;0003;0003",
+      "desc": "99卷23期3788號 3~3頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "101-104",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacfc7c8cdc5cecfced2cecfcb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902301;0003;0003",
+      "desc": "99卷23期3788號 3~3頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "105-108",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacfc7c8cdc5cecfcad2cecfc7"
+      }
+    }
+  ],
+  "2010.04.16": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902903;0403;0405",
+      "desc": "99卷29期3794號三冊 403~405頁",
+      "progress": "黨團協商",
+      "committee": "N/A"
+    }
+  ],
+  "2010.04.27": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902901;0201;0208",
+      "desc": "99卷29期3794號一冊 201~208頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902901;0208;0209",
+      "desc": "99卷29期3794號一冊 208~209頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2008.05.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@973100;0003;0003",
+      "desc": "097卷031期3642號 3~3頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "180-186",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcececdcfcec5cec7cfd2cec7c9"
+      }
+    }
+  ],
+  "2008.06.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@974500;0004;0004",
+      "desc": "097卷045期3656號 4~4頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "163-166",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecec8cfcec5cec9ccd2cec9c9"
+      }
+    }
+  ],
+  "2008.11.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976300;0001;0001",
+      "desc": "097卷063期3674號 1~1頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "91-93",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcfc7cfcec5c6ced2c6cc"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976300;0001;0002",
+      "desc": "097卷063期3674號 1~2頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "95-96",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcfc7cfcec5c6cad2c6c9"
+      }
+    }
+  ],
+  "2008.11.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976500;0002;0002",
+      "desc": "097卷065期3676號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "159-160",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcfc6cfcec5cecac6d2cec9cf"
+      }
+    }
+  ],
+  "2008.11.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976900;0003;0003",
+      "desc": "097卷069期3680號 3~3頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "126-128",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcececfcec5cecdc9d2cecdc7"
+      }
+    }
+  ],
+  "2008.12.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@977100;0004;0004",
+      "desc": "097卷071期3682號 4~4頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "320-322",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcecdcfcbc5cccdcfd2cccdcd"
+      }
+    }
+  ],
+  "2009.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980302;0003;0003",
+      "desc": "098卷003期3689號二冊 3~3頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "90-95",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcec9cfcec5c6cfd2c6ca"
+      }
+    }
+  ],
+  "2009.03.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980901;0001;0001",
+      "desc": "098卷009期3695號一冊 1~1頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "54-58",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccfcbcfcec5cacbd2cac7"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980901;0001;0001",
+      "desc": "098卷009期3695號一冊 1~1頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "60-62",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccfcbcfcec5c9cfd2c9cd"
+      }
+    }
+  ],
+  "2009.04.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982400;0003;0003",
+      "desc": "098卷024期3710號 3~3頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "161-163",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccecfcfcec5cec9ced2cec9cc"
+      }
+    }
+  ],
+  "2009.05.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982600;0003;0003",
+      "desc": "098卷026期3712號 3~3頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "203-204",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccececfcec5cdcfccd2cdcfcb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982600;0003;0003",
+      "desc": "098卷026期3712號 3~3頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "205-207",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccececfcec5cdcfcad2cdcfc8"
+      }
+    }
+  ],
+  "2009.05.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983100;0001;0001",
+      "desc": "098卷031期3717號 1~1頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "94-162",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccecccfcec5c6cbd2cec9cd"
+      }
+    }
+  ],
+  "2009.06.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983900;0004;0004",
+      "desc": "098卷039期3725號 4~4頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "273-276",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccec9cfcec5cdc8ccd2cdc8c9"
+      }
+    }
+  ],
+  "2009.06.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984201;0004;0004",
+      "desc": "098卷042期3728號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "103-105",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccecdcfcec5cecfccd2cecfca"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984201;0004;0004",
+      "desc": "098卷042期3728號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "107-108",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccecdcfcec5cecfc8d2cecfc7"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984201;0004;0004",
+      "desc": "098卷042期3728號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "109-111",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccecdcfcec5cecfc6d2cecece"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984201;0003;0003",
+      "desc": "098卷042期3728號一冊 3~3頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "212-213",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccec8cfcec5cdcecdd2cdcecc"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984201;0003;0004",
+      "desc": "098卷042期3728號一冊 3~4頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "164-167",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccecccfcec5cec9cbd2cec9c8"
+      }
+    }
+  ],
+  "2009.09.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984700;0002;0002",
+      "desc": "098卷047期3733號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "116-118",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcfcdcfcec5cecec9d2cecec7"
+      }
+    }
+  ],
+  "2009.10.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984900;0003;0003",
+      "desc": "098卷049期3735號 3~3頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "173-181",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcfcccfcec5cec8ccd2cec7ce"
+      }
+    }
+  ],
+  "2009.10.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@985300;0002;0003",
+      "desc": "098卷053期3739號 2~3頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "93-95",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcfcacfcec5c6ccd2c6ca"
+      }
+    }
+  ],
+  "2009.10.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@985500;0005;0005",
+      "desc": "098卷055期3741號 5~5頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "189-196",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcfc9cfcec5cec7c6d2cec6c9"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@985500;0005;0005",
+      "desc": "098卷055期3741號 5~5頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "197-201",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcfc9cfcec5cec6c8d2cdcfce"
+      }
+    }
+  ],
+  "2009.11.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@985900;0002;0002",
+      "desc": "098卷059期3745號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "90-96",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcfc8cfcfc5c6cfd2c6c9"
+      }
+    }
+  ],
+  "2009.11.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@986200;0002;0002",
+      "desc": "098卷062期3748號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "87-89",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcfc7cfcec5c7c8d2c7c6"
+      }
+    }
+  ],
+  "2009.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@987501;0002;0002",
+      "desc": "098卷075期3761號一冊 2~2頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "121-167",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcecccfcec5cecdced2cec9c8"
+      }
+    }
+  ],
+  "2010.01.07": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09900501;0004;0004",
+      "desc": "099卷005期3770號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "246-302",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcec8cfcec5cdcbc9d2cccfcd"
+      }
+    }
+  ],
+  "2010.10.01": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09905201;0004;0004",
+      "desc": "099卷052期3817號 4~4頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "158-161",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacec9cfcec5cecac7d2cec9ce"
+      }
+    }
+  ],
+  "2010.12.03": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09907701;0003;0003",
+      "desc": "099卷077期3842號 3~3頁",
+      "progress": "一讀",
+      "committee": "內政 社福及衛環",
+      "misc": {
+        "content": "171-172",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc9cecfcfcec5cec8ced2cec8cd"
+      }
+    }
+  ],
+  "2009.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984000;0001;0033",
+      "desc": "098卷040期3726號 1~33頁",
+      "progress": "委員會審查",
+      "committee": "內政 社福及衛環"
+    }
+  ],
+  "2009.12.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@987400;0472;0494",
+      "desc": "098卷074期3760號 472~494頁",
+      "progress": "委員會審查",
+      "committee": "內政 社福及衛環"
+    }
+  ],
+  "2010.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09904201;0010;0052",
+      "desc": "099卷042期3807號 10~52頁",
+      "progress": "委員會審查",
+      "committee": "內政 社福及衛環"
+    }
+  ],
+  "2010.06.02": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09904801;0068;0141",
+      "desc": "099卷048期3813號 68~141頁",
+      "progress": "委員會審查",
+      "committee": "內政 社福及衛環"
+    }
+  ],
+  "2010.11.01": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09906901;0108;0175",
+      "desc": "099卷069期3834號 108~175頁",
+      "progress": "委員會審查",
+      "committee": "內政 社福及衛環"
+    }
+  ],
+  "2010.11.03": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09906901;0176;0226",
+      "desc": "099卷069期3834號 176~226頁",
+      "progress": "委員會審查",
+      "committee": "內政 社福及衛環"
+    }
+  ],
+  "2010.11.04": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09906901;0227;0299",
+      "desc": "099卷069期3834號 227~299頁",
+      "progress": "委員會審查",
+      "committee": "內政 社福及衛環"
+    }
+  ],
+  "2010.11.17": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09907701;0249;0342",
+      "desc": "099卷077期3842號 249~342頁",
+      "progress": "委員會審查",
+      "committee": "內政 社福及衛環"
+    }
+  ],
+  "2010.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09908003;0079;0471",
+      "desc": "099卷080期3845號三冊 79~471頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 社福及衛環"
+    }
+  ],
+  "2010.12.28": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10000101;0125;0125",
+      "desc": "100卷001期3853號 125~125頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 社福及衛環"
+    }
+  ],
+  "2011.01.12": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10000803;0117;0117",
+      "desc": "100卷008期3860號三冊 117~117頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 社福及衛環"
+    }
+  ],
+  "2011.05.25": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10007501;0381;0394",
+      "desc": "100卷075期3927號 381~394頁",
+      "progress": "黨團協商",
+      "committee": "內政 社福及衛環"
+    }
+  ],
+  "2011.06.01": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10007501;0395;0408",
+      "desc": "100卷075期3927號 395~408頁",
+      "progress": "黨團協商",
+      "committee": "內政 社福及衛環"
+    }
+  ],
+  "2011.06.09": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10007501;0409;0411",
+      "desc": "100卷075期3927號 409~411頁",
+      "progress": "黨團協商",
+      "committee": "內政 社福及衛環"
+    }
+  ],
+  "2011.06.13": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004904;1837;1837",
+      "desc": "100卷049期3901號四冊 1837~1837頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 社福及衛環"
+    }
+  ],
+  "2011.10.20": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10007501;0413;0458",
+      "desc": "100卷075期3927號 413~458頁",
+      "progress": "黨團協商",
+      "committee": "內政 社福及衛環"
+    }
+  ],
+  "2011.11.11": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10007501;0024;0083",
+      "desc": "100卷075期3927號 24~83頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 社福及衛環"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10007501;0083;0087",
+      "desc": "100卷075期3927號 83~87頁",
+      "progress": "三讀",
+      "committee": "內政 社福及衛環"
+    }
+  ],
+  "2012.05.25": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10103901;0017;0017",
+      "desc": "101卷039期3980號 17~17頁",
+      "progress": "一讀",
+      "committee": "社福及衛環",
+      "misc": {
+        "content": "217-220",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcececcc8cdc5cdcec8d2cdcdcf"
+      }
+    }
+  ],
+  "2012.06.07": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10104902;0004;0044",
+      "desc": "101卷049期3990號二冊 4~44頁",
+      "progress": "委員會審查",
+      "committee": "社福及衛環"
+    }
+  ],
+  "2012.07.26": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10105001;0343;0350",
+      "desc": "101卷050期3991號 343~350頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "社福及衛環",
+      "misc": {
+        "content": "259-265",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcecec8c8cdc5cdcac6d2cdc9ca"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10105001;0350;0350",
+      "desc": "101卷050期3991號 350~350頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "社福及衛環"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10105001;0350;0350",
+      "desc": "101卷050期3991號 350~350頁",
+      "progress": "三讀",
+      "committee": "社福及衛環"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "1979.01.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68620400;0003;0003",
+      "desc": "68卷4期1176號 3~3頁",
+      "progress": "一讀",
+      "committee": "國防 財政 經濟 預算"
+    }
+  ],
+  "1979.01.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68632100;0027;0040",
+      "desc": "68卷21期1193號 27~40頁",
+      "progress": "委員會審查",
+      "committee": "國防 財政 經濟 預算"
+    }
+  ],
+  "1979.01.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68620500;0131;0137",
+      "desc": "68卷5期1177號 131~137頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 財政 經濟 預算"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68620500;0137;0138",
+      "desc": "68卷5期1177號 137~138頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 財政 經濟 預算"
+    }
+  ],
+  "1979.01.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68620600;0003;0007",
+      "desc": "68卷6期1178號 3~7頁",
+      "progress": "三讀",
+      "committee": "國防 財政 經濟 預算"
+    }
+  ],
+  "2006.03.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@951001;0002;0002",
+      "desc": "95卷10期3471號一冊 2~2頁",
+      "progress": "一讀",
+      "committee": "國防",
+      "misc": {
+        "content": "96-97",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcccfcacfcec5c6c9d2c6c8"
+      }
+    }
+  ],
+  "2006.11.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@955302;0207;0243",
+      "desc": "95卷53期3514號二冊 207~243頁",
+      "progress": "委員會審查",
+      "committee": "國防"
+    }
+  ],
+  "2006.12.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@955900;0107;0110",
+      "desc": "95卷59期3520號 107~110頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@955900;0110;0110",
+      "desc": "95卷59期3520號 110~110頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@955900;0110;0111",
+      "desc": "95卷59期3520號 110~111頁",
+      "progress": "三讀",
+      "committee": "國防"
+    }
+  ]
+}

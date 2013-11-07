@@ -1,0 +1,86 @@
+{
+  "1983.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72714100;0002;0002",
+      "desc": "72卷41期1630號 2~2頁",
+      "progress": "一讀",
+      "committee": "教育 交通 內政",
+      "misc": {
+        "content": "53-58",
+        "link": "/lgcgi/lgmeetimage?cfcec8cecfc9cfcfc5caccd2cac7"
+      }
+    }
+  ],
+  "1983.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7300500;0019;0025",
+      "desc": "73卷5期1699號 19~25頁",
+      "progress": "委員會審查",
+      "committee": "教育 交通 內政"
+    }
+  ],
+  "1983.10.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7300800;0009;0017",
+      "desc": "73卷8期1702號 9~17頁",
+      "progress": "委員會審查",
+      "committee": "教育 交通 內政"
+    }
+  ],
+  "1983.11.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7301500;0038;0045",
+      "desc": "73卷15期1709號 38~45頁",
+      "progress": "委員會審查",
+      "committee": "教育 交通 內政"
+    }
+  ],
+  "1983.11.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72729100;0012;0028",
+      "desc": "72卷91期1680號 12~28頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育 交通 內政",
+      "misc": {
+        "content": "780-791",
+        "link": "/lgcgi/lgmeetimage?cfcec8cdcfcbcfcfc5c8c7cfd2c8c6ce"
+      }
+    }
+  ],
+  "1983.11.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72729300;0005;0008",
+      "desc": "72卷93期1682號 5~8頁",
+      "progress": "三讀",
+      "committee": "教育 交通 內政"
+    }
+  ],
+  "2008.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@971600;0012;0012",
+      "desc": "97卷016期3627號 12~12頁",
+      "progress": "一讀",
+      "committee": "教育",
+      "misc": {
+        "content": "473-476",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecfc8c8ccc5cbc8ccd2cbc8c9"
+      }
+    }
+  ],
+  "2008.06.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@974300;0028;0053",
+      "desc": "97卷043期3654號 28~53頁",
+      "progress": "委員會審查",
+      "committee": "教育"
+    }
+  ],
+  "2008.07.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@974700;0109;0114",
+      "desc": "97卷047期3658號 109~114頁",
+      "progress": "三讀",
+      "committee": "教育"
+    }
+  ]
+}

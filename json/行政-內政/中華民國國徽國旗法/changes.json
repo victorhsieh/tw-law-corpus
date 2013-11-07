@@ -1,0 +1,32 @@
+{
+  "1953.06.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421109;0147;0147",
+      "desc": "42卷11期號9冊 147~147頁",
+      "progress": "一讀",
+      "committee": "法制"
+    }
+  ],
+  "1953.10.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431401;0026;0038",
+      "desc": "43卷14期號1冊 26~38頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431401;0055;0062",
+      "desc": "43卷14期號1冊 55~62頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    }
+  ],
+  "1953.10.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431401;0093;0100",
+      "desc": "43卷14期號1冊 93~100頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

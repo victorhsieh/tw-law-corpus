@@ -1,0 +1,158 @@
+{
+  "1998.10.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@873601;0005;0005",
+      "desc": "87卷36期2985號一冊 5~5頁",
+      "progress": "一讀",
+      "committee": "國防 教育 內政",
+      "misc": {
+        "content": "699-716",
+        "link": "/lgcgi/lgmeetimage?cfcccfc9cfcdcfcfc5c9c6c6d2c8cec9"
+      }
+    }
+  ],
+  "1999.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880604;0391;0425",
+      "desc": "88卷6期3006號四冊 391~425頁",
+      "progress": "委員會審查",
+      "committee": "國防 教育 內政"
+    }
+  ],
+  "1999.06.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883102;0614;0629",
+      "desc": "88卷31期3031號二冊 614~629頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 教育 內政",
+      "misc": {
+        "content": "417-435",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcecfc7cfcdc5cbcec8d2cbccca"
+      }
+    }
+  ],
+  "1999.06.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883701;0325;0348",
+      "desc": "88卷37期3037號一冊 325~348頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防 教育 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883701;0349;0353",
+      "desc": "88卷37期3037號一冊 349~353頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 教育 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883701;0353;0353",
+      "desc": "88卷37期3037號一冊 353~353頁",
+      "progress": "三讀",
+      "committee": "國防 教育 內政"
+    }
+  ],
+  "2002.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@917701;0007;0007",
+      "desc": "91卷77期3273號一冊 7~7頁",
+      "progress": "一讀",
+      "committee": "國防 教育",
+      "misc": {
+        "content": "21-27",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcecccfcec5cdced2cdc8"
+      }
+    }
+  ],
+  "2003.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920903;0219;0240",
+      "desc": "92卷9期3283號下冊 219~240頁",
+      "progress": "委員會審查",
+      "committee": "國防 教育"
+    }
+  ],
+  "2003.01.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920803;0937;0946",
+      "desc": "92卷8期3282號三冊 937~946頁",
+      "progress": "三讀",
+      "committee": "國防 教育",
+      "misc": {
+        "content": "48-57",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcec8cfcdc5cbc7d2cac8"
+      }
+    }
+  ],
+  "2003.05.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@922501;0003;0003",
+      "desc": "92卷25期3299號一冊 3~3頁",
+      "progress": "一讀",
+      "committee": "國防",
+      "misc": {
+        "content": "147-149",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccecdcfccc5cecbc8d2cecbc6"
+      }
+    }
+  ],
+  "2003.06.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@923603;0121;0133",
+      "desc": "92卷36期3310號下冊 121~133頁",
+      "progress": "委員會審查",
+      "committee": "國防"
+    }
+  ],
+  "2003.06.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@923401;0248;0252",
+      "desc": "92卷34期3308號一冊 248~252頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防",
+      "misc": {
+        "content": "190-196",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccecacfccc5cec6cfd2cec6c9"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@923401;0253;0253",
+      "desc": "92卷34期3308號一冊 253~253頁",
+      "progress": "三讀",
+      "committee": "國防"
+    }
+  ],
+  "2010.02.23": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09900901;0004;0004",
+      "desc": "99卷9期3774號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "外交及國防",
+      "misc": {
+        "content": "137-140",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacfcec8cdc5ceccc8d2cecbcf"
+      }
+    }
+  ],
+  "2010.03.29": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902301;0250;0295",
+      "desc": "99卷23期3788號 250~295頁",
+      "progress": "委員會審查",
+      "committee": "外交及國防"
+    }
+  ],
+  "2010.04.20": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902603;0015;0019",
+      "desc": "99卷26期3791號三冊 15~19頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交及國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09902603;0019;0019",
+      "desc": "99卷26期3791號三冊 19~19頁",
+      "progress": "三讀",
+      "committee": "外交及國防"
+    }
+  ]
+}

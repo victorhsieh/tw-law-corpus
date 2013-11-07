@@ -1,0 +1,78 @@
+{
+  "1994.12.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@838301;0061;0061",
+      "desc": "83卷83期2757號上冊 61~61頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    }
+  ],
+  "1995.10.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@845700;0004;0005",
+      "desc": "84卷57期2814號 4~5頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    }
+  ],
+  "1996.01.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@850601;0318;0340",
+      "desc": "85卷6期2828號上冊 318~340頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@850601;0340;0345",
+      "desc": "85卷6期2828號上冊 340~345頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@850601;0345;0346",
+      "desc": "85卷6期2828號上冊 345~346頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2000.05.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@893000;0003;0004",
+      "desc": "89卷30期3089號 3~4頁",
+      "progress": "一讀",
+      "committee": "科技 法制",
+      "misc": {
+        "content": "157-160",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccdcfcfcfc5cecac8d2cec9cf"
+      }
+    }
+  ],
+  "1997.06.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@894003;0001;0025",
+      "desc": "89卷40期3099號下冊 1~25頁",
+      "progress": "委員會審查",
+      "committee": "科技 法制"
+    }
+  ],
+  "2000.11.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896301;0042;0059",
+      "desc": "89卷63期3122號上冊 42~59頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "科技 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896301;0059;0063",
+      "desc": "89卷63期3122號上冊 59~63頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "科技 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896301;0063;0065",
+      "desc": "89卷63期3122號上冊 63~65頁",
+      "progress": "三讀",
+      "committee": "科技 法制"
+    }
+  ]
+}

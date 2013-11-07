@@ -1,0 +1,34 @@
+{
+  "2002.03.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911800;0006;0006",
+      "desc": "91卷18期3214號 6~6頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "455-460",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcccfcec5cbcacad2cbc9cf"
+      }
+    }
+  ],
+  "2002.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914100;0183;0186",
+      "desc": "91卷41期3237號 183~186頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "2002.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913301;0077;0080",
+      "desc": "91卷33期3229號上冊 77~80頁",
+      "progress": "三讀",
+      "committee": "法制",
+      "misc": {
+        "content": "476-485",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecececfcdc5cbc8c9d2cbc7ca"
+      }
+    }
+  ]
+}

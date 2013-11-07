@@ -1,0 +1,134 @@
+{
+  "unknown": [
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    }
+  ],
+  "2012.04.20": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10102201;0006;0006",
+      "desc": "101卷022期3963號 6~6頁",
+      "progress": "一讀",
+      "committee": "經濟 司法及法制",
+      "misc": {
+        "content": "251-252",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcecfc7c8cdc5cdcaced2cdcacd"
+      }
+    }
+  ],
+  "2012.10.19": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10106001;0018;0019",
+      "desc": "101卷060期4001號一冊 18~19頁",
+      "progress": "一讀",
+      "committee": "經濟 司法及法制",
+      "misc": {
+        "content": "77-86",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcdcfcac8cdc5c8c8d2c7c9"
+      }
+    }
+  ],
+  "2012.11.09": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10106801;0009;0009",
+      "desc": "101卷068期4009號一冊 9~9頁",
+      "progress": "一讀",
+      "committee": "經濟 司法及法制",
+      "misc": {
+        "content": "163-174",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcdcfc7c8cdc5cec9ccd2cec8cb"
+      }
+    }
+  ],
+  "2012.11.30": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10107701;0039;0039",
+      "desc": "101卷077期4018號一冊 39~39頁",
+      "progress": "一讀",
+      "committee": "經濟 司法及法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10107701;0041;0041",
+      "desc": "101卷077期4018號一冊 41~41頁",
+      "progress": "一讀",
+      "committee": "經濟 司法及法制"
+    }
+  ],
+  "2012.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10108301;0055;0055",
+      "desc": "101卷083期4024號一冊 55~55頁",
+      "progress": "一讀",
+      "committee": "經濟 司法及法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10108301;0190;0202",
+      "desc": "101卷083期4024號一冊 190~202頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟 司法及法制",
+      "misc": {
+        "content": "85-110",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcdcecbc8c8c5c7cad2cececf"
+      }
+    }
+  ],
+  "2012.11.28": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10108102;0131;0177",
+      "desc": "101卷081期4022號二冊 131~177頁",
+      "progress": "委員會審查",
+      "committee": "經濟 司法及法制"
+    }
+  ],
+  "2012.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10200506;2501;2508",
+      "desc": "102卷005期4030號六冊 2501~2508頁",
+      "progress": "黨團協商",
+      "committee": "經濟 司法及法制"
+    }
+  ],
+  "2013.01.08": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10200401;0062;0063",
+      "desc": "102卷004期4029號一冊 62~63頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟 司法及法制"
+    }
+  ],
+  "2013.01.11": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10200502;0637;0637",
+      "desc": "102卷005期4030號二冊 637~637頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "經濟 司法及法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10200502;0637;0639",
+      "desc": "102卷005期4030號二冊 637~639頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 司法及法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10200502;0639;0639",
+      "desc": "102卷005期4030號二冊 639~639頁",
+      "progress": "三讀",
+      "committee": "經濟 司法及法制"
+    }
+  ]
+}

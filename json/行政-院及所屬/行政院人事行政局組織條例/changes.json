@@ -1,0 +1,70 @@
+{
+  "1993.06.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824301;0010;0015",
+      "desc": "82卷43期2642號上冊 10~15頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "105-132",
+        "link": "/lgcgi/lgmeetimage?cfcdcfcecccfcfcec5cecfcad2cecccd"
+      }
+    }
+  ],
+  "1993.12.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@830203;0512;0543",
+      "desc": "83卷2期2676號下冊 512~543頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1993.12.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@830403;0354;0375",
+      "desc": "83卷4期2678號下冊 354~375頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1993.12.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@830401;0481;0507",
+      "desc": "83卷4期2678號上冊 481~507頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1993.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@830201;0044;0044",
+      "desc": "83卷2期2676號上冊 44~44頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ],
+  "2002.06.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914001;0229;0234",
+      "desc": "91卷40期3236號一冊 229~234頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "676-687",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececacfcec5c9c8c9d2c9c7c8"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914001;0234;0234",
+      "desc": "91卷40期3236號一冊 234~234頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914001;0234;0235",
+      "desc": "91卷40期3236號一冊 234~235頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

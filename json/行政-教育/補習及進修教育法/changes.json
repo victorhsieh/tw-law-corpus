@@ -1,0 +1,556 @@
+{
+  "1976.03.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6557190001;0002;0002",
+      "desc": "65卷19期878號 2~2頁",
+      "progress": "一讀",
+      "committee": "教育 法制"
+    }
+  ],
+  "1976.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@65577300;0026;0037",
+      "desc": "65卷73期932號 26~37頁",
+      "progress": "委員會審查",
+      "committee": "教育 法制"
+    }
+  ],
+  "1976.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@65577400;0034;0044",
+      "desc": "65卷74期933號 34~44頁",
+      "progress": "委員會審查",
+      "committee": "教育 法制"
+    }
+  ],
+  "1976.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6558780002;0028;0037",
+      "desc": "65卷78期937號 28~37頁",
+      "progress": "委員會審查",
+      "committee": "教育 法制"
+    }
+  ],
+  "1976.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6558800002;0020;0028",
+      "desc": "65卷80期939號 20~28頁",
+      "progress": "委員會審查",
+      "committee": "教育 法制"
+    }
+  ],
+  "1976.06.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6558810002;0017;0024",
+      "desc": "65卷81期940號 17~24頁",
+      "progress": "委員會審查",
+      "committee": "教育 法制"
+    }
+  ],
+  "1976.06.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6558830002;0015;0034",
+      "desc": "65卷83期942號 15~34頁",
+      "progress": "委員會審查",
+      "committee": "教育 法制"
+    }
+  ],
+  "1976.06.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6557480001;0005;0031",
+      "desc": "65卷48期907號 5~31頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "教育 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6557480001;0031;0041",
+      "desc": "65卷48期907號 31~41頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育 法制"
+    }
+  ],
+  "1976.06.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6557500001;0010;0016",
+      "desc": "65卷50期909號 10~16頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育 法制"
+    }
+  ],
+  "1976.06.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6557510001;0002;0012",
+      "desc": "65卷51期910號 2~12頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育 法制"
+    }
+  ],
+  "1976.06.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6557520001;0002;0006",
+      "desc": "65卷52期911號 2~6頁",
+      "progress": "三讀",
+      "committee": "教育 法制"
+    }
+  ],
+  "1981.11.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70689100;0002;0002",
+      "desc": "70卷91期1472號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "279-284",
+        "link": "/lgcgi/lgmeetimage?cfcec9c7cfcacfcfc5cdc8c6d2cdc7cb"
+      }
+    }
+  ],
+  "1982.03.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71695200;0137;0146",
+      "desc": "71卷52期1537號 137~146頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1982.04.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71695300;0121;0126",
+      "desc": "71卷53期1538號 121~126頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1982.04.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71695600;0086;0095",
+      "desc": "71卷56期1541號 86~95頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1982.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71696600;0048;0057",
+      "desc": "71卷57期1551號 48~57頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1982.04.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71696700;0049;0052",
+      "desc": "71卷67期1552號 49~52頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1982.05.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71694100;0010;0021",
+      "desc": "71卷41期1526號 10~21頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71694100;0021;0026",
+      "desc": "71卷41期1526號 21~26頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    }
+  ],
+  "1982.05.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71694200;0007;0009",
+      "desc": "71卷42期1527號 7~9頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ],
+  "1996.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@856701;0004;0004",
+      "desc": "85卷67期2889號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "教育"
+    }
+  ],
+  "1996.12.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@857003;0133;0140",
+      "desc": "85卷70期2892號下冊 133~140頁",
+      "progress": "委員會審查",
+      "committee": "教育"
+    }
+  ],
+  "1996.12.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@860201;0120;0124",
+      "desc": "86卷2期2894號上冊 120~124頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育"
+    }
+  ],
+  "1996.12.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@860201;0124;0124",
+      "desc": "86卷2期2894號上冊 124~124頁",
+      "progress": "三讀",
+      "committee": "教育"
+    }
+  ],
+  "1992.09.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8106000;0004;0004",
+      "desc": "81卷60期2588號 4~4頁",
+      "progress": "一讀",
+      "committee": "教育"
+    }
+  ],
+  "1993.03.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@821601;0318;0327",
+      "desc": "82卷16期2615號上冊 318~327頁",
+      "progress": "委員會審查",
+      "committee": "教育"
+    }
+  ],
+  "1994.05.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@833903;0269;0280",
+      "desc": "83卷39期2713號下冊 269~280頁",
+      "progress": "委員會審查",
+      "committee": "教育"
+    }
+  ],
+  "1997.04.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@862101;0076;0081",
+      "desc": "86卷21期2913號上冊 76~81頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@862101;0081;0081",
+      "desc": "86卷21期2913號上冊 81~81頁",
+      "progress": "三讀",
+      "committee": "教育"
+    }
+  ],
+  "1997.10.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@863900;0007;0007",
+      "desc": "86卷39期2931號 7~7頁",
+      "progress": "一讀",
+      "committee": "教育",
+      "misc": {
+        "content": "341-343",
+        "link": "/lgcgi/lgmeetimage?cfcccfcbcfcacfccc5cccbced2cccbcc"
+      }
+    }
+  ],
+  "1997.12.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@865301;0005;0006",
+      "desc": "86卷53期2945號上冊 5~6頁",
+      "progress": "一讀",
+      "committee": "教育",
+      "misc": {
+        "content": "394-396",
+        "link": "/lgcgi/lgmeetimage?cfcccfcbcec8cfcfc5ccc6cbd2ccc6c9"
+      }
+    }
+  ],
+  "1998.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@874201;0003;0003",
+      "desc": "87卷42期2991號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "教育",
+      "misc": {
+        "content": "144-155",
+        "link": "/lgcgi/lgmeetimage?cfcccfc9cfc9cfcec5cecbcbd2cecaca"
+      }
+    }
+  ],
+  "1997.10.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@864603;0187;0200",
+      "desc": "86卷46期2938號下冊 187~200頁",
+      "progress": "委員會審查",
+      "committee": "教育"
+    }
+  ],
+  "1998.12.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880200;0163;0180",
+      "desc": "88卷2期3002號 163~180頁",
+      "progress": "委員會審查",
+      "committee": "教育"
+    }
+  ],
+  "1999.06.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883101;0105;0127",
+      "desc": "88卷31期3031號一冊 105~127頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "教育",
+      "misc": {
+        "content": "286-303",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcececbcfcdc5cdc7c9d2cccfcc"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883101;0127;0132",
+      "desc": "88卷31期3031號一冊 127~132頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883101;0132;0134",
+      "desc": "88卷31期3031號一冊 132~134頁",
+      "progress": "三讀",
+      "committee": "教育"
+    }
+  ],
+  "2002.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913301;0011;0012",
+      "desc": "91卷33期3229號上冊 11~12頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "1-342",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2cccbcd"
+      }
+    }
+  ],
+  "2002.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913501;0111;0111",
+      "desc": "91卷35期3231號上冊 111~111頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913501;0192;0192",
+      "desc": "91卷35期3231號上冊 192~192頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2002.04.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912101;0008;0008",
+      "desc": "91卷21期3217號上冊 8~8頁",
+      "progress": "一讀",
+      "committee": "教育",
+      "misc": {
+        "content": "449-454",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcacfcfc5cbcbc6d2cbcacb"
+      }
+    }
+  ],
+  "2002.03.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911800;0003;0003",
+      "desc": "91卷18期3214號 3~3頁",
+      "progress": "一讀",
+      "committee": "教育",
+      "misc": {
+        "content": "123-125",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcccfcec5cecdccd2cecdca"
+      }
+    }
+  ],
+  "2002.05.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914700;0127;0160",
+      "desc": "91卷47期3243號 127~160頁",
+      "progress": "委員會審查",
+      "committee": "教育"
+    }
+  ],
+  "2002.06.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914501;0242;0252",
+      "desc": "91卷45期3241號一冊 242~252頁",
+      "progress": "三讀",
+      "committee": "教育",
+      "misc": {
+        "content": "56-65",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecec8cfcdc5cac9d2c9ca"
+      }
+    }
+  ],
+  "2003.03.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@921401;0003;0003",
+      "desc": "92卷14期3288號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "教育",
+      "misc": {
+        "content": "111-113",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccfcbcfcec5cececed2cececc"
+      }
+    }
+  ],
+  "2003.03.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@921501;0005;0005",
+      "desc": "92卷15期3289號一冊 5~5頁",
+      "progress": "一讀",
+      "committee": "教育",
+      "misc": {
+        "content": "296-299",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccfcacfcec5cdc6c9d2cdc6c6"
+      }
+    }
+  ],
+  "2003.10.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@924501;0004;0004",
+      "desc": "92卷45期3319號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "教育",
+      "misc": {
+        "content": "191-194",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcfc8cfcfc5cec6ced2cec6cb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@924501;0004;0005",
+      "desc": "92卷45期3319號上冊 4~5頁",
+      "progress": "一讀",
+      "committee": "教育",
+      "misc": {
+        "content": "195-197",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcfc8cfcfc5cec6cad2cec6c8"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@924501;0005;0005",
+      "desc": "92卷45期3319號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "教育",
+      "misc": {
+        "content": "199-201",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcfc8cfcfc5cec6c6d2cdcfce"
+      }
+    }
+  ],
+  "2003.12.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@930303;0073;0088",
+      "desc": "93卷3期3337號下冊 73~88頁",
+      "progress": "委員會審查",
+      "committee": "教育"
+    }
+  ],
+  "2004.06.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@933301;0044;0056",
+      "desc": "93卷33期3367號一冊 44~56頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "教育",
+      "misc": {
+        "content": "11-21",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacecccfcdc5ceced2cdce"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@933301;0056;0056",
+      "desc": "93卷33期3367號一冊 56~56頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@933301;0056;0056",
+      "desc": "93卷33期3367號一冊 56~56頁",
+      "progress": "三讀",
+      "committee": "教育"
+    }
+  ],
+  "2012.03.09": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10100401;0009;0009",
+      "desc": "101卷004期3945號 9~9頁",
+      "progress": "一讀",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "441-442",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcecfcccfcec5cbcbced2cbcbcd"
+      }
+    }
+  ],
+  "2012.09.28": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10105201;0005;0005",
+      "desc": "101卷052期3993號一冊 5~5頁",
+      "progress": "一讀",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "259-262",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcdcfcdc8cdc5cdcac6d2cdc9cd"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10105201;0005;0005",
+      "desc": "101卷052期3993號一冊 5~5頁",
+      "progress": "一讀",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "257-258",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcdcfcdc8cdc5cdcac8d2cdcac7"
+      }
+    }
+  ],
+  "2012.11.29": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10108201;0144;0202",
+      "desc": "101卷082期4023號一冊 144~202頁",
+      "progress": "委員會審查",
+      "committee": "教育及文化"
+    }
+  ],
+  "2012.12.18": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10108302;0495;0504",
+      "desc": "101卷083期4024號二冊 495~504頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "257-266",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcdcecbc8c8c5cdcac8d2cdc9c9"
+      }
+    }
+  ],
+  "2012.12.27": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10200506;2495;2496",
+      "desc": "102卷005期4030號六冊 2495~2496頁",
+      "progress": "黨團協商",
+      "committee": "教育及文化"
+    }
+  ],
+  "2013.01.11": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10200502;0639;0640",
+      "desc": "102卷005期4030號二冊 639~640頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "教育及文化"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10200502;0640;0641",
+      "desc": "102卷005期4030號二冊 640~641頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育及文化"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10200502;0641;0641",
+      "desc": "102卷005期4030號二冊 641~641頁",
+      "progress": "三讀",
+      "committee": "教育及文化"
+    }
+  ]
+}

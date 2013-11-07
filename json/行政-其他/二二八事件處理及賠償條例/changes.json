@@ -1,0 +1,610 @@
+{
+  "1992.02.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8101800;0076;0079",
+      "desc": "81卷18期2546號 76~79頁",
+      "progress": "一讀",
+      "committee": "內政 司法",
+      "misc": {
+        "content": "736-741",
+        "link": "/lgcgi/lgmeetimage?cfcec7c6cfcbcfcfc5c8ccc9d2c8cbce"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8101800;0079;0085",
+      "desc": "81卷18期2546號 79~85頁",
+      "progress": "一讀",
+      "committee": "內政 司法",
+      "misc": {
+        "content": "725-733",
+        "link": "/lgcgi/lgmeetimage?cfcec7c6cfcbcfcfc5c8cdcad2c8cccc"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8101800;0086;0087",
+      "desc": "81卷18期2546號 86~87頁",
+      "progress": "一讀",
+      "committee": "內政 司法"
+    }
+  ],
+  "1993.06.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@823900;0011;0011",
+      "desc": "82卷39期2638號 11~11頁",
+      "progress": "一讀",
+      "committee": "內政 司法",
+      "misc": {
+        "content": "132-142",
+        "link": "/lgcgi/lgmeetimage?cfcdcfcecdc6cfcec5cecccdd2cecbcd"
+      }
+    }
+  ],
+  "1992.03.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8102500;0487;0506",
+      "desc": "81卷25期2553號 487~506頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    }
+  ],
+  "1993.03.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@821403;0538;0569",
+      "desc": "82卷14期2613號下冊 538~569頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    }
+  ],
+  "1993.03.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@822003;0038;0049",
+      "desc": "82卷20期2619號下冊 38~49頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    }
+  ],
+  "1993.06.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824003;0001;0002",
+      "desc": "82卷40期2639號下冊 1~2頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    }
+  ],
+  "1993.06.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824200;0236;0278",
+      "desc": "82卷42期2641號 236~278頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    }
+  ],
+  "1993.06.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824403;0001;0034",
+      "desc": "82卷44期2643號下冊 1~34頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    }
+  ],
+  "1994.06.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@834101;0040;0081",
+      "desc": "83卷41期2715號上冊 40~81頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 司法"
+    }
+  ],
+  "1994.06.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@834200;0041;0046",
+      "desc": "83卷42期2716號 41~46頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 司法"
+    }
+  ],
+  "1995.01.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@840601;0080;0084",
+      "desc": "84卷6期2763號上冊 80~84頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 司法"
+    }
+  ],
+  "1995.01.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@840603;0346;0349",
+      "desc": "84卷6期2763號下冊 346~349頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@840603;0349;0350",
+      "desc": "84卷6期2763號下冊 349~350頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 司法"
+    }
+  ],
+  "1995.03.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@841300;0036;0062",
+      "desc": "84卷13期2770號 36~62頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 司法"
+    }
+  ],
+  "1995.03.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@841701;0036;0056",
+      "desc": "84卷17期2774號上冊 36~56頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@841701;0056;0056",
+      "desc": "84卷17期2774號上冊 56~56頁",
+      "progress": "三讀",
+      "committee": "內政 司法"
+    }
+  ],
+  "1997.02.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@860401;0164;0166",
+      "desc": "86卷4期2896號一冊 164~166頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@860401;0166;0166",
+      "desc": "86卷4期2896號一冊 166~166頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@860401;0166;0166",
+      "desc": "86卷4期2896號一冊 166~166頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "1997.09.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@863500;0009;0009",
+      "desc": "86卷35期2927號 9~9頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "342-343",
+        "link": "/lgcgi/lgmeetimage?cfcccfcbcfcdcfccc5cccbcdd2cccbcc"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@863500;0009;0010",
+      "desc": "86卷35期2927號 9~10頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "362-364",
+        "link": "/lgcgi/lgmeetimage?cfcccfcbcfcdcfccc5ccc9cdd2ccc9cb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@863500;0030;0033",
+      "desc": "86卷35期2927號 30~33頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@863500;0033;0033",
+      "desc": "86卷35期2927號 33~33頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ],
+  "1996.06.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@853301;0004;0004",
+      "desc": "85卷33期2855號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "內政 司法",
+      "misc": {
+        "content": "103-104",
+        "link": "/lgcgi/lgmeetimage?cfcccfcecec8cfcec5cecfccd2cecfcb"
+      }
+    }
+  ],
+  "1997.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@861901;0005;0005",
+      "desc": "86卷19期2911號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "內政 司法",
+      "misc": {
+        "content": "529-530",
+        "link": "/lgcgi/lgmeetimage?cfcccfcccecacfcfc5cacdc6d2cacccf"
+      }
+    }
+  ],
+  "1997.12.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@865101;0003;0003",
+      "desc": "86卷51期2943號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "內政 司法",
+      "misc": {
+        "content": "155-158",
+        "link": "/lgcgi/lgmeetimage?cfcccfcbcecacfcec5cecacad2cecac7"
+      }
+    }
+  ],
+  "1997.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@870101;0006;0007",
+      "desc": "87卷1期2950號上冊 6~7頁",
+      "progress": "一讀",
+      "committee": "內政 司法",
+      "misc": {
+        "content": "568-571",
+        "link": "/lgcgi/lgmeetimage?cfcccfcbcdcdcfcfc5cac9c7d2cac8ce"
+      }
+    }
+  ],
+  "1998.01.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@870403;0287;0300",
+      "desc": "87卷4期2953號下冊 287~300頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    }
+  ],
+  "1998.05.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@873101;0028;0040",
+      "desc": "87卷31期2980號上冊 28~40頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 司法",
+      "misc": {
+        "content": "975-983",
+        "link": "/lgcgi/lgmeetimage?cfcccfcacfc6cfcdc5c6c8cad2c6c7cc"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@873101;0040;0041",
+      "desc": "87卷31期2980號上冊 40~41頁",
+      "progress": "三讀",
+      "committee": "內政 司法"
+    }
+  ],
+  "1999.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884501;0009;0009",
+      "desc": "88卷45期3045號上冊 9~9頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "300-303",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcccfcdc5cccfcfd2cccfcc"
+      }
+    }
+  ],
+  "1999.12.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890402;0293;0301",
+      "desc": "89卷4期3063號二冊 293~301頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2000.01.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890904;0251;0253",
+      "desc": "89卷9期3068號四冊 251~253頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政",
+      "misc": {
+        "content": "306-310",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcecccfcdc5cccfc9d2cccecf"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890904;0254;0254",
+      "desc": "89卷9期3068號四冊 254~254頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890904;0254;0254",
+      "desc": "89卷9期3068號四冊 254~254頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ],
+  "1999.12.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890201;0004;0004",
+      "desc": "89卷2期3061號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "278-280",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcecdcfcfc5cdc8c7d2cdc7cf"
+      }
+    }
+  ],
+  "2001.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@902601;0004;0004",
+      "desc": "90卷26期3160號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "126-128",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacfcacfcec5cecdc9d2cecdc7"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@902601;0004;0004",
+      "desc": "90卷26期3160號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "238-240",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacfc9cfcec5cdccc7d2cdcbcf"
+      }
+    }
+  ],
+  "2001.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904200;0131;0134",
+      "desc": "90卷42期3176號 131~134頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2001.10.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904601;0370;0377",
+      "desc": "90卷46期3180號上冊 370~377頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政",
+      "misc": {
+        "content": "7-14",
+        "link": "/lgcgi/lgmeetimage?cfcbcfc9cfcccfccc5c8d2cecb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904601;0377;0377",
+      "desc": "90卷46期3180號上冊 377~377頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904601;0377;0377",
+      "desc": "90卷46期3180號上冊 377~377頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ],
+  "2002.04.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912801;0005;0005",
+      "desc": "91卷28期3224號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "154-156",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc8cfcec5cecacbd2cecac9"
+      }
+    }
+  ],
+  "2002.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@917701;0006;0006",
+      "desc": "91卷77期3273號一冊 6~6頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "435-437",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcecccfcfc5cbcccad2cbccc8"
+      }
+    }
+  ],
+  "2003.01.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920901;0301;0332",
+      "desc": "92卷9期3283號上冊 301~332頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2003.01.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920801;0318;0324",
+      "desc": "92卷8期3282號一冊 318~324頁",
+      "progress": "三讀",
+      "committee": "內政",
+      "misc": {
+        "content": "565-572",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcec8cfcec5cac9cad2cac8cd"
+      }
+    }
+  ],
+  "2005.10.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@945900;0008;0009",
+      "desc": "94卷59期3441號 8~9頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "286-291",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcfc7cfcec5cdc7c9d2cdc6ce"
+      }
+    }
+  ],
+  "2007.03.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@962001;0039;0045",
+      "desc": "96卷20期3543號一冊 39~45頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2007.03.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@962100;0088;0093",
+      "desc": "96卷21期3544號 88~93頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@962100;0093;0093",
+      "desc": "96卷21期3544號 93~93頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2009.04.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982400;0006;0006",
+      "desc": "98卷24期3710號 6~6頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "333-336",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccecfc8cdc5ccccccd2ccccc9"
+      }
+    }
+  ],
+  "2009.06.00": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983700;0007;0007",
+      "desc": "98卷37期3723號 7~7頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "279-282",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccecac8cdc5cdc8c6d2cdc7cd"
+      }
+    }
+  ],
+  "2009.05.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983400;0236;0236",
+      "desc": "98卷34期3720號 236~236頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2009.06.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983700;0142;0142",
+      "desc": "98卷37期3723號 142~142頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2009.06.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983900;0058;0063",
+      "desc": "98卷39期3725號 58~63頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983900;0063;0064",
+      "desc": "98卷39期3725號 63~64頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983900;0064;0065",
+      "desc": "98卷39期3725號 64~65頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2012.10.19": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10106001;0018;0018",
+      "desc": "101卷060期4001號一冊 18~18頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "39-40",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcdcfcac8cdc5ccc6d2cbcf"
+      }
+    }
+  ],
+  "2013.04.01": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10201802;0128;0160",
+      "desc": "102卷018期4043號二冊 128~160頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10201802;0128;0160",
+      "desc": "102卷018期4043號二冊 128~160頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2013.04.30": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10202301;0188;0192",
+      "desc": "102卷023期4048號一冊 188~192頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政",
+      "misc": {
+        "content": "15-20",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcccecfc8cac5cecad2cdcf"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10202301;0192;0192",
+      "desc": "102卷023期4048號一冊 192~192頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10202301;0192;0194",
+      "desc": "102卷023期4048號一冊 192~194頁",
+      "progress": "三讀",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10202301;0194;0199",
+      "desc": "102卷023期4048號一冊 194~199頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政",
+      "misc": {
+        "content": "21-26",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcccecfc8cac5cdced2cdc9"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10202301;0199;0200",
+      "desc": "102卷023期4048號一冊 199~200頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10202301;0200;0200",
+      "desc": "102卷023期4048號一冊 200~200頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ],
+  "2012.12.21": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10200101;0004;0004",
+      "desc": "102卷001期4026號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "77-80",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcdcecbc8cdc5c8c8d2c7cf"
+      }
+    }
+  ]
+}

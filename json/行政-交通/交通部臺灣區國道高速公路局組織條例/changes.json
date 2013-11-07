@@ -1,0 +1,56 @@
+{
+  "1978.05.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67613800;0002;0002",
+      "desc": "67卷38期1106號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 交通"
+    }
+  ],
+  "1978.06.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67628900;0037;0046",
+      "desc": "67卷89期1157號 37~46頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "1978.06.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67629100;0022;0031",
+      "desc": "67卷91期1159號 22~31頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "1978.07.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67629200;0024;0031",
+      "desc": "67卷92期1160號 24~31頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "1978.07.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67615400;0004;0018",
+      "desc": "67卷54期1122號 4~18頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67615400;0018;0022",
+      "desc": "67卷54期1122號 18~22頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 交通"
+    }
+  ],
+  "1978.07.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67615500;0005;0007",
+      "desc": "67卷55期1123號 5~7頁",
+      "progress": "三讀",
+      "committee": "法制 交通"
+    }
+  ]
+}

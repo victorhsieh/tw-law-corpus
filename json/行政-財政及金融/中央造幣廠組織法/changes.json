@@ -1,0 +1,22 @@
+{
+  "1981.03.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70672600;0002;0002",
+      "desc": "70卷26期1407號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 財政",
+      "misc": {
+        "content": "222-226",
+        "link": "/lgcgi/lgmeetimage?cfcec9c8cfcccfcfc5cdcdcdd2cdcdc9"
+      }
+    }
+  ],
+  "1982.05.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71694100;0008;0010",
+      "desc": "71卷41期1526號 8~10頁",
+      "progress": "三讀",
+      "committee": "法制 財政"
+    }
+  ]
+}

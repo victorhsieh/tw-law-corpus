@@ -1,0 +1,102 @@
+{
+  "2012.04.20": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10102201;0009;0009",
+      "desc": "101卷022期3963號 9~9頁",
+      "progress": "一讀",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "363-380",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcecfc7c8cdc5ccc9ccd2ccc7cf"
+      }
+    }
+  ],
+  "2012.04.27": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10102501;0011;0011",
+      "desc": "101卷025期3966號 11~11頁",
+      "progress": "一讀",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "123-136",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcecfc6c8cdc5cecdccd2ceccc9"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10102501;0011;0011",
+      "desc": "101卷025期3966號 11~11頁",
+      "progress": "一讀",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "137-148",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcecfc6c8cdc5ceccc8d2cecbc7"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10102501;0017;0017",
+      "desc": "101卷025期3966號 17~17頁",
+      "progress": "一讀",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "266-281",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcecfc6cfccc5cdc9c9d2cdc7ce"
+      }
+    }
+  ],
+  "2012.05.16": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10103701;0344;0451",
+      "desc": "101卷037期3978號 344~451頁",
+      "progress": "委員會審查",
+      "committee": "教育及文化"
+    }
+  ],
+  "2012.05.28": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10104401;0265;0306",
+      "desc": "101卷044期3985號 265~306頁",
+      "progress": "委員會審查",
+      "committee": "教育及文化"
+    }
+  ],
+  "2012.10.23": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10108304;0317;0330",
+      "desc": "101卷083期4024號四冊 317~330頁",
+      "progress": "黨團協商",
+      "committee": "教育及文化"
+    }
+  ],
+  "2012.11.16": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10108304;0331;0346",
+      "desc": "101卷083期4024號四冊 331~346頁",
+      "progress": "黨團協商",
+      "committee": "教育及文化"
+    }
+  ],
+  "2012.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10108301;0218;0360",
+      "desc": "101卷083期4024號一冊 218~360頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "95-238",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcdcecdc8c6c5c6cad2cdccc7"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10108301;0360;0370",
+      "desc": "101卷083期4024號一冊 360~370頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育及文化"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10108301;0370;0371",
+      "desc": "101卷083期4024號一冊 370~371頁",
+      "progress": "三讀",
+      "committee": "教育及文化"
+    }
+  ]
+}

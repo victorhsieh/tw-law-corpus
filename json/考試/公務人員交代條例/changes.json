@@ -1,0 +1,48 @@
+{
+  "1953.09.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421201;0073;0073",
+      "desc": "42卷12期號1冊 73~73頁",
+      "progress": "一讀",
+      "committee": "法制"
+    }
+  ],
+  "1953.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431207;0010;0016",
+      "desc": "43卷12期號7冊 10~16頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431207;0018;0026",
+      "desc": "43卷12期號7冊 18~26頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    }
+  ],
+  "1953.12.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@421206;0032;0042",
+      "desc": "42卷12期號6冊 32~42頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    }
+  ],
+  "1953.12.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431207;0029;0032",
+      "desc": "43卷12期號7冊 29~32頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    }
+  ],
+  "1953.12.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431207;0035;0038",
+      "desc": "43卷12期號7冊 35~38頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

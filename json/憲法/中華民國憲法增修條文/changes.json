@@ -1,0 +1,48 @@
+{
+  "2004.03.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@931600;0003;0007",
+      "desc": "93卷16期3350號 3~7頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "514-518",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacfc9cfccc5cacecbd2cacec7"
+      }
+    }
+  ],
+  "2004.03.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@931701;0004;0004",
+      "desc": "93卷17期3351號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "5-14",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacecdcfccc5cad2cecb"
+      }
+    }
+  ],
+  "2004.05.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@933000;0001;0002",
+      "desc": "93卷30期3364號 1~2頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2004.08.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@933701;0095;0121",
+      "desc": "93卷37期3371號上冊 95~121頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@933701;0121;0125",
+      "desc": "93卷37期3371號上冊 121~125頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

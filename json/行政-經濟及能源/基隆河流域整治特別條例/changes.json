@@ -1,0 +1,98 @@
+{
+  "2001.02.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@900801;0003;0003",
+      "desc": "90卷8期3142號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "科技",
+      "misc": {
+        "content": "150-159",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacfcdcfcfc5cecacfd2cecac6"
+      }
+    }
+  ],
+  "2001.04.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@902203;0059;0081",
+      "desc": "90卷22期3156號下冊 59~81頁",
+      "progress": "委員會審查",
+      "committee": "科技"
+    }
+  ],
+  "2001.04.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@902803;0129;0132",
+      "desc": "90卷28期3162號下冊 129~132頁",
+      "progress": "委員會審查",
+      "committee": "科技"
+    }
+  ],
+  "2001.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904200;0107;0114",
+      "desc": "90卷42期3176號 107~114頁",
+      "progress": "委員會審查",
+      "committee": "科技"
+    }
+  ],
+  "2001.10.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904601;0377;0389",
+      "desc": "90卷46期3180號上冊 377~389頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "科技",
+      "misc": {
+        "content": "670-683",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacecdcfcdc5c9c8cfd2c9c7cc"
+      }
+    }
+  ],
+  "2001.10.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904702;0502;0503",
+      "desc": "90卷47期3181號中冊 502~503頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "科技"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904702;0503;0505",
+      "desc": "90卷47期3181號中冊 503~505頁",
+      "progress": "三讀",
+      "committee": "科技"
+    }
+  ],
+  "2010.10.01": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09905201;0005;0005",
+      "desc": "99卷52期3817號 5~5頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "91-94",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc9cfcdc8cdc5c6ced2c6cb"
+      }
+    }
+  ],
+  "2010.11.04": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09906901;0084;0102",
+      "desc": "99卷69期3834號 84~102頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2010.11.16": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09906601;0190;0192",
+      "desc": "99卷66期3831號 190~192頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09906601;0192;0192",
+      "desc": "99卷66期3831號 192~192頁",
+      "progress": "三讀",
+      "committee": "經濟"
+    }
+  ]
+}

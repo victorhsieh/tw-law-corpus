@@ -1,0 +1,22 @@
+{
+  "1981.01.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70660300;0002;0002",
+      "desc": "70卷3期1384號 2~2頁",
+      "progress": "一讀",
+      "committee": "教育 內政 經濟 司法",
+      "misc": {
+        "content": "361-362",
+        "link": "/lgcgi/lgmeetimage?cfcec9c9cfcacfcfc5cccbced2cccbcd"
+      }
+    }
+  ],
+  "1982.05.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71694000;0017;0017",
+      "desc": "71卷40期1525號 17~17頁",
+      "progress": "三讀",
+      "committee": "教育 內政 經濟 司法"
+    }
+  ]
+}

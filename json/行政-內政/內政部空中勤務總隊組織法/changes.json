@@ -1,0 +1,40 @@
+{
+  "2005.03.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@941200;0006;0006",
+      "desc": "94卷12期3394號 6~6頁",
+      "progress": "一讀",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "366-379",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5ccc9c9d2ccc8c6"
+      }
+    }
+  ],
+  "2005.05.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944100;0059;0066",
+      "desc": "94卷41期3423號 59~66頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "2005.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944001;0194;0205",
+      "desc": "94卷40期3422號一冊 194~205頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "53-64",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcececbcfcbc5caccd2c9cb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944001;0205;0205",
+      "desc": "94卷40期3422號一冊 205~205頁",
+      "progress": "三讀",
+      "committee": "法制 內政"
+    }
+  ]
+}

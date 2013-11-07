@@ -1,0 +1,34 @@
+{
+  "1990.03.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7901800;0062;0063",
+      "desc": "79卷18期2338號 62~63頁",
+      "progress": "一讀",
+      "committee": "經濟 司法"
+    }
+  ],
+  "1993.10.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@825301;0011;0011",
+      "desc": "82卷53期2652號上冊 11~11頁",
+      "progress": "一讀",
+      "committee": "經濟 司法"
+    }
+  ],
+  "1993.12.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@827103;0151;0156",
+      "desc": "82卷71期2670號下冊 151~156頁",
+      "progress": "委員會審查",
+      "committee": "經濟 司法"
+    }
+  ],
+  "1994.01.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@830701;0122;0126",
+      "desc": "83卷7期2681號上冊 122~126頁",
+      "progress": "三讀",
+      "committee": "經濟 司法"
+    }
+  ]
+}

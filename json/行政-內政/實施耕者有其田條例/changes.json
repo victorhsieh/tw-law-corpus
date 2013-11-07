@@ -1,0 +1,94 @@
+{
+  "1954.02.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431301;0056;0056",
+      "desc": "43卷13期號1冊 56~56頁",
+      "progress": "一讀",
+      "committee": "財政 內政"
+    }
+  ],
+  "1954.04.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431303;0024;0026",
+      "desc": "43卷13期號3冊 24~26頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431303;0172;0173",
+      "desc": "43卷13期號3冊 172~173頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431303;0173;0173",
+      "desc": "43卷13期號3冊 173~173頁",
+      "progress": "三讀",
+      "committee": "財政 內政"
+    }
+  ],
+  "1954.07.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431310;0004;0004",
+      "desc": "43卷13期號10冊 4~4頁",
+      "progress": "一讀",
+      "committee": "內政 經濟 財政 民刑商法"
+    }
+  ],
+  "1954.07.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431307;0092;0092",
+      "desc": "43卷13期號7冊 92~92頁",
+      "progress": "一讀",
+      "committee": "內政 經濟 財政 民刑商法"
+    }
+  ],
+  "1954.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441406;0088;0090",
+      "desc": "44卷14期號6冊 88~90頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 經濟 財政 民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441406;0184;0185",
+      "desc": "44卷14期號6冊 184~185頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 經濟 財政 民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441406;0185;0185",
+      "desc": "44卷14期號6冊 185~185頁",
+      "progress": "三讀",
+      "committee": "內政 經濟 財政 民刑商法"
+    }
+  ],
+  "1991.05.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8004300;0004;0004",
+      "desc": "80卷43期2467號 4~4頁",
+      "progress": "一讀",
+      "committee": "內政 經濟 司法",
+      "misc": {
+        "content": "86-95",
+        "link": "/lgcgi/lgmeetimage?cfcec7c8cdc9cfcfc5c7c9d2c6ca"
+      }
+    }
+  ],
+  "1992.05.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8104100;0325;0334",
+      "desc": "81卷41期2569號 325~334頁",
+      "progress": "委員會審查",
+      "committee": "內政 經濟 司法"
+    }
+  ],
+  "1993.07.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824603;0038;0045",
+      "desc": "82卷46期2645號下冊 38~45頁",
+      "progress": "三讀",
+      "committee": "內政 經濟 司法"
+    }
+  ]
+}

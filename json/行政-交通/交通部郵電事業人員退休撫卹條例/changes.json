@@ -1,0 +1,56 @@
+{
+  "2002.04.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913001;0012;0012",
+      "desc": "91卷30期3226號上冊 12~12頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "322-340",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc7cfcfc5cccdcdd2cccbcf"
+      }
+    }
+  ],
+  "2002.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913501;0004;0004",
+      "desc": "91卷35期3231號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "150-168",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececdcfcfc5cecacfd2cec9c7"
+      }
+    }
+  ],
+  "2002.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913901;0010;0010",
+      "desc": "91卷39期3235號上冊 10~10頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "133-151",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececbcfcfc5ceccccd2cecace"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913901;0038;0038",
+      "desc": "91卷39期3235號上冊 38~38頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "530-616",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcec9cfcdc5cacccfd2c9cec9"
+      }
+    }
+  ],
+  "2003.01.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920806;2284;2296",
+      "desc": "92卷8期3282號六冊 2284~2296頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

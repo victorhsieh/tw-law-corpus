@@ -1,0 +1,78 @@
+{
+  "1980.11.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69669400;0002;0002",
+      "desc": "69卷94期1370號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 內政 教育",
+      "misc": {
+        "content": "495-504",
+        "link": "/lgcgi/lgmeetimage?cfcec9c9cfcccfcfc5cbc6cad2cacfcb"
+      }
+    }
+  ],
+  "1981.03.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70675000;0052;0065",
+      "desc": "70卷50期1431號 52~65頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 教育"
+    }
+  ],
+  "1981.11.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71693000;0139;0149",
+      "desc": "71卷30期1515號 139~149頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 教育"
+    }
+  ],
+  "1981.12.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71693100;0173;0179",
+      "desc": "71卷31期1516號 173~179頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 教育"
+    }
+  ],
+  "1981.12.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71693200;0119;0128",
+      "desc": "71卷32期1517號 119~128頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 教育"
+    }
+  ],
+  "1982.04.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71693100;0060;0073",
+      "desc": "71卷31期1516號 60~73頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政 教育"
+    }
+  ],
+  "1982.04.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71693200;0027;0036",
+      "desc": "71卷32期1517號 27~36頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政 教育"
+    }
+  ],
+  "1982.04.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71693300;0017;0021",
+      "desc": "71卷33期1518號 17~21頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政 教育"
+    }
+  ],
+  "1982.04.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71693400;0011;0015",
+      "desc": "71卷34期1519號 11~15頁",
+      "progress": "三讀",
+      "committee": "法制 內政 教育"
+    }
+  ]
+}

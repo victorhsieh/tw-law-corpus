@@ -1,0 +1,46 @@
+{
+  "1971.08.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047640001;0002;0002",
+      "desc": "60卷64期418號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政 國防"
+    }
+  ],
+  "1971.08.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047740002;0001;0017",
+      "desc": "60卷74期428號 1~17頁",
+      "progress": "委員會審查",
+      "committee": "內政 國防"
+    }
+  ],
+  "1971.08.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047740002;0017;0024",
+      "desc": "60卷74期428號 17~24頁",
+      "progress": "委員會審查",
+      "committee": "內政 國防"
+    }
+  ],
+  "1971.08.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047650001;0002;0012",
+      "desc": "60卷65期419號 2~12頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047650001;0012;0017",
+      "desc": "60卷65期419號 12~17頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047650001;0017;0017",
+      "desc": "60卷65期419號 17~17頁",
+      "progress": "三讀",
+      "committee": "內政 國防"
+    }
+  ]
+}

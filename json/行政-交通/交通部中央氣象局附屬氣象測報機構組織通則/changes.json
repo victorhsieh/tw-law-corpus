@@ -1,0 +1,92 @@
+{
+  "1976.09.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6558760001;0002;0002",
+      "desc": "65卷76期935號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 交通"
+    }
+  ],
+  "1976.10.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6558990002;0018;0026",
+      "desc": "65卷99期958號 18~26頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "1976.10.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@65581010002;0020;0028",
+      "desc": "65卷101期960號 20~28頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "1976.10.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6558860001;0002;0015",
+      "desc": "65卷86期945號 2~15頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6558860001;0015;0017",
+      "desc": "65卷86期945號 15~17頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 交通"
+    }
+  ],
+  "1976.10.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6558870001;0002;0004",
+      "desc": "65卷87期946號 2~4頁",
+      "progress": "三讀",
+      "committee": "法制 交通"
+    }
+  ],
+  "1986.05.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7503900;0002;0002",
+      "desc": "75卷39期1941號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 交通",
+      "misc": {
+        "content": "465-482",
+        "link": "/lgcgi/lgmeetimage?cfcec8c8cfc6cfcfc5cbc9cad2cbc7cd"
+      }
+    }
+  ],
+  "1986.10.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7600700;0025;0034",
+      "desc": "76卷7期2014號 25~34頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "1987.03.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7605500;0167;0177",
+      "desc": "76卷55期2062號 167~177頁",
+      "progress": "委員會審查",
+      "committee": "法制 交通"
+    }
+  ],
+  "1987.11.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7609000;0080;0093",
+      "desc": "76卷90期2097號 80~93頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 交通"
+    }
+  ],
+  "1987.11.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7609100;0036;0037",
+      "desc": "76卷91期2098號 36~37頁",
+      "progress": "三讀",
+      "committee": "法制 交通"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "2007.06.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@965200;0013;0013",
+      "desc": "96卷52期3575號 13~13頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "231-232",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcacec9cfcec5cdccced2cdcccd"
+      }
+    }
+  ],
+  "2007.12.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968400;0431;0436",
+      "desc": "96卷84期3607號 431~436頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2007.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968601;0091;0093",
+      "desc": "96卷86期3609號一冊 91~93頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ]
+}

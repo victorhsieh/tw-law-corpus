@@ -1,0 +1,58 @@
+{
+  "1971.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6048960001;0005;0005",
+      "desc": "60卷96期449號 5~5頁",
+      "progress": "一讀",
+      "committee": "法制 教育"
+    }
+  ],
+  "1972.01.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149270002;0014;0015",
+      "desc": "61卷27期480號 14~15頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1972.03.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149190001;0038;0039",
+      "desc": "61卷19期472號 38~39頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ],
+  "2005.03.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@941200;0005;0005",
+      "desc": "94卷12期3394號 5~5頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "320-321",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5cccdcfd2cccdce"
+      }
+    }
+  ],
+  "2005.05.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@943600;0173;0183",
+      "desc": "94卷36期3418號 173~183頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "2005.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@943701;0041;0042",
+      "desc": "94卷37期3419號一冊 41~42頁",
+      "progress": "三讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "291-293",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcececccfcdc5cdc6ced2cdc6cc"
+      }
+    }
+  ]
+}

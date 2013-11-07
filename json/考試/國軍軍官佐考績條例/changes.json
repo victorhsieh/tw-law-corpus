@@ -1,0 +1,38 @@
+{
+  "1979.11.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68649100;0002;0002",
+      "desc": "68卷91期1263號 2~2頁",
+      "progress": "一讀",
+      "committee": "國防 法制",
+      "misc": {
+        "content": "212-230",
+        "link": "/lgcgi/lgmeetimage?cfcec9cbcfcccfcfc5cdcecdd2cdcccf"
+      }
+    }
+  ],
+  "1979.11.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@686410200;0015;0020",
+      "desc": "68卷102期1274號 15~20頁",
+      "progress": "委員會審查",
+      "committee": "國防 法制"
+    }
+  ],
+  "1979.11.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69641000;0002;0007",
+      "desc": "69卷10期1286號 2~7頁",
+      "progress": "委員會審查",
+      "committee": "國防 法制"
+    }
+  ],
+  "1979.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@686410000;0006;0015",
+      "desc": "68卷100期1272號 6~15頁",
+      "progress": "三讀",
+      "committee": "國防 法制"
+    }
+  ]
+}

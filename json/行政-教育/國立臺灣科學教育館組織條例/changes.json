@@ -1,0 +1,46 @@
+{
+  "1961.08.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@502719;0059;0059",
+      "desc": "50卷27期號19冊 59~59頁",
+      "progress": "一讀",
+      "committee": "法制 教育"
+    }
+  ],
+  "1962.06.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@512913;0004;0014",
+      "desc": "51卷29期號13冊 4~14頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@512913;0076;0077",
+      "desc": "51卷29期號13冊 76~77頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ],
+  "1962.06.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@512912;0076;0085",
+      "desc": "51卷29期號12冊 76~85頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 教育"
+    }
+  ],
+  "1962.06.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@512912;0103;0108",
+      "desc": "51卷29期號12冊 103~108頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@512912;0117;0137",
+      "desc": "51卷29期號12冊 117~137頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    }
+  ]
+}

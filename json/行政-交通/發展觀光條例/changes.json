@@ -1,0 +1,518 @@
+{
+  "1969.02.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843140001;0002;0002",
+      "desc": "58卷14期號 2~2頁",
+      "progress": "一讀",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1969.03.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843340002;0008;0016",
+      "desc": "58卷34期號 8~16頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1969.04.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843360002;0007;0018",
+      "desc": "58卷36期號 7~18頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1969.04.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843400002;0028;0036",
+      "desc": "58卷40期號 28~36頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1969.05.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843440002;0018;0024",
+      "desc": "58卷44期號 18~24頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1969.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843520002;0014;0020",
+      "desc": "58卷52期號 14~20頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1969.06.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843410001;0005;0036",
+      "desc": "58卷41期號 5~36頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1969.06.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843420001;0002;0017",
+      "desc": "58卷42期號 2~17頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1969.06.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843440001;0004;0023",
+      "desc": "58卷44期號 4~23頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1969.06.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843450001;0002;0020",
+      "desc": "58卷45期號 2~20頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1969.06.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843460001;0002;0019",
+      "desc": "58卷46期號 2~19頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1969.06.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843470001;0002;0020",
+      "desc": "58卷47期號 2~20頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1969.06.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843480001;0006;0022",
+      "desc": "58卷48期號 6~22頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1969.07.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843490001;0002;0013",
+      "desc": "58卷49期號 2~13頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1969.07.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843500001;0002;0011",
+      "desc": "58卷50期號 2~11頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1969.07.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843510001;0002;0013",
+      "desc": "58卷51期號 2~13頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1969.07.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843520001;0002;0013",
+      "desc": "58卷52期號 2~13頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1969.07.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@58435300;0002;0007",
+      "desc": "58卷53期號 2~7頁",
+      "progress": "三讀",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1980.04.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69653100;0002;0002",
+      "desc": "69卷31期1307號 2~2頁",
+      "progress": "一讀",
+      "committee": "交通 內政 外交",
+      "misc": {
+        "content": "216-242",
+        "link": "/lgcgi/lgmeetimage?cfcec9cacfcccfcfc5cdcec9d2cdcbcd"
+      }
+    }
+  ],
+  "1980.04.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69656000;0033;0045",
+      "desc": "69卷60期1336號 33~45頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1980.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69656200;0011;0019",
+      "desc": "69卷62期1338號 11~19頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1980.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69656800;0042;0048",
+      "desc": "69卷68期1344號 42~48頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1980.06.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69657100;0002;0006",
+      "desc": "69卷71期1347號 2~6頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1980.06.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69657300;0002;0008",
+      "desc": "69卷73期1349號 2~8頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1980.06.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69657400;0007;0017",
+      "desc": "69卷74期1350號 7~17頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1980.06.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69657700;0002;0008",
+      "desc": "69卷77期1353號 2~8頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1980.07.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69658000;0095;0102",
+      "desc": "69卷80期1356號 95~102頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1980.07.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69668300;0019;0027",
+      "desc": "69卷83期1359號 19~27頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1980.07.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69668500;0021;0026",
+      "desc": "69卷85期1361號 21~26頁",
+      "progress": "委員會審查",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1980.10.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69668400;0005;0050",
+      "desc": "69卷84期1360號 5~50頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1980.10.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69668500;0002;0014",
+      "desc": "69卷85期1361號 2~14頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1980.10.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69668600;0003;0014",
+      "desc": "69卷86期1362號 3~14頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1980.10.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69668700;0018;0028",
+      "desc": "69卷87期1363號 18~28頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1980.11.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69668900;0003;0008",
+      "desc": "69卷89期1365號 3~8頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "1980.11.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69669000;0003;0013",
+      "desc": "69卷90期1366號 3~13頁",
+      "progress": "三讀",
+      "committee": "交通 內政 外交"
+    }
+  ],
+  "2001.03.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@901401;0004;0004",
+      "desc": "90卷14期3148號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "交通",
+      "misc": {
+        "content": "184-223",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacfcccfcfc5cec7cbd2cdcdcc"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@901401;0018;0018",
+      "desc": "90卷14期3148號上冊 18~18頁",
+      "progress": "一讀",
+      "committee": "交通",
+      "misc": {
+        "content": "613-651",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacfcdcfcfc5c9ceccd2c9cace"
+      }
+    }
+  ],
+  "2001.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@902601;0003;0003",
+      "desc": "90卷26期3160號一冊 3~3頁",
+      "progress": "一讀",
+      "committee": "交通",
+      "misc": {
+        "content": "229-257",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacfc7cfcec5cdcdc6d2cdcac8"
+      }
+    }
+  ],
+  "2001.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@903600;0387;0412",
+      "desc": "90卷36期3170號 387~412頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "2001.05.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@903700;0207;0247",
+      "desc": "90卷37期3171號 207~247頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "2001.05.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904000;0097;0113",
+      "desc": "90卷40期3174號 97~113頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "2001.10.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904701;0167;0317",
+      "desc": "90卷47期3181號上冊 167~317頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "交通",
+      "misc": {
+        "content": "17-164",
+        "link": "/lgcgi/lgmeetimage?cfcbcfc9cfcccfccc5cec8d2cec9cb"
+      }
+    }
+  ],
+  "2001.10.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905102;0672;0672",
+      "desc": "90卷51期3185號中冊 672~672頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "交通"
+    }
+  ],
+  "2001.10.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905301;0166;0177",
+      "desc": "90卷53期3187號一冊 166~177頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905301;0177;0178",
+      "desc": "90卷53期3187號一冊 177~178頁",
+      "progress": "三讀",
+      "committee": "交通"
+    }
+  ],
+  "2003.05.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@922701;0005;0006",
+      "desc": "92卷27期3301號上冊 5~6頁",
+      "progress": "一讀",
+      "committee": "交通",
+      "misc": {
+        "content": "314-317",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccececfcec5cccecbd2cccec8"
+      }
+    }
+  ],
+  "2003.05.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@923201;0001;0026",
+      "desc": "92卷32期3306號上冊 1~26頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "2003.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@923102;0195;0197",
+      "desc": "92卷31期3305號二冊 195~197頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通",
+      "misc": {
+        "content": "401-407",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccecccfcdc5cbcfced2cbcfc8"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@923102;0197;0197",
+      "desc": "92卷31期3305號二冊 197~197頁",
+      "progress": "三讀",
+      "committee": "交通"
+    }
+  ],
+  "2005.09.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944600;0003;0003",
+      "desc": "94卷46期3428號 3~3頁",
+      "progress": "一讀",
+      "committee": "交通",
+      "misc": {
+        "content": "97-99",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcfcbcfcec5c6c8d2c6c6"
+      }
+    }
+  ],
+  "2007.01.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@961700;0167;0196",
+      "desc": "96卷17期3540號 167~196頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "2007.03.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@962001;0072;0075",
+      "desc": "96卷20期3543號一冊 72~75頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@962001;0075;0075",
+      "desc": "96卷20期3543號一冊 75~75頁",
+      "progress": "三讀",
+      "committee": "交通"
+    }
+  ],
+  "2009.04.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@981901;0001;0001",
+      "desc": "98卷19期3705號一冊 1~1頁",
+      "progress": "一讀",
+      "committee": "交通",
+      "misc": {
+        "content": "7-8",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccfc7c8cdc5c8d2c7"
+      }
+    }
+  ],
+  "2009.06.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984401;0006;0058",
+      "desc": "98卷44期3730號一冊 6~58頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "2009.10.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@985500;0237;0240",
+      "desc": "98卷55期3741號 237~240頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@985500;0240;0240",
+      "desc": "98卷55期3741號 240~240頁",
+      "progress": "三讀",
+      "committee": "交通"
+    }
+  ],
+  "2010.12.31": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10000401;0003;0004",
+      "desc": "100卷4期3856號 3~4頁",
+      "progress": "一讀",
+      "committee": "交通",
+      "misc": {
+        "content": "91-92",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc9cecbc8cdc5c6ced2c6cd"
+      }
+    }
+  ],
+  "2011.03.09": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10001801;0254;0283",
+      "desc": "100卷18期3870號 254~283頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "2011.03.29": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10002101;0101;0104",
+      "desc": "100卷21期3873號一冊 101~104頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10002101;0104;0105",
+      "desc": "100卷21期3873號一冊 104~105頁",
+      "progress": "三讀",
+      "committee": "交通"
+    }
+  ]
+}

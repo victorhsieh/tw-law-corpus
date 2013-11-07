@@ -1,0 +1,38 @@
+{
+  "1989.12.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7809800;0002;0002",
+      "desc": "78卷98期2314號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政 經濟",
+      "misc": {
+        "content": "38-79",
+        "link": "/lgcgi/lgmeetimage?cfcec7cbcecccfcfc5ccc7d2c8c6"
+      }
+    }
+  ],
+  "1989.12.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7905600;0346;0354",
+      "desc": "79卷56期2376號 346~354頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1989.12.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7906000;0013;0026",
+      "desc": "79卷60期2380號 13~26頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1989.12.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7810400;0006;0024",
+      "desc": "78卷104期2320號 6~24頁",
+      "progress": "三讀",
+      "committee": "財政 經濟"
+    }
+  ]
+}

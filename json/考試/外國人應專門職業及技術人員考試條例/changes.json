@@ -1,0 +1,180 @@
+{
+  "1954.06.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431306;0041;0042",
+      "desc": "43卷13期號6冊 41~42頁",
+      "progress": "一讀",
+      "committee": "法制 僑政 外交"
+    }
+  ],
+  "1954.07.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431306;0100;0100",
+      "desc": "43卷13期號6冊 100~100頁",
+      "progress": "一讀",
+      "committee": "法制 僑政 外交"
+    }
+  ],
+  "1954.12.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441406;0041;0046",
+      "desc": "44卷14期號6冊 41~46頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 僑政 外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441406;0119;0120",
+      "desc": "44卷14期號6冊 119~120頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 僑政 外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441406;0120;0124",
+      "desc": "44卷14期號6冊 120~124頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 僑政 外交"
+    }
+  ],
+  "1984.12.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441406;0124;0126",
+      "desc": "44卷14期號6冊 124~126頁",
+      "progress": "三讀",
+      "committee": "法制 僑政 外交"
+    }
+  ],
+  "1957.03.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461903;0083;0083",
+      "desc": "46卷19期號3冊 83~83頁",
+      "progress": "一讀",
+      "committee": "法制 交通"
+    }
+  ],
+  "1957.05.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461907;0013;0017",
+      "desc": "46卷19期號7冊 13~17頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461907;0054;0055",
+      "desc": "46卷19期號7冊 54~55頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461907;0055;0056",
+      "desc": "46卷19期號7冊 55~56頁",
+      "progress": "三讀",
+      "committee": "法制 交通"
+    }
+  ],
+  "1974.11.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6354870001;0002;0002",
+      "desc": "63卷87期743號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制"
+    }
+  ],
+  "1975.03.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455350002;0019;0029",
+      "desc": "64卷35期789號 19~29頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1975.03.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455390002;0046;0051",
+      "desc": "64卷39期793號 46~51頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1975.04.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@64556800;0026;0034",
+      "desc": "64卷68期822號 26~34頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1957.04.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455340001;0006;0033",
+      "desc": "64卷34期788號 6~33頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    }
+  ],
+  "1975.04.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455340001;0033;0040",
+      "desc": "64卷34期788號 33~40頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    }
+  ],
+  "1975.04.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6455350001;0003;0008",
+      "desc": "64卷35期789號 3~8頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ],
+  "1979.03.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68632300;0005;0007",
+      "desc": "68卷23期1195號 5~7頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "354-355",
+        "link": "/lgcgi/lgmeetimage?cfcec9cccfcdcfcfc5cccacbd2cccaca"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68632300;0007;0007",
+      "desc": "68卷23期1195號 7~7頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    }
+  ],
+  "1979.03.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68632400;0003;0004",
+      "desc": "68卷24期1196號 3~4頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2001.10.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905301;0122;0156",
+      "desc": "90卷53期3187號一冊 122~156頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "241-251",
+        "link": "/lgcgi/lgmeetimage?cfcbcfc9cfc8cfcec5cdcbced2cdcace"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905301;0156;0156",
+      "desc": "90卷53期3187號一冊 156~156頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905301;0156;0156",
+      "desc": "90卷53期3187號一冊 156~156頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

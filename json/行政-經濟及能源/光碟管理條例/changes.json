@@ -1,0 +1,106 @@
+{
+  "2001.05.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@902801;0010;0010",
+      "desc": "90卷28期3162號上冊 10~10頁",
+      "progress": "一讀",
+      "committee": "科技",
+      "misc": {
+        "content": "259-271",
+        "link": "/lgcgi/lgmeetimage?cfcbcfc7cfc7cfcec5cdcac6d2cdc8ce"
+      }
+    }
+  ],
+  "2002.10.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905301;0220;0233",
+      "desc": "90卷53期3187號一冊 220~233頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "科技"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905301;0233;0237",
+      "desc": "90卷53期3187號一冊 233~237頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "科技"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905301;0237;0237",
+      "desc": "90卷53期3187號一冊 237~237頁",
+      "progress": "三讀",
+      "committee": "科技"
+    }
+  ],
+  "2005.04.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@941700;0001;0001",
+      "desc": "94卷17期3399號 1~1頁",
+      "progress": "一讀",
+      "committee": "科技",
+      "misc": {
+        "content": "83-85",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcecfc9cfcfc5c7ccd2c7ca"
+      }
+    }
+  ],
+  "2005.05.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@943400;0503;0518",
+      "desc": "94卷34期3416號 503~518頁",
+      "progress": "委員會審查",
+      "committee": "科技"
+    }
+  ],
+  "2005.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@943701;0042;0047",
+      "desc": "94卷37期3419號一冊 42~47頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "科技",
+      "misc": {
+        "content": "295-299",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcececccfcdc5cdc6cad2cdc6c6"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@943701;0047;0047",
+      "desc": "94卷37期3419號一冊 47~47頁",
+      "progress": "三讀",
+      "committee": "科技"
+    }
+  ],
+  "2008.10.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@975400;0001;0001",
+      "desc": "97卷54期3665號 1~1頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "46-48",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcfcacfcec5cbc9d2cbc7"
+      }
+    }
+  ],
+  "2009.04.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982900;0207;0217",
+      "desc": "98卷29期3715號 207~217頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2009.05.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982800;0169;0175",
+      "desc": "98卷28期3714號 169~175頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982800;0175;0175",
+      "desc": "98卷28期3714號 175~175頁",
+      "progress": "三讀",
+      "committee": "經濟"
+    }
+  ]
+}

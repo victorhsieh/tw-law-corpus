@@ -1,0 +1,78 @@
+{
+  "2004.01.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@930601;0003;0003",
+      "desc": "93卷6期3340號一冊 3~3頁",
+      "progress": "一讀",
+      "committee": "國防",
+      "misc": {
+        "content": "201-205",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcec8cfcfc5cdcfced2cdcfca"
+      }
+    }
+  ],
+  "2004.03.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@931701;0003;0003",
+      "desc": "93卷17期3351號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "國防",
+      "misc": {
+        "content": "94-100",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacfc8cfcec5c6cbd2cecfcf"
+      }
+    }
+  ],
+  "2004.04.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@932501;0003;0003",
+      "desc": "93卷25期3359號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "國防",
+      "misc": {
+        "content": "195-200",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacecdcfcec5cec6cad2cdcfcf"
+      }
+    }
+  ],
+  "2004.06.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@933500;0259;0292",
+      "desc": "93卷35期3369號 259~292頁",
+      "progress": "委員會審查",
+      "committee": "國防"
+    }
+  ],
+  "2005.01.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@940604;0151;0164",
+      "desc": "94卷6期3388號四冊 151~164頁",
+      "progress": "委員會審查",
+      "committee": "國防"
+    }
+  ],
+  "2005.01.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@940501;0092;0115",
+      "desc": "94卷5期3387號上冊 92~115頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防",
+      "misc": {
+        "content": "91-118",
+        "link": "/lgcgi/lgmeetimage?cfcacfc9cececfcdc5c6ced2cecec7"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@940501;0115;0117",
+      "desc": "94卷5期3387號上冊 115~117頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@940501;0117;0120",
+      "desc": "94卷5期3387號上冊 117~120頁",
+      "progress": "三讀",
+      "committee": "國防"
+    }
+  ]
+}

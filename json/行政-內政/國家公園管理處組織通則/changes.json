@@ -1,0 +1,82 @@
+{
+  "1983.03.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72712000;0002;0002",
+      "desc": "72卷20期1609號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 內政",
+      "misc": {
+        "content": "77-83",
+        "link": "/lgcgi/lgmeetimage?cfcec8cecfcdcfcfc5c8c8d2c7cc"
+      }
+    }
+  ],
+  "1983.03.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72714500;0138;0152",
+      "desc": "72卷45期1634號 138~152頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "1983.03.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72714600;0122;0125",
+      "desc": "72卷46期1635號 122~125頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "1983.04.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72713000;0035;0044",
+      "desc": "72卷30期1619號 35~44頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政"
+    }
+  ],
+  "1983.04.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72713100;0006;0030",
+      "desc": "72卷31期1620號 6~30頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政"
+    }
+  ],
+  "1983.04.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72713200;0006;0009",
+      "desc": "72卷32期1621號 6~9頁",
+      "progress": "三讀",
+      "committee": "法制 內政"
+    }
+  ],
+  "2008.02.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@970200;0012;0012",
+      "desc": "97卷2期3613號 12~12頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "147-148",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecfcdcfcbc5cecbc8d2cecbc7"
+      }
+    }
+  ],
+  "2010.04.30": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903101;0044;0044",
+      "desc": "99卷31期3796號一冊 44~44頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    }
+  ],
+  "2010.05.04": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903101;0331;0333",
+      "desc": "99卷31期3796號一冊 331~333頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

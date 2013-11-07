@@ -1,0 +1,46 @@
+{
+  "1990.11.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7909600;0248;0248",
+      "desc": "79卷96期2416號 248~248頁",
+      "progress": "一讀",
+      "committee": "財政 經濟",
+      "misc": {
+        "content": "571-580",
+        "link": "/lgcgi/lgmeetimage?cfcec7c9cec6cfcfc5cac8ced2cac7cf"
+      }
+    }
+  ],
+  "1990.12.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7909800;0248;0254",
+      "desc": "79卷98期2418號 248~254頁",
+      "progress": "一讀",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1990.12.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8005400;0297;0323",
+      "desc": "80卷54期2478號 297~323頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1990.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8005600;0323;0350",
+      "desc": "80卷56期2480號 323~350頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1990.12.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7910400;0292;0325",
+      "desc": "79卷104期2424號 292~325頁",
+      "progress": "三讀",
+      "committee": "財政 經濟"
+    }
+  ]
+}

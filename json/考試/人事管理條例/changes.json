@@ -1,0 +1,60 @@
+{
+  "1983.06.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72714600;0002;0002",
+      "desc": "72卷46期1635號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "289-291",
+        "link": "/lgcgi/lgmeetimage?cfcec8cecfc8cfcfc5cdc7c6d2cdc6ce"
+      }
+    }
+  ],
+  "1983.06.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72714800;0006;0006",
+      "desc": "72卷48期1637號 6~6頁",
+      "progress": "一讀",
+      "committee": "法制"
+    }
+  ],
+  "1983.06.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72729200;0118;0127",
+      "desc": "72卷92期1681號 118~127頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1983.06.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72729800;0163;0165",
+      "desc": "72卷98期1687號 163~165頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1983.07.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72715500;0028;0034",
+      "desc": "72卷55期1644號 28~34頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72715500;0034;0039",
+      "desc": "72卷55期1644號 34~39頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    }
+  ],
+  "1983.07.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72715600;0006;0007",
+      "desc": "72卷56期1645號 6~7頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

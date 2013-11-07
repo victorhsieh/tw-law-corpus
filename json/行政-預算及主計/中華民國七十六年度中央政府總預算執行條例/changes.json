@@ -1,0 +1,32 @@
+{
+  "1986.03.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7502300;0003;0003",
+      "desc": "75卷23期1925號 3~3頁",
+      "progress": "一讀",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1986.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7507300;0017;0019",
+      "desc": "75卷73期1975號 17~19頁",
+      "progress": "委員會審查",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1986.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7504300;0008;0015",
+      "desc": "75卷43期1945號 8~15頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "預算 財政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7504300;0066;0068",
+      "desc": "75卷43期1945號 66~68頁",
+      "progress": "三讀",
+      "committee": "預算 財政 法制"
+    }
+  ]
+}

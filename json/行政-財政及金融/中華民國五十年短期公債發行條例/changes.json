@@ -1,0 +1,62 @@
+{
+  "1961.05.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@502708;0004;0004",
+      "desc": "50卷27期號8冊 4~4頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1961.05.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@502709;0041;0041",
+      "desc": "50卷27期號9冊 41~41頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1961.07.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@502715;0004;0018",
+      "desc": "50卷27期號15冊 4~18頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@502715;0083;0086",
+      "desc": "50卷27期號15冊 83~86頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@502715;0086;0090",
+      "desc": "50卷27期號15冊 86~90頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ],
+  "1970.07.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5945570001;0002;0002",
+      "desc": "59卷57期號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1970.08.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5946840002;0033;0035",
+      "desc": "59卷84期號 33~35頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1970.11.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5946840001;0022;0023",
+      "desc": "59卷84期號 22~23頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ]
+}

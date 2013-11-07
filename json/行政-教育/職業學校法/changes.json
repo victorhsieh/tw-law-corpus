@@ -1,0 +1,314 @@
+{
+  "unknown": [
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "112-119",
+        "link": "/lgcgi/lgmeetimage?cfcec6cfcfcdcfcec5cececdd2cecec6"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "288-295",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc9cfcec5cdc7c7d2cdc6ca"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "546-553",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcecacfcdc5cacbc9d2cacacc"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "1-533",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcacfcac5ced2cacccc"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "793-835",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcecbcfcfc5c8c6ccd2c7ccca"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "108-110",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacececfcdc5cecfc7d2cececf"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "23-30",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacecccfcdc5cdccd2cccf"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "101-140",
+        "link": "/lgcgi/lgmeetimage?cfc9cfc9cfc6c8cdc5cecfced2cecbcf"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    }
+  ],
+  "2008.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@971600;0013;0013",
+      "desc": "97卷16期3627號 13~13頁",
+      "progress": "一讀",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "131-132",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecfc8cfcdc5ceccced2cecccd"
+      }
+    }
+  ],
+  "2008.10.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@975301;0006;0006",
+      "desc": "97卷53期3664號一冊 6~6頁",
+      "progress": "一讀",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "225-227",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcfcbcfcec5cdcdcad2cdcdc8"
+      }
+    }
+  ],
+  "2008.05.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@973200;0252;0275",
+      "desc": "97卷32期3643號 252~275頁",
+      "progress": "委員會審查",
+      "committee": "教育及文化"
+    }
+  ],
+  "2009.05.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983300;0330;0343",
+      "desc": "98卷33期3719號 330~343頁",
+      "progress": "委員會審查",
+      "committee": "教育及文化"
+    }
+  ],
+  "2009.06.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983700;0160;0168",
+      "desc": "98卷37期3723號 160~168頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育及文化"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983700;0168;0168",
+      "desc": "98卷37期3723號 168~168頁",
+      "progress": "三讀",
+      "committee": "教育及文化"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983700;0003;0003",
+      "desc": "98卷37期3723號 3~3頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "288-290",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccecacfccc5cdc7c7d2cdc6cf"
+      }
+    }
+  ],
+  "2008.04.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@971100;0002;0002",
+      "desc": "97卷11期3622號 2~2頁",
+      "progress": "一讀",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "77-79",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecfc9cfcec5c8c8d2c8c6"
+      }
+    }
+  ],
+  "2008.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980301;0004;0004",
+      "desc": "98卷3期3689號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "教育及文化",
+      "misc": {
+        "content": "116-117",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcecacfcec5cecec9d2cecec8"
+      }
+    }
+  ],
+  "2008.12.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980401;0136;0178",
+      "desc": "98卷4期3690號一冊 136~178頁",
+      "progress": "委員會審查",
+      "committee": "教育及文化"
+    }
+  ],
+  "2009.04.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982300;0430;0465",
+      "desc": "98卷23期3709號 430~465頁",
+      "progress": "委員會審查",
+      "committee": "教育及文化"
+    }
+  ],
+  "2009.05.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@986200;0555;0556",
+      "desc": "98卷62期3748號 555~556頁",
+      "progress": "黨團協商",
+      "committee": "教育及文化"
+    }
+  ],
+  "2009.11.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@986200;0048;0054",
+      "desc": "98卷62期3748號 48~54頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育及文化"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@986200;0054;0055",
+      "desc": "98卷62期3748號 54~55頁",
+      "progress": "三讀",
+      "committee": "教育及文化"
+    }
+  ],
+  "2009.06.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984201;0001;0002",
+      "desc": "98卷42期3728號一冊 1~2頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "158-159",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccec8cfcec5cecac7d2cecac6"
+      }
+    }
+  ],
+  "2010.04.30": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903101;0044;0044",
+      "desc": "99卷31期3796號一冊 44~44頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    }
+  ],
+  "2010.05.04": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903101;0303;0304",
+      "desc": "99卷31期3796號一冊 303~304頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2010.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903401;0067;0067",
+      "desc": "99卷34期3799號 67~67頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2010.05.18": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903601;0094;0095",
+      "desc": "99卷36期3801號 94~95頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903601;0095;0095",
+      "desc": "99卷36期3801號 95~95頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

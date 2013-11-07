@@ -1,0 +1,40 @@
+{
+  "1996.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@852901;0004;0004",
+      "desc": "85卷29期2851號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "經濟 司法",
+      "misc": {
+        "content": "70-93",
+        "link": "/lgcgi/lgmeetimage?cfcccfcececbcfcec5c8cfd2c6cc"
+      }
+    }
+  ],
+  "1997.05.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@862700;0421;0451",
+      "desc": "86卷27期2919號 421~451頁",
+      "progress": "委員會審查",
+      "committee": "經濟 司法"
+    }
+  ],
+  "1997.11.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@864800;0129;0151",
+      "desc": "86卷48期2940號 129~151頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 司法",
+      "misc": {
+        "content": "326-345",
+        "link": "/lgcgi/lgmeetimage?cfcccfcbcfcacfcdc5cccdc9d2cccbca"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@864800;0151;0152",
+      "desc": "86卷48期2940號 151~152頁",
+      "progress": "三讀",
+      "committee": "經濟 司法"
+    }
+  ]
+}

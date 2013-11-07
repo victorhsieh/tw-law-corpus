@@ -1,0 +1,98 @@
+{
+  "1994.03.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@831701;0012;0012",
+      "desc": "83卷17期2691號上冊 12~12頁",
+      "progress": "一讀",
+      "committee": "預算 財政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@831701;0073;0076",
+      "desc": "83卷17期2691號上冊 73~76頁",
+      "progress": "一讀",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1994.04.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@832600;0022;0032",
+      "desc": "83卷26期2700號 22~32頁",
+      "progress": "一讀",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1994.04.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@833003;0357;0405",
+      "desc": "83卷30期2704號下冊 357~405頁",
+      "progress": "委員會審查",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1994.06.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@834503;0340;0340",
+      "desc": "83卷45期2719號下冊 340~340頁",
+      "progress": "委員會審查",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1994.07.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@834701;0031;0078",
+      "desc": "83卷47期2721號上冊 31~78頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "預算 財政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@834701;0078;0083",
+      "desc": "83卷47期2721號上冊 78~83頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1994.07.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@834801;0058;0080",
+      "desc": "83卷48期2722號上冊 58~80頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "預算 財政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@834801;0080;0080",
+      "desc": "83卷48期2722號上冊 80~80頁",
+      "progress": "三讀",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1996.04.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@851701;0089;0089",
+      "desc": "85卷17期2839號上冊 89~89頁",
+      "progress": "一讀",
+      "committee": "預算"
+    }
+  ],
+  "1996.05.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@852203;0001;0021",
+      "desc": "85卷22期2844號下冊 1~21頁",
+      "progress": "委員會審查",
+      "committee": "預算"
+    }
+  ],
+  "1996.07.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@853801;0172;0177",
+      "desc": "85卷38期2860號上冊 172~177頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "預算"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@853801;0177;0177",
+      "desc": "85卷38期2860號上冊 177~177頁",
+      "progress": "三讀",
+      "committee": "預算"
+    }
+  ]
+}

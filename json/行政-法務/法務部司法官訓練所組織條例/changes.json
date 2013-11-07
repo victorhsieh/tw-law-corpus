@@ -1,0 +1,92 @@
+{
+  "1968.08.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5741620001;0002;0002",
+      "desc": "57卷62期號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 司法"
+    }
+  ],
+  "1968.08.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5741650002;0007;0008",
+      "desc": "57卷65期號 7~8頁",
+      "progress": "委員會審查",
+      "committee": "法制 司法"
+    }
+  ],
+  "1968.10.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57428400;0012;0017",
+      "desc": "57卷84期號 12~17頁",
+      "progress": "委員會審查",
+      "committee": "法制 司法"
+    }
+  ],
+  "1968.11.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5742830001;0006;0012",
+      "desc": "57卷83期號 6~12頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 司法"
+    }
+  ],
+  "2482.10.00": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5742830001;0012;0013",
+      "desc": "57卷83期號 12~13頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 司法"
+    }
+  ],
+  "1968.11.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5742850001;0003;0004",
+      "desc": "57卷85期號 3~4頁",
+      "progress": "三讀",
+      "committee": "法制 司法"
+    }
+  ],
+  "1980.06.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655200;0002;0002",
+      "desc": "69卷52期1328號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 司法",
+      "misc": {
+        "content": "404-411",
+        "link": "/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5cbcfcbd2cbcece"
+      }
+    }
+  ],
+  "1980.07.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69669800;0059;0073",
+      "desc": "69卷98期1374號 59~73頁",
+      "progress": "委員會審查",
+      "committee": "法制 司法"
+    }
+  ],
+  "1980.07.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655700;0005;0016",
+      "desc": "69卷57期1333號 5~16頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655700;0016;0019",
+      "desc": "69卷57期1333號 16~19頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 司法"
+    }
+  ],
+  "1980.07.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655800;0004;0005",
+      "desc": "69卷58期1334號 4~5頁",
+      "progress": "三讀",
+      "committee": "法制 司法"
+    }
+  ]
+}

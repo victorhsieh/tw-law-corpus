@@ -1,0 +1,40 @@
+{
+  "1998.12.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@874601;0003;0004",
+      "desc": "87卷46期2995號上冊 3~4頁",
+      "progress": "一讀",
+      "committee": "法制 司法",
+      "misc": {
+        "content": "315-349",
+        "link": "/lgcgi/lgmeetimage?cfcccfc9cfc6cfcfc5cccecad2cccbc6"
+      }
+    }
+  ],
+  "1998.12.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@875100;0163;0180",
+      "desc": "87卷51期3000號 163~180頁",
+      "progress": "委員會審查",
+      "committee": "法制 司法"
+    }
+  ],
+  "1999.01.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880601;0266;0293",
+      "desc": "88卷6期3006號一冊 266~293頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 司法",
+      "misc": {
+        "content": "804-825",
+        "link": "/lgcgi/lgmeetimage?cfcccfc9cececfcec5c7cfcbd2c7cdca"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880601;0293;0294",
+      "desc": "88卷6期3006號一冊 293~294頁",
+      "progress": "三讀",
+      "committee": "法制 司法"
+    }
+  ]
+}

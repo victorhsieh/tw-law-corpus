@@ -1,0 +1,46 @@
+{
+  "1980.05.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69653800;0002;0002",
+      "desc": "69卷38期1314號 2~2頁",
+      "progress": "一讀",
+      "committee": "司法 法制 內政",
+      "misc": {
+        "content": "137-140",
+        "link": "/lgcgi/lgmeetimage?cfcec9cacfcbcfcfc5ceccc8d2cecbcf"
+      }
+    }
+  ],
+  "1980.06.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69656100;0002;0003",
+      "desc": "69卷61期1337號 2~3頁",
+      "progress": "委員會審查",
+      "committee": "司法 法制 內政"
+    }
+  ],
+  "1980.06.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655000;0034;0038",
+      "desc": "69卷50期1326號 34~38頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法 法制 內政",
+      "misc": {
+        "content": "67-70",
+        "link": "/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5c9c8d2c8cf"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655000;0038;0038",
+      "desc": "69卷50期1326號 38~38頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 法制 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69655000;0038;0038",
+      "desc": "69卷50期1326號 38~38頁",
+      "progress": "三讀",
+      "committee": "司法 法制 內政"
+    }
+  ]
+}

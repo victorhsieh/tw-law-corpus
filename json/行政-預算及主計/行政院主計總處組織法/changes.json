@@ -1,0 +1,70 @@
+{
+  "2011.02.22": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10001201;0006;0006",
+      "desc": "100卷12期3864號一冊 6~6頁",
+      "progress": "一讀",
+      "committee": "司法及法制 財政",
+      "misc": {
+        "content": "390-393",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc8cfcecfcec5ccc6cfd2ccc6cc"
+      }
+    }
+  ],
+  "2011.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004301;0193;0195",
+      "desc": "100卷43期3895號 193~195頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制 財政"
+    }
+  ],
+  "2011.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004501;0383;0388",
+      "desc": "100卷45期3897號一冊 383~388頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制 財政"
+    }
+  ],
+  "2011.06.07": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004906;2649;2651",
+      "desc": "100卷49期3901號六冊 2649~2651頁",
+      "progress": "黨團協商",
+      "committee": "司法及法制 財政"
+    }
+  ],
+  "2011.06.13": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004904;1533;1533",
+      "desc": "100卷49期3901號四冊 1533~1533頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制 財政"
+    }
+  ],
+  "2011.06.14": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004905;2238;2243",
+      "desc": "100卷49期3901號五冊 2238~2243頁",
+      "progress": "黨團協商",
+      "committee": "司法及法制 財政"
+    }
+  ],
+  "2011.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10008803;1021;1021",
+      "desc": "100卷88期3940號三冊 1021~1021頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制 財政"
+    }
+  ],
+  "2012.01.20": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10100101;0104;0106",
+      "desc": "101卷1期3942號 104~106頁",
+      "progress": "三讀",
+      "committee": "司法及法制 財政"
+    }
+  ]
+}

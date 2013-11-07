@@ -1,0 +1,66 @@
+{
+  "2001.05.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@903001;0005;0005",
+      "desc": "90卷30期3164號一冊 5~5頁",
+      "progress": "一讀",
+      "committee": "教育 衛生",
+      "misc": {
+        "content": "572-581",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacecfcfcfc5cac8cdd2cac7ce"
+      }
+    }
+  ],
+  "2001.12.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905801;0004;0004",
+      "desc": "90卷58期3192號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "教育 衛生",
+      "misc": {
+        "content": "299-308",
+        "link": "/lgcgi/lgmeetimage?cfcbcfc9cfc7cfcec5cdc6c6d2cccfc7"
+      }
+    }
+  ],
+  "2001.10.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904800;0173;0196",
+      "desc": "90卷48期3182號 173~196頁",
+      "progress": "委員會審查",
+      "committee": "教育 衛生"
+    }
+  ],
+  "2001.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905500;0175;0189",
+      "desc": "90卷55期3189號 175~189頁",
+      "progress": "委員會審查",
+      "committee": "教育 衛生"
+    }
+  ],
+  "2002.01.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911002;0731;0758",
+      "desc": "91卷10期3206號中冊 731~758頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "教育 衛生",
+      "misc": {
+        "content": "534-567",
+        "link": "/lgcgi/lgmeetimage?cfcbcfc9cecfcfccc5cacccbd2cac9c8"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911002;0758;0761",
+      "desc": "91卷10期3206號中冊 758~761頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育 衛生"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911002;0761;0766",
+      "desc": "91卷10期3206號中冊 761~766頁",
+      "progress": "三讀",
+      "committee": "教育 衛生"
+    }
+  ]
+}

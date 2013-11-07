@@ -1,0 +1,90 @@
+{
+  "1999.11.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885201;0012;0012",
+      "desc": "88卷52期3052號上冊 12~12頁",
+      "progress": "一讀",
+      "committee": "內政 經濟 司法",
+      "misc": {
+        "content": "470-645",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc6cfcfc5cbc8cfd2c9cbca"
+      }
+    }
+  ],
+  "1999.12.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890302;0147;0164",
+      "desc": "89卷3期3062號中冊 147~164頁",
+      "progress": "委員會審查",
+      "committee": "內政 經濟 司法"
+    }
+  ],
+  "2000.01.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890800;0373;0392",
+      "desc": "89卷8期3067號 373~392頁",
+      "progress": "委員會審查",
+      "committee": "內政 經濟 司法"
+    }
+  ],
+  "2000.01.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890601;0135;0171",
+      "desc": "89卷6期3065號一冊 135~171頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 經濟 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890601;0172;0216",
+      "desc": "89卷6期3065號一冊 172~216頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 經濟 司法"
+    }
+  ],
+  "2000.01.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890602;0003;0041",
+      "desc": "89卷6期3065號二冊 3~41頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 經濟 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890602;0041;0042",
+      "desc": "89卷6期3065號二冊 41~42頁",
+      "progress": "三讀",
+      "committee": "內政 經濟 司法"
+    }
+  ],
+  "2002.04.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912801;0009;0009",
+      "desc": "91卷28期3224號上冊 9~9頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "583-588",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc7cfcfc5cac7ccd2cac7c7"
+      }
+    }
+  ],
+  "2002.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@915101;0123;0166",
+      "desc": "91卷51期3247號上冊 123~166頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2002.11.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@917001;0098;0105",
+      "desc": "91卷70期3266號上冊 98~105頁",
+      "progress": "三讀",
+      "committee": "內政",
+      "misc": {
+        "content": "152-158",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcecfcfccc5cecacdd2cecac7"
+      }
+    }
+  ]
+}

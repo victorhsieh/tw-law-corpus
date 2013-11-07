@@ -1,0 +1,128 @@
+{
+  "1992.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8104400;0242;0242",
+      "desc": "81卷44期2572號 242~242頁",
+      "progress": "一讀",
+      "committee": "外交 經濟 預算",
+      "misc": {
+        "content": "545-558",
+        "link": "/lgcgi/lgmeetimage?cfcec7c6cdcccfcdc5cacbcad2cacac7"
+      }
+    }
+  ],
+  "1992.07.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8105503;0350;0408",
+      "desc": "81卷55期2583號下冊 350~408頁",
+      "progress": "委員會審查",
+      "committee": "外交 經濟 預算"
+    }
+  ],
+  "1992.07.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8105600;0445;0465",
+      "desc": "81卷56期2584號 445~465頁",
+      "progress": "委員會審查",
+      "committee": "外交 經濟 預算"
+    }
+  ],
+  "1992.07.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8105802;0109;0132",
+      "desc": "81卷58期2586號中冊 109~132頁",
+      "progress": "委員會審查",
+      "committee": "外交 經濟 預算"
+    }
+  ],
+  "1992.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@820100;0298;0303",
+      "desc": "82卷1期2600號 298~303頁",
+      "progress": "委員會審查",
+      "committee": "外交 經濟 預算"
+    }
+  ],
+  "1995.06.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@843500;0080;0099",
+      "desc": "84卷35期2792號 80~99頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "外交 經濟 預算"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@843500;0099;0107",
+      "desc": "84卷35期2792號 99~107頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交 經濟 預算"
+    }
+  ],
+  "1995.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@846301;0399;0404",
+      "desc": "84卷63期2820號上冊 399~404頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交 經濟 預算"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@846301;0404;0405",
+      "desc": "84卷63期2820號上冊 404~405頁",
+      "progress": "三讀",
+      "committee": "外交 經濟 預算"
+    }
+  ],
+  "2009.03.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@981200;0001;0001",
+      "desc": "98卷12期3698號 1~1頁",
+      "progress": "一讀",
+      "committee": "外交及國防",
+      "misc": {
+        "content": "76-77",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccfcacfcec5c8c9d2c8c8"
+      }
+    }
+  ],
+  "2009.12.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@987300;0002;0002",
+      "desc": "98卷73期3759號 2~2頁",
+      "progress": "一讀",
+      "committee": "外交及國防",
+      "misc": {
+        "content": "125-134",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcecdcfcec5cecdcad2cecccb"
+      }
+    }
+  ],
+  "2010.05.05": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903701;0270;0317",
+      "desc": "99卷37期3802號 270~317頁",
+      "progress": "委員會審查",
+      "committee": "外交及國防"
+    }
+  ],
+  "2010.05.06": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903701;0318;0336",
+      "desc": "99卷37期3802號 318~336頁",
+      "progress": "委員會審查",
+      "committee": "外交及國防"
+    }
+  ],
+  "2010.05.18": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903601;0150;0172",
+      "desc": "99卷36期3801號 150~172頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交及國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903601;0172;0172",
+      "desc": "99卷36期3801號 172~172頁",
+      "progress": "三讀",
+      "committee": "外交及國防"
+    }
+  ]
+}

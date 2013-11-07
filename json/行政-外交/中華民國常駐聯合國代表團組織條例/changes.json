@@ -1,0 +1,102 @@
+{
+  "1957.12.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@472006;0077;0077",
+      "desc": "47卷20期號6冊 77~77頁",
+      "progress": "一讀",
+      "committee": "法制 外交"
+    }
+  ],
+  "1959.06.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482317;0003;0025",
+      "desc": "48卷23期號17冊 3~25頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482317;0034;0036",
+      "desc": "48卷23期號17冊 34~36頁",
+      "progress": "三讀",
+      "committee": "法制 外交"
+    }
+  ],
+  "1959.06.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482316;0134;0137",
+      "desc": "48卷23期號16冊 134~137頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 外交"
+    }
+  ],
+  "1962.07.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@512915;0048;0048",
+      "desc": "51卷29期號15冊 48~48頁",
+      "progress": "一讀",
+      "committee": "法制 外交"
+    }
+  ],
+  "1963.07.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@523115;0006;0019",
+      "desc": "52卷31期號15冊 6~19頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@523115;0066;0073",
+      "desc": "52卷31期號15冊 66~73頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 外交"
+    }
+  ],
+  "1963.07.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@523115;0090;0090",
+      "desc": "52卷31期號15冊 90~90頁",
+      "progress": "三讀",
+      "committee": "法制 外交"
+    }
+  ],
+  "1972.12.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6150970001;0002;0002",
+      "desc": "61卷97期550號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 外交"
+    }
+  ],
+  "1972.12.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251210002;0007;0011",
+      "desc": "62卷21期577號 7~11頁",
+      "progress": "委員會審查",
+      "committee": "法制 外交"
+    }
+  ],
+  "1973.10.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@63521200;0023;0027",
+      "desc": "63卷12期668號 23~27頁",
+      "progress": "委員會審查",
+      "committee": "法制 外交"
+    }
+  ],
+  "1973.11.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@63521300;0035;0037",
+      "desc": "63卷13期669號 35~37頁",
+      "progress": "委員會審查",
+      "committee": "法制 外交"
+    }
+  ],
+  "1973.11.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6252890001;0003;0004",
+      "desc": "62卷89期645號 3~4頁",
+      "progress": "三讀",
+      "committee": "法制 外交"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "1988.11.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7709500;0159;0160",
+      "desc": "77卷95期2206號 159~160頁",
+      "progress": "一讀",
+      "committee": "財政 經濟",
+      "misc": {
+        "content": "15-25",
+        "link": "/lgcgi/lgmeetimage?cfcec7cdcec9cfcfc5cecad2cdca"
+      }
+    }
+  ],
+  "1988.11.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7804100;0230;0241",
+      "desc": "78卷41期2257號 230~241頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1988.12.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7804300;0106;0129",
+      "desc": "78卷43期2259號 106~129頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1988.12.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7710300;0023;0064",
+      "desc": "77卷103期2214號 23~64頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1988.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7710501;0016;0034",
+      "desc": "77卷105期2216號一冊 16~34頁",
+      "progress": "三讀",
+      "committee": "財政 經濟"
+    }
+  ]
+}

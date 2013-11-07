@@ -1,0 +1,76 @@
+{
+  "2009.03.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@981200;0005;0005",
+      "desc": "98卷12期3698號 5~5頁",
+      "progress": "一讀",
+      "committee": "司法及法制 教育及文化",
+      "misc": {
+        "content": "113-126",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccfcac8cdc5cececcd2cecdc9"
+      }
+    }
+  ],
+  "2009.04.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@981700;0003;0004",
+      "desc": "98卷17期3703號 3~4頁",
+      "progress": "一讀",
+      "committee": "司法及法制 教育及文化",
+      "misc": {
+        "content": "123-138",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccfc9c8cdc5cecdccd2ceccc7"
+      }
+    }
+  ],
+  "2009.04.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982200;0003;0003",
+      "desc": "98卷22期3708號 3~3頁",
+      "progress": "一讀",
+      "committee": "司法及法制 教育及文化",
+      "misc": {
+        "content": "111-126",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccfc6c8cdc5cececed2cecdc9"
+      }
+    }
+  ],
+  "2009.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@982500;0459;0511",
+      "desc": "98卷25期3711號 459~511頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2009.05.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983000;0072;0115",
+      "desc": "98卷30期3716號 72~115頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2009.06.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984000;0207;0220",
+      "desc": "98卷40期3726號 207~220頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2009.06.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984201;0132;0233",
+      "desc": "98卷42期3728號一冊 132~233頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制 教育及文化"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984201;0233;0234",
+      "desc": "98卷42期3728號一冊 233~234頁",
+      "progress": "三讀",
+      "committee": "司法及法制 教育及文化"
+    }
+  ]
+}

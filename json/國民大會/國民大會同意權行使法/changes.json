@@ -1,0 +1,50 @@
+{
+  "1992.10.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8106500;0003;0003",
+      "desc": "81卷65期2593號 3~3頁",
+      "progress": "一讀",
+      "committee": "法制 內政 司法",
+      "misc": {
+        "content": "461-470",
+        "link": "/lgcgi/lgmeetimage?cfcec6cfcfcacfcfc5cbc9ced2cbc8cf"
+      }
+    }
+  ],
+  "1992.10.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8106800;0243;0268",
+      "desc": "81卷68期2596號 243~268頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 司法"
+    }
+  ],
+  "1992.10.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8106903;0014;0101",
+      "desc": "81卷69期2597號下冊 14~101頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 司法"
+    }
+  ],
+  "1992.10.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8106901;0167;0192",
+      "desc": "81卷69期2597號上冊 167~192頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 內政 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8106901;0192;0193",
+      "desc": "81卷69期2597號上冊 192~193頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8106901;0193;0193",
+      "desc": "81卷69期2597號上冊 193~193頁",
+      "progress": "三讀",
+      "committee": "法制 內政 司法"
+    }
+  ]
+}

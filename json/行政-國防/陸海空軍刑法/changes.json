@@ -1,0 +1,230 @@
+{
+  "1999.01.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880501;0012;0012",
+      "desc": "88卷5期3005號上冊 12~12頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    }
+  ],
+  "1999.03.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@881301;0219;0246",
+      "desc": "88卷13期3013號上冊 219~246頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@881301;0246;0247",
+      "desc": "88卷13期3013號上冊 246~247頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2001.04.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@901501;0004;0004",
+      "desc": "90卷15期3149號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "司法 國防",
+      "misc": {
+        "content": "233-296",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacfcbcfcfc5cdccccd2cdc6c9"
+      }
+    }
+  ],
+  "2001.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@903600;0169;0206",
+      "desc": "90卷36期3170號 169~206頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "2001.05.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904000;0001;0048",
+      "desc": "90卷40期3174號 1~48頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "2001.09.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@904501;0122;0253",
+      "desc": "90卷45期3179號上冊 122~253頁",
+      "progress": "三讀",
+      "committee": "司法 國防",
+      "misc": {
+        "content": "488-566",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacececfcac5cbc7c7d2cac9c9"
+      }
+    }
+  ],
+  "2006.11.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@955201;0002;0002",
+      "desc": "95卷52期3513號一冊 2~2頁",
+      "progress": "一讀",
+      "committee": "司法 國防",
+      "misc": {
+        "content": "33-36",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcbcfc6c8cdc5ccccd2ccc9"
+      }
+    }
+  ],
+  "2006.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@960300;0201;0202",
+      "desc": "96卷3期3526號 201~202頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "2006.12.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@960400;0054;0059",
+      "desc": "96卷4期3527號 54~59頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@960400;0059;0059",
+      "desc": "96卷4期3527號 59~59頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@960400;0059;0060",
+      "desc": "96卷4期3527號 59~60頁",
+      "progress": "三讀",
+      "committee": "司法 國防"
+    }
+  ],
+  "2007.09.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@966300;0109;0109",
+      "desc": "96卷63期3586號 109~109頁",
+      "progress": "一讀",
+      "committee": "司法 國防",
+      "misc": {
+        "content": "107-110",
+        "link": "/lgcgi/lgmeetimage?cfc9cfc9cfcbc8cdc5cecfc8d2cececf"
+      }
+    }
+  ],
+  "2007.10.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@967701;0169;0169",
+      "desc": "96卷77期3600號一冊 169~169頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "2007.11.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968000;0216;0219",
+      "desc": "96卷80期3603號 216~219頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968000;0219;0219",
+      "desc": "96卷80期3603號 219~219頁",
+      "progress": "三讀",
+      "committee": "司法 國防"
+    }
+  ],
+  "2007.01.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@961600;0004;0004",
+      "desc": "96卷16期3539號 4~4頁",
+      "progress": "一讀",
+      "committee": "司法 國防",
+      "misc": {
+        "content": "225-226",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcbcec8cfcec5cdcdcad2cdcdc9"
+      }
+    }
+  ],
+  "2007.03.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@962602;0107;0108",
+      "desc": "96卷26期3549號二冊 107~108頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "2007.06.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@965401;0340;0343",
+      "desc": "96卷54期3577號一冊 340~343頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法 國防"
+    }
+  ],
+  "2007.12.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968304;1145;1145",
+      "desc": "96卷83期3606號四冊 1145~1145頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法 國防"
+    }
+  ],
+  "2007.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968500;0150;0150",
+      "desc": "96卷85期3608號 150~150頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法 國防"
+    }
+  ],
+  "2007.12.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968602;0377;0378",
+      "desc": "96卷86期3609號二冊 377~378頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@968602;0378;0378",
+      "desc": "96卷86期3609號二冊 378~378頁",
+      "progress": "三讀",
+      "committee": "司法 國防"
+    }
+  ],
+  "2011.11.04": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10007001;0003;0004",
+      "desc": "100卷70期3922號 3~4頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "117-120",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc7cfc7c8cdc5cecec8d2cecdcf"
+      }
+    }
+  ],
+  "2011.11.10": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10007802;0779;0780",
+      "desc": "100卷78期3930號二冊 779~780頁",
+      "progress": "黨團協商",
+      "committee": "N/A"
+    }
+  ],
+  "2011.11.18": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10007801;0036;0037",
+      "desc": "100卷78期3930號一冊 36~37頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10007801;0037;0037",
+      "desc": "100卷78期3930號一冊 37~37頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

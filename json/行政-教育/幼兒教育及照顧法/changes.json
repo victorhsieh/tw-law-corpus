@@ -1,0 +1,100 @@
+{
+  "2010.05.07": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903401;0003;0003",
+      "desc": "99卷34期3799號 3~3頁",
+      "progress": "一讀",
+      "committee": "教育及文化 社福及衛環",
+      "misc": {
+        "content": "171-195",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacecdcfcec5cec8ced2cec6ca"
+      }
+    }
+  ],
+  "2010.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09904301;0201;0322",
+      "desc": "99卷43期3808號 201~322頁",
+      "progress": "委員會審查",
+      "committee": "教育及文化 社福及衛環"
+    }
+  ],
+  "2011.03.31": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10002701;0393;0401",
+      "desc": "100卷27期3879號 393~401頁",
+      "progress": "委員會審查",
+      "committee": "教育及文化 社福及衛環"
+    }
+  ],
+  "2011.04.11": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003201;0002;0102",
+      "desc": "100卷32期3884號 2~102頁",
+      "progress": "委員會審查",
+      "committee": "教育及文化 社福及衛環"
+    }
+  ],
+  "2011.04.13": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003201;0103;0128",
+      "desc": "100卷32期3884號 103~128頁",
+      "progress": "委員會審查",
+      "committee": "教育及文化 社福及衛環"
+    }
+  ],
+  "2011.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004906;2533;2536",
+      "desc": "100卷49期3901號六冊 2533~2536頁",
+      "progress": "黨團協商",
+      "committee": "教育及文化 社福及衛環"
+    }
+  ],
+  "2011.04.29": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004906;2537;2539",
+      "desc": "100卷49期3901號六冊 2537~2539頁",
+      "progress": "黨團協商",
+      "committee": "教育及文化 社福及衛環"
+    }
+  ],
+  "2011.05.06": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003701;0207;0275",
+      "desc": "100卷37期3889號一冊 207~275頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "教育及文化 社福及衛環"
+    }
+  ],
+  "2011.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003902;0835;0836",
+      "desc": "100卷39期3891號二冊 835~836頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "教育及文化 社福及衛環"
+    }
+  ],
+  "2011.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004906;2541;2546",
+      "desc": "100卷49期3901號六冊 2541~2546頁",
+      "progress": "黨團協商",
+      "committee": "教育及文化 社福及衛環"
+    }
+  ],
+  "2011.06.10": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004901;0115;0134",
+      "desc": "100卷49期3901號一冊 115~134頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育及文化 社福及衛環"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004901;0134;0136",
+      "desc": "100卷49期3901號一冊 134~136頁",
+      "progress": "三讀",
+      "committee": "教育及文化 社福及衛環"
+    }
+  ]
+}

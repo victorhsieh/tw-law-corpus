@@ -1,0 +1,56 @@
+{
+  "1997.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@863001;0004;0004",
+      "desc": "86卷30期2922號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "司法",
+      "misc": {
+        "content": "171-175",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccdcbcfcfc5cec8ced2cec8ca"
+      }
+    }
+  ],
+  "1997.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@864403;0125;0152",
+      "desc": "86卷44期2936號下冊 125~152頁",
+      "progress": "委員會審查",
+      "committee": "司法"
+    }
+  ],
+  "1997.10.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@864503;0173;0222",
+      "desc": "86卷45期2937號下冊 173~222頁",
+      "progress": "委員會審查",
+      "committee": "司法"
+    }
+  ],
+  "1997.10.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@864603;0249;0316",
+      "desc": "86卷46期2938號下冊 249~316頁",
+      "progress": "委員會審查",
+      "committee": "司法"
+    }
+  ],
+  "1997.11.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885201;0131;0138",
+      "desc": "88卷52期3052號上冊 131~138頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法",
+      "misc": {
+        "content": "807-813",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc7cfcdc5c7cfc8d2c7cecc"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885201;0138;0138",
+      "desc": "88卷52期3052號上冊 138~138頁",
+      "progress": "三讀",
+      "committee": "司法"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "1977.04.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@66592700;0002;0002",
+      "desc": "66卷27期990號 2~2頁",
+      "progress": "一讀",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1977.05.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@66596800;0013;0016",
+      "desc": "66卷68期1031號 13~16頁",
+      "progress": "委員會審查",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1977.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@66594300;0004;0018",
+      "desc": "66卷43期1006號 4~18頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "預算 財政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@66594300;0230;0232",
+      "desc": "66卷43期1006號 230~232頁",
+      "progress": "三讀",
+      "committee": "預算 財政 法制"
+    }
+  ]
+}

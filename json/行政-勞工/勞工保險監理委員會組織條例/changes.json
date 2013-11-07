@@ -1,0 +1,32 @@
+{
+  "1994.10.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@836501;0341;0341",
+      "desc": "83卷65期2739號上冊 341~341頁",
+      "progress": "一讀",
+      "committee": "法制 內政"
+    }
+  ],
+  "1995.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@843300;0186;0190",
+      "desc": "84卷33期2790號 186~190頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政"
+    }
+  ],
+  "1995.10.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@845200;0040;0055",
+      "desc": "84卷52期2809號 40~55頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@845200;0055;0056",
+      "desc": "84卷52期2809號 55~56頁",
+      "progress": "三讀",
+      "committee": "法制 內政"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "1985.04.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7403500;0002;0002",
+      "desc": "74卷35期1833號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "963-966",
+        "link": "/lgcgi/lgmeetimage?cfcec8cacfcbcfcfc5c6c9ccd2c6c9c9"
+      }
+    }
+  ],
+  "1985.10.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7500401;0146;0150",
+      "desc": "75卷4期1906號上冊 146~150頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "1985.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7502400;0136;0150",
+      "desc": "75卷24期1926號 136~150頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "1986.05.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7505900;0002;0005",
+      "desc": "75卷59期1961號 2~5頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "1986.05.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7504200;0008;0020",
+      "desc": "75卷42期1944號 8~20頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政"
+    }
+  ],
+  "1986.11.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7509400;0006;0006",
+      "desc": "75卷94期1996號 6~6頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ]
+}

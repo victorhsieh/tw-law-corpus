@@ -1,0 +1,80 @@
+{
+  "1968.03.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57411700;0895;0899",
+      "desc": "57卷17期號 895~899頁",
+      "progress": "一讀",
+      "committee": "法制"
+    }
+  ],
+  "1968.03.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57412800;2554;2558",
+      "desc": "57卷28期號 2554~2558頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1968.04.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57413600;3090;3093",
+      "desc": "57卷36期號 3090~3093頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1968.04.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57413000;2707;2708",
+      "desc": "57卷30期號 2707~2708頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57413000;2708;2708",
+      "desc": "57卷30期號 2708~2708頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57413000;2708;2708",
+      "desc": "57卷30期號 2708~2708頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ],
+  "1996.04.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@851400;0005;0005",
+      "desc": "85卷14期2836號 5~5頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "636-642",
+        "link": "/lgcgi/lgmeetimage?cfcccfcecfcccfcec5c9ccc9d2c9cbcd"
+      }
+    }
+  ],
+  "1996.12.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@860203;0274;0275",
+      "desc": "86卷2期2894號下冊 274~275頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1997.04.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@861801;0067;0071",
+      "desc": "86卷18期2910號上冊 67~71頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@861801;0071;0071",
+      "desc": "86卷18期2910號上冊 71~71頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

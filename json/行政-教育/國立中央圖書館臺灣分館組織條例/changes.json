@@ -1,0 +1,42 @@
+{
+  "1976.09.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6558760001;0002;0002",
+      "desc": "65卷76期935號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 教育"
+    }
+  ],
+  "1976.10.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6658040002;0016;0032",
+      "desc": "66卷4期967號 16~32頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1985.06.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7410100;0132;0138",
+      "desc": "74卷101期1899號 132~138頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1985.10.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7408100;0027;0035",
+      "desc": "74卷81期1879號 27~35頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    }
+  ],
+  "1985.10.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7408200;0012;0014",
+      "desc": "74卷82期1880號 12~14頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ]
+}

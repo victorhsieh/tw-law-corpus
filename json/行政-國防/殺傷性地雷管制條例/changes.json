@@ -1,0 +1,58 @@
+{
+  "2005.10.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944900;0005;0005",
+      "desc": "94卷49期3431號 5~5頁",
+      "progress": "一讀",
+      "committee": "國防",
+      "misc": {
+        "content": "577-580",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcfcacfcdc5cac8c8d2cac7cf"
+      }
+    }
+  ],
+  "2005.10.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@945201;0002;0002",
+      "desc": "94卷52期3434號一冊 2~2頁",
+      "progress": "一讀",
+      "committee": "國防",
+      "misc": {
+        "content": "78-81",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcfc9cfcec5c8c7d2c7ce"
+      }
+    }
+  ],
+  "2005.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950101;0277;0300",
+      "desc": "95卷1期3462號一冊 277~300頁",
+      "progress": "委員會審查",
+      "committee": "國防"
+    }
+  ],
+  "2006.05.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@953201;0213;0222",
+      "desc": "95卷32期3493號一冊 213~222頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防",
+      "misc": {
+        "content": "282-290",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcccecacfcdc5cdc7cdd2cdc6cf"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@953201;0222;0224",
+      "desc": "95卷32期3493號一冊 222~224頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@953201;0224;0225",
+      "desc": "95卷32期3493號一冊 224~225頁",
+      "progress": "三讀",
+      "committee": "國防"
+    }
+  ]
+}

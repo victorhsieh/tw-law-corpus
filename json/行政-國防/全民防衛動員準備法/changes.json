@@ -1,0 +1,62 @@
+{
+  "2000.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@897301;0004;0004",
+      "desc": "89卷73期3132號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "國防",
+      "misc": {
+        "content": "145-166",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcbcecbcfcfc5cecbcad2cec9c9"
+      }
+    }
+  ],
+  "2001.03.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@901203;0133;0148",
+      "desc": "90卷12期3146號下冊 133~148頁",
+      "progress": "委員會審查",
+      "committee": "國防"
+    }
+  ],
+  "2001.05.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@903501;0185;0206",
+      "desc": "90卷35期3169號上冊 185~206頁",
+      "progress": "委員會審查",
+      "committee": "國防"
+    }
+  ],
+  "2001.05.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@903700;0149;0169",
+      "desc": "90卷37期3171號 149~169頁",
+      "progress": "委員會審查",
+      "committee": "國防"
+    }
+  ],
+  "2001.10.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905102;0896;0929",
+      "desc": "90卷51期3185號中冊 896~929頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防",
+      "misc": {
+        "content": "662-697",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacececfcac5c9c9cdd2c9c6c8"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905102;0930;0938",
+      "desc": "90卷51期3185號中冊 930~938頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@905102;0938;0939",
+      "desc": "90卷51期3185號中冊 938~939頁",
+      "progress": "三讀",
+      "committee": "國防"
+    }
+  ]
+}

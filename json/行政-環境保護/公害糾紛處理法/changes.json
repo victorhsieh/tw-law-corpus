@@ -1,0 +1,234 @@
+{
+  "1989.05.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7804200;0257;0257",
+      "desc": "78卷42期2258號 257~257頁",
+      "progress": "一讀",
+      "committee": "內政 司法",
+      "misc": {
+        "content": "415-431",
+        "link": "/lgcgi/lgmeetimage?cfcec7cccdcccfcfc5cbcecad2cbccce"
+      }
+    }
+  ],
+  "1989.10.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7902400;0165;0174",
+      "desc": "79卷24期2344號 165~174頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    }
+  ],
+  "1990.03.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8000400;0671;0681",
+      "desc": "80卷4期2428號 671~681頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    }
+  ],
+  "1990.04.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8001000;0058;0073",
+      "desc": "80卷10期2434號 58~73頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    }
+  ],
+  "1990.06.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8003300;0287;0300",
+      "desc": "80卷33期2457號 287~300頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    }
+  ],
+  "1990.10.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8004600;0295;0305",
+      "desc": "80卷46期2470號 295~305頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    }
+  ],
+  "1990.10.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8004700;0327;0339",
+      "desc": "80卷47期2471號 327~339頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    }
+  ],
+  "1992.01.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8100701;0069;0112",
+      "desc": "81卷7期2535號上冊 69~112頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8100701;0112;0117",
+      "desc": "81卷7期2535號上冊 112~117頁",
+      "progress": "三讀",
+      "committee": "內政 司法"
+    }
+  ],
+  "1996.10.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@855401;0006;0006",
+      "desc": "85卷54期2876號上冊 6~6頁",
+      "progress": "一讀",
+      "committee": "內政 司法"
+    }
+  ],
+  "1997.03.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@860901;0003;0003",
+      "desc": "86卷9期2901號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "內政 司法"
+    }
+  ],
+  "1997.11.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@864800;0389;0396",
+      "desc": "86卷48期2940號 389~396頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@864800;0397;0397",
+      "desc": "86卷48期2940號 397~397頁",
+      "progress": "委員會審查",
+      "committee": "內政 司法"
+    }
+  ],
+  "1998.05.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@872601;0066;0079",
+      "desc": "87卷26期2975號上冊 66~79頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@872601;0079;0079",
+      "desc": "87卷26期2975號上冊 79~79頁",
+      "progress": "三讀",
+      "committee": "內政 司法"
+    }
+  ],
+  "1999.10.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884201;0008;0008",
+      "desc": "88卷42期3042號上冊 8~8頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "775-784",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5c8c8cad2c8c7cb"
+      }
+    }
+  ],
+  "1999.12.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885700;0181;0206",
+      "desc": "88卷57期3057號 181~206頁",
+      "progress": "委員會審查",
+      "committee": "衛生"
+    }
+  ],
+  "1999.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890201;0324;0336",
+      "desc": "89卷2期3061號上冊 324~336頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "衛生",
+      "misc": {
+        "content": "662-671",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcececfcdc5c9c9cdd2c9c8ce"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890201;0336;0336",
+      "desc": "89卷2期3061號上冊 336~336頁",
+      "progress": "三讀",
+      "committee": "衛生"
+    }
+  ],
+  "2002.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913501;0008;0008",
+      "desc": "91卷35期3231號上冊 8~8頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "675-723",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc7cfcfc5c9c8cad2c8cdcc"
+      }
+    }
+  ],
+  "2002.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@915003;0021;0036",
+      "desc": "91卷50期3246號下冊 21~36頁",
+      "progress": "委員會審查",
+      "committee": "衛生"
+    }
+  ],
+  "2002.06.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914002;0628;0631",
+      "desc": "91卷40期3236號二冊 628~631頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "衛生"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914002;0631;0631",
+      "desc": "91卷40期3226號二冊 631~631頁",
+      "progress": "三讀",
+      "committee": "衛生"
+    }
+  ],
+  "2008.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@977500;0005;0005",
+      "desc": "97卷75期3686號 5~5頁",
+      "progress": "一讀",
+      "committee": "社福及衛環",
+      "misc": {
+        "content": "124-125",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcecbcfcec5cecdcbd2cecdca"
+      }
+    }
+  ],
+  "2009.03.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@981401;0004;0005",
+      "desc": "98卷14期3700號一冊 4~5頁",
+      "progress": "一讀",
+      "committee": "社福及衛環"
+    }
+  ],
+  "2009.05.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983500;0318;0357",
+      "desc": "98卷35期3721號 318~357頁",
+      "progress": "委員會審查",
+      "committee": "社福及衛環"
+    }
+  ],
+  "2009.06.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983700;0189;0193",
+      "desc": "98卷37期3723號 189~193頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "社福及衛環"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983700;0193;0193",
+      "desc": "98卷37期3723號 193~193頁",
+      "progress": "三讀",
+      "committee": "社福及衛環"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "2003.11.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@924901;0005;0005",
+      "desc": "92卷49期3323號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "交通",
+      "misc": {
+        "content": "324-360",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcfc6cfcec5cccdcbd2ccc9cf"
+      }
+    }
+  ],
+  "2003.12.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@930303;0217;0258",
+      "desc": "93卷3期3337號下冊 217~258頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "2004.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@932601;0284;0324",
+      "desc": "93卷26期3360號上冊 284~324頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "交通",
+      "misc": {
+        "content": "465-505",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacececfcdc5cbc9cad2cacfca"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@932601;0324;0329",
+      "desc": "93卷26期3360號上冊 324~329頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@932601;0329;0329",
+      "desc": "93卷26期3360號上冊 329~329頁",
+      "progress": "三讀",
+      "committee": "交通"
+    }
+  ]
+}

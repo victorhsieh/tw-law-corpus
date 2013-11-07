@@ -1,0 +1,46 @@
+{
+  "1987.10.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7607900;0002;0002",
+      "desc": "76卷79期2086號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 內政 教育",
+      "misc": {
+        "content": "483-490",
+        "link": "/lgcgi/lgmeetimage?cfcec7cfcfcdcfcfc5cbc7ccd2cbc6cf"
+      }
+    }
+  ],
+  "1987.11.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7703200;0233;0242",
+      "desc": "77卷32期2143號 233~242頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 教育"
+    }
+  ],
+  "1987.11.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7704000;0203;0211",
+      "desc": "77卷40期2151號 203~211頁",
+      "progress": "委員會審查",
+      "committee": "法制 內政 教育"
+    }
+  ],
+  "1987.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7610400;0128;0154",
+      "desc": "76卷104期2111號 128~154頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 內政 教育"
+    }
+  ],
+  "1988.04.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7703200;0051;0056",
+      "desc": "77卷32期2143號 51~56頁",
+      "progress": "三讀",
+      "committee": "法制 內政 教育"
+    }
+  ]
+}

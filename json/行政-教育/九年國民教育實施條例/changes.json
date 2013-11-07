@@ -1,0 +1,100 @@
+{
+  "1967.10.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400111;1878;1878",
+      "desc": "56卷1期號11冊 1878~1878頁",
+      "progress": "一讀",
+      "committee": "教育 財政"
+    }
+  ],
+  "1967.11.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400911;2276;2276",
+      "desc": "56卷9期號11冊 2276~2276頁",
+      "progress": "一讀",
+      "committee": "教育 財政"
+    }
+  ],
+  "1967.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400812;2795;2801",
+      "desc": "56卷8期號12冊 2795~2801頁",
+      "progress": "委員會審查",
+      "committee": "教育 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400912;2882;2898",
+      "desc": "56卷9期號12冊 2882~2898頁",
+      "progress": "委員會審查",
+      "committee": "教育 財政"
+    }
+  ],
+  "1967.12.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57400100;0062;0084",
+      "desc": "57卷1期號 62~84頁",
+      "progress": "委員會審查",
+      "committee": "教育 財政"
+    }
+  ],
+  "1967.12.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@56400912;2860;2873",
+      "desc": "56卷9期號12冊 2860~2873頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "教育 財政"
+    }
+  ],
+  "1968.01.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57400200;0103;0117",
+      "desc": "57卷2期號 103~117頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "教育 財政"
+    }
+  ],
+  "1968.01.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57400300;0138;0159",
+      "desc": "57卷3期號 138~159頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育 財政"
+    }
+  ],
+  "1968.01.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57400400;0190;0205",
+      "desc": "57卷4期號 190~205頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育 財政"
+    }
+  ],
+  "1968.01.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57400500;0235;0236",
+      "desc": "57卷5期號 235~236頁",
+      "progress": "三讀",
+      "committee": "教育 財政"
+    }
+  ],
+  "1978.10.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67628300;0003;0003",
+      "desc": "67卷83期1151號 3~3頁",
+      "progress": "一讀",
+      "committee": "教育 法制 財政",
+      "misc": {
+        "content": "500-519",
+        "link": "/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5cacfcfd2cacec6"
+      }
+    }
+  ],
+  "1979.05.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68633700;0002;0007",
+      "desc": "68卷37期1209號 2~7頁",
+      "progress": "三讀",
+      "committee": "教育 法制 財政"
+    }
+  ]
+}

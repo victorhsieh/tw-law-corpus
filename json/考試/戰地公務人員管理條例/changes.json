@@ -1,0 +1,82 @@
+{
+  "1955.04.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441502;0038;0038",
+      "desc": "44卷15期號2冊 38~38頁",
+      "progress": "一讀",
+      "committee": "法制"
+    }
+  ],
+  "1955.05.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441505;0117;0121",
+      "desc": "44卷15期號5冊 117~121頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441505;0185;0190",
+      "desc": "44卷15期號5冊 185~190頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441505;0190;0199",
+      "desc": "44卷15期號5冊 190~199頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    }
+  ],
+  "1955.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441505;0206;0207",
+      "desc": "44卷15期號5冊 206~207頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441505;0207;0208",
+      "desc": "44卷15期號5冊 207~208頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ],
+  "2002.10.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@915900;0008;0008",
+      "desc": "91卷59期3255號 8~8頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "279-283",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcfcbcfcdc5cdc8c6d2cdc7cc"
+      }
+    }
+  ],
+  "2002.11.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@917803;0143;0184",
+      "desc": "91卷78期3274號下冊 143~184頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "2002.12.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920101;0082;0084",
+      "desc": "92卷1期3275號一冊 82~84頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制",
+      "misc": {
+        "content": "785-792",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcecbcfcdc5c8c7cad2c8c6cd"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920101;0084;0084",
+      "desc": "92卷1期3275號一冊 84~84頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

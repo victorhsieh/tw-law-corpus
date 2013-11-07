@@ -1,0 +1,30 @@
+{
+  "1978.09.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67627800;0002;0002",
+      "desc": "67卷78期1146號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 國防",
+      "misc": {
+        "content": "53-56",
+        "link": "/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5caccd2cac9"
+      }
+    }
+  ],
+  "1978.10.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@676210100;0071;0072",
+      "desc": "67卷101期1169號 71~72頁",
+      "progress": "委員會審查",
+      "committee": "法制 國防"
+    }
+  ],
+  "1978.10.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@67628300;0007;0009",
+      "desc": "67卷83期1151號 7~9頁",
+      "progress": "三讀",
+      "committee": "法制 國防"
+    }
+  ]
+}

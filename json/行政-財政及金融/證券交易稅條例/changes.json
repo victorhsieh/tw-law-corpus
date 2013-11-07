@@ -1,0 +1,140 @@
+{
+  "unknown": [
+    {
+      "error": "...",
+      "misc": {
+        "content": "554-557",
+        "link": "/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5cacacbd2cacac8"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "38-79",
+        "link": "/lgcgi/lgmeetimage?cfcec7cbcecccfcfc5ccc7d2c8c6"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    }
+  ],
+  "2009.09.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@984700;0005;0005",
+      "desc": "98卷47期3733號 5~5頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "7-8",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcbcfcdc8cec5c8d2c7"
+      }
+    }
+  ],
+  "2009.11.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@986400;0452;0482",
+      "desc": "98卷64期3750號 452~482頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "2009.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@987501;0360;0364",
+      "desc": "98卷75期3761號一冊 360~364頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@987501;0364;0364",
+      "desc": "98卷75期3761號一冊 364~364頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ],
+  "2010.05.21": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903901;0004;0004",
+      "desc": "99卷39期3804號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "293-298",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcacecbcfcec5cdc6ccd2cdc6c7"
+      }
+    }
+  ],
+  "2010.11.18": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09907801;0073;0105",
+      "desc": "99卷78期3843號 73~105頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "2010.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09908003;0065;0074",
+      "desc": "99卷80期3845號三冊 65~74頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09908003;0074;0074",
+      "desc": "99卷80期3845號三冊 74~74頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ]
+}

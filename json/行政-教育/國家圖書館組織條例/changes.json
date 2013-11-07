@@ -1,0 +1,44 @@
+{
+  "1988.11.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7709600;0002;0002",
+      "desc": "77卷96期2207號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "226-232",
+        "link": "/lgcgi/lgmeetimage?cfcec7cdcec9cfcfc5cdcdc9d2cdcccd"
+      }
+    }
+  ],
+  "1991.10.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8008500;0410;0435",
+      "desc": "80卷85期2509號 410~435頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1996.01.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@850400;0022;0044",
+      "desc": "85卷4期2826號 22~44頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@850400;0044;0060",
+      "desc": "85卷4期2826號 44~60頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    }
+  ],
+  "1996.01.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@850400;0060;0061",
+      "desc": "85卷4期2826號 60~61頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ]
+}

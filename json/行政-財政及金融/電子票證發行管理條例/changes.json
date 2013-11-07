@@ -1,0 +1,92 @@
+{
+  "2008.02.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@970200;0003;0003",
+      "desc": "97卷2期3613號 3~3頁",
+      "progress": "一讀",
+      "committee": "財政 交通",
+      "misc": {
+        "content": "197-213",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecfcdcfcec5cec6c8d2cdcecc"
+      }
+    }
+  ],
+  "2008.04.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@972100;0001;0030",
+      "desc": "97卷21期3632號 1~30頁",
+      "progress": "委員會審查",
+      "committee": "財政 交通"
+    }
+  ],
+  "2008.05.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@973000;0316;0337",
+      "desc": "97卷30期3641號 316~337頁",
+      "progress": "委員會審查",
+      "committee": "財政 交通"
+    }
+  ],
+  "2008.11.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976402;0021;0032",
+      "desc": "97卷64期3675號二冊 21~32頁",
+      "progress": "委員會審查",
+      "committee": "財政 交通"
+    }
+  ],
+  "2008.11.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976700;0090;0127",
+      "desc": "97卷67期3678號 90~127頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 交通"
+    }
+  ],
+  "2008.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980301;0146;0146",
+      "desc": "98卷3期3689號一冊 146~146頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 交通"
+    }
+  ],
+  "2009.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980302;0228;0228",
+      "desc": "98卷3期3689號二冊 228~228頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 交通"
+    }
+  ],
+  "2009.01.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980501;0197;0197",
+      "desc": "98卷5期3691號一冊 197~197頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政 交通"
+    }
+  ],
+  "2009.01.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980502;0194;0206",
+      "desc": "98卷5期3691號二冊 194~206頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政 交通"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980502;0206;0207",
+      "desc": "98卷5期3691號二冊 206~207頁",
+      "progress": "三讀",
+      "committee": "財政 交通"
+    }
+  ],
+  "2009.01.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980504;0100;0101",
+      "desc": "98卷5期3691號四冊 100~101頁",
+      "progress": "三讀",
+      "committee": "財政 交通"
+    }
+  ]
+}

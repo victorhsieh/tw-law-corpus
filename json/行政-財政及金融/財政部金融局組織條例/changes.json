@@ -1,0 +1,56 @@
+{
+  "1991.01.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8000400;0427;0427",
+      "desc": "80卷4期2428號 427~427頁",
+      "progress": "一讀",
+      "committee": "法制 財政"
+    }
+  ],
+  "1991.03.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8101400;0319;0342",
+      "desc": "81卷14期2542號 319~342頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1991.04.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8101400;0343;0361",
+      "desc": "81卷14期2542號 343~361頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1991.05.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8101500;0331;0341",
+      "desc": "81卷15期2543號 331~341頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1991.05.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8003900;0053;0069",
+      "desc": "80卷39期2463號 53~69頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 財政"
+    }
+  ],
+  "1991.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8004000;0048;0050",
+      "desc": "80卷40期2464號 48~50頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8004000;0050;0050",
+      "desc": "80卷40期2464號 50~50頁",
+      "progress": "三讀",
+      "committee": "法制 財政"
+    }
+  ]
+}

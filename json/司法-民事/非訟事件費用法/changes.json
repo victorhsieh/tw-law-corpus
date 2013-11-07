@@ -1,0 +1,64 @@
+{
+  "1968.07.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5741540001;0002;0002",
+      "desc": "57卷54期號 2~2頁",
+      "progress": "一讀",
+      "committee": "司法"
+    }
+  ],
+  "1968.08.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5741650002;0008;0014",
+      "desc": "57卷65期號 8~14頁",
+      "progress": "委員會審查",
+      "committee": "司法"
+    }
+  ],
+  "1968.08.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57416900;0013;0016",
+      "desc": "57卷69期號 13~16頁",
+      "progress": "委員會審查",
+      "committee": "司法"
+    }
+  ],
+  "1968.10.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5742800001;0006;0013",
+      "desc": "57卷80期號 6~13頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5742800001;0014;0015",
+      "desc": "57卷80期號 14~15頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法"
+    }
+  ],
+  "1968.11.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5742810001;0002;0003",
+      "desc": "57卷81期號 2~3頁",
+      "progress": "三讀",
+      "committee": "司法"
+    }
+  ],
+  "1972.06.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149450001;0002;0002",
+      "desc": "61卷45期498號 2~2頁",
+      "progress": "一讀",
+      "committee": "司法"
+    }
+  ],
+  "1972.08.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@61496900;0042;0045",
+      "desc": "61卷69期522號 42~45頁",
+      "progress": "三讀",
+      "committee": "司法"
+    }
+  ]
+}

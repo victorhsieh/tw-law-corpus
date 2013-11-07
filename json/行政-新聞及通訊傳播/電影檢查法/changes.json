@@ -1,0 +1,254 @@
+{
+  "1955.03.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431302;0059;0059",
+      "desc": "43卷13期號2冊 59~59頁",
+      "progress": "一讀",
+      "committee": "內政 法制 民刑商法 教育"
+    }
+  ],
+  "1955.01.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441408;0021;0027",
+      "desc": "44卷14期號8冊 21~27頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 法制 民刑商法 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441408;0075;0081",
+      "desc": "44卷14期號8冊 75~81頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 法制 民刑商法 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441408;0082;0085",
+      "desc": "44卷14期號8冊 82~85頁",
+      "progress": "三讀",
+      "committee": "內政 法制 民刑商法 教育"
+    }
+  ],
+  "1955.01.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441408;0058;0067",
+      "desc": "44卷14期號8冊 58~67頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 法制 民刑商法 教育"
+    }
+  ],
+  "1955.09.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441604;0006;0006",
+      "desc": "44卷16期號4冊 6~6頁",
+      "progress": "一讀",
+      "committee": "內政 民刑商法"
+    }
+  ],
+  "1955.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451610;0102;0105",
+      "desc": "45卷16期號10冊 102~105頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451610;0150;0151",
+      "desc": "45卷16期號10冊 150~151頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 民刑商法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451610;0151;0151",
+      "desc": "45卷16期號10冊 151~151頁",
+      "progress": "三讀",
+      "committee": "內政 民刑商法"
+    }
+  ],
+  "1956.05.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451706;0095;0096",
+      "desc": "45卷17期號6冊 95~96頁",
+      "progress": "一讀",
+      "committee": "內政"
+    }
+  ],
+  "1956.05.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@451706;0103;0103",
+      "desc": "45卷17期號6冊 103~103頁",
+      "progress": "一讀",
+      "committee": "內政"
+    }
+  ],
+  "1956.10.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461804;0012;0013",
+      "desc": "46卷18期號4冊 12~13頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461804;0027;0027",
+      "desc": "46卷18期號4冊 27~27頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@461804;0027;0028",
+      "desc": "46卷18期號4冊 27~28頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ],
+  "1958.01.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@472009;0002;0002",
+      "desc": "47卷20期號9冊 2~2頁",
+      "progress": "一讀",
+      "committee": "內政"
+    }
+  ],
+  "1958.07.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@472119;0085;0086",
+      "desc": "47卷21期號19冊 85~86頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@472119;0126;0128",
+      "desc": "47卷21期號19冊 126~128頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@472119;0128;0128",
+      "desc": "47卷21期號19冊 128~128頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ],
+  "1982.10.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71708100;0002;0002",
+      "desc": "71卷81期1566號 2~2頁",
+      "progress": "一讀",
+      "committee": "教育 內政 司法",
+      "misc": {
+        "content": "837-858",
+        "link": "/lgcgi/lgmeetimage?cfcec8cfcfcecfcfc5c7ccc8d2c7cac7"
+      }
+    }
+  ],
+  "1982.11.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72700900;0053;0063",
+      "desc": "72卷9期1598號 53~63頁",
+      "progress": "委員會審查",
+      "committee": "教育 內政 司法"
+    }
+  ],
+  "1982.11.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72701100;0062;0073",
+      "desc": "72卷11期1600號 62~73頁",
+      "progress": "委員會審查",
+      "committee": "教育 內政 司法"
+    }
+  ],
+  "1982.11.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72701600;0042;0051",
+      "desc": "72卷16期1605號 42~51頁",
+      "progress": "委員會審查",
+      "committee": "教育 內政 司法"
+    }
+  ],
+  "1982.11.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72712200;0192;0201",
+      "desc": "72卷22期1611號 192~201頁",
+      "progress": "委員會審查",
+      "committee": "教育 內政 司法"
+    }
+  ],
+  "1982.12.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72713300;0118;0125",
+      "desc": "72卷33期1622號 118~125頁",
+      "progress": "委員會審查",
+      "committee": "教育 內政 司法"
+    }
+  ],
+  "1982.12.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72713900;0110;0119",
+      "desc": "72卷39期1628號 110~119頁",
+      "progress": "委員會審查",
+      "committee": "教育 內政 司法"
+    }
+  ],
+  "1982.12.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72714900;0087;0097",
+      "desc": "72卷49期1638號 87~97頁",
+      "progress": "委員會審查",
+      "committee": "教育 內政 司法"
+    }
+  ],
+  "1983.03.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72715000;0159;0165",
+      "desc": "72卷50期1639號 159~165頁",
+      "progress": "委員會審查",
+      "committee": "教育 內政 司法"
+    }
+  ],
+  "1983.03.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72715700;0144;0149",
+      "desc": "72卷57期1646號 144~149頁",
+      "progress": "委員會審查",
+      "committee": "教育 內政 司法"
+    }
+  ],
+  "1983.04.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72716000;0043;0064",
+      "desc": "72卷60期1649號 43~64頁",
+      "progress": "委員會審查",
+      "committee": "教育 內政 司法"
+    }
+  ],
+  "1983.10.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72728700;0053;0096",
+      "desc": "72卷87期1676號 53~96頁",
+      "progress": "委員會審查",
+      "committee": "教育 內政 司法"
+    }
+  ],
+  "1983.11.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72728800;0021;0025",
+      "desc": "72卷88期1677號 21~25頁",
+      "progress": "委員會審查",
+      "committee": "教育 內政 司法"
+    }
+  ],
+  "1983.11.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72728900;0003;0006",
+      "desc": "72卷89期1078號 3~6頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "教育 內政 司法"
+    }
+  ],
+  "1983.11.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72729000;0005;0015",
+      "desc": "72卷90期1679號 5~15頁",
+      "progress": "三讀",
+      "committee": "教育 內政 司法"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "2004.04.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@932001;0003;0005",
+      "desc": "93卷20期3354號上冊 3~5頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "77-84",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacfc6cfcfc5c8c8d2c7cb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@932001;0038;0043",
+      "desc": "93卷20期3354號上冊 38~43頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2004.06.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@933401;0415;0420",
+      "desc": "93卷34期3368號一冊 415~420頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2004.08.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@933701;0007;0007",
+      "desc": "93卷37期3371號上冊 7~7頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@933701;0145;0192",
+      "desc": "93卷37期3371號上冊 145~192頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@933701;0192;0194",
+      "desc": "93卷37期3371號上冊 192~194頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2005.03.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@941200;0003;0003",
+      "desc": "94卷12期3394號 3~3頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "160-169",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5cec9cfd2cec9c6"
+      }
+    }
+  ],
+  "2005.11.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@946300;0210;0210",
+      "desc": "94卷63期3445號 210~210頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    }
+  ],
+  "2006.04.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@951501;0108;0108",
+      "desc": "95卷15期3476號一冊 108~108頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@951501;0108;0141",
+      "desc": "95卷15期3476號一冊 108~141頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@951501;0141;0141",
+      "desc": "95卷15期3476號一冊 141~141頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

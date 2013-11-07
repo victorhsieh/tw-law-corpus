@@ -1,0 +1,157 @@
+{
+  "unknown": [
+    {
+      "error": "...",
+      "misc": {
+        "content": "64-72",
+        "link": "/lgcgi/lgmeetimage?cfcec7cbcfcccfcfc5c9cbd2c8cd"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "368-370",
+        "link": "/lgcgi/lgmeetimage?cfcccfcbcec8cfcfc5ccc9c7d2ccc8cf"
+      }
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "196-198",
+        "link": "/lgcgi/lgmeetimage?cfcccfcbcdcecfcfc5cec6c9d2cec6c7"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "491-497",
+        "link": "/lgcgi/lgmeetimage?cfcccfcacecbcfcec5cbc6ced2cbc6c8"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "331-418",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcccfcec5ccccced2cbcec7"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "475-587",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecec9cfcdc5cbc8cad2cac7c8"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "583-590",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcecfcdcfcec5cac7ccd2cac6cf"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "41-53",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcccececfcdc5cbced2cacc"
+      }
+    },
+    {
+      "error": "..."
+    }
+  ],
+  "2009.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@983400;0001;0001",
+      "desc": "98卷34期3720號 1~1頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "115-118",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccecbcfcec5cececad2cecec7"
+      }
+    }
+  ],
+  "2010.09.24": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09905101;0006;0006",
+      "desc": "99卷51期3816號一冊 6~6頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "209-212",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc9cfcec8ccc5cdcfc6d2cdcecd"
+      }
+    }
+  ],
+  "2010.11.18": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09907801;0073;0105",
+      "desc": "99卷78期3843號 73~105頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "2010.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09908003;0055;0064",
+      "desc": "99卷80期3845號三冊 55~64頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09908003;0064;0065",
+      "desc": "99卷80期3845號三冊 64~65頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ]
+}

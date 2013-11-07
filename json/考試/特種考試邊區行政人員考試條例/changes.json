@@ -1,0 +1,36 @@
+{
+  "1991.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8100101;0010;0014",
+      "desc": "81卷1期2529號上冊 10~14頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "91-104",
+        "link": "/lgcgi/lgmeetimage?cfcec7c7cdcccfcec5c6ced2cecfcb"
+      }
+    }
+  ],
+  "1992.06.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8105103;0097;0099",
+      "desc": "81卷51期2579號下冊 97~99頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1993.04.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@822001;0013;0021",
+      "desc": "82卷20期2619號上冊 13~21頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@822001;0021;0030",
+      "desc": "82卷20期2619號上冊 21~30頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

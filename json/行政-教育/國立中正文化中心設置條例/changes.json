@@ -1,0 +1,48 @@
+{
+  "2003.01.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920501;0008;0008",
+      "desc": "92卷5期3279號一冊 8~8頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "360-373",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcec9cfcec5ccc9cfd2ccc8cc"
+      }
+    }
+  ],
+  "2003.03.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@922001;0225;0256",
+      "desc": "92卷20期3294號上冊 225~256頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "2004.01.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@930401;0199;0199",
+      "desc": "93卷4期3338號上冊 199~199頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "425-438",
+        "link": "/lgcgi/lgmeetimage?cfcacfcbcec9cfccc5cbcdcad2cbccc7"
+      }
+    }
+  ],
+  "2004.01.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@930601;0164;0177",
+      "desc": "93卷6期3340號一冊 164~177頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@930601;0177;0179",
+      "desc": "93卷6期3340號一冊 177~179頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ]
+}

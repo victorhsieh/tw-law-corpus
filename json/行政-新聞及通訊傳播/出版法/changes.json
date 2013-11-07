@@ -1,0 +1,102 @@
+{
+  "1973.07.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251540001;0002;0002",
+      "desc": "62卷54期610號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政"
+    }
+  ],
+  "1973.07.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251630002;0001;0005",
+      "desc": "62卷63期619號 1~5頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "1973.07.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251570001;0024;0030",
+      "desc": "62卷57期613號 24~30頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251570001;0030;0031",
+      "desc": "62卷57期613號 30~31頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    }
+  ],
+  "1973.07.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6251580001;0002;0004",
+      "desc": "62卷58期614號 2~4頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ],
+  "1996.12.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@856800;0005;0005",
+      "desc": "85卷68期2890號 5~5頁",
+      "progress": "一讀",
+      "committee": "教育 經濟"
+    }
+  ],
+  "1997.03.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@861100;0449;0457",
+      "desc": "86卷11期2903號 449~457頁",
+      "progress": "委員會審查",
+      "committee": "教育 經濟"
+    }
+  ],
+  "1997.04.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@861701;0123;0127",
+      "desc": "86卷17期2909號上冊 123~127頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@861701;0127;0127",
+      "desc": "86卷17期2909號上冊 127~127頁",
+      "progress": "三讀",
+      "committee": "教育 經濟"
+    }
+  ],
+  "1998.10.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@874100;0003;0003",
+      "desc": "87卷41期2990號 3~3頁",
+      "progress": "一讀",
+      "committee": "內政 教育 司法",
+      "misc": {
+        "content": "20-30",
+        "link": "/lgcgi/lgmeetimage?cfcccfc9cfcacfcfc5cdcfd2cccf"
+      }
+    }
+  ],
+  "1998.10.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@874500;0071;0089",
+      "desc": "87卷45期2994號 71~89頁",
+      "progress": "委員會審查",
+      "committee": "內政 教育 司法"
+    }
+  ],
+  "1999.01.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880501;0037;0046",
+      "desc": "88卷5期3005號上冊 37~46頁",
+      "progress": "三讀",
+      "committee": "內政 教育 司法",
+      "misc": {
+        "content": "130-141",
+        "link": "/lgcgi/lgmeetimage?cfcccfc9cececfcbc5cecccfd2cecbce"
+      }
+    }
+  ]
+}

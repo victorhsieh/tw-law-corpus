@@ -1,0 +1,132 @@
+{
+  "1991.11.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8009300;0005;0005",
+      "desc": "80卷93期2517號 5~5頁",
+      "progress": "一讀",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "39-51",
+        "link": "/lgcgi/lgmeetimage?cfcec7c7cecdcfcfc5ccc6d2cace"
+      }
+    }
+  ],
+  "1991.11.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8009500;0455;0479",
+      "desc": "80卷95期2519號 455~479頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1991.11.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8009700;0383;0420",
+      "desc": "80卷97期2521號 383~420頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1991.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8100101;0061;0100",
+      "desc": "81卷1期2529號上冊 61~100頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8100101;0100;0110",
+      "desc": "81卷1期2529號上冊 100~110頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1991.12.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8100103;0408;0437",
+      "desc": "81卷1期2529號下冊 408~437頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1991.12.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8100200;0026;0031",
+      "desc": "81卷2期2530號 26~31頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8100200;0031;0034",
+      "desc": "81卷2期2530號 31~34頁",
+      "progress": "三讀",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1999.10.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884201;0004;0004",
+      "desc": "88卷42期3042號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "375-380",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5ccc8cad2ccc7cf"
+      }
+    }
+  ],
+  "1999.11.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885403;0003;0018",
+      "desc": "88卷54期3054號下冊 3~18頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1999.12.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890201;0278;0280",
+      "desc": "89卷2期3061號上冊 278~280頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890201;0280;0280",
+      "desc": "89卷2期3061號上冊 280~280頁",
+      "progress": "三讀",
+      "committee": "法制 經濟"
+    }
+  ],
+  "2002.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913301;0011;0012",
+      "desc": "91卷33期3229號上冊 11~12頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "1-342",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2cccbcd"
+      }
+    }
+  ],
+  "2002.05.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913601;0052;0055",
+      "desc": "91卷36期3232號上冊 52~55頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913601;0072;0073",
+      "desc": "91卷36期3232號上冊 72~73頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913601;0078;0078",
+      "desc": "91卷36期3232號上冊 78~78頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

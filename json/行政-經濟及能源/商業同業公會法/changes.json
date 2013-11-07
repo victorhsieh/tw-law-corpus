@@ -1,0 +1,34 @@
+{
+  "1968.05.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@57413600;3058;3058",
+      "desc": "57卷36期0號 3058~3058頁",
+      "progress": "一讀",
+      "committee": "內政 經濟"
+    }
+  ],
+  "1968.08.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5742890002;0027;0033",
+      "desc": "57卷89期0號 27~33頁",
+      "progress": "委員會審查",
+      "committee": "內政 經濟"
+    }
+  ],
+  "1969.04.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843260001;0007;0008",
+      "desc": "58卷26期0號 7~8頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 經濟"
+    }
+  ],
+  "1972.07.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149560001;0005;0019",
+      "desc": "61卷56期509號 5~19頁",
+      "progress": "三讀",
+      "committee": "內政 經濟"
+    }
+  ]
+}

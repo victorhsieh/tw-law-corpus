@@ -1,0 +1,64 @@
+{
+  "1999.06.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@883301;0001;0001",
+      "desc": "88卷33期3033號上冊 1~1頁",
+      "progress": "一讀",
+      "committee": "教育 法制",
+      "misc": {
+        "content": "189-203",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcececacfcfc5cec7c6d2cdcfcc"
+      }
+    }
+  ],
+  "1999.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884501;0007;0007",
+      "desc": "88卷45期3045號上冊 7~7頁",
+      "progress": "一讀",
+      "committee": "教育 法制",
+      "misc": {
+        "content": "236-238",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcccfcdc5cdccc9d2cdccc7"
+      }
+    }
+  ],
+  "2000.06.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@893201;0004;0004",
+      "desc": "89卷32期3091號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "教育 法制",
+      "misc": {
+        "content": "86-95",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccdcecfcfc5c7c9d2c6ca"
+      }
+    }
+  ],
+  "2000.12.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@900505;0167;0182",
+      "desc": "90卷5期3139號五冊 167~182頁",
+      "progress": "委員會審查",
+      "committee": "教育 法制"
+    }
+  ],
+  "2001.01.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@900502;0515;0540",
+      "desc": "90卷5期3139號二冊 515~540頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育 法制",
+      "misc": {
+        "content": "98-118",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcbcec7cfcec5c6c7d2cecec7"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@900502;0540;0540",
+      "desc": "90卷5期3139號二冊 540~540頁",
+      "progress": "三讀",
+      "committee": "教育 法制"
+    }
+  ]
+}

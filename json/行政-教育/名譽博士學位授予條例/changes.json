@@ -1,0 +1,46 @@
+{
+  "1960.02.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@492501;0007;0007",
+      "desc": "49卷25期號1冊 7~7頁",
+      "progress": "一讀",
+      "committee": "教育 法制"
+    }
+  ],
+  "1960.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@492508;0004;0007",
+      "desc": "49卷25期號8冊 4~7頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "教育 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@492507;0048;0050",
+      "desc": "49卷25期號7冊 48~50頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "教育 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@492508;0037;0038",
+      "desc": "49卷25期號8冊 37~38頁",
+      "progress": "三讀",
+      "committee": "教育 法制"
+    }
+  ],
+  "1976.09.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6558760001;0002;0002",
+      "desc": "65卷76期935號 2~2頁",
+      "progress": "一讀",
+      "committee": "教育 法制"
+    }
+  ],
+  "1977.01.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6658060001;0005;0005",
+      "desc": "66卷6期969號 5~5頁",
+      "progress": "三讀",
+      "committee": "教育 法制"
+    }
+  ]
+}

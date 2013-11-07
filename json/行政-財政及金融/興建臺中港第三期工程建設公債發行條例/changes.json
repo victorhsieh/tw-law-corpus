@@ -1,0 +1,42 @@
+{
+  "1979.04.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68633200;0002;0002",
+      "desc": "68卷32期1204號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "88-91",
+        "link": "/lgcgi/lgmeetimage?cfcec9cccfcccfcfc5c7c7d2c6ce"
+      }
+    }
+  ],
+  "unknown": [
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "655-666",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcbcfcec5c9cacad2c9c9c9"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "421-436",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececdcfcec5cbcdced2cbccc9"
+      }
+    }
+  ]
+}

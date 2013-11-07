@@ -1,0 +1,48 @@
+{
+  "2002.03.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911800;0006;0006",
+      "desc": "91卷18期3214號 6~6頁",
+      "progress": "一讀",
+      "committee": "交通",
+      "misc": {
+        "content": "331-418",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcccfcec5ccccced2cbcec7"
+      }
+    }
+  ],
+  "2002.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914203;0187;0254",
+      "desc": "91卷42期3238號下冊 187~254頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "2002.04.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914203;0255;0332",
+      "desc": "91卷42期3238號下冊 255~332頁",
+      "progress": "委員會審查",
+      "committee": "交通"
+    }
+  ],
+  "2002.06.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914201;0048;0161",
+      "desc": "91卷42期3238號上冊 48~161頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "交通",
+      "misc": {
+        "content": "475-587",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecec9cfcdc5cbc8cad2cac7c8"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914201;0172;0176",
+      "desc": "91卷42期3238號上冊 172~176頁",
+      "progress": "三讀",
+      "committee": "交通"
+    }
+  ]
+}

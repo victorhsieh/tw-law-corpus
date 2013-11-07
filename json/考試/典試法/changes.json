@@ -1,0 +1,84 @@
+{
+  "1987.10.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7607900;0002;0002",
+      "desc": "76卷79期2086號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制"
+    }
+  ],
+  "1984.10.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7702100;0139;0145",
+      "desc": "77卷21期2132號 139~145頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1987.11.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7702400;0204;0212",
+      "desc": "77卷24期2135號 204~212頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "1988.10.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7708500;0006;0025",
+      "desc": "77卷85期2196號 6~25頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7708500;0025;0028",
+      "desc": "77卷85期2196號 25~28頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7708500;0028;0028",
+      "desc": "77卷85期2196號 28~28頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ],
+  "2000.05.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@892600;0003;0004",
+      "desc": "89卷26期3085號 3~4頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "182-216",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccec9cfcfc5cec7cdd2cdcec9"
+      }
+    }
+  ],
+  "2000.12.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@900303;0223;0254",
+      "desc": "90卷3期3137號下冊 223~254頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "2001.12.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@906201;0347;0386",
+      "desc": "90卷62期3196號上冊 347~386頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制",
+      "misc": {
+        "content": "885-922",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcacecdcfcdc5c7c7cad2c6cdcd"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@906201;0386;0386",
+      "desc": "90卷62期3196號上冊 386~386頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "1958.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@472109;0008;0008",
+      "desc": "47卷21期09號 8~8頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    }
+  ],
+  "1959.06.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482315;0093;0094",
+      "desc": "48卷23期15號 93~94頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    }
+  ],
+  "1959.06.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482316;0009;0028",
+      "desc": "48卷23期16號 9~28頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482316;0048;0051",
+      "desc": "48卷23期16號 48~51頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@482316;0119;0123",
+      "desc": "48卷23期16號 119~123頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

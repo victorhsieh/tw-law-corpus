@@ -1,0 +1,68 @@
+{
+  "2010.12.10": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09908001;0005;0005",
+      "desc": "99卷80期3845號一冊 5~5頁",
+      "progress": "一讀",
+      "committee": "司法及法制 內政",
+      "misc": {
+        "content": "306-308",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc9cececfcec5cccfc9d2cccfc7"
+      }
+    }
+  ],
+  "2011.03.30": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10002701;0281;0344",
+      "desc": "100卷27期3879號 281~344頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制 內政"
+    }
+  ],
+  "2011.03.31": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10002701;0345;0392",
+      "desc": "100卷27期3879號 345~392頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制 內政"
+    }
+  ],
+  "2011.05.03": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003401;0041;0046",
+      "desc": "100卷34期3886號 41~46頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制 內政"
+    }
+  ],
+  "2011.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004906;2617;2622",
+      "desc": "100卷49期3901號六冊 2617~2622頁",
+      "progress": "黨團協商",
+      "committee": "司法及法制 內政"
+    }
+  ],
+  "2011.06.13": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004903;1382;1382",
+      "desc": "100卷49期3901號三冊 1382~1382頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制 內政"
+    }
+  ],
+  "2011.06.14": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004905;2253;2254",
+      "desc": "100卷49期3901號五冊 2253~2254頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制 內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10004905;2255;2255",
+      "desc": "100卷49期3901號五冊 2255~2255頁",
+      "progress": "三讀",
+      "committee": "司法及法制 內政"
+    }
+  ]
+}

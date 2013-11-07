@@ -1,0 +1,72 @@
+{
+  "1971.06.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6047420001;0002;0002",
+      "desc": "60卷42期396號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 財政"
+    }
+  ],
+  "1971.11.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6148090002;0021;0031",
+      "desc": "61卷9期462號 21~31頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1972.03.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149390002;0021;0023",
+      "desc": "61卷39期492號 21~23頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1972.05.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149570002;0026;0031",
+      "desc": "61卷57期510號 26~31頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1972.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149580002;0033;0043",
+      "desc": "61卷58期511號 33~43頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1972.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149610002;0027;0032",
+      "desc": "61卷61期514號 27~32頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1972.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@61501020001;0023;0037",
+      "desc": "61卷102期555號 23~37頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 財政"
+    }
+  ],
+  "1972.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@615010300;0104;0107",
+      "desc": "61卷103期556號 104~107頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@615010300;0136;0137",
+      "desc": "61卷103期556號 136~137頁",
+      "progress": "三讀",
+      "committee": "法制 財政"
+    }
+  ]
+}

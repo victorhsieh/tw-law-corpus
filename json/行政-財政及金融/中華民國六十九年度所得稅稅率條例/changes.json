@@ -1,0 +1,30 @@
+{
+  "1979.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@68649900;0002;0003",
+      "desc": "69卷99期1271號 2~3頁",
+      "progress": "一讀",
+      "committee": "財政 經濟",
+      "misc": {
+        "content": "589-598",
+        "link": "/lgcgi/lgmeetimage?cfcec9cbcfcccfcfc5cac7c6d2cac6c7"
+      }
+    }
+  ],
+  "1979.12.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@69653200;0141;0146",
+      "desc": "69卷32期1308號 141~146頁",
+      "progress": "委員會審查",
+      "committee": "財政 經濟"
+    }
+  ],
+  "1979.12.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@686410400;0022;0038",
+      "desc": "68卷104期1276號 22~38頁",
+      "progress": "三讀",
+      "committee": "財政 經濟"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "2005.09.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944401;0020;0020",
+      "desc": "94卷44期3426號一冊 20~20頁",
+      "progress": "一讀",
+      "committee": "科技 經濟",
+      "misc": {
+        "content": "610-618",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcfcecfcec5c9cecfd2c9cec7"
+      }
+    }
+  ],
+  "2006.01.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950501;0001;0002",
+      "desc": "95卷5期3466號一冊 1~2頁",
+      "progress": "一讀",
+      "committee": "科技 經濟",
+      "misc": {
+        "content": "167-174",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcec6cfcec5cec9c8d2cec8cb"
+      }
+    }
+  ],
+  "2006.03.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950800;0001;0001",
+      "desc": "95卷8期3469號 1~1頁",
+      "progress": "一讀",
+      "committee": "科技 經濟",
+      "misc": {
+        "content": "37-43",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcccfcccfcec5ccc8d2cbcc"
+      }
+    }
+  ],
+  "2006.01.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950601;0399;0427",
+      "desc": "95卷6期3467號一冊 399~427頁",
+      "progress": "委員會審查",
+      "committee": "科技 經濟"
+    }
+  ],
+  "2006.03.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@951503;0247;0276",
+      "desc": "95卷15期3476號三冊 247~276頁",
+      "progress": "委員會審查",
+      "committee": "科技 經濟"
+    }
+  ],
+  "2006.04.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@952300;0077;0119",
+      "desc": "95卷23期3484號 77~119頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "科技 經濟",
+      "misc": {
+        "content": "55-95",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcccececfcdc5cacad2c6ca"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@952300;0119;0119",
+      "desc": "95卷23期3484號 119~119頁",
+      "progress": "三讀",
+      "committee": "科技 經濟"
+    }
+  ]
+}

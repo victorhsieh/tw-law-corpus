@@ -1,0 +1,84 @@
+{
+  "1995.09.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@844901;0004;0004",
+      "desc": "84卷49期2806號上冊 4~4頁",
+      "progress": "一讀",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1995.12.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@846400;0237;0275",
+      "desc": "84卷64期2821號 237~275頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1996.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@850500;0203;0217",
+      "desc": "85卷5期2827號 203~217頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1996.09.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@854301;0229;0242",
+      "desc": "85卷43期2865號上冊 229~242頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@854301;0242;0248",
+      "desc": "85卷43期2865號上冊 242~248頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@854301;0248;0248",
+      "desc": "85卷43期2865號上冊 248~248頁",
+      "progress": "三讀",
+      "committee": "法制 經濟"
+    }
+  ],
+  "2005.03.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@941200;0005;0006",
+      "desc": "94卷12期3394號 5~6頁",
+      "progress": "一讀",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "328-330",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5cccdc7d2cccccf"
+      }
+    }
+  ],
+  "2006.01.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950602;0395;0396",
+      "desc": "95卷6期3467號二冊 395~396頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "2006.01.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950501;0357;0360",
+      "desc": "95卷5期3466號一冊 357~360頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "100-104",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcec6cfcbc5cecfcfd2cecfcb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950501;0360;0360",
+      "desc": "95卷5期3466號一冊 360~360頁",
+      "progress": "三讀",
+      "committee": "法制 經濟"
+    }
+  ]
+}

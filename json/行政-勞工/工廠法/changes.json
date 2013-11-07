@@ -1,0 +1,76 @@
+{
+  "1975.09.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456780001;0002;0002",
+      "desc": "64卷78期832號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政 經濟 司法"
+    }
+  ],
+  "1975.12.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456970001;0025;0029",
+      "desc": "64卷97期851號 25~29頁",
+      "progress": "一讀",
+      "committee": "內政 經濟 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456970001;0029;0036",
+      "desc": "64卷97期851號 29~36頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 經濟 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456970001;0036;0041",
+      "desc": "64卷97期851號 36~41頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 經濟 司法"
+    }
+  ],
+  "1975.12.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456990001;0005;0006",
+      "desc": "64卷99期853號 5~6頁",
+      "progress": "一讀",
+      "committee": "內政 經濟 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456990001;0006;0013",
+      "desc": "64卷99期853號 6~13頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 經濟 司法"
+    }
+  ],
+  "1975.10.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456930002;0001;0008",
+      "desc": "64卷93期847號 1~8頁",
+      "progress": "委員會審查",
+      "committee": "內政 經濟 司法"
+    }
+  ],
+  "1975.11.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456950002;0001;0006",
+      "desc": "64卷95期849號 1~6頁",
+      "progress": "委員會審查",
+      "committee": "內政 經濟 司法"
+    }
+  ],
+  "1975.12.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6456980001;0003;0004",
+      "desc": "64卷98期852號 3~4頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 經濟 司法"
+    }
+  ],
+  "1975.12.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@64561000001;0003;0008",
+      "desc": "64卷100期854號 3~8頁",
+      "progress": "三讀",
+      "committee": "內政 經濟 司法"
+    }
+  ]
+}

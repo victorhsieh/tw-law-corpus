@@ -1,0 +1,42 @@
+{
+  "1990.03.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7902200;0151;0151",
+      "desc": "79卷22期2342號 151~151頁",
+      "progress": "一讀",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1990.05.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8003500;0210;0227",
+      "desc": "80卷35期2459號 210~227頁",
+      "progress": "委員會審查",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1990.06.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7904500;0043;0058",
+      "desc": "79卷45期2365號 43~58頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1990.07.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7905300;0051;0056",
+      "desc": "79卷53期2373號 51~56頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1990.07.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7905701;0147;0157",
+      "desc": "79卷57期2377號上冊 147~157頁",
+      "progress": "三讀",
+      "committee": "預算 財政 法制"
+    }
+  ]
+}

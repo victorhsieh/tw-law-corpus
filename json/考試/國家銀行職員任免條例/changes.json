@@ -1,0 +1,34 @@
+{
+  "1999.10.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@884401;0003;0003",
+      "desc": "88卷44期3044號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "法制 財政",
+      "misc": {
+        "content": "258-265",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcccfcec5cdcac7d2cdc9ca"
+      }
+    }
+  ],
+  "2000.10.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896203;0109;0123",
+      "desc": "89卷62期3121號下冊 109~123頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "2000.12.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@896801;0029;0035",
+      "desc": "89卷68期3127號上冊 29~35頁",
+      "progress": "三讀",
+      "committee": "法制 財政",
+      "misc": {
+        "content": "480-489",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcbcecfcfcdc5cbc7cfd2cbc7c6"
+      }
+    }
+  ]
+}

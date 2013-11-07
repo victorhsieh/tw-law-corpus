@@ -1,0 +1,36 @@
+{
+  "1954.10.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431401;0062;0062",
+      "desc": "43卷14期號1冊 62~62頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431401;0063;0063",
+      "desc": "43卷14期號1冊 63~63頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@431401;0100;0100",
+      "desc": "43卷14期號1冊 100~100頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "1991.06.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8005300;0027;0027",
+      "desc": "80卷53期2477號 27~27頁",
+      "progress": "一讀",
+      "committee": "內政 國防 司法"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8005300;0027;0027",
+      "desc": "80卷53期2477號 27~27頁",
+      "progress": "三讀",
+      "committee": "內政 國防 司法"
+    }
+  ]
+}

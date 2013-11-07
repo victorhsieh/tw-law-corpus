@@ -1,0 +1,42 @@
+{
+  "2002.05.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913301;0011;0012",
+      "desc": "91卷33期3229號上冊 11~12頁",
+      "progress": "一讀",
+      "committee": "科技",
+      "misc": {
+        "content": "1-342",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2cccbcd"
+      }
+    }
+  ],
+  "2002.05.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@915101;0225;0281",
+      "desc": "91卷51期3247號上冊 225~281頁",
+      "progress": "委員會審查",
+      "committee": "科技"
+    }
+  ],
+  "2002.11.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@917601;0059;0106",
+      "desc": "91卷76期3272號上冊 59~106頁",
+      "progress": "委員會審查",
+      "committee": "科技"
+    }
+  ],
+  "2002.12.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@917502;0004;0043",
+      "desc": "91卷75期3271號二冊 4~43頁",
+      "progress": "三讀",
+      "committee": "科技",
+      "misc": {
+        "content": "312-345",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcecdcfcdc5cccecdd2cccbca"
+      }
+    }
+  ]
+}

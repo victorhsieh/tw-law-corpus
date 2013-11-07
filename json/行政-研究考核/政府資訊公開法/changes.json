@@ -1,0 +1,78 @@
+{
+  "2005.03.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@941000;0005;0005",
+      "desc": "94卷10期3392號 5~5頁",
+      "progress": "一讀",
+      "committee": "法制 科技及資訊",
+      "misc": {
+        "content": "497-508",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcecfcdcfcec5cbc6c8d2cacfc7"
+      }
+    }
+  ],
+  "2005.03.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@941700;0307;0337",
+      "desc": "94卷17期3399號 307~337頁",
+      "progress": "委員會審查",
+      "committee": "法制 科技及資訊"
+    }
+  ],
+  "2005.04.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@942502;0253;0260",
+      "desc": "94卷25期3407號二冊 253~260頁",
+      "progress": "委員會審查",
+      "committee": "法制 科技及資訊"
+    }
+  ],
+  "2005.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@943400;0068;0090",
+      "desc": "94卷34期3416號 68~90頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 科技及資訊",
+      "misc": {
+        "content": "392-413",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcececdcfcdc5ccc6cdd2cbcecc"
+      }
+    }
+  ],
+  "2005.05.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@943701;0199;0199",
+      "desc": "94卷37期3419號一冊 199~199頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 科技及資訊"
+    }
+  ],
+  "2005.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944001;0254;0254",
+      "desc": "94卷40期3422號一冊 254~254頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 科技及資訊"
+    }
+  ],
+  "2005.12.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@947501;0091;0094",
+      "desc": "94卷75期3457號一冊 91~94頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 科技及資訊"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@947501;0094;0100",
+      "desc": "94卷75期3457號一冊 94~100頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 科技及資訊"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@947501;0100;0100",
+      "desc": "94卷75期3457號一冊 100~100頁",
+      "progress": "三讀",
+      "committee": "法制 科技及資訊"
+    }
+  ]
+}

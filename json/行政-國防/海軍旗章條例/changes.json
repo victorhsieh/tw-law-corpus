@@ -1,0 +1,50 @@
+{
+  "1985.09.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7407800;0002;0002",
+      "desc": "74卷78期1876號 2~2頁",
+      "progress": "一讀",
+      "committee": "國防 法制"
+    }
+  ],
+  "1985.11.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7409900;0120;0127",
+      "desc": "74卷99期1897號 120~127頁",
+      "progress": "委員會審查",
+      "committee": "國防 法制"
+    }
+  ],
+  "1985.11.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7500800;0013;0018",
+      "desc": "75卷08期1910號 13~18頁",
+      "progress": "委員會審查",
+      "committee": "國防 法制"
+    }
+  ],
+  "1985.11.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7501100;0002;0007",
+      "desc": "75卷11期1913號 2~7頁",
+      "progress": "委員會審查",
+      "committee": "國防 法制"
+    }
+  ],
+  "1985.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7410000;0014;0058",
+      "desc": "74卷100期1898號 14~58頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 法制"
+    }
+  ],
+  "1985.12.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7410100;0024;0024",
+      "desc": "74卷101期1899號 24~24頁",
+      "progress": "三讀",
+      "committee": "國防 法制"
+    }
+  ]
+}

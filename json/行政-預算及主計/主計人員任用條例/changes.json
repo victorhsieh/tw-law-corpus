@@ -1,0 +1,22 @@
+{
+  "1981.04.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70672700;0002;0002",
+      "desc": "70卷27期1408號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 預算",
+      "misc": {
+        "content": "296-322",
+        "link": "/lgcgi/lgmeetimage?cfcec9c8cfcccfcfc5cdc6c9d2cccdcd"
+      }
+    }
+  ],
+  "1981.12.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@706810000;0004;0013",
+      "desc": "70卷100期1481號 4~13頁",
+      "progress": "三讀",
+      "committee": "法制 預算"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "2002.03.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@911800;0004;0004",
+      "desc": "91卷18期3214號 4~4頁",
+      "progress": "一讀",
+      "committee": "教育",
+      "misc": {
+        "content": "153-162",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcccfcec5cecaccd2cec9cd"
+      }
+    }
+  ],
+  "2002.05.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914603;0230;0250",
+      "desc": "91卷46期3242號下冊 230~250頁",
+      "progress": "委員會審查",
+      "committee": "教育"
+    }
+  ],
+  "2002.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914901;0123;0148",
+      "desc": "91卷49期3245號上冊 123~148頁",
+      "progress": "委員會審查",
+      "committee": "教育"
+    }
+  ],
+  "2002.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913901;0121;0141",
+      "desc": "91卷39期3235號上冊 121~141頁",
+      "progress": "三讀",
+      "committee": "教育",
+      "misc": {
+        "content": "68-85",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececbcfcbc5c9c7d2c7ca"
+      }
+    }
+  ]
+}

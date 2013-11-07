@@ -1,0 +1,26 @@
+{
+  "2003.01.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920501;0008;0008",
+      "desc": "92卷5期3279號一冊 8~8頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "374-381",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcec9cfcec5ccc8cbd2ccc7ce"
+      }
+    }
+  ],
+  "2003.01.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@920806;2258;2263",
+      "desc": "92卷8期3282號六冊 2258~2263頁",
+      "progress": "三讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "461-477",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcec8cfcec5cbc9ced2cbc8c8"
+      }
+    }
+  ]
+}

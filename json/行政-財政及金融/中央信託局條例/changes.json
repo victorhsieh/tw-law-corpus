@@ -1,0 +1,68 @@
+{
+  "1982.10.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71708700;0002;0002",
+      "desc": "71卷87期1572號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 財政",
+      "misc": {
+        "content": "96-104",
+        "link": "/lgcgi/lgmeetimage?cfcec8cfcfcccfcfc5c6c9d2cecfcb"
+      }
+    }
+  ],
+  "1982.11.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72711900;0173;0182",
+      "desc": "72卷19期1608號 173~182頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1982.11.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72712400;0197;0204",
+      "desc": "72卷24期1613號 197~204頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1983.04.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72729100;0068;0077",
+      "desc": "72卷91期1680號 68~77頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1983.10.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72728500;0027;0051",
+      "desc": "72卷85期1674號 27~51頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72728500;0051;0062",
+      "desc": "72卷85期1674號 51~62頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 財政"
+    }
+  ],
+  "1983.10.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72728700;0050;0053",
+      "desc": "72卷87期1676號 50~53頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 財政"
+    }
+  ],
+  "1983.11.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72728800;0020;0021",
+      "desc": "72卷88期1677號 20~21頁",
+      "progress": "三讀",
+      "committee": "法制 財政"
+    }
+  ]
+}

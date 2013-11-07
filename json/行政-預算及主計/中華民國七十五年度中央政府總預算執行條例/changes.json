@@ -1,0 +1,34 @@
+{
+  "1985.03.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7402300;0002;0002",
+      "desc": "74卷23期1821號 2~2頁",
+      "progress": "一讀",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1985.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7408100;0181;0184",
+      "desc": "74卷81期1879號 181~184頁",
+      "progress": "委員會審查",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1985.05.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7404300;0008;0015",
+      "desc": "74卷43期1841號 8~15頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1985.05.31": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7404400;0096;0098",
+      "desc": "74卷44期1842號 96~98頁",
+      "progress": "三讀",
+      "committee": "預算 財政 法制"
+    }
+  ]
+}

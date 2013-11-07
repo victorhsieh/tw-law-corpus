@@ -1,0 +1,40 @@
+{
+  "1998.12.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880101;0003;0003",
+      "desc": "88卷1期3001號上冊 3~3頁",
+      "progress": "一讀",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "179-191",
+        "link": "/lgcgi/lgmeetimage?cfcccfc9cecfcfcec5cec8c6d2cec6ce"
+      }
+    }
+  ],
+  "1999.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880604;0427;0434",
+      "desc": "88卷6期3006號四冊 427~434頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1999.01.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880601;0077;0088",
+      "desc": "88卷6期3006號一冊 77~88頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 經濟",
+      "misc": {
+        "content": "590-600",
+        "link": "/lgcgi/lgmeetimage?cfcccfc9cecdcfcec5cac6cfd2c9cfcf"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@880601;0088;0088",
+      "desc": "88卷6期3006號一冊 88~88頁",
+      "progress": "三讀",
+      "committee": "法制 經濟"
+    }
+  ]
+}

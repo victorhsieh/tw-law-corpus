@@ -1,0 +1,38 @@
+{
+  "1989.09.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7807600;0002;0002",
+      "desc": "78卷76期2292號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "32-37",
+        "link": "/lgcgi/lgmeetimage?cfcec7cbcfcccfcfc5cccdd2ccc8"
+      }
+    }
+  ],
+  "1989.10.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8004100;0290;0303",
+      "desc": "80卷41期2465號 290~303頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1989.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7810000;0033;0044",
+      "desc": "78卷100期2316號 33~44頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    }
+  ],
+  "1989.12.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7810000;0147;0148",
+      "desc": "78卷100期2316號 147~148頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "2005.10.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944900;0004;0004",
+      "desc": "94卷49期3431號 4~4頁",
+      "progress": "一讀",
+      "committee": "經濟 內政 預算",
+      "misc": {
+        "content": "171-173",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcfcacfcec5cec8ced2cec8cc"
+      }
+    }
+  ],
+  "2005.12.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950202;0277;0294",
+      "desc": "95卷2期3463號二冊 277~294頁",
+      "progress": "委員會審查",
+      "committee": "經濟 內政 預算"
+    }
+  ],
+  "2006.01.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950501;0453;0557",
+      "desc": "95卷5期3466號一冊 453~557頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟 內政 預算",
+      "misc": {
+        "content": "146-153",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcec6cfcbc5cecbc9d2cecacc"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950501;0557;0563",
+      "desc": "95卷5期3466號一冊 557~563頁",
+      "progress": "三讀",
+      "committee": "經濟 內政 預算"
+    }
+  ],
+  "2010.10.01": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09905201;0005;0005",
+      "desc": "99卷52期3817號 5~5頁",
+      "progress": "一讀",
+      "committee": "經濟",
+      "misc": {
+        "content": "87-90",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc9cfcdc8cdc5c7c8d2c6cf"
+      }
+    }
+  ],
+  "2010.11.04": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09906901;0084;0102",
+      "desc": "99卷69期3834號 84~102頁",
+      "progress": "委員會審查",
+      "committee": "經濟"
+    }
+  ],
+  "2010.11.16": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09906601;0186;0190",
+      "desc": "99卷66期3831號 186~190頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09906601;0190;0190",
+      "desc": "99卷66期3831號 190~190頁",
+      "progress": "三讀",
+      "committee": "經濟"
+    }
+  ]
+}

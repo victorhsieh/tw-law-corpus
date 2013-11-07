@@ -1,0 +1,232 @@
+{
+  "1954.12.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441407;0169;0169",
+      "desc": "44卷14期號7冊 169~169頁",
+      "progress": "一讀",
+      "committee": "民刑商法 國防"
+    }
+  ],
+  "1955.05.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441502;0102;0108",
+      "desc": "44卷15期號2冊 102~108頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "民刑商法 國防"
+    }
+  ],
+  "1955.05.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@441505;0125;0135",
+      "desc": "44卷15期號5冊 125~135頁",
+      "progress": "三讀",
+      "committee": "民刑商法 國防"
+    }
+  ],
+  "1976.05.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6557430001;0003;0003",
+      "desc": "65卷43期902號 3~3頁",
+      "progress": "一讀",
+      "committee": "司法 國防"
+    }
+  ],
+  "1976.06.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@65576800;0008;0013",
+      "desc": "65卷68期927號 8~13頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1976.06.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@65577200;0021;0027",
+      "desc": "65卷72期931號 21~27頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1976.06.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@65577300;0007;0016",
+      "desc": "65卷73期932號 7~16頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1976.06.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6557520001;0006;0036",
+      "desc": "65卷52期911號 6~36頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6557520001;0036;0047",
+      "desc": "65卷52期911號 36~47頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 國防"
+    }
+  ],
+  "1976.07.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6557530001;0002;0010",
+      "desc": "65卷53期912號 2~10頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 國防"
+    }
+  ],
+  "1979.07.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6557550001;0002;0002",
+      "desc": "65卷55期914號 2~2頁",
+      "progress": "三讀",
+      "committee": "司法 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6557550001;0012;0019",
+      "desc": "65卷55期914號 12~19頁",
+      "progress": "三讀",
+      "committee": "司法 國防"
+    }
+  ],
+  "1990.12.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7910000;0178;0178",
+      "desc": "79卷100期2420號 178~178頁",
+      "progress": "一讀",
+      "committee": "司法 國防",
+      "misc": {
+        "content": "26-29",
+        "link": "/lgcgi/lgmeetimage?cfcec7c9cdcbcfcfc5cdc9d2cdc6"
+      }
+    }
+  ],
+  "1991.01.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8006500;0089;0091",
+      "desc": "80卷65期2489號 89~91頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1991.10.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8008600;0173;0173",
+      "desc": "80卷86期2510號 173~173頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1992.03.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8102400;0036;0041",
+      "desc": "81卷24期2552號 36~41頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8102400;0041;0041",
+      "desc": "81卷24期2552號 41~41頁",
+      "progress": "三讀",
+      "committee": "司法 國防"
+    }
+  ],
+  "2002.04.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@912801;0010;0010",
+      "desc": "91卷28期3224號上冊 10~10頁",
+      "progress": "一讀",
+      "committee": "國防 司法",
+      "misc": {
+        "content": "169-184",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc7cfccc5cec9c6d2cec7cb"
+      }
+    }
+  ],
+  "2002.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914901;0333;0380",
+      "desc": "91卷49期3245號上冊 333~380頁",
+      "progress": "委員會審查",
+      "committee": "國防 司法"
+    }
+  ],
+  "2002.06.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@914001;0263;0290",
+      "desc": "91卷40期3236號一冊 263~290頁",
+      "progress": "三讀",
+      "committee": "國防 司法",
+      "misc": {
+        "content": "33-58",
+        "link": "/lgcgi/lgmeetimage?cfcacfcececacfcdc5ccccd2cac7"
+      }
+    }
+  ],
+  "2006.01.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950501;0006;0007",
+      "desc": "95卷5期3466號一冊 6~7頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "243-328",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcec6cfcec5cdcbccd2cccdc7"
+      }
+    }
+  ],
+  "2006.05.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@952501;0133;0182",
+      "desc": "95卷25期3486號一冊 133~182頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A",
+      "misc": {
+        "content": "107-192",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcccecdcfcdc5cecfc8d2cec6cd"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@952501;0182;0182",
+      "desc": "95卷25期3486號一冊 182~182頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2011.03.25": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10002101;0005;0005",
+      "desc": "100卷21期3873號一冊 5~5頁",
+      "progress": "一讀",
+      "committee": "外交及國防 司法及法制",
+      "misc": {
+        "content": "161-164",
+        "link": "/lgcgi/lgmeetimage?cfc8cfc8cfc9c8cdc5cec9ced2cec9cb"
+      }
+    }
+  ],
+  "2011.04.18": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003301;0001;0037",
+      "desc": "100卷33期3885號 1~37頁",
+      "progress": "委員會審查",
+      "committee": "外交及國防 司法及法制"
+    }
+  ],
+  "2011.05.03": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003401;0037;0041",
+      "desc": "100卷34期3886號 37~41頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "外交及國防 司法及法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10003401;0041;0041",
+      "desc": "100卷34期3886號 41~41頁",
+      "progress": "三讀",
+      "committee": "外交及國防 司法及法制"
+    }
+  ]
+}

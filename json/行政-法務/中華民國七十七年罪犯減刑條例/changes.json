@@ -1,0 +1,70 @@
+{
+  "1988.03.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7702400;0002;0002",
+      "desc": "77卷24期2135號 2~2頁",
+      "progress": "一讀",
+      "committee": "司法 國防"
+    }
+  ],
+  "1988.03.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7705300;0169;0187",
+      "desc": "77卷53期2164號 169~187頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1988.03.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7705700;0022;0040",
+      "desc": "77卷57期2168號 22~40頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1988.04.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7705900;0009;0033",
+      "desc": "77卷59期2170號 9~33頁",
+      "progress": "委員會審查",
+      "committee": "司法 國防"
+    }
+  ],
+  "1988.04.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7703000;0012;0040",
+      "desc": "77卷30期2141號 12~40頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法 國防"
+    }
+  ],
+  "1988.04.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7703000;0063;0071",
+      "desc": "77卷30期2141號 63~71頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7703000;0071;0096",
+      "desc": "77卷30期2141號 71~96頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 國防"
+    }
+  ],
+  "1988.04.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7703200;0008;0014",
+      "desc": "77卷32期2143號 8~14頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7703200;0014;0019",
+      "desc": "77卷32期2143號 14~19頁",
+      "progress": "三讀",
+      "committee": "司法 國防"
+    }
+  ]
+}

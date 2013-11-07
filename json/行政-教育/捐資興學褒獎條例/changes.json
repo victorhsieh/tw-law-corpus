@@ -1,0 +1,30 @@
+{
+  "1988.10.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7708100;0002;0002",
+      "desc": "77卷81期2192號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "83-87",
+        "link": "/lgcgi/lgmeetimage?cfcec7cdcfcacfcfc5c7ccd2c7c8"
+      }
+    }
+  ],
+  "1993.06.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824100;0436;0437",
+      "desc": "82卷41期2640號 436~437頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1993.07.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824603;0034;0036",
+      "desc": "82卷46期2645號下冊 34~36頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ]
+}

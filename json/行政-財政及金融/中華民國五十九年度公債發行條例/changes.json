@@ -1,0 +1,80 @@
+{
+  "1969.04.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843260001;0002;0002",
+      "desc": "58卷26期號 2~2頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1969.04.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843410002;0007;0016",
+      "desc": "58卷41期號 7~16頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1969.05.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843320001;0005;0016",
+      "desc": "58卷32期號 5~16頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843320001;0016;0024",
+      "desc": "58卷32期號 16~24頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "財政"
+    }
+  ],
+  "1969.05.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@5843330001;0003;0003",
+      "desc": "58卷33期號 3~3頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ],
+  "1974.01.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@63520600;0089;0090",
+      "desc": "63卷6期662號 89~90頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    }
+  ],
+  "1974.01.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@63520600;0111;0112",
+      "desc": "63卷6期662號 111~112頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "1993.10.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@825500;0013;0013",
+      "desc": "82卷55期2654號 13~13頁",
+      "progress": "一讀",
+      "committee": "財政"
+    }
+  ],
+  "1993.11.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@826503;0048;0070",
+      "desc": "82卷65期2664號下冊 48~70頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1993.12.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@827301;0041;0046",
+      "desc": "82卷73期2672號上冊 41~46頁",
+      "progress": "三讀",
+      "committee": "財政"
+    }
+  ]
+}

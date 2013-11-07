@@ -1,0 +1,34 @@
+{
+  "2000.03.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@891300;0021;0021",
+      "desc": "89卷13期3072號 21~21頁",
+      "progress": "一讀",
+      "committee": "國防",
+      "misc": {
+        "content": "408-411",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcecdcfcfc5cbcfc7d2cbcece"
+      }
+    }
+  ],
+  "2000.07.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@894700;0271;0291",
+      "desc": "89卷47期3106號 271~291頁",
+      "progress": "委員會審查",
+      "committee": "國防"
+    }
+  ],
+  "2000.10.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@895401;0077;0079",
+      "desc": "89卷54期3113號上冊 77~79頁",
+      "progress": "三讀",
+      "committee": "國防",
+      "misc": {
+        "content": "568-571",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcbcfcdcfcec5cac9c7d2cac8ce"
+      }
+    }
+  ]
+}

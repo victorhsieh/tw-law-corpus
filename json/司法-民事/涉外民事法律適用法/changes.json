@@ -1,0 +1,87 @@
+{
+  "unknown": [
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    }
+  ],
+  "2008.12.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@977100;0005;0005",
+      "desc": "97卷71期3682號 5~5頁",
+      "progress": "一讀",
+      "committee": "司法及法制",
+      "misc": {
+        "content": "328-329",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcecdcfcbc5cccdc7d2cccdc6"
+      }
+    }
+  ],
+  "2009.11.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@987400;0107;0160",
+      "desc": "98卷74期3760號 107~160頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制"
+    }
+  ],
+  "2009.12.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@987502;0248;0250",
+      "desc": "98卷75期3761號二冊 248~250頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@987502;0250;0251",
+      "desc": "98卷75期3761號二冊 250~251頁",
+      "progress": "三讀",
+      "committee": "司法及法制"
+    }
+  ],
+  "2009.02.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980601;0004;0004",
+      "desc": "98卷6期3692號一冊 4~4頁",
+      "progress": "一讀",
+      "committee": "司法及法制",
+      "misc": {
+        "content": "176-229",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcccfcecfcec5cec8c9d2cdcdc6"
+      }
+    }
+  ],
+  "2010.04.22": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903102;0420;0442",
+      "desc": "99卷31期3796號二冊 420~442頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制"
+    }
+  ],
+  "2010.04.30": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903101;0047;0113",
+      "desc": "99卷31期3796號一冊 47~113頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?09903101;0114;0114",
+      "desc": "99卷31期3796號一冊 114~114頁",
+      "progress": "三讀",
+      "committee": "司法及法制"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "1990.10.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7908400;0038;0038",
+      "desc": "79卷84期2404號 38~38頁",
+      "progress": "一讀",
+      "committee": "財政",
+      "misc": {
+        "content": "59-66",
+        "link": "/lgcgi/lgmeetimage?cfcec7c9cfc7cfcfc5cac6d2c9c9"
+      }
+    }
+  ],
+  "1991.04.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8007500;0056;0065",
+      "desc": "80卷75期2499號 56~65頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1991.10.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8008800;0200;0201",
+      "desc": "80卷88期2512號 200~201頁",
+      "progress": "委員會審查",
+      "committee": "財政"
+    }
+  ],
+  "1992.04.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@8103000;0035;0048",
+      "desc": "81卷30期2558號 35~48頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "財政"
+    }
+  ],
+  "unknown": [
+    {
+      "error": "..."
+    }
+  ]
+}

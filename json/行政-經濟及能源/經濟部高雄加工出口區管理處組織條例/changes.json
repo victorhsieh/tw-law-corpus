@@ -1,0 +1,64 @@
+{
+  "1965.10.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@54360300;0059;0059",
+      "desc": "54卷36期號3冊 59~59頁",
+      "progress": "一讀",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1966.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55370900;0075;0075",
+      "desc": "55卷37期號9冊 75~75頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1966.07.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55371200;0009;0030",
+      "desc": "55卷37期號12冊 9~30頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55371200;0080;0083",
+      "desc": "55卷37期號12冊 80~83頁",
+      "progress": "三讀",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1966.06.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@55371200;0062;0065",
+      "desc": "55卷37期號12冊 62~65頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1972.07.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6149600001;0002;0002",
+      "desc": "61卷60期513號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1972.08.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6150860002;0001;0002",
+      "desc": "61卷86期539號 1~2頁",
+      "progress": "委員會審查",
+      "committee": "法制 經濟"
+    }
+  ],
+  "1972.12.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6150990001;0032;0033",
+      "desc": "61卷99期552號 32~33頁",
+      "progress": "三讀",
+      "committee": "法制 經濟"
+    }
+  ]
+}

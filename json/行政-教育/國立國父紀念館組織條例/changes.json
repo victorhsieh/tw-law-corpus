@@ -1,0 +1,68 @@
+{
+  "1986.05.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7504100;0002;0002",
+      "desc": "75卷41期1943號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 教育",
+      "misc": {
+        "content": "215-219",
+        "link": "/lgcgi/lgmeetimage?cfcec8c8cecfcfcfc5cdcecad2cdcec6"
+      }
+    }
+  ],
+  "1986.05.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7508700;0107;0114",
+      "desc": "75卷87期1989號 107~114頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1986.06.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7509100;0116;0121",
+      "desc": "75卷91期1993號 116~121頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1986.06.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7509200;0076;0084",
+      "desc": "75卷92期1994號 76~84頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1986.06.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7509300;0099;0105",
+      "desc": "75卷93期1995號 99~105頁",
+      "progress": "委員會審查",
+      "committee": "法制 教育"
+    }
+  ],
+  "1986.06.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7505100;0010;0019",
+      "desc": "75卷51期1953號 10~19頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 教育"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7505100;0019;0022",
+      "desc": "75卷51期1953號 19~22頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 教育"
+    }
+  ],
+  "1986.06.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7505200;0007;0008",
+      "desc": "75卷52期1954號 7~8頁",
+      "progress": "三讀",
+      "committee": "法制 教育"
+    }
+  ]
+}

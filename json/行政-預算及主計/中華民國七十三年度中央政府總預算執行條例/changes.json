@@ -1,0 +1,38 @@
+{
+  "1983.03.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72712300;0002;0002",
+      "desc": "72卷23期1612號 2~2頁",
+      "progress": "一讀",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1983.05.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72717300;0046;0048",
+      "desc": "72卷73期1662號 46~48頁",
+      "progress": "委員會審查",
+      "committee": "預算 財政 法制"
+    }
+  ],
+  "1983.05.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72714300;0008;0012",
+      "desc": "72卷43期1632號 8~12頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "預算 財政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72714300;0045;0047",
+      "desc": "72卷43期1632號 45~47頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "預算 財政 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@72714300;0076;0078",
+      "desc": "72卷43期1632號 76~78頁",
+      "progress": "三讀",
+      "committee": "預算 財政 法制"
+    }
+  ]
+}

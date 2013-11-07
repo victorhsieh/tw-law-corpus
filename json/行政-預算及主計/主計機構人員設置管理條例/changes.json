@@ -1,0 +1,106 @@
+{
+  "1981.04.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70672700;0002;0002",
+      "desc": "70卷27期1408號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 預算",
+      "misc": {
+        "content": "296-322",
+        "link": "/lgcgi/lgmeetimage?cfcec9c8cfcccfcfc5cdc6c9d2cccdcd"
+      }
+    }
+  ],
+  "1981.11.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71692000;0142;0147",
+      "desc": "71卷20期1505號 142~147頁",
+      "progress": "委員會審查",
+      "committee": "法制 預算"
+    }
+  ],
+  "1981.11.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71692400;0094;0102",
+      "desc": "71卷24期1509號 94~102頁",
+      "progress": "委員會審查",
+      "committee": "法制 預算"
+    }
+  ],
+  "1981.11.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@71692600;0080;0095",
+      "desc": "71卷26期1511號 80~95頁",
+      "progress": "委員會審查",
+      "committee": "法制 預算"
+    }
+  ],
+  "1981.12.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70689800;0015;0060",
+      "desc": "70卷98期1479號 15~60頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 預算"
+    }
+  ],
+  "1981.12.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@70689900;0008;0014",
+      "desc": "70卷99期1480號 8~14頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 預算"
+    }
+  ],
+  "1981.12.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@706810000;0004;0013",
+      "desc": "70卷100期1481號 4~13頁",
+      "progress": "三讀",
+      "committee": "法制 預算"
+    }
+  ],
+  "2012.05.11": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10103201;0018;0018",
+      "desc": "101卷032期3973號 18~18頁",
+      "progress": "一讀",
+      "committee": "司法及法制",
+      "misc": {
+        "content": "83-104",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcececec8ccc5c7ccd2cecfcb"
+      }
+    }
+  ],
+  "2012.06.07": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10104902;0201;0246",
+      "desc": "101卷049期3990號二冊 201~246頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制"
+    }
+  ],
+  "2012.11.20": [
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10107101;0088;0122",
+      "desc": "101卷071期4012號一冊 88~122頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "司法及法制",
+      "misc": {
+        "content": "451-486",
+        "link": "/lgcgi/lgmeetimage?cfc7cfcecec8c8ccc5cbcaced2cbc7c9"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10107101;0122;0130",
+      "desc": "101卷071期4012號一冊 122~130頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/lgcgi/lypdftxt?10107101;0130;0131",
+      "desc": "101卷071期4012號一冊 130~131頁",
+      "progress": "三讀",
+      "committee": "司法及法制"
+    }
+  ]
+}

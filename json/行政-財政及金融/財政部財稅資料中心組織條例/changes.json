@@ -1,0 +1,86 @@
+{
+  "1986.10.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7508000;0002;0002",
+      "desc": "75卷80期1982號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制 財政",
+      "misc": {
+        "content": "433-437",
+        "link": "/lgcgi/lgmeetimage?cfcec8c7cfcdcfcfc5cbccccd2cbccc8"
+      }
+    }
+  ],
+  "1986.12.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7602300;0112;0120",
+      "desc": "76卷23期2030號 112~120頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1987.01.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7603000;0139;0143",
+      "desc": "76卷30期2037號 139~143頁",
+      "progress": "委員會審查",
+      "committee": "法制 財政"
+    }
+  ],
+  "1987.05.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7603900;0043;0052",
+      "desc": "76卷39期2046號 43~52頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7603900;0052;0054",
+      "desc": "76卷39期2046號 52~54頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制 財政"
+    }
+  ],
+  "1987.05.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@7604000;0015;0017",
+      "desc": "76卷40期2047號 15~17頁",
+      "progress": "三讀",
+      "committee": "法制 財政"
+    }
+  ],
+  "2008.05.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@972300;0011;0011",
+      "desc": "97卷023期3634號 11~11頁",
+      "progress": "一讀",
+      "committee": "司法 財政",
+      "misc": {
+        "content": "343-346",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecfc6c8cdc5cccbccd2cccbc9"
+      }
+    }
+  ],
+  "2008.05.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@973300;0204;0216",
+      "desc": "97卷033期3644號 204~216頁",
+      "progress": "委員會審查",
+      "committee": "司法 財政"
+    }
+  ],
+  "2008.06.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@973901;0095;0099",
+      "desc": "97卷039期3650號一冊 95~99頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法 財政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@973901;0099;0099",
+      "desc": "97卷039期3650號一冊 99~99頁",
+      "progress": "三讀",
+      "committee": "司法 財政"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "1994.06.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@834000;0011;0011",
+      "desc": "83卷40期2714號 11~11頁",
+      "progress": "一讀",
+      "committee": "國防"
+    }
+  ],
+  "1994.12.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@837900;0336;0368",
+      "desc": "83卷79期2753號 336~368頁",
+      "progress": "委員會審查",
+      "committee": "國防"
+    }
+  ],
+  "1994.12.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@838003;0205;0245",
+      "desc": "83卷80期2754號下冊 205~245頁",
+      "progress": "委員會審查",
+      "committee": "國防"
+    }
+  ],
+  "1994.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@838303;0001;0019",
+      "desc": "83卷83期2757號下冊 1~19頁",
+      "progress": "委員會審查",
+      "committee": "國防"
+    }
+  ],
+  "1995.04.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@842401;0047;0104",
+      "desc": "84卷24期2781號上冊 47~104頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@842401;0104;0120",
+      "desc": "84卷24期2781號上冊 104~120頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防"
+    }
+  ],
+  "1995.04.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@842402;0043;0048",
+      "desc": "84卷24期2781號中冊 43~48頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防"
+    }
+  ],
+  "1995.04.28": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@842501;0033;0054",
+      "desc": "84卷25期2782號上冊 33~54頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防"
+    }
+  ],
+  "1995.05.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@842701;0030;0059",
+      "desc": "84卷27期2784號上冊 30~59頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防"
+    }
+  ],
+  "1995.07.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@844602;0070;0085",
+      "desc": "84卷46期2803號二冊 70~85頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@844602;0085;0085",
+      "desc": "84卷46期2803號二冊 85~85頁",
+      "progress": "三讀",
+      "committee": "國防"
+    }
+  ],
+  "1997.05.16": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@862601;0005;0005",
+      "desc": "86卷26期2918號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "國防 法制",
+      "misc": {
+        "content": "90-92",
+        "link": "/lgcgi/lgmeetimage?cfcccfcccdcbcfcec5c6cfd2c6cd"
+      }
+    }
+  ],
+  "1997.05.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@862700;0007;0007",
+      "desc": "86卷27期2919號 7~7頁",
+      "progress": "一讀",
+      "committee": "國防 法制",
+      "misc": {
+        "content": "788-790",
+        "link": "/lgcgi/lgmeetimage?cfcccfcccdcdcfcdc5c8c7c7d2c8c6cf"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@863103;0173;0187",
+      "desc": "86卷31期2923號下冊 173~187頁",
+      "progress": "委員會審查",
+      "committee": "國防 法制"
+    }
+  ],
+  "1995.03.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@870703;0053;0061",
+      "desc": "87卷7期2956號下冊 53~61頁",
+      "progress": "委員會審查",
+      "committee": "國防 法制"
+    }
+  ],
+  "1998.10.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@873801;0242;0258",
+      "desc": "87卷38期2987號上冊 242~258頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 法制",
+      "misc": {
+        "content": "786-798",
+        "link": "/lgcgi/lgmeetimage?cfcccfc9cfcccfcfc5c8c7c9d2c8c6c7"
+      }
+    }
+  ],
+  "1998.10.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@874001;0052;0057",
+      "desc": "87卷40期2989號上冊 52~57頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "國防 法制"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@874001;0058;0068",
+      "desc": "87卷40期2989號上冊 58~68頁",
+      "progress": "三讀",
+      "committee": "國防 法制"
+    }
+  ],
+  "2002.05.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913401;0152;0154",
+      "desc": "91卷34期3230號上冊 152~154頁",
+      "progress": "一讀",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913401;0175;0184",
+      "desc": "91卷34期3230號上冊 175~184頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913401;0332;0333",
+      "desc": "91卷34期3230號上冊 332~333頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913401;0334;0334",
+      "desc": "91卷34期3230號上冊 334~334頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ]
+}

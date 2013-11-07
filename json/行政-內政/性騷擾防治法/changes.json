@@ -1,0 +1,154 @@
+{
+  "2002.10.25": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@916301;0005;0005",
+      "desc": "91卷63期3259號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "239-251",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcfc9cfcec5cdccc6d2cdcace"
+      }
+    }
+  ],
+  "2002.11.01": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@916501;0005;0005",
+      "desc": "91卷65期3261號上冊 5~5頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "226-240",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcfc8cfcec5cdcdc9d2cdcbcf"
+      }
+    }
+  ],
+  "2004.05.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@932601;0002;0002",
+      "desc": "93卷26期3360號上冊 2~2頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "621-635",
+        "link": "/lgcgi/lgmeetimage?cfcacfcacecdcfcdc5c9cdced2c9ccca"
+      }
+    }
+  ],
+  "2004.10.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@934502;0001;0030",
+      "desc": "93卷45期3379號中冊 1~30頁",
+      "progress": "委員會審查",
+      "committee": "衛生"
+    }
+  ],
+  "2005.01.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@940602;0463;0526",
+      "desc": "94卷6期3388號二冊 463~526頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "衛生",
+      "misc": {
+        "content": "627-691",
+        "link": "/lgcgi/lgmeetimage?cfcacfc9cecdcfcdc5c9cdc8d2c9c6ce"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@940602;0526;0531",
+      "desc": "94卷6期3388號二冊 526~531頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "衛生"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@940602;0531;0532",
+      "desc": "94卷6期3388號二冊 531~532頁",
+      "progress": "三讀",
+      "committee": "衛生"
+    }
+  ],
+  "2005.10.07": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@944900;0004;0005",
+      "desc": "94卷49期3431號 4~5頁",
+      "progress": "一讀",
+      "committee": "N/A",
+      "misc": {
+        "content": "195-196",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcfcacfcec5cec6cad2cec6c9"
+      }
+    }
+  ],
+  "2005.12.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@947600;0055;0056",
+      "desc": "94卷76期3458號 55~56頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A",
+      "misc": {
+        "content": "171-172",
+        "link": "/lgcgi/lgmeetimage?cfc9cfcdcec9cfcdc5cec8ced2cec8cd"
+      }
+    }
+  ],
+  "2006.01.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950201;0269;0270",
+      "desc": "95卷2期3463號一冊 269~270頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "N/A"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@950201;0270;0270",
+      "desc": "95卷2期3463號一冊 270~270頁",
+      "progress": "三讀",
+      "committee": "N/A"
+    }
+  ],
+  "2008.11.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976700;0044;0044",
+      "desc": "97卷67期3678號 44~44頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "135-138",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcfc6c8cdc5cecccad2ceccc7"
+      }
+    }
+  ],
+  "2008.12.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@977301;0001;0001",
+      "desc": "97卷73期3684號一冊 1~1頁",
+      "progress": "一讀",
+      "committee": "內政",
+      "misc": {
+        "content": "1-2",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdceccc8cdc5ced2cd"
+      }
+    }
+  ],
+  "2009.01.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980404;0295;0334",
+      "desc": "98卷4期3690號四冊 295~334頁",
+      "progress": "委員會審查",
+      "committee": "內政"
+    }
+  ],
+  "2009.01.12": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980502;0095;0099",
+      "desc": "98卷5期3691號二冊 95~99頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980502;0100;0100",
+      "desc": "98卷5期3691號二冊 100~100頁",
+      "progress": "三讀",
+      "committee": "內政"
+    }
+  ]
+}
